@@ -1,2 +1,9 @@
 .git_old/
 .DS_Store
+
+# Local import workspace
+imports/
+
+# Python cache
+__pycache__/
+*.pyc

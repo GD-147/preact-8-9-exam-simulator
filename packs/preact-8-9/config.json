@@ -1,0 +1,71 @@
+{
+  "examId": "preact-8-9",
+  "brandName": "PreACT 8/9 Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/preact-8-9/assets/logo.png",
+  "accessPassword": "PREACT89READY",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "english",
+      "label": "English",
+      "timeMin": 30,
+      "examQuestions": 40,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "english_exam_01.json"
+      ]
+    },
+    {
+      "id": "math",
+      "label": "Math",
+      "timeMin": 40,
+      "examQuestions": 35,
+      "type": "mcq",
+      "choices": 5,
+      "examFiles": [
+        "math_exam_01.json"
+      ]
+    },
+    {
+      "id": "reading",
+      "label": "Reading",
+      "timeMin": 30,
+      "examQuestions": 25,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "reading_exam_01.json"
+      ]
+    },
+    {
+      "id": "science",
+      "label": "Science",
+      "timeMin": 30,
+      "examQuestions": 30,
+      "type": "mcq",
+      "choices": 4,
+      "optional": true,
+      "examFiles": [
+        "science_exam_01.json"
+      ]
+    },
+    {
+      "id": "full_length",
+      "label": "Full-Length Practice Test",
+      "timeMin": 130,
+      "examQuestions": 130,
+      "type": "mcq",
+      "examFiles": [
+        "full_length_exam_01.json"
+      ]
+    }
+  ],
+  "printables": []
+}

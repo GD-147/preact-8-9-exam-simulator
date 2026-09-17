@@ -1,0 +1,362 @@
+[
+  {
+    "id": "S1-001",
+    "prompt": "Students investigated how salt concentration affected common duckweed. They placed 20 duckweed fronds in each of 4 identical beakers at each salt concentration. Every beaker contained the same volume of nutrient solution and received the same light and temperature for 14 days. The table shows the means for each concentration.\n\nSalt concentration (g/L) | Mean final number of fronds | Mean root length (mm)\n0                        | 52                          | 18\n1                        | 46                          | 16\n2                        | 37                          | 13\n3                        | 29                          | 10\n4                        | 22                          | 7\n\nQuestion:\nAt which salt concentration was the mean final number of fronds greatest?",
+    "choices": {
+      "A": "0 g/L",
+      "B": "1 g/L",
+      "C": "3 g/L",
+      "D": "4 g/L"
+    },
+    "correct": "A",
+    "explanation": "The 0 g/L condition had 52 final fronds, the greatest mean in the table."
+  },
+  {
+    "id": "S1-002",
+    "prompt": "Students investigated how salt concentration affected common duckweed. They placed 20 duckweed fronds in each of 4 identical beakers at each salt concentration. Every beaker contained the same volume of nutrient solution and received the same light and temperature for 14 days. The table shows the means for each concentration.\n\nSalt concentration (g/L) | Mean final number of fronds | Mean root length (mm)\n0                        | 52                          | 18\n1                        | 46                          | 16\n2                        | 37                          | 13\n3                        | 29                          | 10\n4                        | 22                          | 7\n\nQuestion:\nAt 2 g/L salt, what was the mean increase in the number of fronds during the 14 days?",
+    "choices": {
+      "A": "13 fronds",
+      "B": "17 fronds",
+      "C": "20 fronds",
+      "D": "37 fronds"
+    },
+    "correct": "B",
+    "explanation": "Every beaker began with 20 fronds, and the 2 g/L condition ended with 37, so the increase was 37 − 20 = 17 fronds."
+  },
+  {
+    "id": "S1-003",
+    "prompt": "Students investigated how salt concentration affected common duckweed. They placed 20 duckweed fronds in each of 4 identical beakers at each salt concentration. Every beaker contained the same volume of nutrient solution and received the same light and temperature for 14 days. The table shows the means for each concentration.\n\nSalt concentration (g/L) | Mean final number of fronds | Mean root length (mm)\n0                        | 52                          | 18\n1                        | 46                          | 16\n2                        | 37                          | 13\n3                        | 29                          | 10\n4                        | 22                          | 7\n\nQuestion:\nHow much shorter was the mean root length at 3 g/L salt than at 1 g/L salt?",
+    "choices": {
+      "A": "3 mm",
+      "B": "6 mm",
+      "C": "10 mm",
+      "D": "26 mm"
+    },
+    "correct": "B",
+    "explanation": "Mean root length was 16 mm at 1 g/L and 10 mm at 3 g/L, a difference of 6 mm."
+  },
+  {
+    "id": "S1-004",
+    "prompt": "Students investigated how salt concentration affected common duckweed. They placed 20 duckweed fronds in each of 4 identical beakers at each salt concentration. Every beaker contained the same volume of nutrient solution and received the same light and temperature for 14 days. The table shows the means for each concentration.\n\nSalt concentration (g/L) | Mean final number of fronds | Mean root length (mm)\n0                        | 52                          | 18\n1                        | 46                          | 16\n2                        | 37                          | 13\n3                        | 29                          | 10\n4                        | 22                          | 7\n\nQuestion:\nWhich pair identifies the dependent variables measured in this investigation?",
+    "choices": {
+      "A": "Salt concentration and nutrient-solution volume",
+      "B": "Number of starting fronds and duration of growth",
+      "C": "Final number of fronds and root length",
+      "D": "Light level and temperature"
+    },
+    "correct": "C",
+    "explanation": "These were the two outcomes measured after salt concentration was changed."
+  },
+  {
+    "id": "S1-005",
+    "prompt": "Students investigated how salt concentration affected common duckweed. They placed 20 duckweed fronds in each of 4 identical beakers at each salt concentration. Every beaker contained the same volume of nutrient solution and received the same light and temperature for 14 days. The table shows the means for each concentration.\n\nSalt concentration (g/L) | Mean final number of fronds | Mean root length (mm)\n0                        | 52                          | 18\n1                        | 46                          | 16\n2                        | 37                          | 13\n3                        | 29                          | 10\n4                        | 22                          | 7\n\nQuestion:\nWhich conclusion is best supported by both measurements in the table?",
+    "choices": {
+      "A": "Increasing salt concentration was associated with fewer final fronds and shorter roots.",
+      "B": "Salt increased frond production but decreased root length.",
+      "C": "Duckweed grew only in solutions containing no salt.",
+      "D": "Root length changed with salt concentration, but frond number did not."
+    },
+    "correct": "A",
+    "explanation": "As salt increased from 0 g/L to 4 g/L, final fronds decreased from 52 to 22 and mean root length decreased from 18 mm to 7 mm."
+  },
+  {
+    "id": "S1-006",
+    "prompt": "Students tested how well 4 coverings reduced heat loss from identical cups. Each cup held 200 mL of water initially at 80°C. One cup had no covering; the others were wrapped with one layer of paper, cotton cloth, or aluminum foil with its shiny side facing outward. Room conditions were the same for all cups. The temperatures shown are means from 3 trials.\n\nCovering | 0 min | 5 min | 10 min | 15 min\nNone     | 80°C  | 67°C  | 58°C   | 51°C\nPaper    | 80°C  | 70°C  | 62°C   | 56°C\nCotton   | 80°C  | 74°C  | 69°C   | 64°C\nFoil     | 80°C  | 72°C  | 65°C   | 59°C\n\nQuestion:\nWhich covering produced the smallest mean temperature decrease over 15 minutes?",
+    "choices": {
+      "A": "No covering",
+      "B": "Paper",
+      "C": "Cotton",
+      "D": "Foil"
+    },
+    "correct": "C",
+    "explanation": "The cotton-covered cup decreased from 80°C to 64°C, a 16°C loss, which was smaller than the loss for every other condition."
+  },
+  {
+    "id": "S1-007",
+    "prompt": "Students tested how well 4 coverings reduced heat loss from identical cups. Each cup held 200 mL of water initially at 80°C. One cup had no covering; the others were wrapped with one layer of paper, cotton cloth, or aluminum foil with its shiny side facing outward. Room conditions were the same for all cups. The temperatures shown are means from 3 trials.\n\nCovering | 0 min | 5 min | 10 min | 15 min\nNone     | 80°C  | 67°C  | 58°C   | 51°C\nPaper    | 80°C  | 70°C  | 62°C   | 56°C\nCotton   | 80°C  | 74°C  | 69°C   | 64°C\nFoil     | 80°C  | 72°C  | 65°C   | 59°C\n\nQuestion:\nAt 10 minutes, how much warmer was the water in the cotton-covered cup than the water in the uncovered cup?",
+    "choices": {
+      "A": "7°C",
+      "B": "9°C",
+      "C": "11°C",
+      "D": "16°C"
+    },
+    "correct": "C",
+    "explanation": "At 10 minutes, the cotton-covered cup was 69°C and the uncovered cup was 58°C; 69 − 58 = 11°C."
+  },
+  {
+    "id": "S1-008",
+    "prompt": "Students tested how well 4 coverings reduced heat loss from identical cups. Each cup held 200 mL of water initially at 80°C. One cup had no covering; the others were wrapped with one layer of paper, cotton cloth, or aluminum foil with its shiny side facing outward. Room conditions were the same for all cups. The temperatures shown are means from 3 trials.\n\nCovering | 0 min | 5 min | 10 min | 15 min\nNone     | 80°C  | 67°C  | 58°C   | 51°C\nPaper    | 80°C  | 70°C  | 62°C   | 56°C\nCotton   | 80°C  | 74°C  | 69°C   | 64°C\nFoil     | 80°C  | 72°C  | 65°C   | 59°C\n\nQuestion:\nWhat was the independent variable in this investigation?",
+    "choices": {
+      "A": "The type of cup covering",
+      "B": "The volume of water in each cup",
+      "C": "The starting water temperature",
+      "D": "The temperature after 15 minutes"
+    },
+    "correct": "A",
+    "explanation": "The students changed the covering type while keeping cup type, water volume, starting temperature, and room conditions the same."
+  },
+  {
+    "id": "S1-009",
+    "prompt": "Students tested how well 4 coverings reduced heat loss from identical cups. Each cup held 200 mL of water initially at 80°C. One cup had no covering; the others were wrapped with one layer of paper, cotton cloth, or aluminum foil with its shiny side facing outward. Room conditions were the same for all cups. The temperatures shown are means from 3 trials.\n\nCovering | 0 min | 5 min | 10 min | 15 min\nNone     | 80°C  | 67°C  | 58°C   | 51°C\nPaper    | 80°C  | 70°C  | 62°C   | 56°C\nCotton   | 80°C  | 74°C  | 69°C   | 64°C\nFoil     | 80°C  | 72°C  | 65°C   | 59°C\n\nQuestion:\nWhich change would most directly improve the reliability of the mean temperatures?",
+    "choices": {
+      "A": "Use different water volumes for the different coverings.",
+      "B": "Begin each cup at a different temperature.",
+      "C": "Repeat each condition for more trials.",
+      "D": "Remove the uncovered condition."
+    },
+    "correct": "C",
+    "explanation": "More repeated trials would reduce the influence of unusual individual measurements on each mean."
+  },
+  {
+    "id": "S1-010",
+    "prompt": "Students tested how well 4 coverings reduced heat loss from identical cups. Each cup held 200 mL of water initially at 80°C. One cup had no covering; the others were wrapped with one layer of paper, cotton cloth, or aluminum foil with its shiny side facing outward. Room conditions were the same for all cups. The temperatures shown are means from 3 trials.\n\nCovering | 0 min | 5 min | 10 min | 15 min\nNone     | 80°C  | 67°C  | 58°C   | 51°C\nPaper    | 80°C  | 70°C  | 62°C   | 56°C\nCotton   | 80°C  | 74°C  | 69°C   | 64°C\nFoil     | 80°C  | 72°C  | 65°C   | 59°C\n\nQuestion:\nA student claimed that foil was the most effective covering because metals interact strongly with heat. Do the results support this claim?",
+    "choices": {
+      "A": "Yes, because the foil-covered cup had the highest temperature at every measured time after 0 minutes.",
+      "B": "Yes, because the foil-covered cup cooled more than the cotton-covered cup.",
+      "C": "No, because the cotton-covered cup remained warmer than the foil-covered cup at every measured time after 0 minutes.",
+      "D": "No, because the uncovered cup remained warmer than the foil-covered cup at 15 minutes."
+    },
+    "correct": "C",
+    "explanation": "Cotton produced temperatures of 74°C, 69°C, and 64°C, each higher than foil's 72°C, 65°C, and 59°C at the same times."
+  },
+  {
+    "id": "S1-011",
+    "prompt": "Scientists monitored one stream during 4 rainstorms of similar duration. They recorded total rainfall, the highest stream discharge reached after the rain began, and the stream's highest turbidity. Discharge is the volume of water passing a point each second. Greater turbidity means the water contains more suspended particles.\n\nStorm | Total rainfall (mm) | Peak discharge (m³/s) | Peak turbidity (NTU)\n1     | 8                   | 1.8                   | 12\n2     | 16                  | 3.0                   | 21\n3     | 24                  | 4.3                   | 35\n4     | 32                  | 6.1                   | 58\n\nQuestion:\nWhat peak turbidity was recorded for the storm with 24 mm of rainfall?",
+    "choices": {
+      "A": "21 NTU",
+      "B": "24 NTU",
+      "C": "35 NTU",
+      "D": "58 NTU"
+    },
+    "correct": "C",
+    "explanation": "The row for 24 mm of total rainfall lists a peak turbidity of 35 NTU."
+  },
+  {
+    "id": "S1-012",
+    "prompt": "Scientists monitored one stream during 4 rainstorms of similar duration. They recorded total rainfall, the highest stream discharge reached after the rain began, and the stream's highest turbidity. Discharge is the volume of water passing a point each second. Greater turbidity means the water contains more suspended particles.\n\nStorm | Total rainfall (mm) | Peak discharge (m³/s) | Peak turbidity (NTU)\n1     | 8                   | 1.8                   | 12\n2     | 16                  | 3.0                   | 21\n3     | 24                  | 4.3                   | 35\n4     | 32                  | 6.1                   | 58\n\nQuestion:\nBetween which 2 consecutive storms did peak discharge increase the most?",
+    "choices": {
+      "A": "Storms 1 and 2",
+      "B": "Storms 2 and 3",
+      "C": "Storms 3 and 4",
+      "D": "The increase was the same between every pair."
+    },
+    "correct": "C",
+    "explanation": "Peak discharge increased by 1.2 m³/s, 1.3 m³/s, and 1.8 m³/s across the three consecutive pairs, respectively; 1.8 m³/s was greatest."
+  },
+  {
+    "id": "S1-013",
+    "prompt": "Scientists monitored one stream during 4 rainstorms of similar duration. They recorded total rainfall, the highest stream discharge reached after the rain began, and the stream's highest turbidity. Discharge is the volume of water passing a point each second. Greater turbidity means the water contains more suspended particles.\n\nStorm | Total rainfall (mm) | Peak discharge (m³/s) | Peak turbidity (NTU)\n1     | 8                   | 1.8                   | 12\n2     | 16                  | 3.0                   | 21\n3     | 24                  | 4.3                   | 35\n4     | 32                  | 6.1                   | 58\n\nQuestion:\nIf peak turbidity changed linearly between 24 mm and 32 mm of rainfall, what peak turbidity would be estimated for 28 mm of rainfall?",
+    "choices": {
+      "A": "40.0 NTU",
+      "B": "46.5 NTU",
+      "C": "50.0 NTU",
+      "D": "93.0 NTU"
+    },
+    "correct": "B",
+    "explanation": "A rainfall total of 28 mm is halfway between 24 mm and 32 mm, so the linear estimate is halfway between 35 NTU and 58 NTU: 46.5 NTU."
+  },
+  {
+    "id": "S1-014",
+    "prompt": "Scientists monitored one stream during 4 rainstorms of similar duration. They recorded total rainfall, the highest stream discharge reached after the rain began, and the stream's highest turbidity. Discharge is the volume of water passing a point each second. Greater turbidity means the water contains more suspended particles.\n\nStorm | Total rainfall (mm) | Peak discharge (m³/s) | Peak turbidity (NTU)\n1     | 8                   | 1.8                   | 12\n2     | 16                  | 3.0                   | 21\n3     | 24                  | 4.3                   | 35\n4     | 32                  | 6.1                   | 58\n\nQuestion:\nTo investigate whether storm duration affects peak discharge independently of total rainfall, which additional data would be most useful?",
+    "choices": {
+      "A": "Peak discharges from storms with equal total rainfall but different durations",
+      "B": "Air temperatures from storms with different total rainfall amounts",
+      "C": "Turbidity measurements from several points during only Storm 4",
+      "D": "Stream depths measured on days without rain"
+    },
+    "correct": "A",
+    "explanation": "Holding total rainfall equal while varying duration would isolate duration as the factor being investigated."
+  },
+  {
+    "id": "S1-015",
+    "prompt": "Scientists monitored one stream during 4 rainstorms of similar duration. They recorded total rainfall, the highest stream discharge reached after the rain began, and the stream's highest turbidity. Discharge is the volume of water passing a point each second. Greater turbidity means the water contains more suspended particles.\n\nStorm | Total rainfall (mm) | Peak discharge (m³/s) | Peak turbidity (NTU)\n1     | 8                   | 1.8                   | 12\n2     | 16                  | 3.0                   | 21\n3     | 24                  | 4.3                   | 35\n4     | 32                  | 6.1                   | 58\n\nQuestion:\nWhich statement is supported by the data without claiming that one measured variable caused another?",
+    "choices": {
+      "A": "Greater rainfall was associated with greater peak discharge and greater peak turbidity.",
+      "B": "Greater turbidity caused each storm to produce more rainfall.",
+      "C": "Peak discharge determined the duration of every storm.",
+      "D": "Rainfall had no relationship to either discharge or turbidity."
+    },
+    "correct": "A",
+    "explanation": "All three measured values increased together from Storm 1 through Storm 4, which supports an association but does not by itself establish causation."
+  },
+  {
+    "id": "S1-016",
+    "prompt": "Students studied the activity of catalase, an enzyme in potato tissue that helps break down hydrogen peroxide and releases oxygen gas. They placed equal masses of fresh potato in equal volumes of hydrogen peroxide at different temperatures. After 60 seconds, they measured the oxygen collected. Each result is a mean of 5 trials. A control used the same mass of boiled potato at 25°C.\n\nCondition                    | Mean oxygen collected after 60 s (mL)\nFresh potato at 10°C         | 8\nFresh potato at 25°C         | 18\nFresh potato at 40°C         | 27\nFresh potato at 55°C         | 6\nBoiled-potato control at 25°C| 0\n\nQuestion:\nAt which tested temperature did fresh potato produce the greatest mean volume of oxygen?",
+    "choices": {
+      "A": "10°C",
+      "B": "25°C",
+      "C": "40°C",
+      "D": "55°C"
+    },
+    "correct": "C",
+    "explanation": "Fresh potato at 40°C produced 27 mL of oxygen, more than at any other tested temperature."
+  },
+  {
+    "id": "S1-017",
+    "prompt": "Students studied the activity of catalase, an enzyme in potato tissue that helps break down hydrogen peroxide and releases oxygen gas. They placed equal masses of fresh potato in equal volumes of hydrogen peroxide at different temperatures. After 60 seconds, they measured the oxygen collected. Each result is a mean of 5 trials. A control used the same mass of boiled potato at 25°C.\n\nCondition                    | Mean oxygen collected after 60 s (mL)\nFresh potato at 10°C         | 8\nFresh potato at 25°C         | 18\nFresh potato at 40°C         | 27\nFresh potato at 55°C         | 6\nBoiled-potato control at 25°C| 0\n\nQuestion:\nWhat was the dependent variable measured in the investigation?",
+    "choices": {
+      "A": "Temperature of the potato mixture",
+      "B": "Mass of potato used",
+      "C": "Volume of hydrogen peroxide used",
+      "D": "Volume of oxygen collected after 60 seconds"
+    },
+    "correct": "D",
+    "explanation": "Oxygen volume was the measured response to the change in temperature."
+  },
+  {
+    "id": "S1-018",
+    "prompt": "Students studied the activity of catalase, an enzyme in potato tissue that helps break down hydrogen peroxide and releases oxygen gas. They placed equal masses of fresh potato in equal volumes of hydrogen peroxide at different temperatures. After 60 seconds, they measured the oxygen collected. Each result is a mean of 5 trials. A control used the same mass of boiled potato at 25°C.\n\nCondition                    | Mean oxygen collected after 60 s (mL)\nFresh potato at 10°C         | 8\nFresh potato at 25°C         | 18\nFresh potato at 40°C         | 27\nFresh potato at 55°C         | 6\nBoiled-potato control at 25°C| 0\n\nQuestion:\nWhat was the main purpose of including the boiled-potato control at 25°C?",
+    "choices": {
+      "A": "To show whether active potato enzymes were needed for oxygen production",
+      "B": "To determine whether colder mixtures contain more peroxide",
+      "C": "To make the fresh-potato trials reach 40°C faster",
+      "D": "To increase the number of temperatures tested with fresh potato"
+    },
+    "correct": "A",
+    "explanation": "The boiled-potato control produced 0 mL at 25°C, while fresh potato at the same temperature produced 18 mL."
+  },
+  {
+    "id": "S1-019",
+    "prompt": "Students studied the activity of catalase, an enzyme in potato tissue that helps break down hydrogen peroxide and releases oxygen gas. They placed equal masses of fresh potato in equal volumes of hydrogen peroxide at different temperatures. After 60 seconds, they measured the oxygen collected. Each result is a mean of 5 trials. A control used the same mass of boiled potato at 25°C.\n\nCondition                    | Mean oxygen collected after 60 s (mL)\nFresh potato at 10°C         | 8\nFresh potato at 25°C         | 18\nFresh potato at 40°C         | 27\nFresh potato at 55°C         | 6\nBoiled-potato control at 25°C| 0\n\nQuestion:\nA new fresh-potato trial at 45°C produced a mean of 20 mL of oxygen. Which interpretation best combines the new result with the original results?",
+    "choices": {
+      "A": "Catalase activity was greatest at 55°C.",
+      "B": "Catalase activity increased steadily at every temperature from 10°C through 55°C.",
+      "C": "Catalase activity likely reached a high point near 40°C and then decreased as temperature increased further.",
+      "D": "Temperature had no relationship to oxygen production."
+    },
+    "correct": "C",
+    "explanation": "Oxygen rose to 27 mL at 40°C, then measured 20 mL at 45°C and 6 mL at 55°C."
+  },
+  {
+    "id": "S1-020",
+    "prompt": "Students studied the activity of catalase, an enzyme in potato tissue that helps break down hydrogen peroxide and releases oxygen gas. They placed equal masses of fresh potato in equal volumes of hydrogen peroxide at different temperatures. After 60 seconds, they measured the oxygen collected. Each result is a mean of 5 trials. A control used the same mass of boiled potato at 25°C.\n\nCondition                    | Mean oxygen collected after 60 s (mL)\nFresh potato at 10°C         | 8\nFresh potato at 25°C         | 18\nFresh potato at 40°C         | 27\nFresh potato at 55°C         | 6\nBoiled-potato control at 25°C| 0\n\nQuestion:\nWhich conclusion about fresh potato is best supported over the full tested temperature range?",
+    "choices": {
+      "A": "Oxygen production rose from 10°C to 40°C and then fell by 55°C.",
+      "B": "Oxygen production decreased whenever temperature increased.",
+      "C": "Oxygen production was identical at 10°C and 55°C.",
+      "D": "Fresh potato produced no oxygen at 25°C."
+    },
+    "correct": "A",
+    "explanation": "The fresh-potato values increased from 8 mL to 18 mL to 27 mL, then decreased to 6 mL."
+  },
+  {
+    "id": "S1-021",
+    "prompt": "Scientists are studying narrow dark lines that sometimes form on the icy surface of a small moon after jets of material erupt from fractures. The lines lengthen for several days after an eruption and fade over several months. Spectroscopy detects salts in the lines, but no instrument has directly detected liquid there.\n\nViewpoint 1 — Brine-flow model: Pressure beneath the ice forces salty liquid water, called brine, up through fractures. The brine briefly flows across the surface, darkening it. The water then freezes or changes directly into vapor, leaving salt behind.\n\nViewpoint 2 — Dust-movement model: Gas escapes through fractures and pushes dry, salt-containing dust across the surface. The moving dust forms the dark lines. Later eruptions or slow settling cover the lines with brighter ice particles. Liquid water never reaches the surface.\n\nQuestion:\nWhich observation was obtained using spectroscopy?",
+    "choices": {
+      "A": "The lines contain salts.",
+      "B": "The lines lengthen for several days.",
+      "C": "The lines fade over several months.",
+      "D": "The jets erupt from fractures."
+    },
+    "correct": "A",
+    "explanation": "The prompt states that spectroscopy detected salts in the dark lines."
+  },
+  {
+    "id": "S1-022",
+    "prompt": "Scientists are studying narrow dark lines that sometimes form on the icy surface of a small moon after jets of material erupt from fractures. The lines lengthen for several days after an eruption and fade over several months. Spectroscopy detects salts in the lines, but no instrument has directly detected liquid there.\n\nViewpoint 1 — Brine-flow model: Pressure beneath the ice forces salty liquid water, called brine, up through fractures. The brine briefly flows across the surface, darkening it. The water then freezes or changes directly into vapor, leaving salt behind.\n\nViewpoint 2 — Dust-movement model: Gas escapes through fractures and pushes dry, salt-containing dust across the surface. The moving dust forms the dark lines. Later eruptions or slow settling cover the lines with brighter ice particles. Liquid water never reaches the surface.\n\nQuestion:\nWhich new observation would most directly support Viewpoint 1 over Viewpoint 2?",
+    "choices": {
+      "A": "Salts are found in dark lines and in nearby bright ice.",
+      "B": "A camera records liquid emerging from a fracture and flowing along a new line.",
+      "C": "A dark line fades after several months.",
+      "D": "A jet occurs before a line begins to lengthen."
+    },
+    "correct": "B",
+    "explanation": "Directly observing flowing liquid would match the brine-flow model and contradict the dry-only mechanism in the dust-movement model."
+  },
+  {
+    "id": "S1-023",
+    "prompt": "Scientists are studying narrow dark lines that sometimes form on the icy surface of a small moon after jets of material erupt from fractures. The lines lengthen for several days after an eruption and fade over several months. Spectroscopy detects salts in the lines, but no instrument has directly detected liquid there.\n\nViewpoint 1 — Brine-flow model: Pressure beneath the ice forces salty liquid water, called brine, up through fractures. The brine briefly flows across the surface, darkening it. The water then freezes or changes directly into vapor, leaving salt behind.\n\nViewpoint 2 — Dust-movement model: Gas escapes through fractures and pushes dry, salt-containing dust across the surface. The moving dust forms the dark lines. Later eruptions or slow settling cover the lines with brighter ice particles. Liquid water never reaches the surface.\n\nQuestion:\nWhich laboratory result would most directly support the mechanism proposed in Viewpoint 2?",
+    "choices": {
+      "A": "Pressurized gas moves dry salty dust across cold ice and produces line-shaped deposits without liquid.",
+      "B": "Salty liquid freezes more slowly than pure liquid water.",
+      "C": "Bright ice reflects more light than dark material.",
+      "D": "Salt remains after a sample of brine evaporates."
+    },
+    "correct": "A",
+    "explanation": "This result reproduces the gas-driven, liquid-free process proposed by the dust-movement model."
+  },
+  {
+    "id": "S1-024",
+    "prompt": "Scientists are studying narrow dark lines that sometimes form on the icy surface of a small moon after jets of material erupt from fractures. The lines lengthen for several days after an eruption and fade over several months. Spectroscopy detects salts in the lines, but no instrument has directly detected liquid there.\n\nViewpoint 1 — Brine-flow model: Pressure beneath the ice forces salty liquid water, called brine, up through fractures. The brine briefly flows across the surface, darkening it. The water then freezes or changes directly into vapor, leaving salt behind.\n\nViewpoint 2 — Dust-movement model: Gas escapes through fractures and pushes dry, salt-containing dust across the surface. The moving dust forms the dark lines. Later eruptions or slow settling cover the lines with brighter ice particles. Liquid water never reaches the surface.\n\nQuestion:\nThe two viewpoints disagree most directly about which feature of line formation?",
+    "choices": {
+      "A": "Whether the lines are located on an icy moon",
+      "B": "Whether fractures are associated with the lines",
+      "C": "Whether salts occur in the lines",
+      "D": "Whether the material moving across the surface is liquid brine or dry dust"
+    },
+    "correct": "D",
+    "explanation": "Viewpoint 1 proposes flowing brine, whereas Viewpoint 2 proposes dry dust pushed by gas."
+  },
+  {
+    "id": "S1-025",
+    "prompt": "Scientists are studying narrow dark lines that sometimes form on the icy surface of a small moon after jets of material erupt from fractures. The lines lengthen for several days after an eruption and fade over several months. Spectroscopy detects salts in the lines, but no instrument has directly detected liquid there.\n\nViewpoint 1 — Brine-flow model: Pressure beneath the ice forces salty liquid water, called brine, up through fractures. The brine briefly flows across the surface, darkening it. The water then freezes or changes directly into vapor, leaving salt behind.\n\nViewpoint 2 — Dust-movement model: Gas escapes through fractures and pushes dry, salt-containing dust across the surface. The moving dust forms the dark lines. Later eruptions or slow settling cover the lines with brighter ice particles. Liquid water never reaches the surface.\n\nQuestion:\nScientists determine that a new line formed while the surface temperature stayed far below the freezing point of the brine with the measured salt composition. If all other observations remain the same, this result would most likely:",
+    "choices": {
+      "A": "support Viewpoint 1 because colder brine flows faster.",
+      "B": "support Viewpoint 2 because formation without surface liquid is more consistent with dry dust movement.",
+      "C": "support both viewpoints equally because neither involves fractures.",
+      "D": "contradict both viewpoints because both require warm surface oceans."
+    },
+    "correct": "B",
+    "explanation": "Formation far below the measured brine's freezing point makes surface brine flow less likely and is more consistent with a dry process."
+  },
+  {
+    "id": "S1-026",
+    "prompt": "Students measured the electrical power produced by a small solar panel under a lamp. The angle is measured between the incoming light rays and a line perpendicular to the panel; therefore, 0° means the light strikes the panel straight on. Each value is a mean of 3 trials.\n\nExperiment 1: The lamp was kept 50 cm from the panel while angle was changed.\nAngle | Mean power\n0°    | 240 mW\n30°   | 205 mW\n60°   | 120 mW\n75°   | 62 mW\n\nExperiment 2: The angle was kept at 0° while lamp distance was changed.\nDistance | Mean power\n25 cm    | 760 mW\n50 cm    | 240 mW\n75 cm    | 115 mW\n100 cm   | 68 mW\n\nQuestion:\nIn Experiment 1, what mean power was produced at an angle of 60°?",
+    "choices": {
+      "A": "62 mW",
+      "B": "115 mW",
+      "C": "120 mW",
+      "D": "205 mW"
+    },
+    "correct": "C",
+    "explanation": "Experiment 1 lists a mean power of 120 mW at 60°."
+  },
+  {
+    "id": "S1-027",
+    "prompt": "Students measured the electrical power produced by a small solar panel under a lamp. The angle is measured between the incoming light rays and a line perpendicular to the panel; therefore, 0° means the light strikes the panel straight on. Each value is a mean of 3 trials.\n\nExperiment 1: The lamp was kept 50 cm from the panel while angle was changed.\nAngle | Mean power\n0°    | 240 mW\n30°   | 205 mW\n60°   | 120 mW\n75°   | 62 mW\n\nExperiment 2: The angle was kept at 0° while lamp distance was changed.\nDistance | Mean power\n25 cm    | 760 mW\n50 cm    | 240 mW\n75 cm    | 115 mW\n100 cm   | 68 mW\n\nQuestion:\nIn Experiment 2, by how much did mean power decrease when lamp distance increased from 50 cm to 100 cm?",
+    "choices": {
+      "A": "52 mW",
+      "B": "68 mW",
+      "C": "172 mW",
+      "D": "308 mW"
+    },
+    "correct": "C",
+    "explanation": "Mean power decreased from 240 mW at 50 cm to 68 mW at 100 cm, a decrease of 172 mW."
+  },
+  {
+    "id": "S1-028",
+    "prompt": "Students measured the electrical power produced by a small solar panel under a lamp. The angle is measured between the incoming light rays and a line perpendicular to the panel; therefore, 0° means the light strikes the panel straight on. Each value is a mean of 3 trials.\n\nExperiment 1: The lamp was kept 50 cm from the panel while angle was changed.\nAngle | Mean power\n0°    | 240 mW\n30°   | 205 mW\n60°   | 120 mW\n75°   | 62 mW\n\nExperiment 2: The angle was kept at 0° while lamp distance was changed.\nDistance | Mean power\n25 cm    | 760 mW\n50 cm    | 240 mW\n75 cm    | 115 mW\n100 cm   | 68 mW\n\nQuestion:\nWhat was the independent variable in Experiment 2?",
+    "choices": {
+      "A": "Lamp distance",
+      "B": "Panel angle",
+      "C": "Number of trials",
+      "D": "Electrical power"
+    },
+    "correct": "A",
+    "explanation": "Experiment 2 changed lamp distance while holding panel angle at 0°."
+  },
+  {
+    "id": "S1-029",
+    "prompt": "Students measured the electrical power produced by a small solar panel under a lamp. The angle is measured between the incoming light rays and a line perpendicular to the panel; therefore, 0° means the light strikes the panel straight on. Each value is a mean of 3 trials.\n\nExperiment 1: The lamp was kept 50 cm from the panel while angle was changed.\nAngle | Mean power\n0°    | 240 mW\n30°   | 205 mW\n60°   | 120 mW\n75°   | 62 mW\n\nExperiment 2: The angle was kept at 0° while lamp distance was changed.\nDistance | Mean power\n25 cm    | 760 mW\n50 cm    | 240 mW\n75 cm    | 115 mW\n100 cm   | 68 mW\n\nQuestion:\nWhy was lamp distance held at 50 cm throughout Experiment 1?",
+    "choices": {
+      "A": "To ensure that angle was the main tested factor affecting power",
+      "B": "To make the independent variable change during every trial",
+      "C": "To prove that distance never affects solar-panel power",
+      "D": "To cause the panel angle to remain at 0°"
+    },
+    "correct": "A",
+    "explanation": "Keeping distance constant allowed the students to compare power while changing angle alone."
+  },
+  {
+    "id": "S1-030",
+    "prompt": "Students measured the electrical power produced by a small solar panel under a lamp. The angle is measured between the incoming light rays and a line perpendicular to the panel; therefore, 0° means the light strikes the panel straight on. Each value is a mean of 3 trials.\n\nExperiment 1: The lamp was kept 50 cm from the panel while angle was changed.\nAngle | Mean power\n0°    | 240 mW\n30°   | 205 mW\n60°   | 120 mW\n75°   | 62 mW\n\nExperiment 2: The angle was kept at 0° while lamp distance was changed.\nDistance | Mean power\n25 cm    | 760 mW\n50 cm    | 240 mW\n75 cm    | 115 mW\n100 cm   | 68 mW\n\nQuestion:\nA student claims that doubling the lamp distance always reduces the panel's power to exactly one-half its previous value. How do the results for 50 cm and 100 cm evaluate this claim?",
+    "choices": {
+      "A": "They support it because 68 mW is exactly half of 240 mW.",
+      "B": "They support it because power decreased as distance increased.",
+      "C": "They contradict it because half of 240 mW is 120 mW, not 68 mW.",
+      "D": "They cannot evaluate it because panel angle was not controlled in Experiment 2."
+    },
+    "correct": "C",
+    "explanation": "Doubling distance from 50 cm to 100 cm reduced power from 240 mW to 68 mW, which is less than half rather than exactly half."
+  }
+]

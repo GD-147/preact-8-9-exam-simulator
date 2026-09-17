@@ -67,5 +67,22 @@
       ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "Printable Practice Exam 01 — English",
+      "file": "preact_8_9_printable_01_english.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 02 — Math",
+      "file": "preact_8_9_printable_02_math.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 03 — Reading",
+      "file": "preact_8_9_printable_03_reading.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 04 — Science",
+      "file": "preact_8_9_printable_04_science.pdf"
+    }
+  ]
 }

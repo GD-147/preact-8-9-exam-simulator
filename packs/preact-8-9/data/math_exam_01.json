@@ -1,0 +1,457 @@
+[
+  {
+    "id": "M1-001",
+    "prompt": "Which of the following numbers is greatest?",
+    "choices": {
+      "A": "−0.82",
+      "B": "−0.78",
+      "C": "−0.75",
+      "D": "−0.70",
+      "E": "−0.71"
+    },
+    "correct": "D",
+    "explanation": "Among negative numbers, the number closest to 0 is greatest. Of the choices, −0.70 is closest to 0."
+  },
+  {
+    "id": "M1-002",
+    "prompt": "What value of x satisfies 5x − 7 = 18?",
+    "choices": {
+      "A": "2",
+      "B": "5",
+      "C": "7",
+      "D": "11/5",
+      "E": "25"
+    },
+    "correct": "B",
+    "explanation": "Add 7 to both sides to get 5x = 25, and then divide by 5 to get x = 5."
+  },
+  {
+    "id": "M1-003",
+    "prompt": "Two angles form a linear pair. If one angle measures 68°, what is the measure of the other angle?",
+    "choices": {
+      "A": "22°",
+      "B": "68°",
+      "C": "102°",
+      "D": "112°",
+      "E": "248°"
+    },
+    "correct": "D",
+    "explanation": "Angles in a linear pair sum to 180°, so the other angle measures 180° − 68° = 112°."
+  },
+  {
+    "id": "M1-004",
+    "prompt": "A tank contains 50 gallons of water at time t = 0. Water drains at a constant rate. The table shows the amount W of water in the tank at several times.\n\nt (minutes) | 0 | 2 | 4 | 6\nW (gallons) | 50 | 42 | 34 | 26\n\nWhich equation gives W in terms of t?",
+    "choices": {
+      "A": "W = 50 − 4t",
+      "B": "W = 50 − 8t",
+      "C": "W = 50 + 4t",
+      "D": "W = 4t",
+      "E": "W = 25 − 4t"
+    },
+    "correct": "A",
+    "explanation": "The tank starts with 50 gallons. Its amount decreases by 8 gallons every 2 minutes, so the rate is −4 gallons per minute and W = 50 − 4t."
+  },
+  {
+    "id": "M1-005",
+    "prompt": "What is the median of the data set 4, 6, 7, 9, 14?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "8.5",
+      "E": "9"
+    },
+    "correct": "B",
+    "explanation": "The data are already ordered, and the middle of the 5 values is 7."
+  },
+  {
+    "id": "M1-006",
+    "prompt": "What is (3.2 × 10⁵)(4 × 10⁻²) written in scientific notation?",
+    "choices": {
+      "A": "1.28 × 10³",
+      "B": "1.28 × 10⁴",
+      "C": "1.28 × 10⁷",
+      "D": "12.8 × 10⁴",
+      "E": "12.8 × 10⁷"
+    },
+    "correct": "B",
+    "explanation": "Multiply the coefficients and powers: 3.2 × 4 = 12.8 and 10⁵ × 10⁻² = 10³. Thus, 12.8 × 10³ = 1.28 × 10⁴."
+  },
+  {
+    "id": "M1-007",
+    "prompt": "A jacket has an original price of $80. It is discounted by 25%, and then 5% sales tax is applied to the discounted price. What is the final price?",
+    "choices": {
+      "A": "$59",
+      "B": "$60",
+      "C": "$63",
+      "D": "$64",
+      "E": "$84"
+    },
+    "correct": "C",
+    "explanation": "The discounted price is $80 × 0.75 = $60. Applying 5% tax gives $60 × 1.05 = $63."
+  },
+  {
+    "id": "M1-008",
+    "prompt": "A recipe uses 2.5 cups of flour to make 20 muffins. At the same rate, how many cups of flour are needed to make 34 muffins?",
+    "choices": {
+      "A": "3.4 cups",
+      "B": "4 cups",
+      "C": "4.25 cups",
+      "D": "5 cups",
+      "E": "6.8 cups"
+    },
+    "correct": "C",
+    "explanation": "The unit rate is 2.5 ÷ 20 = 0.125 cup per muffin. For 34 muffins, 34 × 0.125 = 4.25 cups."
+  },
+  {
+    "id": "M1-009",
+    "prompt": "A rectangular playground is 6 meters wide and 8 meters long. A straight path is built from one corner to the opposite corner. How long is the path?",
+    "choices": {
+      "A": "7 meters",
+      "B": "10 meters",
+      "C": "12 meters",
+      "D": "14 meters",
+      "E": "48 meters"
+    },
+    "correct": "B",
+    "explanation": "The path is the hypotenuse of a right triangle with legs 6 and 8. Its length is √(6² + 8²) = √100 = 10 meters."
+  },
+  {
+    "id": "M1-010",
+    "prompt": "A fair spinner is divided into 8 equal sections numbered 1 through 8. What is the probability that the spinner lands on an even number?",
+    "choices": {
+      "A": "1/8",
+      "B": "1/4",
+      "C": "3/8",
+      "D": "1/2",
+      "E": "5/8"
+    },
+    "correct": "D",
+    "explanation": "Four of the 8 equally likely numbers, 2, 4, 6, and 8, are even, so the probability is 4/8 = 1/2."
+  },
+  {
+    "id": "M1-011",
+    "prompt": "What is the value of √81 + ∛64?",
+    "choices": {
+      "A": "7",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "17"
+    },
+    "correct": "D",
+    "explanation": "√81 = 9 and ∛64 = 4, so √81 + ∛64 = 9 + 4 = 13."
+  },
+  {
+    "id": "M1-012",
+    "prompt": "The first term of an arithmetic sequence is 7, and each term after the first is 4 greater than the preceding term. What is the eighth term?",
+    "choices": {
+      "A": "32",
+      "B": "35",
+      "C": "39",
+      "D": "56",
+      "E": "63"
+    },
+    "correct": "B",
+    "explanation": "Seven increases of 4 occur from the first term to the eighth term, so the eighth term is 7 + 7 × 4 = 35."
+  },
+  {
+    "id": "M1-013",
+    "prompt": "A club has $260 to spend on a trip. A reservation fee costs $44, and each student ticket costs $18. What is the greatest number of student tickets the club can buy without exceeding its budget?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "14"
+    },
+    "correct": "C",
+    "explanation": "After the $44 fee, $216 remains. Since $216 ÷ $18 = 12, the club can buy at most 12 student tickets."
+  },
+  {
+    "id": "M1-014",
+    "prompt": "Point P has coordinates (3, −2). Point P is rotated 90° counterclockwise about the origin. What are the coordinates of the image of P?",
+    "choices": {
+      "A": "(−3, 2)",
+      "B": "(−2, −3)",
+      "C": "(−2, 3)",
+      "D": "(2, −3)",
+      "E": "(2, 3)"
+    },
+    "correct": "E",
+    "explanation": "A 90° counterclockwise rotation maps (x, y) to (−y, x). Thus, (3, −2) maps to (2, 3)."
+  },
+  {
+    "id": "M1-015",
+    "prompt": "The table shows whether 120 students participate in band.\n\n          | In band | Not in band | Total\nGrade 8   | 18      | 42          | 60\nGrade 9   | 27      | 33          | 60\nTotal     | 45      | 75          | 120\n\nOne student is chosen at random from the students who are in band. What is the probability that the chosen student is in Grade 9?",
+    "choices": {
+      "A": "3/20",
+      "B": "9/40",
+      "C": "2/5",
+      "D": "3/5",
+      "E": "3/4"
+    },
+    "correct": "D",
+    "explanation": "Of the 45 students in band, 27 are in Grade 9. The probability is 27/45 = 3/5."
+  },
+  {
+    "id": "M1-016",
+    "prompt": "A printer prints 18 pages in 45 seconds at a constant rate. How many pages does it print in 5 minutes?",
+    "choices": {
+      "A": "90",
+      "B": "100",
+      "C": "108",
+      "D": "120",
+      "E": "135"
+    },
+    "correct": "D",
+    "explanation": "Five minutes is 300 seconds. At 18 pages per 45 seconds, the printer produces (18/45) × 300 = 120 pages."
+  },
+  {
+    "id": "M1-017",
+    "prompt": "At a school play, 23 adult and student tickets were sold for a total of $188. Adult tickets cost $11 each, and student tickets cost $6 each. How many student tickets were sold?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "13",
+      "E": "15"
+    },
+    "correct": "D",
+    "explanation": "Let a and s be the numbers of adult and student tickets. Then a + s = 23 and 11a + 6s = 188. Substituting a = 23 − s gives 253 − 5s = 188, so s = 13."
+  },
+  {
+    "id": "M1-018",
+    "prompt": "A laboratory culture begins with 40 cells. The number of cells triples every 2 hours. How many cells are in the culture after 6 hours?",
+    "choices": {
+      "A": "120",
+      "B": "360",
+      "C": "720",
+      "D": "1,080",
+      "E": "3,240"
+    },
+    "correct": "D",
+    "explanation": "Six hours contains 3 two-hour periods. Tripling 3 times gives 40 × 3³ = 40 × 27 = 1,080 cells."
+  },
+  {
+    "id": "M1-019",
+    "prompt": "A cylindrical grain container has an interior radius of 3 meters and an interior height of 5 meters. What is its interior volume?",
+    "choices": {
+      "A": "15π cubic meters",
+      "B": "30π cubic meters",
+      "C": "45π cubic meters",
+      "D": "75π cubic meters",
+      "E": "90π cubic meters"
+    },
+    "correct": "C",
+    "explanation": "A cylinder's volume is πr²h. With r = 3 and h = 5, the volume is π × 3² × 5 = 45π cubic meters."
+  },
+  {
+    "id": "M1-020",
+    "prompt": "A school wants to estimate the percentage of all its students who are satisfied with the cafeteria. Which sampling method is most likely to produce a representative sample?",
+    "choices": {
+      "A": "Survey the first 100 students who enter the cafeteria on Monday.",
+      "B": "Survey every student on the basketball teams.",
+      "C": "Randomly select 25 students from each grade.",
+      "D": "Ask students to complete an optional survey posted on the cafeteria door.",
+      "E": "Survey 100 students who bring lunch from home."
+    },
+    "correct": "C",
+    "explanation": "Randomly selecting students from every grade includes the whole school population while reducing grade-level selection bias."
+  },
+  {
+    "id": "M1-021",
+    "prompt": "What is the value of (2³ × 2⁵) ÷ 2⁴?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16",
+      "E": "256"
+    },
+    "correct": "D",
+    "explanation": "Using exponent rules gives 2³⁺⁵⁻⁴ = 2⁴ = 16."
+  },
+  {
+    "id": "M1-022",
+    "prompt": "The equation x² − 7x + 12 = 0 has two solutions. What is the greater solution?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6",
+      "E": "12"
+    },
+    "correct": "C",
+    "explanation": "Factoring gives x² − 7x + 12 = (x − 3)(x − 4), so the solutions are 3 and 4. The greater solution is 4."
+  },
+  {
+    "id": "M1-023",
+    "prompt": "A taxi ride costs $3.50 plus $2.25 for each mile traveled. If a rider can spend at most $17.00, what is the greatest whole number of miles the rider can travel?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "8"
+    },
+    "correct": "C",
+    "explanation": "The cost must satisfy 3.50 + 2.25m ≤ 17.00. Thus, 2.25m ≤ 13.50, so m ≤ 6; the greatest whole number is 6."
+  },
+  {
+    "id": "M1-024",
+    "prompt": "Two triangles are similar. The side lengths of the smaller triangle are 6, 9, and 12 centimeters. The shortest side of the larger triangle is 10 centimeters. What is the length of the side of the larger triangle that corresponds to the 9-centimeter side?",
+    "choices": {
+      "A": "12 centimeters",
+      "B": "13.5 centimeters",
+      "C": "15 centimeters",
+      "D": "18 centimeters",
+      "E": "20 centimeters"
+    },
+    "correct": "C",
+    "explanation": "The scale factor from the smaller triangle to the larger triangle is 10/6 = 5/3. The corresponding side is 9 × 5/3 = 15 centimeters."
+  },
+  {
+    "id": "M1-025",
+    "prompt": "A linear model h = 1.8a + 52 estimates a plant's height h, in centimeters, after a weeks. According to the model, what height is predicted after 12 weeks?",
+    "choices": {
+      "A": "64.0 centimeters",
+      "B": "70.2 centimeters",
+      "C": "72.0 centimeters",
+      "D": "73.6 centimeters",
+      "E": "74.8 centimeters"
+    },
+    "correct": "D",
+    "explanation": "Substitute a = 12 into the model: h = 1.8(12) + 52 = 21.6 + 52 = 73.6 centimeters."
+  },
+  {
+    "id": "M1-026",
+    "prompt": "A rectangular patio is 12 meters long and 8 meters wide. A path 1 meter wide is built around the outside of all four sides of the patio. Paving the path costs $18 per square meter. What is the total paving cost?",
+    "choices": {
+      "A": "$396",
+      "B": "$612",
+      "C": "$720",
+      "D": "$792",
+      "E": "$2,520"
+    },
+    "correct": "D",
+    "explanation": "The outer dimensions are 14 meters by 10 meters, so the path's area is (14 × 10) − (12 × 8) = 140 − 96 = 44 square meters. The cost is 44 × $18 = $792."
+  },
+  {
+    "id": "M1-027",
+    "prompt": "What value of x satisfies 3(2x − 5) − 4 = 2(x + 7) + 3?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "9",
+      "E": "12"
+    },
+    "correct": "D",
+    "explanation": "Expanding gives 6x − 19 = 2x + 17. Then 4x = 36, so x = 9."
+  },
+  {
+    "id": "M1-028",
+    "prompt": "Which of the following numbers is irrational?",
+    "choices": {
+      "A": "√49",
+      "B": "0.121212…",
+      "C": "5/11",
+      "D": "∛27",
+      "E": "√18"
+    },
+    "correct": "E",
+    "explanation": "√49 = 7, 0.121212… is a repeating decimal, 5/11 is a ratio of integers, and ∛27 = 3, so those four numbers are rational. Since 18 is not a perfect square, √18 is irrational."
+  },
+  {
+    "id": "M1-029",
+    "prompt": "What is the distance between the points (−2, 1) and (4, 9) in the coordinate plane?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14",
+      "E": "100"
+    },
+    "correct": "B",
+    "explanation": "The horizontal change is 6 and the vertical change is 8. The distance is √(6² + 8²) = √100 = 10."
+  },
+  {
+    "id": "M1-030",
+    "prompt": "A linear function p passes through the points (−2, 7) and (4, −5). What is p(1)?",
+    "choices": {
+      "A": "−1",
+      "B": "0",
+      "C": "1",
+      "D": "3",
+      "E": "5"
+    },
+    "correct": "C",
+    "explanation": "The slope is (−5 − 7)/(4 − (−2)) = −12/6 = −2. Using (−2, 7) gives p(x) = −2x + 3, so p(1) = 1."
+  },
+  {
+    "id": "M1-031",
+    "prompt": "One integer is selected at random from the integers 1 through 30. What is the probability that the selected integer is a multiple of 4 or a multiple of 6?",
+    "choices": {
+      "A": "1/5",
+      "B": "4/15",
+      "C": "1/3",
+      "D": "2/5",
+      "E": "7/15"
+    },
+    "correct": "C",
+    "explanation": "There are 7 multiples of 4 and 5 multiples of 6 from 1 through 30. The 2 common multiples, 12 and 24, were counted twice, so there are 7 + 5 − 2 = 10 favorable integers. The probability is 10/30 = 1/3."
+  },
+  {
+    "id": "M1-032",
+    "prompt": "An aquarium has a rectangular base that is 60 centimeters by 30 centimeters. Water is added at a constant rate, causing the water depth to rise from 12 centimeters to 20 centimeters in 6 minutes. At what rate is water added? Use 1,000 cubic centimeters = 1 liter.",
+    "choices": {
+      "A": "1.8 liters per minute",
+      "B": "2.0 liters per minute",
+      "C": "2.4 liters per minute",
+      "D": "8.0 liters per minute",
+      "E": "14.4 liters per minute"
+    },
+    "correct": "C",
+    "explanation": "The depth increases by 8 centimeters, so the added volume is 60 × 30 × 8 = 14,400 cubic centimeters, or 14.4 liters. Over 6 minutes, the rate is 14.4 ÷ 6 = 2.4 liters per minute."
+  },
+  {
+    "id": "M1-033",
+    "prompt": "A school store buys 48 items consisting only of notebooks and binders. Each notebook costs $2.50, each binder costs $6.50, and the total cost is $188. How many binders does the store buy?",
+    "choices": {
+      "A": "14",
+      "B": "16",
+      "C": "17",
+      "D": "24",
+      "E": "31"
+    },
+    "correct": "C",
+    "explanation": "If all 48 items were notebooks, they would cost $120. Each binder replacing a notebook adds $4, and $188 − $120 = $68. Therefore, the number of binders is $68 ÷ $4 = 17."
+  },
+  {
+    "id": "M1-034",
+    "prompt": "A scale model of a rectangular storage room uses a scale of 1:40. The model's interior dimensions are 12 centimeters by 7.5 centimeters by 5 centimeters. What is the actual interior volume of the storage room in cubic meters?",
+    "choices": {
+      "A": "7.2 cubic meters",
+      "B": "18 cubic meters",
+      "C": "28.8 cubic meters",
+      "D": "72 cubic meters",
+      "E": "288 cubic meters"
+    },
+    "correct": "C",
+    "explanation": "Multiplying each model dimension by 40 gives actual dimensions of 480, 300, and 200 centimeters, or 4.8, 3, and 2 meters. The volume is 4.8 × 3 × 2 = 28.8 cubic meters."
+  },
+  {
+    "id": "M1-035",
+    "prompt": "A delivery company recorded these delivery times, in minutes, for 5 packages: 18, 20, 20, 22, 25. A sixth delivery time of 40 minutes is added to the data set. Which statement correctly compares the mean and median before and after the sixth time is added?",
+    "choices": {
+      "A": "The mean increases by 1 minute, and the median increases by 19/6 minutes.",
+      "B": "The mean increases by 19/6 minutes, and the median increases by 1 minute.",
+      "C": "The mean increases by 4 minutes, and the median does not change.",
+      "D": "The mean and median each increase by 19/6 minutes.",
+      "E": "The mean and median each increase by 1 minute."
+    },
+    "correct": "B",
+    "explanation": "Originally, the mean is 105 ÷ 5 = 21 and the median is 20. With 40 added, the mean is 145/6, an increase of 145/6 − 21 = 19/6, and the median is (20 + 22) ÷ 2 = 21, an increase of 1."
+  }
+]

@@ -111,19 +111,15 @@ def main():
 
     print("OK: valid JSON")
 
-    if isinstance(data, dict) and "questions" in data:
-        questions = data["questions"]
-    elif isinstance(data, list):
-        questions = data
-    else:
+    if not isinstance(data, list):
         sys.exit(
             fail(
-                'expected a JSON array or object with "questions"'
+                "top-level JSON must be an array of questions "
+                "for compatibility with runner.js"
             )
         )
 
-    if not isinstance(questions, list):
-        sys.exit(fail('"questions" must be an array'))
+    questions = data
 
     expected_count = EXPECTED[section]["questions"]
 

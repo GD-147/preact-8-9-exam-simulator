@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "EN1-001",
+    "prompt": "In a passage about producing a school news program, Maya recalls the first recording session: “Before the red light blinked <u>on we checked the microphones twice</u>.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "on, we checked the microphones twice",
+      "C": "on; we checked the microphones twice",
+      "D": "on we checked, the microphones twice"
+    },
+    "correct": "B",
+    "explanation": "A comma should follow the introductory dependent clause “Before the red light blinked on.” The unpunctuated version does not mark the boundary between that clause and the main clause."
+  },
+  {
+    "id": "EN1-002",
+    "prompt": "In the same passage, Maya describes the student crew: “A box of spare cables and two charged batteries <u>wait</u> beside the recording desk.” Which choice makes the sentence conform to Standard English?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "waits",
+      "C": "is waiting",
+      "D": "has waited"
+    },
+    "correct": "A",
+    "explanation": "The compound subject “A box of spare cables and two charged batteries” is plural, so it takes the plural verb “wait.” “Waits” and “is waiting” incorrectly treat the subject as singular."
+  },
+  {
+    "id": "EN1-003",
+    "prompt": "The passage explains why the crew changed its plan: “<u>The gym was unavailable after school. Because the basketball team had begun practice.</u>” Which choice most effectively corrects the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The basketball team having begun practice.",
+      "C": "Because beginning practice was the basketball team.",
+      "D": "The gym was unavailable after school because the basketball team had begun practice."
+    },
+    "correct": "D",
+    "explanation": "This choice joins the dependent because-clause to a complete independent clause. The other choices leave “because” or a participial phrase without a complete main clause."
+  },
+  {
+    "id": "EN1-004",
+    "prompt": "Maya writes, “When Lena handed Priya the revised script, <u>she</u> pointed to a new closing line.” The passage needs to make clear that Lena pointed to the line. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "the student",
+      "C": "Lena",
+      "D": "she herself"
+    },
+    "correct": "C",
+    "explanation": "Naming Lena makes it unmistakable that she pointed to the line. The pronouns and the vague phrase “the student” could refer to either Lena or Priya."
+  },
+  {
+    "id": "EN1-005",
+    "prompt": "The passage introduces a recurring feature: “Weather Watch <u>which lasts only thirty seconds</u> includes a forecast and one safety reminder.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "which lasts only thirty seconds,",
+      "C": ", which lasts only thirty seconds,",
+      "D": ", which lasts only thirty seconds"
+    },
+    "correct": "C",
+    "explanation": "The detail about the report's length is nonessential, so it must be enclosed by commas. Choices with only one comma fail to mark both boundaries of the phrase."
+  },
+  {
+    "id": "EN1-006",
+    "prompt": "Maya narrates events that happened during one Friday recording: “Lena read the lunch menu while I <u>adjust</u> the volume, and then we both signaled the music team.” Which choice best maintains the sentence's verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "adjust",
+      "C": "will adjust",
+      "D": "adjusted"
+    },
+    "correct": "D",
+    "explanation": "“Adjusted” matches the past-tense verbs “read” and “signaled.” The present and future forms create an illogical tense shift."
+  },
+  {
+    "id": "EN1-007",
+    "prompt": "The passage describes Maya entering the studio: “<u>Walking into the media room, the blinking control panel caught Maya's attention.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "Walking into the media room, Maya noticed the blinking control panel.",
+      "B": "Walking into the media room, the control panel blinked at Maya.",
+      "C": "The blinking control panel, walking into the media room, caught Maya's attention.",
+      "D": "Maya's attention was caught, walking into the media room, by the blinking control panel."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase logically modifies Maya, the person who was walking. In the original, it incorrectly appears to modify the control panel."
+  },
+  {
+    "id": "EN1-008",
+    "prompt": "Maya explains that the crew shortened a long announcement: “The original message was <u>long in length and repeated the same details again</u>, so we trimmed it to three sentences.” Which choice is most concise while preserving the meaning?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "lengthy in its length and repetitive with details",
+      "C": "long and repetitive",
+      "D": "of a long sort and repeated details over again"
+    },
+    "correct": "C",
+    "explanation": "This choice conveys both ideas directly and without redundancy. The other choices unnecessarily repeat the meanings of “long” or “repeated.”"
+  },
+  {
+    "id": "EN1-009",
+    "prompt": "In a passage with a thoughtful, upbeat tone, Maya reflects on an early mistake: “I pressed the wrong button, and five seconds of silence went out to every classroom. <u>It was, like, a total disaster.</u>” Which choice best matches the passage's tone?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The pause felt enormous to me, but it taught me to label the controls.",
+      "C": "That technical catastrophe rendered the broadcast utterly unsuccessful.",
+      "D": "Whatever—the silence did not really matter to anyone."
+    },
+    "correct": "B",
+    "explanation": "This sentence keeps the reflective, upbeat tone and shows what Maya learned. The slangy, overly dramatic, and dismissive alternatives do not fit that tone."
+  },
+  {
+    "id": "EN1-010",
+    "prompt": "A passage about creating a weekly school news program begins with these sentences: “At 7:40 each Friday morning, a red light glows above the media-room door. On the other side, three students lean toward their microphones as the principal counts down from five.” Which choice would be the most effective next sentence if the writer wants to introduce the passage's main focus on how students learned to produce the program?",
+    "choices": {
+      "A": "The media room has gray carpet and six rolling chairs.",
+      "B": "Fridays are named after Frigg, a figure from Norse tradition.",
+      "C": "The program lasts seven minutes, although assemblies are sometimes much longer.",
+      "D": "Those polished minutes are the result of weeks of student planning, practice, and problem-solving."
+    },
+    "correct": "D",
+    "explanation": "This sentence connects the opening scene to the passage's focus on the students' learning process. The other choices introduce side facts rather than the main idea."
+  },
+  {
+    "id": "EN1-011",
+    "prompt": "In a paragraph about planning the school news program, Maya writes: “First, we collected announcements from teachers and club leaders. Next, we sorted the messages by urgency. _____, we arranged the selected items in a script that moved from schoolwide news to short reminders.” Which choice provides the most logical transition?",
+    "choices": {
+      "A": "Nevertheless",
+      "B": "Finally",
+      "C": "For example",
+      "D": "On the contrary"
+    },
+    "correct": "B",
+    "explanation": "“Finally” completes the chronological sequence begun by “First” and “Next.” The other transitions signal contrast or an example, neither of which fits."
+  },
+  {
+    "id": "EN1-012",
+    "prompt": "A paragraph explains how the student crew improved its school news program by timing rehearsals, marking pauses in the script, and placing labels beside the sound controls. The writer is considering adding this sentence: “The cafeteria serves tomato soup on some winter Tuesdays.” Should the writer add the sentence?",
+    "choices": {
+      "A": "Yes, because it supplies a specific example of information that might appear in any school announcement.",
+      "B": "Yes, because every paragraph should include a detail about the school cafeteria.",
+      "C": "No, because it distracts from the paragraph's focus on improvements to the crew's production process.",
+      "D": "No, because food should never be mentioned in a passage about broadcasting."
+    },
+    "correct": "C",
+    "explanation": "The soup detail does not help explain how the crew improved its work. A possible topic for an announcement is not relevant to this paragraph's specific focus."
+  },
+  {
+    "id": "EN1-013",
+    "prompt": "Maya's passage explains that the crew's first broadcasts were uneven but improved through rehearsal. The writer wants to add the following sentence to a paragraph: “By our fourth broadcast, each speaker knew when to lean toward the microphone and when to pause for music.” Where would this sentence be most logically placed?",
+    "choices": {
+      "A": "Before the paragraph describes the crew's confusing first rehearsal",
+      "B": "After the paragraph explains the specific techniques the crew practiced",
+      "C": "Before the passage introduces the idea of a school news program",
+      "D": "In a paragraph that lists the topics announced during the broadcast"
+    },
+    "correct": "B",
+    "explanation": "The fourth-broadcast sentence shows the result of the practice techniques, so it should follow their explanation. Placing it before the early difficulties would disrupt the passage's development."
+  },
+  {
+    "id": "EN1-014",
+    "prompt": "At the end of a passage about learning to produce a school news program, Maya writes: “Now, when the red light turns on, I still feel a quick flutter of nerves.” Which choice would most effectively conclude the passage by emphasizing growth and teamwork?",
+    "choices": {
+      "A": "The red light uses very little electricity.",
+      "B": "Many schools have media rooms, but some do not.",
+      "C": "Nervousness can produce several physical sensations.",
+      "D": "Then Lena begins the countdown, Priya lifts the script, and I remember that we know how to make the broadcast together."
+    },
+    "correct": "D",
+    "explanation": "This ending returns to the recording scene while highlighting Maya's confidence and the crew's teamwork. The other choices do not resolve the passage's central idea."
+  },
+  {
+    "id": "EN1-015",
+    "prompt": "In a passage about restoring a neighborhood mosaic, the writer describes the artwork's origin: “The <u>mosaics first tiles</u> were placed by local artists in 1986.” Which choice correctly forms the possessive?",
+    "choices": {
+      "A": "mosaics first tiles",
+      "B": "mosaic's first tiles",
+      "C": "mosaics' first tiles",
+      "D": "mosaic first tile's"
+    },
+    "correct": "B",
+    "explanation": "The tiles belong to one mosaic, so the singular possessive “mosaic's” is required. “Mosaics'” would refer to more than one mosaic."
+  },
+  {
+    "id": "EN1-016",
+    "prompt": "The writer explains why volunteers began the restoration: “Several blue tiles had come <u>loose the central wave was still easy to recognize.</u>” Which choice best corrects the run-on sentence?",
+    "choices": {
+      "A": "loose, the central wave was still easy to recognize.",
+      "B": "loose the central wave was still easy to recognize.",
+      "C": "loose, being that the central wave was still easy to recognize.",
+      "D": "loose, but the central wave was still easy to recognize."
+    },
+    "correct": "D",
+    "explanation": "The comma and coordinating conjunction correctly join two independent clauses and express contrast. A comma alone would create a comma splice."
+  },
+  {
+    "id": "EN1-017",
+    "prompt": "The passage lists the volunteers' first tasks: “They photographed the wall, numbered the empty spaces, and <u>were making sketches of the remaining patterns</u>.” Which choice makes the list parallel?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "to sketch the remaining patterns",
+      "C": "sketched the remaining patterns",
+      "D": "the remaining patterns were sketched"
+    },
+    "correct": "C",
+    "explanation": "“Sketched” is parallel with the past-tense verbs “photographed” and “numbered.” The other forms break the grammatical pattern of the list."
+  },
+  {
+    "id": "EN1-018",
+    "prompt": "The writer introduces a list of supplies: “Each worktable held the same three tools <u>a sponge, a wooden scraper, and a small brush.</u>” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": ": a sponge, a wooden scraper, and a small brush.",
+      "B": ", a sponge, a wooden scraper, and a small brush.",
+      "C": "; a sponge, a wooden scraper, and a small brush.",
+      "D": "a sponge, a wooden scraper, and a small brush."
+    },
+    "correct": "A",
+    "explanation": "A colon properly introduces the list after the complete clause “Each worktable held the same three tools.” A comma or semicolon is not appropriate for introducing this list."
+  },
+  {
+    "id": "EN1-019",
+    "prompt": "In the restoration passage, the writer states, “The volunteers placed <u>his or her</u> names on paper tags before entering the work area.” Which choice makes the pronoun agree with its plural antecedent?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "their",
+      "C": "its",
+      "D": "your"
+    },
+    "correct": "B",
+    "explanation": "The plural pronoun “their” agrees with the plural antecedent “volunteers.” “His or her” is singular and cannot refer to the group as a whole."
+  },
+  {
+    "id": "EN1-020",
+    "prompt": "The passage explains a restoration technique: “The artists recommended <u>to soak</u> each replacement tile in water before setting it into mortar.” Which choice uses the standard verb form?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "soak",
+      "C": "having soaked",
+      "D": "soaking"
+    },
+    "correct": "D",
+    "explanation": "Standard usage is “recommended soaking,” with a gerund following “recommended” in this construction. “Recommended to soak” incorrectly makes the artists appear to be the ones receiving the recommendation."
+  },
+  {
+    "id": "EN1-021",
+    "prompt": "The writer describes the restored design: “A school of silver fish <u>curve</u> across the lower edge of the mosaic.” Which choice makes the verb agree with the subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "are curving",
+      "C": "curves",
+      "D": "have curved"
+    },
+    "correct": "C",
+    "explanation": "The subject is the singular collective noun “school,” so the singular verb “curves” is correct. “Fish” is part of a prepositional phrase and does not control the verb."
+  },
+  {
+    "id": "EN1-022",
+    "prompt": "The passage quotes Mr. Alvarez, a longtime resident: “<u>When I was ten he said this wall seemed as wide as the ocean.</u>” Which choice correctly punctuates the quotation and the interrupting dialogue tag?",
+    "choices": {
+      "A": "“When I was ten,” he said, “this wall seemed as wide as the ocean.”",
+      "B": "“When I was ten” he said “this wall seemed as wide as the ocean.”",
+      "C": "“When I was ten,” he said “this wall seemed as wide as the ocean.”",
+      "D": "“When I was ten” he said, “this wall seemed as wide as the ocean.”"
+    },
+    "correct": "A",
+    "explanation": "Commas set off the dialogue tag “he said,” and the quotation resumes after the tag. The other choices omit one or both required commas."
+  },
+  {
+    "id": "EN1-023",
+    "prompt": "The writer describes how volunteers searched for replacement materials: “They compared dozens of samples until they found a blue tile that <u>was kind of close to</u> the deep color of the original wave.” Which choice is most precise and appropriate for an informational passage?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "copied",
+      "C": "resembled",
+      "D": "had a thing like"
+    },
+    "correct": "C",
+    "explanation": "“Resembled” precisely states that the new tile was similar in color to the original. The other choices are vague, informal, or incorrectly suggest an exact copy."
+  },
+  {
+    "id": "EN1-024",
+    "prompt": "The restoration passage states, “After the final tile was set, the volunteers <u>joined together</u> for a group photograph.” Which choice is the most concise without changing the meaning?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "joined",
+      "C": "gathered together jointly",
+      "D": "assembled together as a group"
+    },
+    "correct": "B",
+    "explanation": "“Joined” already means came together, so it is concise and complete. The other versions repeat that same idea unnecessarily."
+  },
+  {
+    "id": "EN1-025",
+    "prompt": "A paragraph about the mosaic restoration contains these sentences:\n[1] Before replacing any tile, volunteers photographed the entire wall. [2] They printed the photographs and drew a numbered grid over each one. [3] The grid gave every missing tile a precise location. [4] As a result, volunteers could remove damaged pieces without losing track of the original pattern.\nThe writer wants to add this sentence: “Each numbered square on the photograph matched a square marked on the wall's protective covering.” Where should the sentence be placed?",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 2",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains how the numbered photographic grid corresponded to the wall, so it belongs immediately after the grid is introduced. It then leads naturally to the grid's usefulness in sentence 3."
+  },
+  {
+    "id": "EN1-026",
+    "prompt": "In a passage about restoring a neighborhood mosaic, the writer wants to support the claim that the project brought together people of different ages. Which choice provides the most relevant supporting detail?",
+    "choices": {
+      "A": "The wall faces east, so it receives direct sunlight in the morning.",
+      "B": "The original artists preferred blue and green glass.",
+      "C": "Some volunteers brought sandwiches for lunch.",
+      "D": "Retired artists sorted tiles beside middle school students, while younger children washed brushes."
+    },
+    "correct": "D",
+    "explanation": "This detail directly shows people from several age groups working on the project. The other facts do not support the claim about age diversity."
+  },
+  {
+    "id": "EN1-027",
+    "prompt": "A passage about a neighborhood mosaic follows this sequence: the writer introduces the damaged artwork, describes how volunteers planned and completed repairs, and then shows neighbors gathering to view the restored wall. Which choice best explains why this organization is effective?",
+    "choices": {
+      "A": "It traces the project from the problem through the solution to its effect on the community.",
+      "B": "It presents the least important information first and the most technical information last.",
+      "C": "It compares two unrelated restoration methods in order of cost.",
+      "D": "It delays identifying the mosaic until readers already understand the repair process."
+    },
+    "correct": "A",
+    "explanation": "The stated sequence follows a clear problem-solution-result structure. The other choices misdescribe the passage's content or order."
+  },
+  {
+    "id": "EN1-028",
+    "prompt": "In a passage about students testing a sensor in the school greenhouse, the writer says, “Nora recorded the temperature <u>and Malik measured the moisture in the soil.</u>” Which choice correctly punctuates the two independent clauses?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", and Malik measured the moisture in the soil.",
+      "C": "and, Malik measured the moisture in the soil.",
+      "D": "; and Malik measured the moisture in the soil."
+    },
+    "correct": "B",
+    "explanation": "A comma before “and” correctly joins the two independent clauses. A semicolon should not be paired with the coordinating conjunction in this construction."
+  },
+  {
+    "id": "EN1-029",
+    "prompt": "The passage describes the sensor system: “The row of tiny lights above the display <u>show</u> whether the soil is dry, damp, or wet.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have shown",
+      "C": "shows",
+      "D": "were showing"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “row” requires the singular verb “shows.” The plural noun “lights” is inside a prepositional phrase and does not determine the verb."
+  },
+  {
+    "id": "EN1-030",
+    "prompt": "The writer states, “Nora placed the sensor beside the watering can before <u>it</u> was carried to the back table.” The writer wants to make clear that the sensor was carried. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "that object",
+      "C": "the watering can",
+      "D": "the sensor"
+    },
+    "correct": "D",
+    "explanation": "Replacing “it” with “the sensor” clearly identifies what was carried. The original pronoun could refer to either the sensor or the watering can."
+  },
+  {
+    "id": "EN1-031",
+    "prompt": "The greenhouse passage explains an experiment conducted last month: “For five school days, the device checked the soil each hour and <u>sends</u> the results to a tablet.” Which choice best maintains consistent verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "sent",
+      "C": "is sending",
+      "D": "will send"
+    },
+    "correct": "B",
+    "explanation": "“Sent” matches the past-tense verb “checked” and the completed time frame “last month.” The other choices create an unnecessary shift in tense."
+  },
+  {
+    "id": "EN1-032",
+    "prompt": "The writer describes Nora reading the results: “<u>After examining the chart, the afternoon temperatures surprised Nora.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "After examining the chart, the afternoon temperatures were surprising.",
+      "B": "The afternoon temperatures, after examining the chart, surprised Nora.",
+      "C": "After examining the chart, Nora was surprised by the afternoon temperatures.",
+      "D": "Nora, the afternoon temperatures surprised her after examining the chart."
+    },
+    "correct": "C",
+    "explanation": "This choice places Nora immediately after the introductory phrase, correctly showing that she examined the chart. The original illogically suggests that the temperatures examined it."
+  },
+  {
+    "id": "EN1-033",
+    "prompt": "The passage contrasts the sensor with a student's observation: “Malik thought the soil looked <u>dry however, the sensor showed that it was still damp below the surface.</u>” Which choice correctly joins the independent clauses?",
+    "choices": {
+      "A": "dry, however, the sensor showed that it was still damp below the surface.",
+      "B": "dry; however, the sensor showed that it was still damp below the surface.",
+      "C": "dry however; the sensor showed that it was still damp below the surface.",
+      "D": "dry however the sensor showed that it was still damp below the surface."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly separates the independent clauses, and a comma follows the conjunctive adverb “however.” A comma before “however” alone creates a comma splice."
+  },
+  {
+    "id": "EN1-034",
+    "prompt": "The passage describes the class's data collection: “At the end of the week, the <u>students charts</u> revealed a pattern.” Which choice correctly forms the plural possessive?",
+    "choices": {
+      "A": "student's charts",
+      "B": "student's chart's",
+      "C": "students chart's",
+      "D": "students' charts"
+    },
+    "correct": "D",
+    "explanation": "The charts belong to multiple students, so the apostrophe follows the plural noun “students.” The other choices indicate one student or misuse apostrophes."
+  },
+  {
+    "id": "EN1-035",
+    "prompt": "In the greenhouse passage, the writer explains a change to the sensor: “The class moved the device because its first location <u>was not ideal in a perfect way</u> for collecting accurate readings.” Which choice is clearest and most concise?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "was not perfectly ideal",
+      "C": "was unsuitable",
+      "D": "had a lack of being ideal"
+    },
+    "correct": "C",
+    "explanation": "“Was unsuitable” states the idea clearly in two words. The other choices are wordy or repeat the meaning of “ideal” and “perfect.”"
+  },
+  {
+    "id": "EN1-036",
+    "prompt": "The passage uses a clear, explanatory style. It states, “When the soil dries, an electrical current moves through it less easily. <u>Basically, the sensor is pretty smart about dirt.</u>” Which choice best matches the passage's style while accurately connecting the idea to the device's function?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The sensor detects this change in conductivity and converts it into a moisture reading.",
+      "C": "Dirt tells the gadget what is going on, which is awesome.",
+      "D": "The sensor, in a manner of speaking, has a conversation with the soil."
+    },
+    "correct": "B",
+    "explanation": "This choice explains the function precisely and maintains the passage's informative style. The other choices are vague, conversational, or figurative."
+  },
+  {
+    "id": "EN1-037",
+    "prompt": "A passage about a greenhouse experiment begins, “On Monday morning, Nora pushed a metal probe into the soil beside a row of basil plants. A number flashed on the probe's small screen.” Which choice would most effectively introduce the passage's focus on testing whether a sensor could improve the class's watering schedule?",
+    "choices": {
+      "A": "The basil's bright leaves made the greenhouse smell fresh.",
+      "B": "Metal can be shaped into probes, wires, and many other objects.",
+      "C": "Nora wondered whether that number could tell the class when the plants actually needed water.",
+      "D": "Monday is the first day of the school week."
+    },
+    "correct": "C",
+    "explanation": "This sentence turns the opening observation into the question the class will test. The other choices do not introduce the passage's focus on the test."
+  },
+  {
+    "id": "EN1-038",
+    "prompt": "In a paragraph about testing a greenhouse soil sensor, the writer explains that students took readings every hour and entered them into a shared chart. The writer wants to emphasize why the repeated readings were useful. Which sentence would best accomplish this purpose?",
+    "choices": {
+      "A": "Several students used blue ink, while others used black ink.",
+      "B": "The tablet storing the chart had a protective green case.",
+      "C": "Hourly data allowed the class to see how quickly the soil dried at different times of day.",
+      "D": "A chart may contain rows, columns, labels, and numbers."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly explains the value of taking repeated readings. Details about ink, a tablet case, or the parts of a chart do not establish that value."
+  },
+  {
+    "id": "EN1-039",
+    "prompt": "A greenhouse passage includes the following paragraph:\n[1] The students first tested the moisture sensor beside the greenhouse door. [2] Each time the door opened, cool air reached the nearby soil. [3] _____ [4] After moving the sensor to a central planting bed, the class collected more consistent readings.\nWhich choice provides the most logical transition for sentence 3?",
+    "choices": {
+      "A": "For instance, the greenhouse also contained hanging baskets.",
+      "B": "Therefore, that location did not represent conditions throughout the greenhouse.",
+      "C": "Similarly, the class had tested thermometers in science class.",
+      "D": "Meanwhile, the door's hinges had recently been oiled."
+    },
+    "correct": "B",
+    "explanation": "This sentence states the result of the cool air affecting soil near the door and prepares readers for the sensor's relocation. The other choices are unrelated to that cause-and-effect sequence."
+  },
+  {
+    "id": "EN1-040",
+    "prompt": "At the end of a passage about testing a soil sensor, the writer explains that the class used the data to water the basil only when the soil became dry. Which concluding sentence best reinforces the passage's main idea without exaggerating the experiment's results?",
+    "choices": {
+      "A": "The small trial showed the class that careful measurements could guide an everyday decision in the greenhouse.",
+      "B": "The experiment proved that electronic sensors can solve every problem gardeners face.",
+      "C": "Clearly, people should never water a plant unless a digital device gives permission.",
+      "D": "Basil is one of many herbs used in kitchens around the world."
+    },
+    "correct": "A",
+    "explanation": "This conclusion accurately summarizes what the limited experiment demonstrated. The other choices exaggerate the result or shift away from the passage's main idea."
+  },
+  {
+    "id": "M1-001",
+    "prompt": "Which of the following numbers is greatest?",
+    "choices": {
+      "A": "−0.82",
+      "B": "−0.78",
+      "C": "−0.75",
+      "D": "−0.70",
+      "E": "−0.71"
+    },
+    "correct": "D",
+    "explanation": "Among negative numbers, the number closest to 0 is greatest. Of the choices, −0.70 is closest to 0."
+  },
+  {
+    "id": "M1-002",
+    "prompt": "What value of x satisfies 5x − 7 = 18?",
+    "choices": {
+      "A": "2",
+      "B": "5",
+      "C": "7",
+      "D": "11/5",
+      "E": "25"
+    },
+    "correct": "B",
+    "explanation": "Add 7 to both sides to get 5x = 25, and then divide by 5 to get x = 5."
+  },
+  {
+    "id": "M1-003",
+    "prompt": "Two angles form a linear pair. If one angle measures 68°, what is the measure of the other angle?",
+    "choices": {
+      "A": "22°",
+      "B": "68°",
+      "C": "102°",
+      "D": "112°",
+      "E": "248°"
+    },
+    "correct": "D",
+    "explanation": "Angles in a linear pair sum to 180°, so the other angle measures 180° − 68° = 112°."
+  },
+  {
+    "id": "M1-004",
+    "prompt": "A tank contains 50 gallons of water at time t = 0. Water drains at a constant rate. The table shows the amount W of water in the tank at several times.\n\nt (minutes) | 0 | 2 | 4 | 6\nW (gallons) | 50 | 42 | 34 | 26\n\nWhich equation gives W in terms of t?",
+    "choices": {
+      "A": "W = 50 − 4t",
+      "B": "W = 50 − 8t",
+      "C": "W = 50 + 4t",
+      "D": "W = 4t",
+      "E": "W = 25 − 4t"
+    },
+    "correct": "A",
+    "explanation": "The tank starts with 50 gallons. Its amount decreases by 8 gallons every 2 minutes, so the rate is −4 gallons per minute and W = 50 − 4t."
+  },
+  {
+    "id": "M1-005",
+    "prompt": "What is the median of the data set 4, 6, 7, 9, 14?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "8.5",
+      "E": "9"
+    },
+    "correct": "B",
+    "explanation": "The data are already ordered, and the middle of the 5 values is 7."
+  },
+  {
+    "id": "M1-006",
+    "prompt": "What is (3.2 × 10⁵)(4 × 10⁻²) written in scientific notation?",
+    "choices": {
+      "A": "1.28 × 10³",
+      "B": "1.28 × 10⁴",
+      "C": "1.28 × 10⁷",
+      "D": "12.8 × 10⁴",
+      "E": "12.8 × 10⁷"
+    },
+    "correct": "B",
+    "explanation": "Multiply the coefficients and powers: 3.2 × 4 = 12.8 and 10⁵ × 10⁻² = 10³. Thus, 12.8 × 10³ = 1.28 × 10⁴."
+  },
+  {
+    "id": "M1-007",
+    "prompt": "A jacket has an original price of $80. It is discounted by 25%, and then 5% sales tax is applied to the discounted price. What is the final price?",
+    "choices": {
+      "A": "$59",
+      "B": "$60",
+      "C": "$63",
+      "D": "$64",
+      "E": "$84"
+    },
+    "correct": "C",
+    "explanation": "The discounted price is $80 × 0.75 = $60. Applying 5% tax gives $60 × 1.05 = $63."
+  },
+  {
+    "id": "M1-008",
+    "prompt": "A recipe uses 2.5 cups of flour to make 20 muffins. At the same rate, how many cups of flour are needed to make 34 muffins?",
+    "choices": {
+      "A": "3.4 cups",
+      "B": "4 cups",
+      "C": "4.25 cups",
+      "D": "5 cups",
+      "E": "6.8 cups"
+    },
+    "correct": "C",
+    "explanation": "The unit rate is 2.5 ÷ 20 = 0.125 cup per muffin. For 34 muffins, 34 × 0.125 = 4.25 cups."
+  },
+  {
+    "id": "M1-009",
+    "prompt": "A rectangular playground is 6 meters wide and 8 meters long. A straight path is built from one corner to the opposite corner. How long is the path?",
+    "choices": {
+      "A": "7 meters",
+      "B": "10 meters",
+      "C": "12 meters",
+      "D": "14 meters",
+      "E": "48 meters"
+    },
+    "correct": "B",
+    "explanation": "The path is the hypotenuse of a right triangle with legs 6 and 8. Its length is √(6² + 8²) = √100 = 10 meters."
+  },
+  {
+    "id": "M1-010",
+    "prompt": "A fair spinner is divided into 8 equal sections numbered 1 through 8. What is the probability that the spinner lands on an even number?",
+    "choices": {
+      "A": "1/8",
+      "B": "1/4",
+      "C": "3/8",
+      "D": "1/2",
+      "E": "5/8"
+    },
+    "correct": "D",
+    "explanation": "Four of the 8 equally likely numbers, 2, 4, 6, and 8, are even, so the probability is 4/8 = 1/2."
+  },
+  {
+    "id": "M1-011",
+    "prompt": "What is the value of √81 + ∛64?",
+    "choices": {
+      "A": "7",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "17"
+    },
+    "correct": "D",
+    "explanation": "√81 = 9 and ∛64 = 4, so √81 + ∛64 = 9 + 4 = 13."
+  },
+  {
+    "id": "M1-012",
+    "prompt": "The first term of an arithmetic sequence is 7, and each term after the first is 4 greater than the preceding term. What is the eighth term?",
+    "choices": {
+      "A": "32",
+      "B": "35",
+      "C": "39",
+      "D": "56",
+      "E": "63"
+    },
+    "correct": "B",
+    "explanation": "Seven increases of 4 occur from the first term to the eighth term, so the eighth term is 7 + 7 × 4 = 35."
+  },
+  {
+    "id": "M1-013",
+    "prompt": "A club has $260 to spend on a trip. A reservation fee costs $44, and each student ticket costs $18. What is the greatest number of student tickets the club can buy without exceeding its budget?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "14"
+    },
+    "correct": "C",
+    "explanation": "After the $44 fee, $216 remains. Since $216 ÷ $18 = 12, the club can buy at most 12 student tickets."
+  },
+  {
+    "id": "M1-014",
+    "prompt": "Point P has coordinates (3, −2). Point P is rotated 90° counterclockwise about the origin. What are the coordinates of the image of P?",
+    "choices": {
+      "A": "(−3, 2)",
+      "B": "(−2, −3)",
+      "C": "(−2, 3)",
+      "D": "(2, −3)",
+      "E": "(2, 3)"
+    },
+    "correct": "E",
+    "explanation": "A 90° counterclockwise rotation maps (x, y) to (−y, x). Thus, (3, −2) maps to (2, 3)."
+  },
+  {
+    "id": "M1-015",
+    "prompt": "The table shows whether 120 students participate in band.\n\n          | In band | Not in band | Total\nGrade 8   | 18      | 42          | 60\nGrade 9   | 27      | 33          | 60\nTotal     | 45      | 75          | 120\n\nOne student is chosen at random from the students who are in band. What is the probability that the chosen student is in Grade 9?",
+    "choices": {
+      "A": "3/20",
+      "B": "9/40",
+      "C": "2/5",
+      "D": "3/5",
+      "E": "3/4"
+    },
+    "correct": "D",
+    "explanation": "Of the 45 students in band, 27 are in Grade 9. The probability is 27/45 = 3/5."
+  },
+  {
+    "id": "M1-016",
+    "prompt": "A printer prints 18 pages in 45 seconds at a constant rate. How many pages does it print in 5 minutes?",
+    "choices": {
+      "A": "90",
+      "B": "100",
+      "C": "108",
+      "D": "120",
+      "E": "135"
+    },
+    "correct": "D",
+    "explanation": "Five minutes is 300 seconds. At 18 pages per 45 seconds, the printer produces (18/45) × 300 = 120 pages."
+  },
+  {
+    "id": "M1-017",
+    "prompt": "At a school play, 23 adult and student tickets were sold for a total of $188. Adult tickets cost $11 each, and student tickets cost $6 each. How many student tickets were sold?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "13",
+      "E": "15"
+    },
+    "correct": "D",
+    "explanation": "Let a and s be the numbers of adult and student tickets. Then a + s = 23 and 11a + 6s = 188. Substituting a = 23 − s gives 253 − 5s = 188, so s = 13."
+  },
+  {
+    "id": "M1-018",
+    "prompt": "A laboratory culture begins with 40 cells. The number of cells triples every 2 hours. How many cells are in the culture after 6 hours?",
+    "choices": {
+      "A": "120",
+      "B": "360",
+      "C": "720",
+      "D": "1,080",
+      "E": "3,240"
+    },
+    "correct": "D",
+    "explanation": "Six hours contains 3 two-hour periods. Tripling 3 times gives 40 × 3³ = 40 × 27 = 1,080 cells."
+  },
+  {
+    "id": "M1-019",
+    "prompt": "A cylindrical grain container has an interior radius of 3 meters and an interior height of 5 meters. What is its interior volume?",
+    "choices": {
+      "A": "15π cubic meters",
+      "B": "30π cubic meters",
+      "C": "45π cubic meters",
+      "D": "75π cubic meters",
+      "E": "90π cubic meters"
+    },
+    "correct": "C",
+    "explanation": "A cylinder's volume is πr²h. With r = 3 and h = 5, the volume is π × 3² × 5 = 45π cubic meters."
+  },
+  {
+    "id": "M1-020",
+    "prompt": "A school wants to estimate the percentage of all its students who are satisfied with the cafeteria. Which sampling method is most likely to produce a representative sample?",
+    "choices": {
+      "A": "Survey the first 100 students who enter the cafeteria on Monday.",
+      "B": "Survey every student on the basketball teams.",
+      "C": "Randomly select 25 students from each grade.",
+      "D": "Ask students to complete an optional survey posted on the cafeteria door.",
+      "E": "Survey 100 students who bring lunch from home."
+    },
+    "correct": "C",
+    "explanation": "Randomly selecting students from every grade includes the whole school population while reducing grade-level selection bias."
+  },
+  {
+    "id": "M1-021",
+    "prompt": "What is the value of (2³ × 2⁵) ÷ 2⁴?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16",
+      "E": "256"
+    },
+    "correct": "D",
+    "explanation": "Using exponent rules gives 2³⁺⁵⁻⁴ = 2⁴ = 16."
+  },
+  {
+    "id": "M1-022",
+    "prompt": "The equation x² − 7x + 12 = 0 has two solutions. What is the greater solution?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6",
+      "E": "12"
+    },
+    "correct": "C",
+    "explanation": "Factoring gives x² − 7x + 12 = (x − 3)(x − 4), so the solutions are 3 and 4. The greater solution is 4."
+  },
+  {
+    "id": "M1-023",
+    "prompt": "A taxi ride costs $3.50 plus $2.25 for each mile traveled. If a rider can spend at most $17.00, what is the greatest whole number of miles the rider can travel?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "8"
+    },
+    "correct": "C",
+    "explanation": "The cost must satisfy 3.50 + 2.25m ≤ 17.00. Thus, 2.25m ≤ 13.50, so m ≤ 6; the greatest whole number is 6."
+  },
+  {
+    "id": "M1-024",
+    "prompt": "Two triangles are similar. The side lengths of the smaller triangle are 6, 9, and 12 centimeters. The shortest side of the larger triangle is 10 centimeters. What is the length of the side of the larger triangle that corresponds to the 9-centimeter side?",
+    "choices": {
+      "A": "12 centimeters",
+      "B": "13.5 centimeters",
+      "C": "15 centimeters",
+      "D": "18 centimeters",
+      "E": "20 centimeters"
+    },
+    "correct": "C",
+    "explanation": "The scale factor from the smaller triangle to the larger triangle is 10/6 = 5/3. The corresponding side is 9 × 5/3 = 15 centimeters."
+  },
+  {
+    "id": "M1-025",
+    "prompt": "A linear model h = 1.8a + 52 estimates a plant's height h, in centimeters, after a weeks. According to the model, what height is predicted after 12 weeks?",
+    "choices": {
+      "A": "64.0 centimeters",
+      "B": "70.2 centimeters",
+      "C": "72.0 centimeters",
+      "D": "73.6 centimeters",
+      "E": "74.8 centimeters"
+    },
+    "correct": "D",
+    "explanation": "Substitute a = 12 into the model: h = 1.8(12) + 52 = 21.6 + 52 = 73.6 centimeters."
+  },
+  {
+    "id": "M1-026",
+    "prompt": "A rectangular patio is 12 meters long and 8 meters wide. A path 1 meter wide is built around the outside of all four sides of the patio. Paving the path costs $18 per square meter. What is the total paving cost?",
+    "choices": {
+      "A": "$396",
+      "B": "$612",
+      "C": "$720",
+      "D": "$792",
+      "E": "$2,520"
+    },
+    "correct": "D",
+    "explanation": "The outer dimensions are 14 meters by 10 meters, so the path's area is (14 × 10) − (12 × 8) = 140 − 96 = 44 square meters. The cost is 44 × $18 = $792."
+  },
+  {
+    "id": "M1-027",
+    "prompt": "What value of x satisfies 3(2x − 5) − 4 = 2(x + 7) + 3?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "9",
+      "E": "12"
+    },
+    "correct": "D",
+    "explanation": "Expanding gives 6x − 19 = 2x + 17. Then 4x = 36, so x = 9."
+  },
+  {
+    "id": "M1-028",
+    "prompt": "Which of the following numbers is irrational?",
+    "choices": {
+      "A": "√49",
+      "B": "0.121212…",
+      "C": "5/11",
+      "D": "∛27",
+      "E": "√18"
+    },
+    "correct": "E",
+    "explanation": "√49 = 7, 0.121212… is a repeating decimal, 5/11 is a ratio of integers, and ∛27 = 3, so those four numbers are rational. Since 18 is not a perfect square, √18 is irrational."
+  },
+  {
+    "id": "M1-029",
+    "prompt": "What is the distance between the points (−2, 1) and (4, 9) in the coordinate plane?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14",
+      "E": "100"
+    },
+    "correct": "B",
+    "explanation": "The horizontal change is 6 and the vertical change is 8. The distance is √(6² + 8²) = √100 = 10."
+  },
+  {
+    "id": "M1-030",
+    "prompt": "A linear function p passes through the points (−2, 7) and (4, −5). What is p(1)?",
+    "choices": {
+      "A": "−1",
+      "B": "0",
+      "C": "1",
+      "D": "3",
+      "E": "5"
+    },
+    "correct": "C",
+    "explanation": "The slope is (−5 − 7)/(4 − (−2)) = −12/6 = −2. Using (−2, 7) gives p(x) = −2x + 3, so p(1) = 1."
+  },
+  {
+    "id": "M1-031",
+    "prompt": "One integer is selected at random from the integers 1 through 30. What is the probability that the selected integer is a multiple of 4 or a multiple of 6?",
+    "choices": {
+      "A": "1/5",
+      "B": "4/15",
+      "C": "1/3",
+      "D": "2/5",
+      "E": "7/15"
+    },
+    "correct": "C",
+    "explanation": "There are 7 multiples of 4 and 5 multiples of 6 from 1 through 30. The 2 common multiples, 12 and 24, were counted twice, so there are 7 + 5 − 2 = 10 favorable integers. The probability is 10/30 = 1/3."
+  },
+  {
+    "id": "M1-032",
+    "prompt": "An aquarium has a rectangular base that is 60 centimeters by 30 centimeters. Water is added at a constant rate, causing the water depth to rise from 12 centimeters to 20 centimeters in 6 minutes. At what rate is water added? Use 1,000 cubic centimeters = 1 liter.",
+    "choices": {
+      "A": "1.8 liters per minute",
+      "B": "2.0 liters per minute",
+      "C": "2.4 liters per minute",
+      "D": "8.0 liters per minute",
+      "E": "14.4 liters per minute"
+    },
+    "correct": "C",
+    "explanation": "The depth increases by 8 centimeters, so the added volume is 60 × 30 × 8 = 14,400 cubic centimeters, or 14.4 liters. Over 6 minutes, the rate is 14.4 ÷ 6 = 2.4 liters per minute."
+  },
+  {
+    "id": "M1-033",
+    "prompt": "A school store buys 48 items consisting only of notebooks and binders. Each notebook costs $2.50, each binder costs $6.50, and the total cost is $188. How many binders does the store buy?",
+    "choices": {
+      "A": "14",
+      "B": "16",
+      "C": "17",
+      "D": "24",
+      "E": "31"
+    },
+    "correct": "C",
+    "explanation": "If all 48 items were notebooks, they would cost $120. Each binder replacing a notebook adds $4, and $188 − $120 = $68. Therefore, the number of binders is $68 ÷ $4 = 17."
+  },
+  {
+    "id": "M1-034",
+    "prompt": "A scale model of a rectangular storage room uses a scale of 1:40. The model's interior dimensions are 12 centimeters by 7.5 centimeters by 5 centimeters. What is the actual interior volume of the storage room in cubic meters?",
+    "choices": {
+      "A": "7.2 cubic meters",
+      "B": "18 cubic meters",
+      "C": "28.8 cubic meters",
+      "D": "72 cubic meters",
+      "E": "288 cubic meters"
+    },
+    "correct": "C",
+    "explanation": "Multiplying each model dimension by 40 gives actual dimensions of 480, 300, and 200 centimeters, or 4.8, 3, and 2 meters. The volume is 4.8 × 3 × 2 = 28.8 cubic meters."
+  },
+  {
+    "id": "M1-035",
+    "prompt": "A delivery company recorded these delivery times, in minutes, for 5 packages: 18, 20, 20, 22, 25. A sixth delivery time of 40 minutes is added to the data set. Which statement correctly compares the mean and median before and after the sixth time is added?",
+    "choices": {
+      "A": "The mean increases by 1 minute, and the median increases by 19/6 minutes.",
+      "B": "The mean increases by 19/6 minutes, and the median increases by 1 minute.",
+      "C": "The mean increases by 4 minutes, and the median does not change.",
+      "D": "The mean and median each increase by 19/6 minutes.",
+      "E": "The mean and median each increase by 1 minute."
+    },
+    "correct": "B",
+    "explanation": "Originally, the mean is 105 ÷ 5 = 21 and the median is 20. With 40 added, the mean is 145/6, an increase of 145/6 − 21 = 19/6, and the median is (20 + 22) ÷ 2 = 21, an increase of 1."
+  },
+  {
+    "id": "R1-001",
+    "prompt": "Passage:\nThe Bell Above the Door\n\nMara had passed Bellini Bicycle Repair every afternoon of her life, but the shop had never looked as narrow as it did with the shades pulled down. Her grandfather had closed it three months earlier after hurting his knee. He still said he was “taking a break,” although dust had begun to soften the outlines of the pumps and wrenches in the window.\n\nFor the school’s Main Street history night, Mara’s class was collecting sounds that people remembered: the noon whistle, the click of the old library stamp, the rattle of a delivery cart. Mara wanted the brass bell above the bicycle shop door. It had announced muddy children, serious racers, and parents carrying tiny bikes with bent training wheels.\n\n“Just for one evening,” Mara told her grandfather. “We’ll put it beside a recording of people talking about the shop.”\n\nGrandfather Dario polished his glasses even though they were already clean. “Museums are for things that are finished.” His voice was thin and careful. “That bell still belongs where it is.”\n\nOn Saturday, Mara went to help him sort receipts. Inside, the shop smelled of rubber and the lemon oil he used on wooden handles. Grandfather sat behind the counter, placing papers into piles but moving none of them into the empty boxes. Mara decided not to mention the bell. She wiped shelves instead.\n\nNear noon, the door pushed open. The bell gave one bright note, and a boy named Elliot leaned in with his bicycle chain hanging loose. “I know you’re closed,” he said, “but my mom’s at work, and I have to get across town.”\n\nGrandfather was already reaching for his apron. He stopped when his knee met the edge of the counter. Mara brought the bicycle to the repair stand. Following his directions, she loosened the rear wheel, guided the chain back onto its gears, and tightened everything again. Grandfather checked her work with two quick turns of a wrench.\n\nWhen Elliot rode away, the bell rang a second time. To Mara, it sounded less like an object from the past than the shop waking from a nap.\n\n“What if the exhibit isn’t a museum?” she asked. Her first plan had been to borrow the bell and place it under a sign. Now she described a Saturday repair table in the school courtyard. Grandfather could demonstrate simple fixes from a chair, while Mara and other students did the lifting. They could hang the bell on a wooden frame so each visitor made it ring on arrival. The recording could include new voices as well as old memories.\n\nGrandfather looked toward the door. “A bell needs a door,” he said.\n\nMara waited.\n\n“So we’ll build it a little one,” he continued. He opened one of the empty boxes, then closed it again. “And on Monday, we put it back here.”\n\nAs they measured the doorway, Mara understood that they were not packing the shop away. They were making room for its next use.\n\nQuestion:\nWhy does Grandfather Dario initially refuse to lend the bell?",
+    "choices": {
+      "A": "He doubts that the school can make a clear recording of it.",
+      "B": "He worries that displaying it would suggest the shop’s story is over.",
+      "C": "He wants to sell it to pay for repairs to the shop.",
+      "D": "He thinks the bell is too fragile to remove from the doorway."
+    },
+    "correct": "B",
+    "explanation": "Grandfather says museums are for things that are finished and insists the bell still belongs in the shop. His response shows that he fears the display would treat the shop as a completed chapter."
+  },
+  {
+    "id": "R1-002",
+    "prompt": "Passage:\nThe Bell Above the Door\n\nMara had passed Bellini Bicycle Repair every afternoon of her life, but the shop had never looked as narrow as it did with the shades pulled down. Her grandfather had closed it three months earlier after hurting his knee. He still said he was “taking a break,” although dust had begun to soften the outlines of the pumps and wrenches in the window.\n\nFor the school’s Main Street history night, Mara’s class was collecting sounds that people remembered: the noon whistle, the click of the old library stamp, the rattle of a delivery cart. Mara wanted the brass bell above the bicycle shop door. It had announced muddy children, serious racers, and parents carrying tiny bikes with bent training wheels.\n\n“Just for one evening,” Mara told her grandfather. “We’ll put it beside a recording of people talking about the shop.”\n\nGrandfather Dario polished his glasses even though they were already clean. “Museums are for things that are finished.” His voice was thin and careful. “That bell still belongs where it is.”\n\nOn Saturday, Mara went to help him sort receipts. Inside, the shop smelled of rubber and the lemon oil he used on wooden handles. Grandfather sat behind the counter, placing papers into piles but moving none of them into the empty boxes. Mara decided not to mention the bell. She wiped shelves instead.\n\nNear noon, the door pushed open. The bell gave one bright note, and a boy named Elliot leaned in with his bicycle chain hanging loose. “I know you’re closed,” he said, “but my mom’s at work, and I have to get across town.”\n\nGrandfather was already reaching for his apron. He stopped when his knee met the edge of the counter. Mara brought the bicycle to the repair stand. Following his directions, she loosened the rear wheel, guided the chain back onto its gears, and tightened everything again. Grandfather checked her work with two quick turns of a wrench.\n\nWhen Elliot rode away, the bell rang a second time. To Mara, it sounded less like an object from the past than the shop waking from a nap.\n\n“What if the exhibit isn’t a museum?” she asked. Her first plan had been to borrow the bell and place it under a sign. Now she described a Saturday repair table in the school courtyard. Grandfather could demonstrate simple fixes from a chair, while Mara and other students did the lifting. They could hang the bell on a wooden frame so each visitor made it ring on arrival. The recording could include new voices as well as old memories.\n\nGrandfather looked toward the door. “A bell needs a door,” he said.\n\nMara waited.\n\n“So we’ll build it a little one,” he continued. He opened one of the empty boxes, then closed it again. “And on Monday, we put it back here.”\n\nAs they measured the doorway, Mara understood that they were not packing the shop away. They were making room for its next use.\n\nQuestion:\nIt can reasonably be inferred that Mara decides not to mention the bell while sorting receipts because she:",
+    "choices": {
+      "A": "has already found a different sound for the exhibit.",
+      "B": "believes her grandfather has forgotten their earlier conversation.",
+      "C": "expects Elliot to arrive and change her grandfather’s mind.",
+      "D": "recognizes that the subject is emotionally difficult for her grandfather."
+    },
+    "correct": "D",
+    "explanation": "After seeing that he moves no papers into the boxes and reacts carefully to the bell request, Mara avoids raising the subject again. These details show that she recognizes his discomfort."
+  },
+  {
+    "id": "R1-003",
+    "prompt": "Passage:\nThe Bell Above the Door\n\nMara had passed Bellini Bicycle Repair every afternoon of her life, but the shop had never looked as narrow as it did with the shades pulled down. Her grandfather had closed it three months earlier after hurting his knee. He still said he was “taking a break,” although dust had begun to soften the outlines of the pumps and wrenches in the window.\n\nFor the school’s Main Street history night, Mara’s class was collecting sounds that people remembered: the noon whistle, the click of the old library stamp, the rattle of a delivery cart. Mara wanted the brass bell above the bicycle shop door. It had announced muddy children, serious racers, and parents carrying tiny bikes with bent training wheels.\n\n“Just for one evening,” Mara told her grandfather. “We’ll put it beside a recording of people talking about the shop.”\n\nGrandfather Dario polished his glasses even though they were already clean. “Museums are for things that are finished.” His voice was thin and careful. “That bell still belongs where it is.”\n\nOn Saturday, Mara went to help him sort receipts. Inside, the shop smelled of rubber and the lemon oil he used on wooden handles. Grandfather sat behind the counter, placing papers into piles but moving none of them into the empty boxes. Mara decided not to mention the bell. She wiped shelves instead.\n\nNear noon, the door pushed open. The bell gave one bright note, and a boy named Elliot leaned in with his bicycle chain hanging loose. “I know you’re closed,” he said, “but my mom’s at work, and I have to get across town.”\n\nGrandfather was already reaching for his apron. He stopped when his knee met the edge of the counter. Mara brought the bicycle to the repair stand. Following his directions, she loosened the rear wheel, guided the chain back onto its gears, and tightened everything again. Grandfather checked her work with two quick turns of a wrench.\n\nWhen Elliot rode away, the bell rang a second time. To Mara, it sounded less like an object from the past than the shop waking from a nap.\n\n“What if the exhibit isn’t a museum?” she asked. Her first plan had been to borrow the bell and place it under a sign. Now she described a Saturday repair table in the school courtyard. Grandfather could demonstrate simple fixes from a chair, while Mara and other students did the lifting. They could hang the bell on a wooden frame so each visitor made it ring on arrival. The recording could include new voices as well as old memories.\n\nGrandfather looked toward the door. “A bell needs a door,” he said.\n\nMara waited.\n\n“So we’ll build it a little one,” he continued. He opened one of the empty boxes, then closed it again. “And on Monday, we put it back here.”\n\nAs they measured the doorway, Mara understood that they were not packing the shop away. They were making room for its next use.\n\nQuestion:\nIn the sentence “His voice was thin and careful,” the words “thin and careful” most nearly suggest that Grandfather Dario is speaking:",
+    "choices": {
+      "A": "with restrained emotion.",
+      "B": "so quietly that Mara cannot hear him.",
+      "C": "with playful excitement.",
+      "D": "in a hurried and impatient way."
+    },
+    "correct": "A",
+    "explanation": "Grandfather polishes already-clean glasses and responds indirectly, so the phrase describes controlled, restrained emotion rather than a problem with volume."
+  },
+  {
+    "id": "R1-004",
+    "prompt": "Passage:\nThe Bell Above the Door\n\nMara had passed Bellini Bicycle Repair every afternoon of her life, but the shop had never looked as narrow as it did with the shades pulled down. Her grandfather had closed it three months earlier after hurting his knee. He still said he was “taking a break,” although dust had begun to soften the outlines of the pumps and wrenches in the window.\n\nFor the school’s Main Street history night, Mara’s class was collecting sounds that people remembered: the noon whistle, the click of the old library stamp, the rattle of a delivery cart. Mara wanted the brass bell above the bicycle shop door. It had announced muddy children, serious racers, and parents carrying tiny bikes with bent training wheels.\n\n“Just for one evening,” Mara told her grandfather. “We’ll put it beside a recording of people talking about the shop.”\n\nGrandfather Dario polished his glasses even though they were already clean. “Museums are for things that are finished.” His voice was thin and careful. “That bell still belongs where it is.”\n\nOn Saturday, Mara went to help him sort receipts. Inside, the shop smelled of rubber and the lemon oil he used on wooden handles. Grandfather sat behind the counter, placing papers into piles but moving none of them into the empty boxes. Mara decided not to mention the bell. She wiped shelves instead.\n\nNear noon, the door pushed open. The bell gave one bright note, and a boy named Elliot leaned in with his bicycle chain hanging loose. “I know you’re closed,” he said, “but my mom’s at work, and I have to get across town.”\n\nGrandfather was already reaching for his apron. He stopped when his knee met the edge of the counter. Mara brought the bicycle to the repair stand. Following his directions, she loosened the rear wheel, guided the chain back onto its gears, and tightened everything again. Grandfather checked her work with two quick turns of a wrench.\n\nWhen Elliot rode away, the bell rang a second time. To Mara, it sounded less like an object from the past than the shop waking from a nap.\n\n“What if the exhibit isn’t a museum?” she asked. Her first plan had been to borrow the bell and place it under a sign. Now she described a Saturday repair table in the school courtyard. Grandfather could demonstrate simple fixes from a chair, while Mara and other students did the lifting. They could hang the bell on a wooden frame so each visitor made it ring on arrival. The recording could include new voices as well as old memories.\n\nGrandfather looked toward the door. “A bell needs a door,” he said.\n\nMara waited.\n\n“So we’ll build it a little one,” he continued. He opened one of the empty boxes, then closed it again. “And on Monday, we put it back here.”\n\nAs they measured the doorway, Mara understood that they were not packing the shop away. They were making room for its next use.\n\nQuestion:\nWhat is the main function of the paragraph in which Elliot enters the shop?",
+    "choices": {
+      "A": "It explains why the school chose Main Street as the subject of its event.",
+      "B": "It proves that Mara has more repair experience than her grandfather.",
+      "C": "It introduces a practical need that reveals the shop can still serve people.",
+      "D": "It shows that the shop must reopen immediately as a full-time business."
+    },
+    "correct": "C",
+    "explanation": "Elliot’s loose chain gives Mara and her grandfather a real repair to complete. The incident demonstrates that the shop’s skills and tools still have a present use."
+  },
+  {
+    "id": "R1-005",
+    "prompt": "Passage:\nThe Bell Above the Door\n\nMara had passed Bellini Bicycle Repair every afternoon of her life, but the shop had never looked as narrow as it did with the shades pulled down. Her grandfather had closed it three months earlier after hurting his knee. He still said he was “taking a break,” although dust had begun to soften the outlines of the pumps and wrenches in the window.\n\nFor the school’s Main Street history night, Mara’s class was collecting sounds that people remembered: the noon whistle, the click of the old library stamp, the rattle of a delivery cart. Mara wanted the brass bell above the bicycle shop door. It had announced muddy children, serious racers, and parents carrying tiny bikes with bent training wheels.\n\n“Just for one evening,” Mara told her grandfather. “We’ll put it beside a recording of people talking about the shop.”\n\nGrandfather Dario polished his glasses even though they were already clean. “Museums are for things that are finished.” His voice was thin and careful. “That bell still belongs where it is.”\n\nOn Saturday, Mara went to help him sort receipts. Inside, the shop smelled of rubber and the lemon oil he used on wooden handles. Grandfather sat behind the counter, placing papers into piles but moving none of them into the empty boxes. Mara decided not to mention the bell. She wiped shelves instead.\n\nNear noon, the door pushed open. The bell gave one bright note, and a boy named Elliot leaned in with his bicycle chain hanging loose. “I know you’re closed,” he said, “but my mom’s at work, and I have to get across town.”\n\nGrandfather was already reaching for his apron. He stopped when his knee met the edge of the counter. Mara brought the bicycle to the repair stand. Following his directions, she loosened the rear wheel, guided the chain back onto its gears, and tightened everything again. Grandfather checked her work with two quick turns of a wrench.\n\nWhen Elliot rode away, the bell rang a second time. To Mara, it sounded less like an object from the past than the shop waking from a nap.\n\n“What if the exhibit isn’t a museum?” she asked. Her first plan had been to borrow the bell and place it under a sign. Now she described a Saturday repair table in the school courtyard. Grandfather could demonstrate simple fixes from a chair, while Mara and other students did the lifting. They could hang the bell on a wooden frame so each visitor made it ring on arrival. The recording could include new voices as well as old memories.\n\nGrandfather looked toward the door. “A bell needs a door,” he said.\n\nMara waited.\n\n“So we’ll build it a little one,” he continued. He opened one of the empty boxes, then closed it again. “And on Monday, we put it back here.”\n\nAs they measured the doorway, Mara understood that they were not packing the shop away. They were making room for its next use.\n\nQuestion:\nHow does Mara’s plan for the exhibit change after she repairs Elliot’s bicycle?",
+    "choices": {
+      "A": "She decides to replace the bicycle-shop display with a project about the library.",
+      "B": "She changes a static display into an event where people can take part in repairs and add new memories.",
+      "C": "She decides the bell should remain in the shop and not be included in any form.",
+      "D": "She changes the event from a school project into a plan to sell repaired bicycles."
+    },
+    "correct": "B",
+    "explanation": "Before the repair, Mara plans to display the bell with a recording. Afterward, she proposes a repair table where visitors ring the bell and help create new memories."
+  },
+  {
+    "id": "R1-006",
+    "prompt": "Passage:\nThe Bell Above the Door\n\nMara had passed Bellini Bicycle Repair every afternoon of her life, but the shop had never looked as narrow as it did with the shades pulled down. Her grandfather had closed it three months earlier after hurting his knee. He still said he was “taking a break,” although dust had begun to soften the outlines of the pumps and wrenches in the window.\n\nFor the school’s Main Street history night, Mara’s class was collecting sounds that people remembered: the noon whistle, the click of the old library stamp, the rattle of a delivery cart. Mara wanted the brass bell above the bicycle shop door. It had announced muddy children, serious racers, and parents carrying tiny bikes with bent training wheels.\n\n“Just for one evening,” Mara told her grandfather. “We’ll put it beside a recording of people talking about the shop.”\n\nGrandfather Dario polished his glasses even though they were already clean. “Museums are for things that are finished.” His voice was thin and careful. “That bell still belongs where it is.”\n\nOn Saturday, Mara went to help him sort receipts. Inside, the shop smelled of rubber and the lemon oil he used on wooden handles. Grandfather sat behind the counter, placing papers into piles but moving none of them into the empty boxes. Mara decided not to mention the bell. She wiped shelves instead.\n\nNear noon, the door pushed open. The bell gave one bright note, and a boy named Elliot leaned in with his bicycle chain hanging loose. “I know you’re closed,” he said, “but my mom’s at work, and I have to get across town.”\n\nGrandfather was already reaching for his apron. He stopped when his knee met the edge of the counter. Mara brought the bicycle to the repair stand. Following his directions, she loosened the rear wheel, guided the chain back onto its gears, and tightened everything again. Grandfather checked her work with two quick turns of a wrench.\n\nWhen Elliot rode away, the bell rang a second time. To Mara, it sounded less like an object from the past than the shop waking from a nap.\n\n“What if the exhibit isn’t a museum?” she asked. Her first plan had been to borrow the bell and place it under a sign. Now she described a Saturday repair table in the school courtyard. Grandfather could demonstrate simple fixes from a chair, while Mara and other students did the lifting. They could hang the bell on a wooden frame so each visitor made it ring on arrival. The recording could include new voices as well as old memories.\n\nGrandfather looked toward the door. “A bell needs a door,” he said.\n\nMara waited.\n\n“So we’ll build it a little one,” he continued. He opened one of the empty boxes, then closed it again. “And on Monday, we put it back here.”\n\nAs they measured the doorway, Mara understood that they were not packing the shop away. They were making room for its next use.\n\nQuestion:\nWhich choice best summarizes the passage?",
+    "choices": {
+      "A": "Mara’s effort to borrow a shop bell develops into a plan that honors the shop by continuing its usefulness.",
+      "B": "Mara secretly removes a bell, but a visiting customer persuades her to return it.",
+      "C": "Grandfather Dario teaches Mara to repair bicycles so that he can retire at once.",
+      "D": "A school exhibit fails because Mara and her grandfather disagree about local history."
+    },
+    "correct": "A",
+    "explanation": "The passage begins with Mara seeking a historical object and ends with a participatory repair event. The new plan respects the shop’s history by putting its purpose back into action."
+  },
+  {
+    "id": "R1-007",
+    "prompt": "Passage:\nPassage A: The Art of Vanishing\n\nEach spring, volunteers in my neighborhood cover one block of pavement with chalk designs. By evening, the street holds blue whales, family recipes written in looping letters, maps of imaginary cities, and handprints from children who cannot yet write their names. A hard rain may erase the whole display the next day.\n\nSome people ask why artists spend hours making work that will disappear. The question assumes that an artwork’s value sits only in the object left behind. Yet the chalk festival is also a public act. A passerby who would never enter a gallery may kneel to add a silver window to someone else’s castle. Strangers trade colors and stories. The changing picture records cooperation, even if that record lasts briefly.\n\nIts temporary nature also leaves space for correction and renewal. One year, a design blocked the curb cut used by wheelchairs. The artists noticed the problem, washed away that section, and redrew the path as a river flowing around an open bank. Because no one treated the first version as untouchable, the artwork improved. An empty street the following morning is not proof that the effort failed. It is an invitation to begin again.\n\nPassage B: Keeping the Wall in the Conversation\n\nOn the north wall of our community center is a mural painted forty years ago. It shows factory workers, gardeners, musicians, and students gathered around a long table. The factory has since become apartments, and the center’s music room has moved twice. Still, residents point to the mural when telling newcomers how the neighborhood sees itself.\n\nThe painting has survived because people have accepted custody of it. Custody does not mean sealing the mural away from change. Every few years, students interview longtime residents, study photographs of the original colors, and help conservators clean or repair small areas. During those sessions, people debate what the picture includes and what it leaves out. The care itself becomes a way of examining local history.\n\nLast year, some students proposed painting a new scene over the old one. Instead, the center installed removable panels beside it. The panels now display new artwork about the apartment residents and the bus drivers who begin their routes nearby. This solution does not pretend that the older mural tells the whole story. It allows the old and new images to question each other.\n\nTemporary art can make participation easy, but durable art offers a different gift: a shared object that several generations can revisit. Preservation should not freeze a community’s story. At its best, it keeps evidence of an earlier chapter present while the community adds the next one.\n\nQuestion:\nWhich choice best states the central idea of Passage A?",
+    "choices": {
+      "A": "Public art is valuable only when trained artists control its design.",
+      "B": "Weather should be prevented from changing outdoor artwork.",
+      "C": "Temporary art can be valuable because making and remaking it encourages public participation.",
+      "D": "Neighborhood festivals should focus on practical problems instead of art."
+    },
+    "correct": "C",
+    "explanation": "Passage A argues that chalk art matters through cooperation, correction, and renewal even when the image disappears."
+  },
+  {
+    "id": "R1-008",
+    "prompt": "Passage:\nPassage A: The Art of Vanishing\n\nEach spring, volunteers in my neighborhood cover one block of pavement with chalk designs. By evening, the street holds blue whales, family recipes written in looping letters, maps of imaginary cities, and handprints from children who cannot yet write their names. A hard rain may erase the whole display the next day.\n\nSome people ask why artists spend hours making work that will disappear. The question assumes that an artwork’s value sits only in the object left behind. Yet the chalk festival is also a public act. A passerby who would never enter a gallery may kneel to add a silver window to someone else’s castle. Strangers trade colors and stories. The changing picture records cooperation, even if that record lasts briefly.\n\nIts temporary nature also leaves space for correction and renewal. One year, a design blocked the curb cut used by wheelchairs. The artists noticed the problem, washed away that section, and redrew the path as a river flowing around an open bank. Because no one treated the first version as untouchable, the artwork improved. An empty street the following morning is not proof that the effort failed. It is an invitation to begin again.\n\nPassage B: Keeping the Wall in the Conversation\n\nOn the north wall of our community center is a mural painted forty years ago. It shows factory workers, gardeners, musicians, and students gathered around a long table. The factory has since become apartments, and the center’s music room has moved twice. Still, residents point to the mural when telling newcomers how the neighborhood sees itself.\n\nThe painting has survived because people have accepted custody of it. Custody does not mean sealing the mural away from change. Every few years, students interview longtime residents, study photographs of the original colors, and help conservators clean or repair small areas. During those sessions, people debate what the picture includes and what it leaves out. The care itself becomes a way of examining local history.\n\nLast year, some students proposed painting a new scene over the old one. Instead, the center installed removable panels beside it. The panels now display new artwork about the apartment residents and the bus drivers who begin their routes nearby. This solution does not pretend that the older mural tells the whole story. It allows the old and new images to question each other.\n\nTemporary art can make participation easy, but durable art offers a different gift: a shared object that several generations can revisit. Preservation should not freeze a community’s story. At its best, it keeps evidence of an earlier chapter present while the community adds the next one.\n\nQuestion:\nWhich description best characterizes the author’s perspective in Passage A?",
+    "choices": {
+      "A": "The author is disappointed that temporary art cannot be sold to museums.",
+      "B": "The author is neutral and lists equal arguments for and against chalk art.",
+      "C": "The author opposes changing an artwork after its first version is complete.",
+      "D": "The author values the shared activity of creating art as much as the finished image."
+    },
+    "correct": "D",
+    "explanation": "The author calls the festival a public act and describes strangers adding to one another’s work. These details show that the shared process is central to the author’s view of value."
+  },
+  {
+    "id": "R1-009",
+    "prompt": "Passage:\nPassage A: The Art of Vanishing\n\nEach spring, volunteers in my neighborhood cover one block of pavement with chalk designs. By evening, the street holds blue whales, family recipes written in looping letters, maps of imaginary cities, and handprints from children who cannot yet write their names. A hard rain may erase the whole display the next day.\n\nSome people ask why artists spend hours making work that will disappear. The question assumes that an artwork’s value sits only in the object left behind. Yet the chalk festival is also a public act. A passerby who would never enter a gallery may kneel to add a silver window to someone else’s castle. Strangers trade colors and stories. The changing picture records cooperation, even if that record lasts briefly.\n\nIts temporary nature also leaves space for correction and renewal. One year, a design blocked the curb cut used by wheelchairs. The artists noticed the problem, washed away that section, and redrew the path as a river flowing around an open bank. Because no one treated the first version as untouchable, the artwork improved. An empty street the following morning is not proof that the effort failed. It is an invitation to begin again.\n\nPassage B: Keeping the Wall in the Conversation\n\nOn the north wall of our community center is a mural painted forty years ago. It shows factory workers, gardeners, musicians, and students gathered around a long table. The factory has since become apartments, and the center’s music room has moved twice. Still, residents point to the mural when telling newcomers how the neighborhood sees itself.\n\nThe painting has survived because people have accepted custody of it. Custody does not mean sealing the mural away from change. Every few years, students interview longtime residents, study photographs of the original colors, and help conservators clean or repair small areas. During those sessions, people debate what the picture includes and what it leaves out. The care itself becomes a way of examining local history.\n\nLast year, some students proposed painting a new scene over the old one. Instead, the center installed removable panels beside it. The panels now display new artwork about the apartment residents and the bus drivers who begin their routes nearby. This solution does not pretend that the older mural tells the whole story. It allows the old and new images to question each other.\n\nTemporary art can make participation easy, but durable art offers a different gift: a shared object that several generations can revisit. Preservation should not freeze a community’s story. At its best, it keeps evidence of an earlier chapter present while the community adds the next one.\n\nQuestion:\nAccording to Passage B, how does caring for the mural help the community?",
+    "choices": {
+      "A": "It allows residents to avoid discussing changes in the neighborhood.",
+      "B": "It gives residents a reason to examine and discuss local history.",
+      "C": "It ensures that the mural presents every group in the neighborhood equally.",
+      "D": "It teaches students to reproduce the mural without assistance."
+    },
+    "correct": "B",
+    "explanation": "Passage B states that interviews, research, cleaning, and repair lead people to debate what the mural includes and omits, making care a way to examine history."
+  },
+  {
+    "id": "R1-010",
+    "prompt": "Passage:\nPassage A: The Art of Vanishing\n\nEach spring, volunteers in my neighborhood cover one block of pavement with chalk designs. By evening, the street holds blue whales, family recipes written in looping letters, maps of imaginary cities, and handprints from children who cannot yet write their names. A hard rain may erase the whole display the next day.\n\nSome people ask why artists spend hours making work that will disappear. The question assumes that an artwork’s value sits only in the object left behind. Yet the chalk festival is also a public act. A passerby who would never enter a gallery may kneel to add a silver window to someone else’s castle. Strangers trade colors and stories. The changing picture records cooperation, even if that record lasts briefly.\n\nIts temporary nature also leaves space for correction and renewal. One year, a design blocked the curb cut used by wheelchairs. The artists noticed the problem, washed away that section, and redrew the path as a river flowing around an open bank. Because no one treated the first version as untouchable, the artwork improved. An empty street the following morning is not proof that the effort failed. It is an invitation to begin again.\n\nPassage B: Keeping the Wall in the Conversation\n\nOn the north wall of our community center is a mural painted forty years ago. It shows factory workers, gardeners, musicians, and students gathered around a long table. The factory has since become apartments, and the center’s music room has moved twice. Still, residents point to the mural when telling newcomers how the neighborhood sees itself.\n\nThe painting has survived because people have accepted custody of it. Custody does not mean sealing the mural away from change. Every few years, students interview longtime residents, study photographs of the original colors, and help conservators clean or repair small areas. During those sessions, people debate what the picture includes and what it leaves out. The care itself becomes a way of examining local history.\n\nLast year, some students proposed painting a new scene over the old one. Instead, the center installed removable panels beside it. The panels now display new artwork about the apartment residents and the bus drivers who begin their routes nearby. This solution does not pretend that the older mural tells the whole story. It allows the old and new images to question each other.\n\nTemporary art can make participation easy, but durable art offers a different gift: a shared object that several generations can revisit. Preservation should not freeze a community’s story. At its best, it keeps evidence of an earlier chapter present while the community adds the next one.\n\nQuestion:\nAs used in Passage B, “custody” most nearly means:",
+    "choices": {
+      "A": "responsibility for care.",
+      "B": "legal punishment.",
+      "C": "private ownership for profit.",
+      "D": "freedom from public attention."
+    },
+    "correct": "A",
+    "explanation": "The community accepts ongoing responsibility to clean, repair, and discuss the mural, so “custody” means responsibility for its care."
+  },
+  {
+    "id": "R1-011",
+    "prompt": "Passage:\nPassage A: The Art of Vanishing\n\nEach spring, volunteers in my neighborhood cover one block of pavement with chalk designs. By evening, the street holds blue whales, family recipes written in looping letters, maps of imaginary cities, and handprints from children who cannot yet write their names. A hard rain may erase the whole display the next day.\n\nSome people ask why artists spend hours making work that will disappear. The question assumes that an artwork’s value sits only in the object left behind. Yet the chalk festival is also a public act. A passerby who would never enter a gallery may kneel to add a silver window to someone else’s castle. Strangers trade colors and stories. The changing picture records cooperation, even if that record lasts briefly.\n\nIts temporary nature also leaves space for correction and renewal. One year, a design blocked the curb cut used by wheelchairs. The artists noticed the problem, washed away that section, and redrew the path as a river flowing around an open bank. Because no one treated the first version as untouchable, the artwork improved. An empty street the following morning is not proof that the effort failed. It is an invitation to begin again.\n\nPassage B: Keeping the Wall in the Conversation\n\nOn the north wall of our community center is a mural painted forty years ago. It shows factory workers, gardeners, musicians, and students gathered around a long table. The factory has since become apartments, and the center’s music room has moved twice. Still, residents point to the mural when telling newcomers how the neighborhood sees itself.\n\nThe painting has survived because people have accepted custody of it. Custody does not mean sealing the mural away from change. Every few years, students interview longtime residents, study photographs of the original colors, and help conservators clean or repair small areas. During those sessions, people debate what the picture includes and what it leaves out. The care itself becomes a way of examining local history.\n\nLast year, some students proposed painting a new scene over the old one. Instead, the center installed removable panels beside it. The panels now display new artwork about the apartment residents and the bus drivers who begin their routes nearby. This solution does not pretend that the older mural tells the whole story. It allows the old and new images to question each other.\n\nTemporary art can make participation easy, but durable art offers a different gift: a shared object that several generations can revisit. Preservation should not freeze a community’s story. At its best, it keeps evidence of an earlier chapter present while the community adds the next one.\n\nQuestion:\nThe passages differ mainly in that Passage A emphasizes:",
+    "choices": {
+      "A": "the cost of public artwork, while Passage B emphasizes who should pay for it.",
+      "B": "the accuracy of painted history, while Passage B emphasizes artistic skill.",
+      "C": "creation and renewal, while Passage B emphasizes preservation and continued reflection.",
+      "D": "children’s artwork, while Passage B argues that only adults should make murals."
+    },
+    "correct": "C",
+    "explanation": "Passage A focuses on a temporary image that can be revised and begun again. Passage B focuses on maintaining an older mural so generations can revisit and question it."
+  },
+  {
+    "id": "R1-012",
+    "prompt": "Passage:\nPassage A: The Art of Vanishing\n\nEach spring, volunteers in my neighborhood cover one block of pavement with chalk designs. By evening, the street holds blue whales, family recipes written in looping letters, maps of imaginary cities, and handprints from children who cannot yet write their names. A hard rain may erase the whole display the next day.\n\nSome people ask why artists spend hours making work that will disappear. The question assumes that an artwork’s value sits only in the object left behind. Yet the chalk festival is also a public act. A passerby who would never enter a gallery may kneel to add a silver window to someone else’s castle. Strangers trade colors and stories. The changing picture records cooperation, even if that record lasts briefly.\n\nIts temporary nature also leaves space for correction and renewal. One year, a design blocked the curb cut used by wheelchairs. The artists noticed the problem, washed away that section, and redrew the path as a river flowing around an open bank. Because no one treated the first version as untouchable, the artwork improved. An empty street the following morning is not proof that the effort failed. It is an invitation to begin again.\n\nPassage B: Keeping the Wall in the Conversation\n\nOn the north wall of our community center is a mural painted forty years ago. It shows factory workers, gardeners, musicians, and students gathered around a long table. The factory has since become apartments, and the center’s music room has moved twice. Still, residents point to the mural when telling newcomers how the neighborhood sees itself.\n\nThe painting has survived because people have accepted custody of it. Custody does not mean sealing the mural away from change. Every few years, students interview longtime residents, study photographs of the original colors, and help conservators clean or repair small areas. During those sessions, people debate what the picture includes and what it leaves out. The care itself becomes a way of examining local history.\n\nLast year, some students proposed painting a new scene over the old one. Instead, the center installed removable panels beside it. The panels now display new artwork about the apartment residents and the bus drivers who begin their routes nearby. This solution does not pretend that the older mural tells the whole story. It allows the old and new images to question each other.\n\nTemporary art can make participation easy, but durable art offers a different gift: a shared object that several generations can revisit. Preservation should not freeze a community’s story. At its best, it keeps evidence of an earlier chapter present while the community adds the next one.\n\nQuestion:\nWhich pair of details best supports the idea that both authors connect public art with community involvement?",
+    "choices": {
+      "A": "Passage A describes hard rain, and Passage B mentions that the music room moved.",
+      "B": "Passage A mentions blue whales, and Passage B describes factory workers in a mural.",
+      "C": "Passage A describes an empty street, and Passage B mentions apartments in a former factory.",
+      "D": "Passage A shows strangers adding to one design, and Passage B shows students interviewing residents while helping with repairs."
+    },
+    "correct": "D",
+    "explanation": "The details in this choice show people actively shaping or caring for the art in both passages, directly linking the artwork to community participation."
+  },
+  {
+    "id": "R1-013",
+    "prompt": "Passage:\nThe Last Five Minutes\n\nGroup discussions often end at their busiest moment. Participants gather evidence, challenge ideas, and then stop when a timer rings. A team of education researchers wondered whether the way a discussion ends affects what students remember and contribute later.\n\nThe researchers worked with eighteen after-school clubs for six weeks. Each club had eight to ten students in grades eight and nine. The clubs discussed practical questions, such as how to reduce lunchtime waste or design a quieter study space. The clubs were randomly assigned to one of three routines. In the first routine, students discussed for thirty-five minutes and stopped. In the second, they discussed for thirty minutes, after which the adult facilitator summarized for five minutes. In the third, they also discussed for thirty minutes, but a different student used the final five minutes to summarize each week. The student summarizer had to name the group’s main proposal, one piece of supporting evidence, and one question that remained unsettled.\n\nAt the start of the next meeting, students completed a brief recall check without looking at notes. They also wrote one possible improvement to the proposal from the previous week. Across the six weeks, students in the no-summary clubs recalled an average of 61 percent of the main points. Those who heard an adult summary recalled 69 percent. Students in the rotating-summary clubs recalled 78 percent and proposed a wider range of improvements.\n\nThe numbers did not reveal what students were thinking during the meetings, so the researchers conducted short interviews. Several students in the rotating-summary clubs said they listened for connections because they knew they might have to explain the conversation. One student remarked, “I used to wait for my turn to talk. Now I also notice what I would need to say if I had to wrap up.” Even students who were not that week’s summarizer reported paying closer attention to disagreements that the group had not resolved.\n\nThe researchers cautioned against claiming that a five-minute student summary will improve every discussion. The clubs came from one city, participation was voluntary, and the adult facilitators knew which routine their groups were using. In addition, the study measured recall after one week, not after several months. Still, comparing the two summary routines was useful: both used the same amount of discussion and summary time, but only one required students to organize the group’s thinking themselves.\n\nThe study suggests that an ending can do more than repeat what has been said. When responsibility for the summary rotates, the final minutes may change how students listen during all the minutes before them.\n\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "A rotating student summary may improve both later recall and the attention students give to a group discussion.",
+      "B": "Adult facilitators should allow every club discussion to continue beyond its scheduled time.",
+      "C": "Students remember practical topics better than they remember academic topics.",
+      "D": "Written notes are the only dependable way to measure what students recall."
+    },
+    "correct": "A",
+    "explanation": "The rotating-summary groups had the strongest recall and more varied improvements, while interviews suggest that possible responsibility for summarizing changed how students listened."
+  },
+  {
+    "id": "R1-014",
+    "prompt": "Passage:\nThe Last Five Minutes\n\nGroup discussions often end at their busiest moment. Participants gather evidence, challenge ideas, and then stop when a timer rings. A team of education researchers wondered whether the way a discussion ends affects what students remember and contribute later.\n\nThe researchers worked with eighteen after-school clubs for six weeks. Each club had eight to ten students in grades eight and nine. The clubs discussed practical questions, such as how to reduce lunchtime waste or design a quieter study space. The clubs were randomly assigned to one of three routines. In the first routine, students discussed for thirty-five minutes and stopped. In the second, they discussed for thirty minutes, after which the adult facilitator summarized for five minutes. In the third, they also discussed for thirty minutes, but a different student used the final five minutes to summarize each week. The student summarizer had to name the group’s main proposal, one piece of supporting evidence, and one question that remained unsettled.\n\nAt the start of the next meeting, students completed a brief recall check without looking at notes. They also wrote one possible improvement to the proposal from the previous week. Across the six weeks, students in the no-summary clubs recalled an average of 61 percent of the main points. Those who heard an adult summary recalled 69 percent. Students in the rotating-summary clubs recalled 78 percent and proposed a wider range of improvements.\n\nThe numbers did not reveal what students were thinking during the meetings, so the researchers conducted short interviews. Several students in the rotating-summary clubs said they listened for connections because they knew they might have to explain the conversation. One student remarked, “I used to wait for my turn to talk. Now I also notice what I would need to say if I had to wrap up.” Even students who were not that week’s summarizer reported paying closer attention to disagreements that the group had not resolved.\n\nThe researchers cautioned against claiming that a five-minute student summary will improve every discussion. The clubs came from one city, participation was voluntary, and the adult facilitators knew which routine their groups were using. In addition, the study measured recall after one week, not after several months. Still, comparing the two summary routines was useful: both used the same amount of discussion and summary time, but only one required students to organize the group’s thinking themselves.\n\nThe study suggests that an ending can do more than repeat what has been said. When responsibility for the summary rotates, the final minutes may change how students listen during all the minutes before them.\n\nQuestion:\nWhich result did the researchers observe?",
+    "choices": {
+      "A": "No-summary clubs proposed the widest range of improvements.",
+      "B": "Adult-summary clubs recalled 78 percent of the main points.",
+      "C": "Rotating-summary clubs had the highest average recall and offered a wider range of improvements.",
+      "D": "All three routines produced nearly identical recall scores."
+    },
+    "correct": "C",
+    "explanation": "The passage reports 78 percent average recall and a wider range of improvements for the rotating-summary groups, both higher than the outcomes described for the other routines."
+  },
+  {
+    "id": "R1-015",
+    "prompt": "Passage:\nThe Last Five Minutes\n\nGroup discussions often end at their busiest moment. Participants gather evidence, challenge ideas, and then stop when a timer rings. A team of education researchers wondered whether the way a discussion ends affects what students remember and contribute later.\n\nThe researchers worked with eighteen after-school clubs for six weeks. Each club had eight to ten students in grades eight and nine. The clubs discussed practical questions, such as how to reduce lunchtime waste or design a quieter study space. The clubs were randomly assigned to one of three routines. In the first routine, students discussed for thirty-five minutes and stopped. In the second, they discussed for thirty minutes, after which the adult facilitator summarized for five minutes. In the third, they also discussed for thirty minutes, but a different student used the final five minutes to summarize each week. The student summarizer had to name the group’s main proposal, one piece of supporting evidence, and one question that remained unsettled.\n\nAt the start of the next meeting, students completed a brief recall check without looking at notes. They also wrote one possible improvement to the proposal from the previous week. Across the six weeks, students in the no-summary clubs recalled an average of 61 percent of the main points. Those who heard an adult summary recalled 69 percent. Students in the rotating-summary clubs recalled 78 percent and proposed a wider range of improvements.\n\nThe numbers did not reveal what students were thinking during the meetings, so the researchers conducted short interviews. Several students in the rotating-summary clubs said they listened for connections because they knew they might have to explain the conversation. One student remarked, “I used to wait for my turn to talk. Now I also notice what I would need to say if I had to wrap up.” Even students who were not that week’s summarizer reported paying closer attention to disagreements that the group had not resolved.\n\nThe researchers cautioned against claiming that a five-minute student summary will improve every discussion. The clubs came from one city, participation was voluntary, and the adult facilitators knew which routine their groups were using. In addition, the study measured recall after one week, not after several months. Still, comparing the two summary routines was useful: both used the same amount of discussion and summary time, but only one required students to organize the group’s thinking themselves.\n\nThe study suggests that an ending can do more than repeat what has been said. When responsibility for the summary rotates, the final minutes may change how students listen during all the minutes before them.\n\nQuestion:\nWhat is the main purpose of including the student’s remark beginning “I used to wait for my turn to talk”?",
+    "choices": {
+      "A": "To illustrate how the rotating-summary routine may have changed the way students listened.",
+      "B": "To show that students disliked proposing improvements to earlier ideas.",
+      "C": "To prove that the recall checks were too easy for most students.",
+      "D": "To explain why adult facilitators refused to summarize discussions."
+    },
+    "correct": "A",
+    "explanation": "The student contrasts waiting to speak with noticing what would be needed to wrap up the discussion. The remark illustrates the listening change suggested by the interview results."
+  },
+  {
+    "id": "R1-016",
+    "prompt": "Passage:\nThe Last Five Minutes\n\nGroup discussions often end at their busiest moment. Participants gather evidence, challenge ideas, and then stop when a timer rings. A team of education researchers wondered whether the way a discussion ends affects what students remember and contribute later.\n\nThe researchers worked with eighteen after-school clubs for six weeks. Each club had eight to ten students in grades eight and nine. The clubs discussed practical questions, such as how to reduce lunchtime waste or design a quieter study space. The clubs were randomly assigned to one of three routines. In the first routine, students discussed for thirty-five minutes and stopped. In the second, they discussed for thirty minutes, after which the adult facilitator summarized for five minutes. In the third, they also discussed for thirty minutes, but a different student used the final five minutes to summarize each week. The student summarizer had to name the group’s main proposal, one piece of supporting evidence, and one question that remained unsettled.\n\nAt the start of the next meeting, students completed a brief recall check without looking at notes. They also wrote one possible improvement to the proposal from the previous week. Across the six weeks, students in the no-summary clubs recalled an average of 61 percent of the main points. Those who heard an adult summary recalled 69 percent. Students in the rotating-summary clubs recalled 78 percent and proposed a wider range of improvements.\n\nThe numbers did not reveal what students were thinking during the meetings, so the researchers conducted short interviews. Several students in the rotating-summary clubs said they listened for connections because they knew they might have to explain the conversation. One student remarked, “I used to wait for my turn to talk. Now I also notice what I would need to say if I had to wrap up.” Even students who were not that week’s summarizer reported paying closer attention to disagreements that the group had not resolved.\n\nThe researchers cautioned against claiming that a five-minute student summary will improve every discussion. The clubs came from one city, participation was voluntary, and the adult facilitators knew which routine their groups were using. In addition, the study measured recall after one week, not after several months. Still, comparing the two summary routines was useful: both used the same amount of discussion and summary time, but only one required students to organize the group’s thinking themselves.\n\nThe study suggests that an ending can do more than repeat what has been said. When responsibility for the summary rotates, the final minutes may change how students listen during all the minutes before them.\n\nQuestion:\nAccording to the interviews, why might even students who were not currently summarizing pay closer attention?",
+    "choices": {
+      "A": "They were allowed to see the next week’s recall questions in advance.",
+      "B": "They wanted to correct errors made by the adult facilitator.",
+      "C": "They received extra club credit for identifying every speaker.",
+      "D": "They knew they could be responsible for organizing the group’s ideas in a future meeting."
+    },
+    "correct": "D",
+    "explanation": "Students said they listened for connections because they knew they might need to explain the discussion. Rotating responsibility made a future turn as summarizer possible."
+  },
+  {
+    "id": "R1-017",
+    "prompt": "Passage:\nThe Last Five Minutes\n\nGroup discussions often end at their busiest moment. Participants gather evidence, challenge ideas, and then stop when a timer rings. A team of education researchers wondered whether the way a discussion ends affects what students remember and contribute later.\n\nThe researchers worked with eighteen after-school clubs for six weeks. Each club had eight to ten students in grades eight and nine. The clubs discussed practical questions, such as how to reduce lunchtime waste or design a quieter study space. The clubs were randomly assigned to one of three routines. In the first routine, students discussed for thirty-five minutes and stopped. In the second, they discussed for thirty minutes, after which the adult facilitator summarized for five minutes. In the third, they also discussed for thirty minutes, but a different student used the final five minutes to summarize each week. The student summarizer had to name the group’s main proposal, one piece of supporting evidence, and one question that remained unsettled.\n\nAt the start of the next meeting, students completed a brief recall check without looking at notes. They also wrote one possible improvement to the proposal from the previous week. Across the six weeks, students in the no-summary clubs recalled an average of 61 percent of the main points. Those who heard an adult summary recalled 69 percent. Students in the rotating-summary clubs recalled 78 percent and proposed a wider range of improvements.\n\nThe numbers did not reveal what students were thinking during the meetings, so the researchers conducted short interviews. Several students in the rotating-summary clubs said they listened for connections because they knew they might have to explain the conversation. One student remarked, “I used to wait for my turn to talk. Now I also notice what I would need to say if I had to wrap up.” Even students who were not that week’s summarizer reported paying closer attention to disagreements that the group had not resolved.\n\nThe researchers cautioned against claiming that a five-minute student summary will improve every discussion. The clubs came from one city, participation was voluntary, and the adult facilitators knew which routine their groups were using. In addition, the study measured recall after one week, not after several months. Still, comparing the two summary routines was useful: both used the same amount of discussion and summary time, but only one required students to organize the group’s thinking themselves.\n\nThe study suggests that an ending can do more than repeat what has been said. When responsibility for the summary rotates, the final minutes may change how students listen during all the minutes before them.\n\nQuestion:\nWhich finding most directly supports the claim that organizing the summary oneself matters beyond simply spending five minutes on review?",
+    "choices": {
+      "A": "The rotating-summary groups recalled more than the adult-summary groups even though both used five-minute summaries.",
+      "B": "The no-summary groups discussed for thirty-five minutes instead of thirty minutes.",
+      "C": "Students discussed topics such as waste and study spaces.",
+      "D": "The study measured recall at the start of the following meeting."
+    },
+    "correct": "A",
+    "explanation": "Both groups had thirty minutes of discussion and five minutes of summary, but recall was higher when a student summarized. That comparison isolates who organized the review as the key difference."
+  },
+  {
+    "id": "R1-018",
+    "prompt": "Passage:\nThe Last Five Minutes\n\nGroup discussions often end at their busiest moment. Participants gather evidence, challenge ideas, and then stop when a timer rings. A team of education researchers wondered whether the way a discussion ends affects what students remember and contribute later.\n\nThe researchers worked with eighteen after-school clubs for six weeks. Each club had eight to ten students in grades eight and nine. The clubs discussed practical questions, such as how to reduce lunchtime waste or design a quieter study space. The clubs were randomly assigned to one of three routines. In the first routine, students discussed for thirty-five minutes and stopped. In the second, they discussed for thirty minutes, after which the adult facilitator summarized for five minutes. In the third, they also discussed for thirty minutes, but a different student used the final five minutes to summarize each week. The student summarizer had to name the group’s main proposal, one piece of supporting evidence, and one question that remained unsettled.\n\nAt the start of the next meeting, students completed a brief recall check without looking at notes. They also wrote one possible improvement to the proposal from the previous week. Across the six weeks, students in the no-summary clubs recalled an average of 61 percent of the main points. Those who heard an adult summary recalled 69 percent. Students in the rotating-summary clubs recalled 78 percent and proposed a wider range of improvements.\n\nThe numbers did not reveal what students were thinking during the meetings, so the researchers conducted short interviews. Several students in the rotating-summary clubs said they listened for connections because they knew they might have to explain the conversation. One student remarked, “I used to wait for my turn to talk. Now I also notice what I would need to say if I had to wrap up.” Even students who were not that week’s summarizer reported paying closer attention to disagreements that the group had not resolved.\n\nThe researchers cautioned against claiming that a five-minute student summary will improve every discussion. The clubs came from one city, participation was voluntary, and the adult facilitators knew which routine their groups were using. In addition, the study measured recall after one week, not after several months. Still, comparing the two summary routines was useful: both used the same amount of discussion and summary time, but only one required students to organize the group’s thinking themselves.\n\nThe study suggests that an ending can do more than repeat what has been said. When responsibility for the summary rotates, the final minutes may change how students listen during all the minutes before them.\n\nQuestion:\nWhich choice best describes the passage’s overall structure?",
+    "choices": {
+      "A": "It presents two competing theories, proves both false, and proposes a third theory.",
+      "B": "It gives a historical account of clubs before listing rules for starting a new club.",
+      "C": "It introduces a research question, explains a study and its results, and then discusses limits and implications.",
+      "D": "It describes a student’s experience and then argues that statistics should not be used in education research."
+    },
+    "correct": "C",
+    "explanation": "The passage moves from the researchers’ question to the three routines, reports quantitative and interview results, and closes with cautions and implications."
+  },
+  {
+    "id": "R1-019",
+    "prompt": "Passage:\nSmall Plants, Milder Weather\n\nHigh on a windy mountain, many plants grow as low, rounded cushions rather than as tall stems. Their tightly packed leaves trap still air close to the ground. Ecologist Ren Ito wondered whether these cushion plants merely protect themselves or also change conditions for nearby seedlings.\n\nIto’s team selected twenty-four healthy cushion plants on one slope. Beside each cushion, the team marked a patch of bare, rocky soil at the same height and facing the same direction. Tiny sensors recorded temperature and soil moisture in both locations every ten minutes for four weeks. The paired locations let the team compare sites that received similar sunlight and weather.\n\nDuring clear afternoons, the centers of the cushions were usually cooler than the bare patches. At night, however, they stayed slightly warmer. In other words, the cushions buffered temperature: they reduced the swing between daytime heat and nighttime cold. The soil beneath them also lost moisture more slowly after a light rain.\n\nNext, the team transplanted equal numbers of seedlings from three common mountain species into the centers of cushions, along cushion edges, and into open soil. To separate the effect of shelter from other effects of a living plant, the researchers placed small mesh rings around an additional set of seedlings in open soil. The rings slowed the wind but did not provide shade or add material to the soil.\n\nAfter eight weeks, two seedling species survived most often at cushion edges. They benefited from milder temperatures without being completely covered by the cushion’s leaves. For the third species, survival was nearly the same in mesh rings and at cushion edges, suggesting that reduced wind was especially important for that species. Seedlings placed in cushion centers did not always fare well. Some received too little light, and others had to compete with the cushion plant for water.\n\nThe results support calling cushion plants “microclimate engineers” because they alter the small zone around themselves. But the nickname should not be mistaken for a promise that they help every neighbor. A cushion can shelter a seedling from wind, conserve moisture, shade it too deeply, or compete with it. Which effect matters most depends on the seedling species and its exact position.\n\nIto’s study examined one slope during part of one growing season. Longer studies on other mountains would be needed to learn how snow cover, unusually wet years, or different cushion species change the pattern. Even so, the experiment shows why an exposed landscape should not be treated as uniform: a few centimeters can separate a harsh site from a comparatively gentle one.\n\nQuestion:\nWhich choice best states the central idea of the passage?",
+    "choices": {
+      "A": "Cushion plants survive only because other seedlings protect them from mountain winds.",
+      "B": "Cushion plants modify nearby conditions, but their effects on seedlings vary by species and position.",
+      "C": "Bare rocky soil is always a better location for seedlings than living plants are.",
+      "D": "All mountain plants would grow into cushions if they received enough moisture."
+    },
+    "correct": "B",
+    "explanation": "Sensors showed that cushions reduced temperature swings and slowed moisture loss, but the transplant results differed according to seedling species and location."
+  },
+  {
+    "id": "R1-020",
+    "prompt": "Passage:\nSmall Plants, Milder Weather\n\nHigh on a windy mountain, many plants grow as low, rounded cushions rather than as tall stems. Their tightly packed leaves trap still air close to the ground. Ecologist Ren Ito wondered whether these cushion plants merely protect themselves or also change conditions for nearby seedlings.\n\nIto’s team selected twenty-four healthy cushion plants on one slope. Beside each cushion, the team marked a patch of bare, rocky soil at the same height and facing the same direction. Tiny sensors recorded temperature and soil moisture in both locations every ten minutes for four weeks. The paired locations let the team compare sites that received similar sunlight and weather.\n\nDuring clear afternoons, the centers of the cushions were usually cooler than the bare patches. At night, however, they stayed slightly warmer. In other words, the cushions buffered temperature: they reduced the swing between daytime heat and nighttime cold. The soil beneath them also lost moisture more slowly after a light rain.\n\nNext, the team transplanted equal numbers of seedlings from three common mountain species into the centers of cushions, along cushion edges, and into open soil. To separate the effect of shelter from other effects of a living plant, the researchers placed small mesh rings around an additional set of seedlings in open soil. The rings slowed the wind but did not provide shade or add material to the soil.\n\nAfter eight weeks, two seedling species survived most often at cushion edges. They benefited from milder temperatures without being completely covered by the cushion’s leaves. For the third species, survival was nearly the same in mesh rings and at cushion edges, suggesting that reduced wind was especially important for that species. Seedlings placed in cushion centers did not always fare well. Some received too little light, and others had to compete with the cushion plant for water.\n\nThe results support calling cushion plants “microclimate engineers” because they alter the small zone around themselves. But the nickname should not be mistaken for a promise that they help every neighbor. A cushion can shelter a seedling from wind, conserve moisture, shade it too deeply, or compete with it. Which effect matters most depends on the seedling species and its exact position.\n\nIto’s study examined one slope during part of one growing season. Longer studies on other mountains would be needed to learn how snow cover, unusually wet years, or different cushion species change the pattern. Even so, the experiment shows why an exposed landscape should not be treated as uniform: a few centimeters can separate a harsh site from a comparatively gentle one.\n\nQuestion:\nWhy did the researchers place mesh rings around some seedlings in open soil?",
+    "choices": {
+      "A": "To keep the seedlings completely dry after rain.",
+      "B": "To reproduce the shade created by cushion leaves.",
+      "C": "To mark the seedlings that belonged to the rarest species.",
+      "D": "To test the effect of reduced wind without the other effects of a living cushion plant."
+    },
+    "correct": "D",
+    "explanation": "The passage explicitly says the mesh rings slowed wind without adding shade or soil material. This allowed reduced wind to be examined separately from other cushion effects."
+  },
+  {
+    "id": "R1-021",
+    "prompt": "Passage:\nSmall Plants, Milder Weather\n\nHigh on a windy mountain, many plants grow as low, rounded cushions rather than as tall stems. Their tightly packed leaves trap still air close to the ground. Ecologist Ren Ito wondered whether these cushion plants merely protect themselves or also change conditions for nearby seedlings.\n\nIto’s team selected twenty-four healthy cushion plants on one slope. Beside each cushion, the team marked a patch of bare, rocky soil at the same height and facing the same direction. Tiny sensors recorded temperature and soil moisture in both locations every ten minutes for four weeks. The paired locations let the team compare sites that received similar sunlight and weather.\n\nDuring clear afternoons, the centers of the cushions were usually cooler than the bare patches. At night, however, they stayed slightly warmer. In other words, the cushions buffered temperature: they reduced the swing between daytime heat and nighttime cold. The soil beneath them also lost moisture more slowly after a light rain.\n\nNext, the team transplanted equal numbers of seedlings from three common mountain species into the centers of cushions, along cushion edges, and into open soil. To separate the effect of shelter from other effects of a living plant, the researchers placed small mesh rings around an additional set of seedlings in open soil. The rings slowed the wind but did not provide shade or add material to the soil.\n\nAfter eight weeks, two seedling species survived most often at cushion edges. They benefited from milder temperatures without being completely covered by the cushion’s leaves. For the third species, survival was nearly the same in mesh rings and at cushion edges, suggesting that reduced wind was especially important for that species. Seedlings placed in cushion centers did not always fare well. Some received too little light, and others had to compete with the cushion plant for water.\n\nThe results support calling cushion plants “microclimate engineers” because they alter the small zone around themselves. But the nickname should not be mistaken for a promise that they help every neighbor. A cushion can shelter a seedling from wind, conserve moisture, shade it too deeply, or compete with it. Which effect matters most depends on the seedling species and its exact position.\n\nIto’s study examined one slope during part of one growing season. Longer studies on other mountains would be needed to learn how snow cover, unusually wet years, or different cushion species change the pattern. Even so, the experiment shows why an exposed landscape should not be treated as uniform: a few centimeters can separate a harsh site from a comparatively gentle one.\n\nQuestion:\nAs used in the passage, “buffered” most nearly means:",
+    "choices": {
+      "A": "made less extreme.",
+      "B": "measured incorrectly.",
+      "C": "caused to occur earlier.",
+      "D": "changed at a steady speed."
+    },
+    "correct": "A",
+    "explanation": "The cushions reduced the swing between afternoon heat and nighttime cold, so “buffered” means made less extreme."
+  },
+  {
+    "id": "R1-022",
+    "prompt": "Passage:\nSmall Plants, Milder Weather\n\nHigh on a windy mountain, many plants grow as low, rounded cushions rather than as tall stems. Their tightly packed leaves trap still air close to the ground. Ecologist Ren Ito wondered whether these cushion plants merely protect themselves or also change conditions for nearby seedlings.\n\nIto’s team selected twenty-four healthy cushion plants on one slope. Beside each cushion, the team marked a patch of bare, rocky soil at the same height and facing the same direction. Tiny sensors recorded temperature and soil moisture in both locations every ten minutes for four weeks. The paired locations let the team compare sites that received similar sunlight and weather.\n\nDuring clear afternoons, the centers of the cushions were usually cooler than the bare patches. At night, however, they stayed slightly warmer. In other words, the cushions buffered temperature: they reduced the swing between daytime heat and nighttime cold. The soil beneath them also lost moisture more slowly after a light rain.\n\nNext, the team transplanted equal numbers of seedlings from three common mountain species into the centers of cushions, along cushion edges, and into open soil. To separate the effect of shelter from other effects of a living plant, the researchers placed small mesh rings around an additional set of seedlings in open soil. The rings slowed the wind but did not provide shade or add material to the soil.\n\nAfter eight weeks, two seedling species survived most often at cushion edges. They benefited from milder temperatures without being completely covered by the cushion’s leaves. For the third species, survival was nearly the same in mesh rings and at cushion edges, suggesting that reduced wind was especially important for that species. Seedlings placed in cushion centers did not always fare well. Some received too little light, and others had to compete with the cushion plant for water.\n\nThe results support calling cushion plants “microclimate engineers” because they alter the small zone around themselves. But the nickname should not be mistaken for a promise that they help every neighbor. A cushion can shelter a seedling from wind, conserve moisture, shade it too deeply, or compete with it. Which effect matters most depends on the seedling species and its exact position.\n\nIto’s study examined one slope during part of one growing season. Longer studies on other mountains would be needed to learn how snow cover, unusually wet years, or different cushion species change the pattern. Even so, the experiment shows why an exposed landscape should not be treated as uniform: a few centimeters can separate a harsh site from a comparatively gentle one.\n\nQuestion:\nWhich event occurred before the researchers transplanted seedlings?",
+    "choices": {
+      "A": "They studied the influence of snow cover on several mountains.",
+      "B": "They concluded that all species survived best in cushion centers.",
+      "C": "They recorded temperature and moisture in paired cushion and bare-soil locations.",
+      "D": "They removed the cushion plants from the slope."
+    },
+    "correct": "C",
+    "explanation": "The sensors recorded temperature and moisture for four weeks before the passage says, “Next, the team transplanted” the seedlings."
+  },
+  {
+    "id": "R1-023",
+    "prompt": "Passage:\nSmall Plants, Milder Weather\n\nHigh on a windy mountain, many plants grow as low, rounded cushions rather than as tall stems. Their tightly packed leaves trap still air close to the ground. Ecologist Ren Ito wondered whether these cushion plants merely protect themselves or also change conditions for nearby seedlings.\n\nIto’s team selected twenty-four healthy cushion plants on one slope. Beside each cushion, the team marked a patch of bare, rocky soil at the same height and facing the same direction. Tiny sensors recorded temperature and soil moisture in both locations every ten minutes for four weeks. The paired locations let the team compare sites that received similar sunlight and weather.\n\nDuring clear afternoons, the centers of the cushions were usually cooler than the bare patches. At night, however, they stayed slightly warmer. In other words, the cushions buffered temperature: they reduced the swing between daytime heat and nighttime cold. The soil beneath them also lost moisture more slowly after a light rain.\n\nNext, the team transplanted equal numbers of seedlings from three common mountain species into the centers of cushions, along cushion edges, and into open soil. To separate the effect of shelter from other effects of a living plant, the researchers placed small mesh rings around an additional set of seedlings in open soil. The rings slowed the wind but did not provide shade or add material to the soil.\n\nAfter eight weeks, two seedling species survived most often at cushion edges. They benefited from milder temperatures without being completely covered by the cushion’s leaves. For the third species, survival was nearly the same in mesh rings and at cushion edges, suggesting that reduced wind was especially important for that species. Seedlings placed in cushion centers did not always fare well. Some received too little light, and others had to compete with the cushion plant for water.\n\nThe results support calling cushion plants “microclimate engineers” because they alter the small zone around themselves. But the nickname should not be mistaken for a promise that they help every neighbor. A cushion can shelter a seedling from wind, conserve moisture, shade it too deeply, or compete with it. Which effect matters most depends on the seedling species and its exact position.\n\nIto’s study examined one slope during part of one growing season. Longer studies on other mountains would be needed to learn how snow cover, unusually wet years, or different cushion species change the pattern. Even so, the experiment shows why an exposed landscape should not be treated as uniform: a few centimeters can separate a harsh site from a comparatively gentle one.\n\nQuestion:\nWhat can reasonably be inferred about measurements taken only during clear afternoons?",
+    "choices": {
+      "A": "They would make cushions appear cooler than bare soil but would miss the cushions’ nighttime warmth.",
+      "B": "They would show that cushion centers and bare soil always have identical temperatures.",
+      "C": "They would be enough to predict the effects of unusually wet years.",
+      "D": "They would prove that wind has no effect on seedlings."
+    },
+    "correct": "A",
+    "explanation": "The passage reports cooler cushion centers during clear afternoons but slightly warmer ones at night. Afternoon-only data would therefore omit part of the temperature pattern."
+  },
+  {
+    "id": "R1-024",
+    "prompt": "Passage:\nSmall Plants, Milder Weather\n\nHigh on a windy mountain, many plants grow as low, rounded cushions rather than as tall stems. Their tightly packed leaves trap still air close to the ground. Ecologist Ren Ito wondered whether these cushion plants merely protect themselves or also change conditions for nearby seedlings.\n\nIto’s team selected twenty-four healthy cushion plants on one slope. Beside each cushion, the team marked a patch of bare, rocky soil at the same height and facing the same direction. Tiny sensors recorded temperature and soil moisture in both locations every ten minutes for four weeks. The paired locations let the team compare sites that received similar sunlight and weather.\n\nDuring clear afternoons, the centers of the cushions were usually cooler than the bare patches. At night, however, they stayed slightly warmer. In other words, the cushions buffered temperature: they reduced the swing between daytime heat and nighttime cold. The soil beneath them also lost moisture more slowly after a light rain.\n\nNext, the team transplanted equal numbers of seedlings from three common mountain species into the centers of cushions, along cushion edges, and into open soil. To separate the effect of shelter from other effects of a living plant, the researchers placed small mesh rings around an additional set of seedlings in open soil. The rings slowed the wind but did not provide shade or add material to the soil.\n\nAfter eight weeks, two seedling species survived most often at cushion edges. They benefited from milder temperatures without being completely covered by the cushion’s leaves. For the third species, survival was nearly the same in mesh rings and at cushion edges, suggesting that reduced wind was especially important for that species. Seedlings placed in cushion centers did not always fare well. Some received too little light, and others had to compete with the cushion plant for water.\n\nThe results support calling cushion plants “microclimate engineers” because they alter the small zone around themselves. But the nickname should not be mistaken for a promise that they help every neighbor. A cushion can shelter a seedling from wind, conserve moisture, shade it too deeply, or compete with it. Which effect matters most depends on the seedling species and its exact position.\n\nIto’s study examined one slope during part of one growing season. Longer studies on other mountains would be needed to learn how snow cover, unusually wet years, or different cushion species change the pattern. Even so, the experiment shows why an exposed landscape should not be treated as uniform: a few centimeters can separate a harsh site from a comparatively gentle one.\n\nQuestion:\nWhat is the main function of the final paragraph?",
+    "choices": {
+      "A": "To introduce a new experiment that contradicts all the earlier results.",
+      "B": "To argue that the sensors should have been placed farther apart.",
+      "C": "To explain why the team selected only tall plants for the study.",
+      "D": "To identify limits on the study’s scope while explaining the broader significance of its findings."
+    },
+    "correct": "D",
+    "explanation": "The final paragraph notes that the study covered one slope and part of one season, then explains that small distances can create meaningfully different conditions."
+  },
+  {
+    "id": "R1-025",
+    "prompt": "Passage:\nSmall Plants, Milder Weather\n\nHigh on a windy mountain, many plants grow as low, rounded cushions rather than as tall stems. Their tightly packed leaves trap still air close to the ground. Ecologist Ren Ito wondered whether these cushion plants merely protect themselves or also change conditions for nearby seedlings.\n\nIto’s team selected twenty-four healthy cushion plants on one slope. Beside each cushion, the team marked a patch of bare, rocky soil at the same height and facing the same direction. Tiny sensors recorded temperature and soil moisture in both locations every ten minutes for four weeks. The paired locations let the team compare sites that received similar sunlight and weather.\n\nDuring clear afternoons, the centers of the cushions were usually cooler than the bare patches. At night, however, they stayed slightly warmer. In other words, the cushions buffered temperature: they reduced the swing between daytime heat and nighttime cold. The soil beneath them also lost moisture more slowly after a light rain.\n\nNext, the team transplanted equal numbers of seedlings from three common mountain species into the centers of cushions, along cushion edges, and into open soil. To separate the effect of shelter from other effects of a living plant, the researchers placed small mesh rings around an additional set of seedlings in open soil. The rings slowed the wind but did not provide shade or add material to the soil.\n\nAfter eight weeks, two seedling species survived most often at cushion edges. They benefited from milder temperatures without being completely covered by the cushion’s leaves. For the third species, survival was nearly the same in mesh rings and at cushion edges, suggesting that reduced wind was especially important for that species. Seedlings placed in cushion centers did not always fare well. Some received too little light, and others had to compete with the cushion plant for water.\n\nThe results support calling cushion plants “microclimate engineers” because they alter the small zone around themselves. But the nickname should not be mistaken for a promise that they help every neighbor. A cushion can shelter a seedling from wind, conserve moisture, shade it too deeply, or compete with it. Which effect matters most depends on the seedling species and its exact position.\n\nIto’s study examined one slope during part of one growing season. Longer studies on other mountains would be needed to learn how snow cover, unusually wet years, or different cushion species change the pattern. Even so, the experiment shows why an exposed landscape should not be treated as uniform: a few centimeters can separate a harsh site from a comparatively gentle one.\n\nQuestion:\nWhich choice best summarizes the study’s findings?",
+    "choices": {
+      "A": "Cushion centers provided the best conditions for every seedling because they had the most shade.",
+      "B": "Mesh rings changed soil moisture and light in exactly the same ways as cushion plants.",
+      "C": "Cushions created milder local conditions, yet shelter, shade, and competition affected seedling species differently.",
+      "D": "Open soil stayed warmer at night and wetter after rain than cushion locations did."
+    },
+    "correct": "C",
+    "explanation": "The study found milder temperatures and slower moisture loss near cushions, but it also found different outcomes from wind shelter, shade, and competition across species and positions."
+  },
+  {
+    "id": "S1-001",
+    "prompt": "Students investigated how salt concentration affected common duckweed. They placed 20 duckweed fronds in each of 4 identical beakers at each salt concentration. Every beaker contained the same volume of nutrient solution and received the same light and temperature for 14 days. The table shows the means for each concentration.\n\nSalt concentration (g/L) | Mean final number of fronds | Mean root length (mm)\n0                        | 52                          | 18\n1                        | 46                          | 16\n2                        | 37                          | 13\n3                        | 29                          | 10\n4                        | 22                          | 7\n\nQuestion:\nAt which salt concentration was the mean final number of fronds greatest?",
+    "choices": {
+      "A": "0 g/L",
+      "B": "1 g/L",
+      "C": "3 g/L",
+      "D": "4 g/L"
+    },
+    "correct": "A",
+    "explanation": "The 0 g/L condition had 52 final fronds, the greatest mean in the table."
+  },
+  {
+    "id": "S1-002",
+    "prompt": "Students investigated how salt concentration affected common duckweed. They placed 20 duckweed fronds in each of 4 identical beakers at each salt concentration. Every beaker contained the same volume of nutrient solution and received the same light and temperature for 14 days. The table shows the means for each concentration.\n\nSalt concentration (g/L) | Mean final number of fronds | Mean root length (mm)\n0                        | 52                          | 18\n1                        | 46                          | 16\n2                        | 37                          | 13\n3                        | 29                          | 10\n4                        | 22                          | 7\n\nQuestion:\nAt 2 g/L salt, what was the mean increase in the number of fronds during the 14 days?",
+    "choices": {
+      "A": "13 fronds",
+      "B": "17 fronds",
+      "C": "20 fronds",
+      "D": "37 fronds"
+    },
+    "correct": "B",
+    "explanation": "Every beaker began with 20 fronds, and the 2 g/L condition ended with 37, so the increase was 37 − 20 = 17 fronds."
+  },
+  {
+    "id": "S1-003",
+    "prompt": "Students investigated how salt concentration affected common duckweed. They placed 20 duckweed fronds in each of 4 identical beakers at each salt concentration. Every beaker contained the same volume of nutrient solution and received the same light and temperature for 14 days. The table shows the means for each concentration.\n\nSalt concentration (g/L) | Mean final number of fronds | Mean root length (mm)\n0                        | 52                          | 18\n1                        | 46                          | 16\n2                        | 37                          | 13\n3                        | 29                          | 10\n4                        | 22                          | 7\n\nQuestion:\nHow much shorter was the mean root length at 3 g/L salt than at 1 g/L salt?",
+    "choices": {
+      "A": "3 mm",
+      "B": "6 mm",
+      "C": "10 mm",
+      "D": "26 mm"
+    },
+    "correct": "B",
+    "explanation": "Mean root length was 16 mm at 1 g/L and 10 mm at 3 g/L, a difference of 6 mm."
+  },
+  {
+    "id": "S1-004",
+    "prompt": "Students investigated how salt concentration affected common duckweed. They placed 20 duckweed fronds in each of 4 identical beakers at each salt concentration. Every beaker contained the same volume of nutrient solution and received the same light and temperature for 14 days. The table shows the means for each concentration.\n\nSalt concentration (g/L) | Mean final number of fronds | Mean root length (mm)\n0                        | 52                          | 18\n1                        | 46                          | 16\n2                        | 37                          | 13\n3                        | 29                          | 10\n4                        | 22                          | 7\n\nQuestion:\nWhich pair identifies the dependent variables measured in this investigation?",
+    "choices": {
+      "A": "Salt concentration and nutrient-solution volume",
+      "B": "Number of starting fronds and duration of growth",
+      "C": "Final number of fronds and root length",
+      "D": "Light level and temperature"
+    },
+    "correct": "C",
+    "explanation": "These were the two outcomes measured after salt concentration was changed."
+  },
+  {
+    "id": "S1-005",
+    "prompt": "Students investigated how salt concentration affected common duckweed. They placed 20 duckweed fronds in each of 4 identical beakers at each salt concentration. Every beaker contained the same volume of nutrient solution and received the same light and temperature for 14 days. The table shows the means for each concentration.\n\nSalt concentration (g/L) | Mean final number of fronds | Mean root length (mm)\n0                        | 52                          | 18\n1                        | 46                          | 16\n2                        | 37                          | 13\n3                        | 29                          | 10\n4                        | 22                          | 7\n\nQuestion:\nWhich conclusion is best supported by both measurements in the table?",
+    "choices": {
+      "A": "Increasing salt concentration was associated with fewer final fronds and shorter roots.",
+      "B": "Salt increased frond production but decreased root length.",
+      "C": "Duckweed grew only in solutions containing no salt.",
+      "D": "Root length changed with salt concentration, but frond number did not."
+    },
+    "correct": "A",
+    "explanation": "As salt increased from 0 g/L to 4 g/L, final fronds decreased from 52 to 22 and mean root length decreased from 18 mm to 7 mm."
+  },
+  {
+    "id": "S1-006",
+    "prompt": "Students tested how well 4 coverings reduced heat loss from identical cups. Each cup held 200 mL of water initially at 80°C. One cup had no covering; the others were wrapped with one layer of paper, cotton cloth, or aluminum foil with its shiny side facing outward. Room conditions were the same for all cups. The temperatures shown are means from 3 trials.\n\nCovering | 0 min | 5 min | 10 min | 15 min\nNone     | 80°C  | 67°C  | 58°C   | 51°C\nPaper    | 80°C  | 70°C  | 62°C   | 56°C\nCotton   | 80°C  | 74°C  | 69°C   | 64°C\nFoil     | 80°C  | 72°C  | 65°C   | 59°C\n\nQuestion:\nWhich covering produced the smallest mean temperature decrease over 15 minutes?",
+    "choices": {
+      "A": "No covering",
+      "B": "Paper",
+      "C": "Cotton",
+      "D": "Foil"
+    },
+    "correct": "C",
+    "explanation": "The cotton-covered cup decreased from 80°C to 64°C, a 16°C loss, which was smaller than the loss for every other condition."
+  },
+  {
+    "id": "S1-007",
+    "prompt": "Students tested how well 4 coverings reduced heat loss from identical cups. Each cup held 200 mL of water initially at 80°C. One cup had no covering; the others were wrapped with one layer of paper, cotton cloth, or aluminum foil with its shiny side facing outward. Room conditions were the same for all cups. The temperatures shown are means from 3 trials.\n\nCovering | 0 min | 5 min | 10 min | 15 min\nNone     | 80°C  | 67°C  | 58°C   | 51°C\nPaper    | 80°C  | 70°C  | 62°C   | 56°C\nCotton   | 80°C  | 74°C  | 69°C   | 64°C\nFoil     | 80°C  | 72°C  | 65°C   | 59°C\n\nQuestion:\nAt 10 minutes, how much warmer was the water in the cotton-covered cup than the water in the uncovered cup?",
+    "choices": {
+      "A": "7°C",
+      "B": "9°C",
+      "C": "11°C",
+      "D": "16°C"
+    },
+    "correct": "C",
+    "explanation": "At 10 minutes, the cotton-covered cup was 69°C and the uncovered cup was 58°C; 69 − 58 = 11°C."
+  },
+  {
+    "id": "S1-008",
+    "prompt": "Students tested how well 4 coverings reduced heat loss from identical cups. Each cup held 200 mL of water initially at 80°C. One cup had no covering; the others were wrapped with one layer of paper, cotton cloth, or aluminum foil with its shiny side facing outward. Room conditions were the same for all cups. The temperatures shown are means from 3 trials.\n\nCovering | 0 min | 5 min | 10 min | 15 min\nNone     | 80°C  | 67°C  | 58°C   | 51°C\nPaper    | 80°C  | 70°C  | 62°C   | 56°C\nCotton   | 80°C  | 74°C  | 69°C   | 64°C\nFoil     | 80°C  | 72°C  | 65°C   | 59°C\n\nQuestion:\nWhat was the independent variable in this investigation?",
+    "choices": {
+      "A": "The type of cup covering",
+      "B": "The volume of water in each cup",
+      "C": "The starting water temperature",
+      "D": "The temperature after 15 minutes"
+    },
+    "correct": "A",
+    "explanation": "The students changed the covering type while keeping cup type, water volume, starting temperature, and room conditions the same."
+  },
+  {
+    "id": "S1-009",
+    "prompt": "Students tested how well 4 coverings reduced heat loss from identical cups. Each cup held 200 mL of water initially at 80°C. One cup had no covering; the others were wrapped with one layer of paper, cotton cloth, or aluminum foil with its shiny side facing outward. Room conditions were the same for all cups. The temperatures shown are means from 3 trials.\n\nCovering | 0 min | 5 min | 10 min | 15 min\nNone     | 80°C  | 67°C  | 58°C   | 51°C\nPaper    | 80°C  | 70°C  | 62°C   | 56°C\nCotton   | 80°C  | 74°C  | 69°C   | 64°C\nFoil     | 80°C  | 72°C  | 65°C   | 59°C\n\nQuestion:\nWhich change would most directly improve the reliability of the mean temperatures?",
+    "choices": {
+      "A": "Use different water volumes for the different coverings.",
+      "B": "Begin each cup at a different temperature.",
+      "C": "Repeat each condition for more trials.",
+      "D": "Remove the uncovered condition."
+    },
+    "correct": "C",
+    "explanation": "More repeated trials would reduce the influence of unusual individual measurements on each mean."
+  },
+  {
+    "id": "S1-010",
+    "prompt": "Students tested how well 4 coverings reduced heat loss from identical cups. Each cup held 200 mL of water initially at 80°C. One cup had no covering; the others were wrapped with one layer of paper, cotton cloth, or aluminum foil with its shiny side facing outward. Room conditions were the same for all cups. The temperatures shown are means from 3 trials.\n\nCovering | 0 min | 5 min | 10 min | 15 min\nNone     | 80°C  | 67°C  | 58°C   | 51°C\nPaper    | 80°C  | 70°C  | 62°C   | 56°C\nCotton   | 80°C  | 74°C  | 69°C   | 64°C\nFoil     | 80°C  | 72°C  | 65°C   | 59°C\n\nQuestion:\nA student claimed that foil was the most effective covering because metals interact strongly with heat. Do the results support this claim?",
+    "choices": {
+      "A": "Yes, because the foil-covered cup had the highest temperature at every measured time after 0 minutes.",
+      "B": "Yes, because the foil-covered cup cooled more than the cotton-covered cup.",
+      "C": "No, because the cotton-covered cup remained warmer than the foil-covered cup at every measured time after 0 minutes.",
+      "D": "No, because the uncovered cup remained warmer than the foil-covered cup at 15 minutes."
+    },
+    "correct": "C",
+    "explanation": "Cotton produced temperatures of 74°C, 69°C, and 64°C, each higher than foil's 72°C, 65°C, and 59°C at the same times."
+  },
+  {
+    "id": "S1-011",
+    "prompt": "Scientists monitored one stream during 4 rainstorms of similar duration. They recorded total rainfall, the highest stream discharge reached after the rain began, and the stream's highest turbidity. Discharge is the volume of water passing a point each second. Greater turbidity means the water contains more suspended particles.\n\nStorm | Total rainfall (mm) | Peak discharge (m³/s) | Peak turbidity (NTU)\n1     | 8                   | 1.8                   | 12\n2     | 16                  | 3.0                   | 21\n3     | 24                  | 4.3                   | 35\n4     | 32                  | 6.1                   | 58\n\nQuestion:\nWhat peak turbidity was recorded for the storm with 24 mm of rainfall?",
+    "choices": {
+      "A": "21 NTU",
+      "B": "24 NTU",
+      "C": "35 NTU",
+      "D": "58 NTU"
+    },
+    "correct": "C",
+    "explanation": "The row for 24 mm of total rainfall lists a peak turbidity of 35 NTU."
+  },
+  {
+    "id": "S1-012",
+    "prompt": "Scientists monitored one stream during 4 rainstorms of similar duration. They recorded total rainfall, the highest stream discharge reached after the rain began, and the stream's highest turbidity. Discharge is the volume of water passing a point each second. Greater turbidity means the water contains more suspended particles.\n\nStorm | Total rainfall (mm) | Peak discharge (m³/s) | Peak turbidity (NTU)\n1     | 8                   | 1.8                   | 12\n2     | 16                  | 3.0                   | 21\n3     | 24                  | 4.3                   | 35\n4     | 32                  | 6.1                   | 58\n\nQuestion:\nBetween which 2 consecutive storms did peak discharge increase the most?",
+    "choices": {
+      "A": "Storms 1 and 2",
+      "B": "Storms 2 and 3",
+      "C": "Storms 3 and 4",
+      "D": "The increase was the same between every pair."
+    },
+    "correct": "C",
+    "explanation": "Peak discharge increased by 1.2 m³/s, 1.3 m³/s, and 1.8 m³/s across the three consecutive pairs, respectively; 1.8 m³/s was greatest."
+  },
+  {
+    "id": "S1-013",
+    "prompt": "Scientists monitored one stream during 4 rainstorms of similar duration. They recorded total rainfall, the highest stream discharge reached after the rain began, and the stream's highest turbidity. Discharge is the volume of water passing a point each second. Greater turbidity means the water contains more suspended particles.\n\nStorm | Total rainfall (mm) | Peak discharge (m³/s) | Peak turbidity (NTU)\n1     | 8                   | 1.8                   | 12\n2     | 16                  | 3.0                   | 21\n3     | 24                  | 4.3                   | 35\n4     | 32                  | 6.1                   | 58\n\nQuestion:\nIf peak turbidity changed linearly between 24 mm and 32 mm of rainfall, what peak turbidity would be estimated for 28 mm of rainfall?",
+    "choices": {
+      "A": "40.0 NTU",
+      "B": "46.5 NTU",
+      "C": "50.0 NTU",
+      "D": "93.0 NTU"
+    },
+    "correct": "B",
+    "explanation": "A rainfall total of 28 mm is halfway between 24 mm and 32 mm, so the linear estimate is halfway between 35 NTU and 58 NTU: 46.5 NTU."
+  },
+  {
+    "id": "S1-014",
+    "prompt": "Scientists monitored one stream during 4 rainstorms of similar duration. They recorded total rainfall, the highest stream discharge reached after the rain began, and the stream's highest turbidity. Discharge is the volume of water passing a point each second. Greater turbidity means the water contains more suspended particles.\n\nStorm | Total rainfall (mm) | Peak discharge (m³/s) | Peak turbidity (NTU)\n1     | 8                   | 1.8                   | 12\n2     | 16                  | 3.0                   | 21\n3     | 24                  | 4.3                   | 35\n4     | 32                  | 6.1                   | 58\n\nQuestion:\nTo investigate whether storm duration affects peak discharge independently of total rainfall, which additional data would be most useful?",
+    "choices": {
+      "A": "Peak discharges from storms with equal total rainfall but different durations",
+      "B": "Air temperatures from storms with different total rainfall amounts",
+      "C": "Turbidity measurements from several points during only Storm 4",
+      "D": "Stream depths measured on days without rain"
+    },
+    "correct": "A",
+    "explanation": "Holding total rainfall equal while varying duration would isolate duration as the factor being investigated."
+  },
+  {
+    "id": "S1-015",
+    "prompt": "Scientists monitored one stream during 4 rainstorms of similar duration. They recorded total rainfall, the highest stream discharge reached after the rain began, and the stream's highest turbidity. Discharge is the volume of water passing a point each second. Greater turbidity means the water contains more suspended particles.\n\nStorm | Total rainfall (mm) | Peak discharge (m³/s) | Peak turbidity (NTU)\n1     | 8                   | 1.8                   | 12\n2     | 16                  | 3.0                   | 21\n3     | 24                  | 4.3                   | 35\n4     | 32                  | 6.1                   | 58\n\nQuestion:\nWhich statement is supported by the data without claiming that one measured variable caused another?",
+    "choices": {
+      "A": "Greater rainfall was associated with greater peak discharge and greater peak turbidity.",
+      "B": "Greater turbidity caused each storm to produce more rainfall.",
+      "C": "Peak discharge determined the duration of every storm.",
+      "D": "Rainfall had no relationship to either discharge or turbidity."
+    },
+    "correct": "A",
+    "explanation": "All three measured values increased together from Storm 1 through Storm 4, which supports an association but does not by itself establish causation."
+  },
+  {
+    "id": "S1-016",
+    "prompt": "Students studied the activity of catalase, an enzyme in potato tissue that helps break down hydrogen peroxide and releases oxygen gas. They placed equal masses of fresh potato in equal volumes of hydrogen peroxide at different temperatures. After 60 seconds, they measured the oxygen collected. Each result is a mean of 5 trials. A control used the same mass of boiled potato at 25°C.\n\nCondition                    | Mean oxygen collected after 60 s (mL)\nFresh potato at 10°C         | 8\nFresh potato at 25°C         | 18\nFresh potato at 40°C         | 27\nFresh potato at 55°C         | 6\nBoiled-potato control at 25°C| 0\n\nQuestion:\nAt which tested temperature did fresh potato produce the greatest mean volume of oxygen?",
+    "choices": {
+      "A": "10°C",
+      "B": "25°C",
+      "C": "40°C",
+      "D": "55°C"
+    },
+    "correct": "C",
+    "explanation": "Fresh potato at 40°C produced 27 mL of oxygen, more than at any other tested temperature."
+  },
+  {
+    "id": "S1-017",
+    "prompt": "Students studied the activity of catalase, an enzyme in potato tissue that helps break down hydrogen peroxide and releases oxygen gas. They placed equal masses of fresh potato in equal volumes of hydrogen peroxide at different temperatures. After 60 seconds, they measured the oxygen collected. Each result is a mean of 5 trials. A control used the same mass of boiled potato at 25°C.\n\nCondition                    | Mean oxygen collected after 60 s (mL)\nFresh potato at 10°C         | 8\nFresh potato at 25°C         | 18\nFresh potato at 40°C         | 27\nFresh potato at 55°C         | 6\nBoiled-potato control at 25°C| 0\n\nQuestion:\nWhat was the dependent variable measured in the investigation?",
+    "choices": {
+      "A": "Temperature of the potato mixture",
+      "B": "Mass of potato used",
+      "C": "Volume of hydrogen peroxide used",
+      "D": "Volume of oxygen collected after 60 seconds"
+    },
+    "correct": "D",
+    "explanation": "Oxygen volume was the measured response to the change in temperature."
+  },
+  {
+    "id": "S1-018",
+    "prompt": "Students studied the activity of catalase, an enzyme in potato tissue that helps break down hydrogen peroxide and releases oxygen gas. They placed equal masses of fresh potato in equal volumes of hydrogen peroxide at different temperatures. After 60 seconds, they measured the oxygen collected. Each result is a mean of 5 trials. A control used the same mass of boiled potato at 25°C.\n\nCondition                    | Mean oxygen collected after 60 s (mL)\nFresh potato at 10°C         | 8\nFresh potato at 25°C         | 18\nFresh potato at 40°C         | 27\nFresh potato at 55°C         | 6\nBoiled-potato control at 25°C| 0\n\nQuestion:\nWhat was the main purpose of including the boiled-potato control at 25°C?",
+    "choices": {
+      "A": "To show whether active potato enzymes were needed for oxygen production",
+      "B": "To determine whether colder mixtures contain more peroxide",
+      "C": "To make the fresh-potato trials reach 40°C faster",
+      "D": "To increase the number of temperatures tested with fresh potato"
+    },
+    "correct": "A",
+    "explanation": "The boiled-potato control produced 0 mL at 25°C, while fresh potato at the same temperature produced 18 mL."
+  },
+  {
+    "id": "S1-019",
+    "prompt": "Students studied the activity of catalase, an enzyme in potato tissue that helps break down hydrogen peroxide and releases oxygen gas. They placed equal masses of fresh potato in equal volumes of hydrogen peroxide at different temperatures. After 60 seconds, they measured the oxygen collected. Each result is a mean of 5 trials. A control used the same mass of boiled potato at 25°C.\n\nCondition                    | Mean oxygen collected after 60 s (mL)\nFresh potato at 10°C         | 8\nFresh potato at 25°C         | 18\nFresh potato at 40°C         | 27\nFresh potato at 55°C         | 6\nBoiled-potato control at 25°C| 0\n\nQuestion:\nA new fresh-potato trial at 45°C produced a mean of 20 mL of oxygen. Which interpretation best combines the new result with the original results?",
+    "choices": {
+      "A": "Catalase activity was greatest at 55°C.",
+      "B": "Catalase activity increased steadily at every temperature from 10°C through 55°C.",
+      "C": "Catalase activity likely reached a high point near 40°C and then decreased as temperature increased further.",
+      "D": "Temperature had no relationship to oxygen production."
+    },
+    "correct": "C",
+    "explanation": "Oxygen rose to 27 mL at 40°C, then measured 20 mL at 45°C and 6 mL at 55°C."
+  },
+  {
+    "id": "S1-020",
+    "prompt": "Students studied the activity of catalase, an enzyme in potato tissue that helps break down hydrogen peroxide and releases oxygen gas. They placed equal masses of fresh potato in equal volumes of hydrogen peroxide at different temperatures. After 60 seconds, they measured the oxygen collected. Each result is a mean of 5 trials. A control used the same mass of boiled potato at 25°C.\n\nCondition                    | Mean oxygen collected after 60 s (mL)\nFresh potato at 10°C         | 8\nFresh potato at 25°C         | 18\nFresh potato at 40°C         | 27\nFresh potato at 55°C         | 6\nBoiled-potato control at 25°C| 0\n\nQuestion:\nWhich conclusion about fresh potato is best supported over the full tested temperature range?",
+    "choices": {
+      "A": "Oxygen production rose from 10°C to 40°C and then fell by 55°C.",
+      "B": "Oxygen production decreased whenever temperature increased.",
+      "C": "Oxygen production was identical at 10°C and 55°C.",
+      "D": "Fresh potato produced no oxygen at 25°C."
+    },
+    "correct": "A",
+    "explanation": "The fresh-potato values increased from 8 mL to 18 mL to 27 mL, then decreased to 6 mL."
+  },
+  {
+    "id": "S1-021",
+    "prompt": "Scientists are studying narrow dark lines that sometimes form on the icy surface of a small moon after jets of material erupt from fractures. The lines lengthen for several days after an eruption and fade over several months. Spectroscopy detects salts in the lines, but no instrument has directly detected liquid there.\n\nViewpoint 1 — Brine-flow model: Pressure beneath the ice forces salty liquid water, called brine, up through fractures. The brine briefly flows across the surface, darkening it. The water then freezes or changes directly into vapor, leaving salt behind.\n\nViewpoint 2 — Dust-movement model: Gas escapes through fractures and pushes dry, salt-containing dust across the surface. The moving dust forms the dark lines. Later eruptions or slow settling cover the lines with brighter ice particles. Liquid water never reaches the surface.\n\nQuestion:\nWhich observation was obtained using spectroscopy?",
+    "choices": {
+      "A": "The lines contain salts.",
+      "B": "The lines lengthen for several days.",
+      "C": "The lines fade over several months.",
+      "D": "The jets erupt from fractures."
+    },
+    "correct": "A",
+    "explanation": "The prompt states that spectroscopy detected salts in the dark lines."
+  },
+  {
+    "id": "S1-022",
+    "prompt": "Scientists are studying narrow dark lines that sometimes form on the icy surface of a small moon after jets of material erupt from fractures. The lines lengthen for several days after an eruption and fade over several months. Spectroscopy detects salts in the lines, but no instrument has directly detected liquid there.\n\nViewpoint 1 — Brine-flow model: Pressure beneath the ice forces salty liquid water, called brine, up through fractures. The brine briefly flows across the surface, darkening it. The water then freezes or changes directly into vapor, leaving salt behind.\n\nViewpoint 2 — Dust-movement model: Gas escapes through fractures and pushes dry, salt-containing dust across the surface. The moving dust forms the dark lines. Later eruptions or slow settling cover the lines with brighter ice particles. Liquid water never reaches the surface.\n\nQuestion:\nWhich new observation would most directly support Viewpoint 1 over Viewpoint 2?",
+    "choices": {
+      "A": "Salts are found in dark lines and in nearby bright ice.",
+      "B": "A camera records liquid emerging from a fracture and flowing along a new line.",
+      "C": "A dark line fades after several months.",
+      "D": "A jet occurs before a line begins to lengthen."
+    },
+    "correct": "B",
+    "explanation": "Directly observing flowing liquid would match the brine-flow model and contradict the dry-only mechanism in the dust-movement model."
+  },
+  {
+    "id": "S1-023",
+    "prompt": "Scientists are studying narrow dark lines that sometimes form on the icy surface of a small moon after jets of material erupt from fractures. The lines lengthen for several days after an eruption and fade over several months. Spectroscopy detects salts in the lines, but no instrument has directly detected liquid there.\n\nViewpoint 1 — Brine-flow model: Pressure beneath the ice forces salty liquid water, called brine, up through fractures. The brine briefly flows across the surface, darkening it. The water then freezes or changes directly into vapor, leaving salt behind.\n\nViewpoint 2 — Dust-movement model: Gas escapes through fractures and pushes dry, salt-containing dust across the surface. The moving dust forms the dark lines. Later eruptions or slow settling cover the lines with brighter ice particles. Liquid water never reaches the surface.\n\nQuestion:\nWhich laboratory result would most directly support the mechanism proposed in Viewpoint 2?",
+    "choices": {
+      "A": "Pressurized gas moves dry salty dust across cold ice and produces line-shaped deposits without liquid.",
+      "B": "Salty liquid freezes more slowly than pure liquid water.",
+      "C": "Bright ice reflects more light than dark material.",
+      "D": "Salt remains after a sample of brine evaporates."
+    },
+    "correct": "A",
+    "explanation": "This result reproduces the gas-driven, liquid-free process proposed by the dust-movement model."
+  },
+  {
+    "id": "S1-024",
+    "prompt": "Scientists are studying narrow dark lines that sometimes form on the icy surface of a small moon after jets of material erupt from fractures. The lines lengthen for several days after an eruption and fade over several months. Spectroscopy detects salts in the lines, but no instrument has directly detected liquid there.\n\nViewpoint 1 — Brine-flow model: Pressure beneath the ice forces salty liquid water, called brine, up through fractures. The brine briefly flows across the surface, darkening it. The water then freezes or changes directly into vapor, leaving salt behind.\n\nViewpoint 2 — Dust-movement model: Gas escapes through fractures and pushes dry, salt-containing dust across the surface. The moving dust forms the dark lines. Later eruptions or slow settling cover the lines with brighter ice particles. Liquid water never reaches the surface.\n\nQuestion:\nThe two viewpoints disagree most directly about which feature of line formation?",
+    "choices": {
+      "A": "Whether the lines are located on an icy moon",
+      "B": "Whether fractures are associated with the lines",
+      "C": "Whether salts occur in the lines",
+      "D": "Whether the material moving across the surface is liquid brine or dry dust"
+    },
+    "correct": "D",
+    "explanation": "Viewpoint 1 proposes flowing brine, whereas Viewpoint 2 proposes dry dust pushed by gas."
+  },
+  {
+    "id": "S1-025",
+    "prompt": "Scientists are studying narrow dark lines that sometimes form on the icy surface of a small moon after jets of material erupt from fractures. The lines lengthen for several days after an eruption and fade over several months. Spectroscopy detects salts in the lines, but no instrument has directly detected liquid there.\n\nViewpoint 1 — Brine-flow model: Pressure beneath the ice forces salty liquid water, called brine, up through fractures. The brine briefly flows across the surface, darkening it. The water then freezes or changes directly into vapor, leaving salt behind.\n\nViewpoint 2 — Dust-movement model: Gas escapes through fractures and pushes dry, salt-containing dust across the surface. The moving dust forms the dark lines. Later eruptions or slow settling cover the lines with brighter ice particles. Liquid water never reaches the surface.\n\nQuestion:\nScientists determine that a new line formed while the surface temperature stayed far below the freezing point of the brine with the measured salt composition. If all other observations remain the same, this result would most likely:",
+    "choices": {
+      "A": "support Viewpoint 1 because colder brine flows faster.",
+      "B": "support Viewpoint 2 because formation without surface liquid is more consistent with dry dust movement.",
+      "C": "support both viewpoints equally because neither involves fractures.",
+      "D": "contradict both viewpoints because both require warm surface oceans."
+    },
+    "correct": "B",
+    "explanation": "Formation far below the measured brine's freezing point makes surface brine flow less likely and is more consistent with a dry process."
+  },
+  {
+    "id": "S1-026",
+    "prompt": "Students measured the electrical power produced by a small solar panel under a lamp. The angle is measured between the incoming light rays and a line perpendicular to the panel; therefore, 0° means the light strikes the panel straight on. Each value is a mean of 3 trials.\n\nExperiment 1: The lamp was kept 50 cm from the panel while angle was changed.\nAngle | Mean power\n0°    | 240 mW\n30°   | 205 mW\n60°   | 120 mW\n75°   | 62 mW\n\nExperiment 2: The angle was kept at 0° while lamp distance was changed.\nDistance | Mean power\n25 cm    | 760 mW\n50 cm    | 240 mW\n75 cm    | 115 mW\n100 cm   | 68 mW\n\nQuestion:\nIn Experiment 1, what mean power was produced at an angle of 60°?",
+    "choices": {
+      "A": "62 mW",
+      "B": "115 mW",
+      "C": "120 mW",
+      "D": "205 mW"
+    },
+    "correct": "C",
+    "explanation": "Experiment 1 lists a mean power of 120 mW at 60°."
+  },
+  {
+    "id": "S1-027",
+    "prompt": "Students measured the electrical power produced by a small solar panel under a lamp. The angle is measured between the incoming light rays and a line perpendicular to the panel; therefore, 0° means the light strikes the panel straight on. Each value is a mean of 3 trials.\n\nExperiment 1: The lamp was kept 50 cm from the panel while angle was changed.\nAngle | Mean power\n0°    | 240 mW\n30°   | 205 mW\n60°   | 120 mW\n75°   | 62 mW\n\nExperiment 2: The angle was kept at 0° while lamp distance was changed.\nDistance | Mean power\n25 cm    | 760 mW\n50 cm    | 240 mW\n75 cm    | 115 mW\n100 cm   | 68 mW\n\nQuestion:\nIn Experiment 2, by how much did mean power decrease when lamp distance increased from 50 cm to 100 cm?",
+    "choices": {
+      "A": "52 mW",
+      "B": "68 mW",
+      "C": "172 mW",
+      "D": "308 mW"
+    },
+    "correct": "C",
+    "explanation": "Mean power decreased from 240 mW at 50 cm to 68 mW at 100 cm, a decrease of 172 mW."
+  },
+  {
+    "id": "S1-028",
+    "prompt": "Students measured the electrical power produced by a small solar panel under a lamp. The angle is measured between the incoming light rays and a line perpendicular to the panel; therefore, 0° means the light strikes the panel straight on. Each value is a mean of 3 trials.\n\nExperiment 1: The lamp was kept 50 cm from the panel while angle was changed.\nAngle | Mean power\n0°    | 240 mW\n30°   | 205 mW\n60°   | 120 mW\n75°   | 62 mW\n\nExperiment 2: The angle was kept at 0° while lamp distance was changed.\nDistance | Mean power\n25 cm    | 760 mW\n50 cm    | 240 mW\n75 cm    | 115 mW\n100 cm   | 68 mW\n\nQuestion:\nWhat was the independent variable in Experiment 2?",
+    "choices": {
+      "A": "Lamp distance",
+      "B": "Panel angle",
+      "C": "Number of trials",
+      "D": "Electrical power"
+    },
+    "correct": "A",
+    "explanation": "Experiment 2 changed lamp distance while holding panel angle at 0°."
+  },
+  {
+    "id": "S1-029",
+    "prompt": "Students measured the electrical power produced by a small solar panel under a lamp. The angle is measured between the incoming light rays and a line perpendicular to the panel; therefore, 0° means the light strikes the panel straight on. Each value is a mean of 3 trials.\n\nExperiment 1: The lamp was kept 50 cm from the panel while angle was changed.\nAngle | Mean power\n0°    | 240 mW\n30°   | 205 mW\n60°   | 120 mW\n75°   | 62 mW\n\nExperiment 2: The angle was kept at 0° while lamp distance was changed.\nDistance | Mean power\n25 cm    | 760 mW\n50 cm    | 240 mW\n75 cm    | 115 mW\n100 cm   | 68 mW\n\nQuestion:\nWhy was lamp distance held at 50 cm throughout Experiment 1?",
+    "choices": {
+      "A": "To ensure that angle was the main tested factor affecting power",
+      "B": "To make the independent variable change during every trial",
+      "C": "To prove that distance never affects solar-panel power",
+      "D": "To cause the panel angle to remain at 0°"
+    },
+    "correct": "A",
+    "explanation": "Keeping distance constant allowed the students to compare power while changing angle alone."
+  },
+  {
+    "id": "S1-030",
+    "prompt": "Students measured the electrical power produced by a small solar panel under a lamp. The angle is measured between the incoming light rays and a line perpendicular to the panel; therefore, 0° means the light strikes the panel straight on. Each value is a mean of 3 trials.\n\nExperiment 1: The lamp was kept 50 cm from the panel while angle was changed.\nAngle | Mean power\n0°    | 240 mW\n30°   | 205 mW\n60°   | 120 mW\n75°   | 62 mW\n\nExperiment 2: The angle was kept at 0° while lamp distance was changed.\nDistance | Mean power\n25 cm    | 760 mW\n50 cm    | 240 mW\n75 cm    | 115 mW\n100 cm   | 68 mW\n\nQuestion:\nA student claims that doubling the lamp distance always reduces the panel's power to exactly one-half its previous value. How do the results for 50 cm and 100 cm evaluate this claim?",
+    "choices": {
+      "A": "They support it because 68 mW is exactly half of 240 mW.",
+      "B": "They support it because power decreased as distance increased.",
+      "C": "They contradict it because half of 240 mW is 120 mW, not 68 mW.",
+      "D": "They cannot evaluate it because panel angle was not controlled in Experiment 2."
+    },
+    "correct": "C",
+    "explanation": "Doubling distance from 50 cm to 100 cm reduced power from 240 mW to 68 mW, which is less than half rather than exactly half."
+  }
+]

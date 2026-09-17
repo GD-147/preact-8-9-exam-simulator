@@ -1,0 +1,482 @@
+[
+  {
+    "id": "EN1-001",
+    "prompt": "In a passage about producing a school news program, Maya recalls the first recording session: “Before the red light blinked <u>on we checked the microphones twice</u>.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "on, we checked the microphones twice",
+      "C": "on; we checked the microphones twice",
+      "D": "on we checked, the microphones twice"
+    },
+    "correct": "B",
+    "explanation": "A comma should follow the introductory dependent clause “Before the red light blinked on.” The unpunctuated version does not mark the boundary between that clause and the main clause."
+  },
+  {
+    "id": "EN1-002",
+    "prompt": "In the same passage, Maya describes the student crew: “A box of spare cables and two charged batteries <u>wait</u> beside the recording desk.” Which choice makes the sentence conform to Standard English?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "waits",
+      "C": "is waiting",
+      "D": "has waited"
+    },
+    "correct": "A",
+    "explanation": "The compound subject “A box of spare cables and two charged batteries” is plural, so it takes the plural verb “wait.” “Waits” and “is waiting” incorrectly treat the subject as singular."
+  },
+  {
+    "id": "EN1-003",
+    "prompt": "The passage explains why the crew changed its plan: “<u>The gym was unavailable after school. Because the basketball team had begun practice.</u>” Which choice most effectively corrects the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The basketball team having begun practice.",
+      "C": "Because beginning practice was the basketball team.",
+      "D": "The gym was unavailable after school because the basketball team had begun practice."
+    },
+    "correct": "D",
+    "explanation": "This choice joins the dependent because-clause to a complete independent clause. The other choices leave “because” or a participial phrase without a complete main clause."
+  },
+  {
+    "id": "EN1-004",
+    "prompt": "Maya writes, “When Lena handed Priya the revised script, <u>she</u> pointed to a new closing line.” The passage needs to make clear that Lena pointed to the line. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "the student",
+      "C": "Lena",
+      "D": "she herself"
+    },
+    "correct": "C",
+    "explanation": "Naming Lena makes it unmistakable that she pointed to the line. The pronouns and the vague phrase “the student” could refer to either Lena or Priya."
+  },
+  {
+    "id": "EN1-005",
+    "prompt": "The passage introduces a recurring feature: “Weather Watch <u>which lasts only thirty seconds</u> includes a forecast and one safety reminder.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "which lasts only thirty seconds,",
+      "C": ", which lasts only thirty seconds,",
+      "D": ", which lasts only thirty seconds"
+    },
+    "correct": "C",
+    "explanation": "The detail about the report's length is nonessential, so it must be enclosed by commas. Choices with only one comma fail to mark both boundaries of the phrase."
+  },
+  {
+    "id": "EN1-006",
+    "prompt": "Maya narrates events that happened during one Friday recording: “Lena read the lunch menu while I <u>adjust</u> the volume, and then we both signaled the music team.” Which choice best maintains the sentence's verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "adjust",
+      "C": "will adjust",
+      "D": "adjusted"
+    },
+    "correct": "D",
+    "explanation": "“Adjusted” matches the past-tense verbs “read” and “signaled.” The present and future forms create an illogical tense shift."
+  },
+  {
+    "id": "EN1-007",
+    "prompt": "The passage describes Maya entering the studio: “<u>Walking into the media room, the blinking control panel caught Maya's attention.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "Walking into the media room, Maya noticed the blinking control panel.",
+      "B": "Walking into the media room, the control panel blinked at Maya.",
+      "C": "The blinking control panel, walking into the media room, caught Maya's attention.",
+      "D": "Maya's attention was caught, walking into the media room, by the blinking control panel."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase logically modifies Maya, the person who was walking. In the original, it incorrectly appears to modify the control panel."
+  },
+  {
+    "id": "EN1-008",
+    "prompt": "Maya explains that the crew shortened a long announcement: “The original message was <u>long in length and repeated the same details again</u>, so we trimmed it to three sentences.” Which choice is most concise while preserving the meaning?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "lengthy in its length and repetitive with details",
+      "C": "long and repetitive",
+      "D": "of a long sort and repeated details over again"
+    },
+    "correct": "C",
+    "explanation": "This choice conveys both ideas directly and without redundancy. The other choices unnecessarily repeat the meanings of “long” or “repeated.”"
+  },
+  {
+    "id": "EN1-009",
+    "prompt": "In a passage with a thoughtful, upbeat tone, Maya reflects on an early mistake: “I pressed the wrong button, and five seconds of silence went out to every classroom. <u>It was, like, a total disaster.</u>” Which choice best matches the passage's tone?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The pause felt enormous to me, but it taught me to label the controls.",
+      "C": "That technical catastrophe rendered the broadcast utterly unsuccessful.",
+      "D": "Whatever—the silence did not really matter to anyone."
+    },
+    "correct": "B",
+    "explanation": "This sentence keeps the reflective, upbeat tone and shows what Maya learned. The slangy, overly dramatic, and dismissive alternatives do not fit that tone."
+  },
+  {
+    "id": "EN1-010",
+    "prompt": "A passage about creating a weekly school news program begins with these sentences: “At 7:40 each Friday morning, a red light glows above the media-room door. On the other side, three students lean toward their microphones as the principal counts down from five.” Which choice would be the most effective next sentence if the writer wants to introduce the passage's main focus on how students learned to produce the program?",
+    "choices": {
+      "A": "The media room has gray carpet and six rolling chairs.",
+      "B": "Fridays are named after Frigg, a figure from Norse tradition.",
+      "C": "The program lasts seven minutes, although assemblies are sometimes much longer.",
+      "D": "Those polished minutes are the result of weeks of student planning, practice, and problem-solving."
+    },
+    "correct": "D",
+    "explanation": "This sentence connects the opening scene to the passage's focus on the students' learning process. The other choices introduce side facts rather than the main idea."
+  },
+  {
+    "id": "EN1-011",
+    "prompt": "In a paragraph about planning the school news program, Maya writes: “First, we collected announcements from teachers and club leaders. Next, we sorted the messages by urgency. _____, we arranged the selected items in a script that moved from schoolwide news to short reminders.” Which choice provides the most logical transition?",
+    "choices": {
+      "A": "Nevertheless",
+      "B": "Finally",
+      "C": "For example",
+      "D": "On the contrary"
+    },
+    "correct": "B",
+    "explanation": "“Finally” completes the chronological sequence begun by “First” and “Next.” The other transitions signal contrast or an example, neither of which fits."
+  },
+  {
+    "id": "EN1-012",
+    "prompt": "A paragraph explains how the student crew improved its school news program by timing rehearsals, marking pauses in the script, and placing labels beside the sound controls. The writer is considering adding this sentence: “The cafeteria serves tomato soup on some winter Tuesdays.” Should the writer add the sentence?",
+    "choices": {
+      "A": "Yes, because it supplies a specific example of information that might appear in any school announcement.",
+      "B": "Yes, because every paragraph should include a detail about the school cafeteria.",
+      "C": "No, because it distracts from the paragraph's focus on improvements to the crew's production process.",
+      "D": "No, because food should never be mentioned in a passage about broadcasting."
+    },
+    "correct": "C",
+    "explanation": "The soup detail does not help explain how the crew improved its work. A possible topic for an announcement is not relevant to this paragraph's specific focus."
+  },
+  {
+    "id": "EN1-013",
+    "prompt": "Maya's passage explains that the crew's first broadcasts were uneven but improved through rehearsal. The writer wants to add the following sentence to a paragraph: “By our fourth broadcast, each speaker knew when to lean toward the microphone and when to pause for music.” Where would this sentence be most logically placed?",
+    "choices": {
+      "A": "Before the paragraph describes the crew's confusing first rehearsal",
+      "B": "After the paragraph explains the specific techniques the crew practiced",
+      "C": "Before the passage introduces the idea of a school news program",
+      "D": "In a paragraph that lists the topics announced during the broadcast"
+    },
+    "correct": "B",
+    "explanation": "The fourth-broadcast sentence shows the result of the practice techniques, so it should follow their explanation. Placing it before the early difficulties would disrupt the passage's development."
+  },
+  {
+    "id": "EN1-014",
+    "prompt": "At the end of a passage about learning to produce a school news program, Maya writes: “Now, when the red light turns on, I still feel a quick flutter of nerves.” Which choice would most effectively conclude the passage by emphasizing growth and teamwork?",
+    "choices": {
+      "A": "The red light uses very little electricity.",
+      "B": "Many schools have media rooms, but some do not.",
+      "C": "Nervousness can produce several physical sensations.",
+      "D": "Then Lena begins the countdown, Priya lifts the script, and I remember that we know how to make the broadcast together."
+    },
+    "correct": "D",
+    "explanation": "This ending returns to the recording scene while highlighting Maya's confidence and the crew's teamwork. The other choices do not resolve the passage's central idea."
+  },
+  {
+    "id": "EN1-015",
+    "prompt": "In a passage about restoring a neighborhood mosaic, the writer describes the artwork's origin: “The <u>mosaics first tiles</u> were placed by local artists in 1986.” Which choice correctly forms the possessive?",
+    "choices": {
+      "A": "mosaics first tiles",
+      "B": "mosaic's first tiles",
+      "C": "mosaics' first tiles",
+      "D": "mosaic first tile's"
+    },
+    "correct": "B",
+    "explanation": "The tiles belong to one mosaic, so the singular possessive “mosaic's” is required. “Mosaics'” would refer to more than one mosaic."
+  },
+  {
+    "id": "EN1-016",
+    "prompt": "The writer explains why volunteers began the restoration: “Several blue tiles had come <u>loose the central wave was still easy to recognize.</u>” Which choice best corrects the run-on sentence?",
+    "choices": {
+      "A": "loose, the central wave was still easy to recognize.",
+      "B": "loose the central wave was still easy to recognize.",
+      "C": "loose, being that the central wave was still easy to recognize.",
+      "D": "loose, but the central wave was still easy to recognize."
+    },
+    "correct": "D",
+    "explanation": "The comma and coordinating conjunction correctly join two independent clauses and express contrast. A comma alone would create a comma splice."
+  },
+  {
+    "id": "EN1-017",
+    "prompt": "The passage lists the volunteers' first tasks: “They photographed the wall, numbered the empty spaces, and <u>were making sketches of the remaining patterns</u>.” Which choice makes the list parallel?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "to sketch the remaining patterns",
+      "C": "sketched the remaining patterns",
+      "D": "the remaining patterns were sketched"
+    },
+    "correct": "C",
+    "explanation": "“Sketched” is parallel with the past-tense verbs “photographed” and “numbered.” The other forms break the grammatical pattern of the list."
+  },
+  {
+    "id": "EN1-018",
+    "prompt": "The writer introduces a list of supplies: “Each worktable held the same three tools <u>a sponge, a wooden scraper, and a small brush.</u>” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": ": a sponge, a wooden scraper, and a small brush.",
+      "B": ", a sponge, a wooden scraper, and a small brush.",
+      "C": "; a sponge, a wooden scraper, and a small brush.",
+      "D": "a sponge, a wooden scraper, and a small brush."
+    },
+    "correct": "A",
+    "explanation": "A colon properly introduces the list after the complete clause “Each worktable held the same three tools.” A comma or semicolon is not appropriate for introducing this list."
+  },
+  {
+    "id": "EN1-019",
+    "prompt": "In the restoration passage, the writer states, “The volunteers placed <u>his or her</u> names on paper tags before entering the work area.” Which choice makes the pronoun agree with its plural antecedent?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "their",
+      "C": "its",
+      "D": "your"
+    },
+    "correct": "B",
+    "explanation": "The plural pronoun “their” agrees with the plural antecedent “volunteers.” “His or her” is singular and cannot refer to the group as a whole."
+  },
+  {
+    "id": "EN1-020",
+    "prompt": "The passage explains a restoration technique: “The artists recommended <u>to soak</u> each replacement tile in water before setting it into mortar.” Which choice uses the standard verb form?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "soak",
+      "C": "having soaked",
+      "D": "soaking"
+    },
+    "correct": "D",
+    "explanation": "Standard usage is “recommended soaking,” with a gerund following “recommended” in this construction. “Recommended to soak” incorrectly makes the artists appear to be the ones receiving the recommendation."
+  },
+  {
+    "id": "EN1-021",
+    "prompt": "The writer describes the restored design: “A school of silver fish <u>curve</u> across the lower edge of the mosaic.” Which choice makes the verb agree with the subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "are curving",
+      "C": "curves",
+      "D": "have curved"
+    },
+    "correct": "C",
+    "explanation": "The subject is the singular collective noun “school,” so the singular verb “curves” is correct. “Fish” is part of a prepositional phrase and does not control the verb."
+  },
+  {
+    "id": "EN1-022",
+    "prompt": "The passage quotes Mr. Alvarez, a longtime resident: “<u>When I was ten he said this wall seemed as wide as the ocean.</u>” Which choice correctly punctuates the quotation and the interrupting dialogue tag?",
+    "choices": {
+      "A": "“When I was ten,” he said, “this wall seemed as wide as the ocean.”",
+      "B": "“When I was ten” he said “this wall seemed as wide as the ocean.”",
+      "C": "“When I was ten,” he said “this wall seemed as wide as the ocean.”",
+      "D": "“When I was ten” he said, “this wall seemed as wide as the ocean.”"
+    },
+    "correct": "A",
+    "explanation": "Commas set off the dialogue tag “he said,” and the quotation resumes after the tag. The other choices omit one or both required commas."
+  },
+  {
+    "id": "EN1-023",
+    "prompt": "The writer describes how volunteers searched for replacement materials: “They compared dozens of samples until they found a blue tile that <u>was kind of close to</u> the deep color of the original wave.” Which choice is most precise and appropriate for an informational passage?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "copied",
+      "C": "resembled",
+      "D": "had a thing like"
+    },
+    "correct": "C",
+    "explanation": "“Resembled” precisely states that the new tile was similar in color to the original. The other choices are vague, informal, or incorrectly suggest an exact copy."
+  },
+  {
+    "id": "EN1-024",
+    "prompt": "The restoration passage states, “After the final tile was set, the volunteers <u>joined together</u> for a group photograph.” Which choice is the most concise without changing the meaning?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "joined",
+      "C": "gathered together jointly",
+      "D": "assembled together as a group"
+    },
+    "correct": "B",
+    "explanation": "“Joined” already means came together, so it is concise and complete. The other versions repeat that same idea unnecessarily."
+  },
+  {
+    "id": "EN1-025",
+    "prompt": "A paragraph about the mosaic restoration contains these sentences:\n[1] Before replacing any tile, volunteers photographed the entire wall. [2] They printed the photographs and drew a numbered grid over each one. [3] The grid gave every missing tile a precise location. [4] As a result, volunteers could remove damaged pieces without losing track of the original pattern.\nThe writer wants to add this sentence: “Each numbered square on the photograph matched a square marked on the wall's protective covering.” Where should the sentence be placed?",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 2",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains how the numbered photographic grid corresponded to the wall, so it belongs immediately after the grid is introduced. It then leads naturally to the grid's usefulness in sentence 3."
+  },
+  {
+    "id": "EN1-026",
+    "prompt": "In a passage about restoring a neighborhood mosaic, the writer wants to support the claim that the project brought together people of different ages. Which choice provides the most relevant supporting detail?",
+    "choices": {
+      "A": "The wall faces east, so it receives direct sunlight in the morning.",
+      "B": "The original artists preferred blue and green glass.",
+      "C": "Some volunteers brought sandwiches for lunch.",
+      "D": "Retired artists sorted tiles beside middle school students, while younger children washed brushes."
+    },
+    "correct": "D",
+    "explanation": "This detail directly shows people from several age groups working on the project. The other facts do not support the claim about age diversity."
+  },
+  {
+    "id": "EN1-027",
+    "prompt": "A passage about a neighborhood mosaic follows this sequence: the writer introduces the damaged artwork, describes how volunteers planned and completed repairs, and then shows neighbors gathering to view the restored wall. Which choice best explains why this organization is effective?",
+    "choices": {
+      "A": "It traces the project from the problem through the solution to its effect on the community.",
+      "B": "It presents the least important information first and the most technical information last.",
+      "C": "It compares two unrelated restoration methods in order of cost.",
+      "D": "It delays identifying the mosaic until readers already understand the repair process."
+    },
+    "correct": "A",
+    "explanation": "The stated sequence follows a clear problem-solution-result structure. The other choices misdescribe the passage's content or order."
+  },
+  {
+    "id": "EN1-028",
+    "prompt": "In a passage about students testing a sensor in the school greenhouse, the writer says, “Nora recorded the temperature <u>and Malik measured the moisture in the soil.</u>” Which choice correctly punctuates the two independent clauses?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", and Malik measured the moisture in the soil.",
+      "C": "and, Malik measured the moisture in the soil.",
+      "D": "; and Malik measured the moisture in the soil."
+    },
+    "correct": "B",
+    "explanation": "A comma before “and” correctly joins the two independent clauses. A semicolon should not be paired with the coordinating conjunction in this construction."
+  },
+  {
+    "id": "EN1-029",
+    "prompt": "The passage describes the sensor system: “The row of tiny lights above the display <u>show</u> whether the soil is dry, damp, or wet.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have shown",
+      "C": "shows",
+      "D": "were showing"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “row” requires the singular verb “shows.” The plural noun “lights” is inside a prepositional phrase and does not determine the verb."
+  },
+  {
+    "id": "EN1-030",
+    "prompt": "The writer states, “Nora placed the sensor beside the watering can before <u>it</u> was carried to the back table.” The writer wants to make clear that the sensor was carried. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "that object",
+      "C": "the watering can",
+      "D": "the sensor"
+    },
+    "correct": "D",
+    "explanation": "Replacing “it” with “the sensor” clearly identifies what was carried. The original pronoun could refer to either the sensor or the watering can."
+  },
+  {
+    "id": "EN1-031",
+    "prompt": "The greenhouse passage explains an experiment conducted last month: “For five school days, the device checked the soil each hour and <u>sends</u> the results to a tablet.” Which choice best maintains consistent verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "sent",
+      "C": "is sending",
+      "D": "will send"
+    },
+    "correct": "B",
+    "explanation": "“Sent” matches the past-tense verb “checked” and the completed time frame “last month.” The other choices create an unnecessary shift in tense."
+  },
+  {
+    "id": "EN1-032",
+    "prompt": "The writer describes Nora reading the results: “<u>After examining the chart, the afternoon temperatures surprised Nora.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "After examining the chart, the afternoon temperatures were surprising.",
+      "B": "The afternoon temperatures, after examining the chart, surprised Nora.",
+      "C": "After examining the chart, Nora was surprised by the afternoon temperatures.",
+      "D": "Nora, the afternoon temperatures surprised her after examining the chart."
+    },
+    "correct": "C",
+    "explanation": "This choice places Nora immediately after the introductory phrase, correctly showing that she examined the chart. The original illogically suggests that the temperatures examined it."
+  },
+  {
+    "id": "EN1-033",
+    "prompt": "The passage contrasts the sensor with a student's observation: “Malik thought the soil looked <u>dry however, the sensor showed that it was still damp below the surface.</u>” Which choice correctly joins the independent clauses?",
+    "choices": {
+      "A": "dry, however, the sensor showed that it was still damp below the surface.",
+      "B": "dry; however, the sensor showed that it was still damp below the surface.",
+      "C": "dry however; the sensor showed that it was still damp below the surface.",
+      "D": "dry however the sensor showed that it was still damp below the surface."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly separates the independent clauses, and a comma follows the conjunctive adverb “however.” A comma before “however” alone creates a comma splice."
+  },
+  {
+    "id": "EN1-034",
+    "prompt": "The passage describes the class's data collection: “At the end of the week, the <u>students charts</u> revealed a pattern.” Which choice correctly forms the plural possessive?",
+    "choices": {
+      "A": "student's charts",
+      "B": "student's chart's",
+      "C": "students chart's",
+      "D": "students' charts"
+    },
+    "correct": "D",
+    "explanation": "The charts belong to multiple students, so the apostrophe follows the plural noun “students.” The other choices indicate one student or misuse apostrophes."
+  },
+  {
+    "id": "EN1-035",
+    "prompt": "In the greenhouse passage, the writer explains a change to the sensor: “The class moved the device because its first location <u>was not ideal in a perfect way</u> for collecting accurate readings.” Which choice is clearest and most concise?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "was not perfectly ideal",
+      "C": "was unsuitable",
+      "D": "had a lack of being ideal"
+    },
+    "correct": "C",
+    "explanation": "“Was unsuitable” states the idea clearly in two words. The other choices are wordy or repeat the meaning of “ideal” and “perfect.”"
+  },
+  {
+    "id": "EN1-036",
+    "prompt": "The passage uses a clear, explanatory style. It states, “When the soil dries, an electrical current moves through it less easily. <u>Basically, the sensor is pretty smart about dirt.</u>” Which choice best matches the passage's style while accurately connecting the idea to the device's function?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The sensor detects this change in conductivity and converts it into a moisture reading.",
+      "C": "Dirt tells the gadget what is going on, which is awesome.",
+      "D": "The sensor, in a manner of speaking, has a conversation with the soil."
+    },
+    "correct": "B",
+    "explanation": "This choice explains the function precisely and maintains the passage's informative style. The other choices are vague, conversational, or figurative."
+  },
+  {
+    "id": "EN1-037",
+    "prompt": "A passage about a greenhouse experiment begins, “On Monday morning, Nora pushed a metal probe into the soil beside a row of basil plants. A number flashed on the probe's small screen.” Which choice would most effectively introduce the passage's focus on testing whether a sensor could improve the class's watering schedule?",
+    "choices": {
+      "A": "The basil's bright leaves made the greenhouse smell fresh.",
+      "B": "Metal can be shaped into probes, wires, and many other objects.",
+      "C": "Nora wondered whether that number could tell the class when the plants actually needed water.",
+      "D": "Monday is the first day of the school week."
+    },
+    "correct": "C",
+    "explanation": "This sentence turns the opening observation into the question the class will test. The other choices do not introduce the passage's focus on the test."
+  },
+  {
+    "id": "EN1-038",
+    "prompt": "In a paragraph about testing a greenhouse soil sensor, the writer explains that students took readings every hour and entered them into a shared chart. The writer wants to emphasize why the repeated readings were useful. Which sentence would best accomplish this purpose?",
+    "choices": {
+      "A": "Several students used blue ink, while others used black ink.",
+      "B": "The tablet storing the chart had a protective green case.",
+      "C": "Hourly data allowed the class to see how quickly the soil dried at different times of day.",
+      "D": "A chart may contain rows, columns, labels, and numbers."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly explains the value of taking repeated readings. Details about ink, a tablet case, or the parts of a chart do not establish that value."
+  },
+  {
+    "id": "EN1-039",
+    "prompt": "A greenhouse passage includes the following paragraph:\n[1] The students first tested the moisture sensor beside the greenhouse door. [2] Each time the door opened, cool air reached the nearby soil. [3] _____ [4] After moving the sensor to a central planting bed, the class collected more consistent readings.\nWhich choice provides the most logical transition for sentence 3?",
+    "choices": {
+      "A": "For instance, the greenhouse also contained hanging baskets.",
+      "B": "Therefore, that location did not represent conditions throughout the greenhouse.",
+      "C": "Similarly, the class had tested thermometers in science class.",
+      "D": "Meanwhile, the door's hinges had recently been oiled."
+    },
+    "correct": "B",
+    "explanation": "This sentence states the result of the cool air affecting soil near the door and prepares readers for the sensor's relocation. The other choices are unrelated to that cause-and-effect sequence."
+  },
+  {
+    "id": "EN1-040",
+    "prompt": "At the end of a passage about testing a soil sensor, the writer explains that the class used the data to water the basil only when the soil became dry. Which concluding sentence best reinforces the passage's main idea without exaggerating the experiment's results?",
+    "choices": {
+      "A": "The small trial showed the class that careful measurements could guide an everyday decision in the greenhouse.",
+      "B": "The experiment proved that electronic sensors can solve every problem gardeners face.",
+      "C": "Clearly, people should never water a plant unless a digital device gives permission.",
+      "D": "Basil is one of many herbs used in kitchens around the world."
+    },
+    "correct": "A",
+    "explanation": "This conclusion accurately summarizes what the limited experiment demonstrated. The other choices exaggerate the result or shift away from the passage's main idea."
+  }
+]

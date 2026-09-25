@@ -1,0 +1,482 @@
+[
+  {
+    "id": "EN6-001",
+    "prompt": "In a passage about students organizing a group walk to school, Jamal recalls the first morning: “Before the crossing guard <u>arrived we reviewed the route beside the community center</u>.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "arrived, we reviewed the route beside the community center",
+      "C": "arrived; we reviewed the route beside the community center",
+      "D": "arrived we reviewed, the route beside the community center"
+    },
+    "correct": "B",
+    "explanation": "A comma should follow the introductory dependent clause “Before the crossing guard arrived.” A semicolon cannot separate that dependent clause from the main clause."
+  },
+  {
+    "id": "EN6-002",
+    "prompt": "The passage describes the group approaching school: “A line of students and adult volunteers <u>move</u> along the sidewalk at a steady pace.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have moved",
+      "C": "moves",
+      "D": "are moving"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “line” requires the singular verb “moves.” The plural nouns in the prepositional phrase do not control the verb."
+  },
+  {
+    "id": "EN6-003",
+    "prompt": "Jamal explains why the group changed its route: “<u>We began using Pine Street because construction had closed the sidewalk on Oak Avenue.</u>” Which choice is a complete sentence that clearly expresses the cause-and-effect relationship?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "Beginning to use Pine Street. Because construction had closed the sidewalk on Oak Avenue.",
+      "C": "Because construction had closed the sidewalk on Oak Avenue.",
+      "D": "Pine Street, construction having closed the sidewalk on Oak Avenue."
+    },
+    "correct": "A",
+    "explanation": "The original is a complete sentence that links the route change to its cause. Each other choice contains a fragment or lacks a complete main clause."
+  },
+  {
+    "id": "EN6-004",
+    "prompt": "The passage states, “When Lila handed Mateo the route card, <u>she</u> marked the safest crossing with a star.” The writer wants to make clear that Lila marked the card. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "the student",
+      "C": "Lila",
+      "D": "Mateo"
+    },
+    "correct": "C",
+    "explanation": "Naming Lila makes it clear who marked the crossing. The pronoun and the vague phrase “the student” could refer to either person."
+  },
+  {
+    "id": "EN6-005",
+    "prompt": "The passage describes one path to school: “The group's longest route <u>which begins at the community center</u> covers nearly a mile.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "which begins at the community center,",
+      "C": ", which begins at the community center,",
+      "D": ", which begins at the community center"
+    },
+    "correct": "C",
+    "explanation": "The superlative phrase “longest route” identifies one specific route, so the added description is nonessential and must be enclosed by commas. One comma alone marks only one boundary."
+  },
+  {
+    "id": "EN6-006",
+    "prompt": "Jamal narrates events from the first week: “The volunteers counted the students while I <u>check</u> each name on the attendance sheet.” Which choice best maintains the sentence's verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "checked",
+      "C": "will check",
+      "D": "am checking"
+    },
+    "correct": "B",
+    "explanation": "“Checked” matches the past-tense verb “counted.” The present and future forms create an unnecessary tense shift."
+  },
+  {
+    "id": "EN6-007",
+    "prompt": "The passage describes the group crossing a busy intersection: “<u>Wearing reflective vests, the intersection was crossed carefully by the students.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "Wearing reflective vests, the students crossed the intersection carefully.",
+      "C": "The intersection, wearing reflective vests, was crossed carefully by the students.",
+      "D": "Wearing reflective vests, careful crossing happened at the intersection."
+    },
+    "correct": "B",
+    "explanation": "The students are wearing the vests, so they must follow the introductory phrase. The original illogically suggests that the intersection wore the vests."
+  },
+  {
+    "id": "EN6-008",
+    "prompt": "Jamal describes the group's preparation: “We <u>planned the route in advance before</u> the first morning walk.” Which choice is most concise while preserving the meaning?",
+    "choices": {
+      "A": "planned the route",
+      "B": "planned the route ahead in advance",
+      "C": "made an advance plan beforehand for the route",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Planned the route” already means the planning occurred before the walk. “In advance” and “before” repeat that meaning."
+  },
+  {
+    "id": "EN6-009",
+    "prompt": "In a passage with an encouraging, practical tone, Jamal describes a rainy morning: “Two umbrellas turned inside out, and the group arrived later than usual. <u>The walk was a total and hopeless disaster.</u>” Which choice best matches the passage's tone?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The delay showed us that rainy-day departures needed a few extra minutes.",
+      "C": "The weather had defeated our plan beyond all repair.",
+      "D": "We did not care, because schedules are not important anyway."
+    },
+    "correct": "B",
+    "explanation": "This choice treats the problem as a useful lesson and maintains the practical tone. The other options are exaggerated or dismissive."
+  },
+  {
+    "id": "EN6-010",
+    "prompt": "A passage about a group walk to school begins, “At 7:25 each morning, students gather beside the community center instead of waiting alone at separate corners. Two adult volunteers greet them and check a route card.” Which choice would most effectively introduce the passage's focus on creating a safe, reliable walking group?",
+    "choices": {
+      "A": "The community center offers several afternoon classes.",
+      "B": "Together, the students and volunteers form a scheduled ‘walking school bus’ with planned stops and safety routines.",
+      "C": "Some street corners have traffic lights, while others have stop signs.",
+      "D": "Morning temperatures may be warmer or cooler than afternoon temperatures."
+    },
+    "correct": "B",
+    "explanation": "This sentence identifies the group's purpose and organized structure. The other choices provide side facts rather than the passage's main focus."
+  },
+  {
+    "id": "EN6-011",
+    "prompt": "In a paragraph about planning the walking route, Jamal writes: “First, volunteers marked the homes of interested students on a neighborhood map. Next, they identified sidewalks, crosswalks, and lower-traffic streets. _____, they selected meeting points and tested the route on foot.” Which choice provides the most logical transition?",
+    "choices": {
+      "A": "However",
+      "B": "For example",
+      "C": "Then",
+      "D": "On the contrary"
+    },
+    "correct": "C",
+    "explanation": "“Then” continues the chronological sequence established by “First” and “Next.” The other transitions signal contrast or an example."
+  },
+  {
+    "id": "EN6-012",
+    "prompt": "A paragraph explains that organizers added a rainy-day start time, created an emergency contact list, and assigned an adult to the front and back of the group. The writer is considering adding this sentence: “The community center's basketball court has two hoops.” Should the writer add the sentence?",
+    "choices": {
+      "A": "Yes, because the walking group meets at the community center.",
+      "B": "Yes, because every paragraph benefits from a detail about sports.",
+      "C": "No, because basketball should never be mentioned in a school passage.",
+      "D": "No, because the detail distracts from the paragraph's focus on safety procedures."
+    },
+    "correct": "D",
+    "explanation": "The basketball court does not explain any safety procedure. Sharing a location with the group does not make the detail relevant."
+  },
+  {
+    "id": "EN6-013",
+    "prompt": "A paragraph about the walking group contains these sentences:\n[1] During the first week, the group often waited at a stop for students who had not planned to walk that day. [2] The delays made it difficult to reach school before the first bell. [3] Organizers created a simple message system for families to report absences. [4] The group then spent less time waiting and arrived more consistently.\nThe writer wants to add this sentence: “Volunteers could not tell whether a missing student was late or absent.” Where should the sentence be placed?",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 2",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence directly explains why the waiting described in sentence 1 occurred and leads to its consequence in sentence 2. Later placements would weaken that connection."
+  },
+  {
+    "id": "EN6-014",
+    "prompt": "At the end of a passage about a walking school bus, Jamal describes younger students confidently leading the group through its safety routine. Which concluding sentence best emphasizes the project's effect?",
+    "choices": {
+      "A": "The route contains four crosswalks and one pedestrian bridge.",
+      "B": "Walking shoes are available in many styles.",
+      "C": "What began as a set of lines on a map had become a dependable routine that students helped one another follow.",
+      "D": "The school day begins with morning announcements."
+    },
+    "correct": "C",
+    "explanation": "This conclusion connects the original planning to the students' growing confidence and cooperation. The other choices end with unrelated facts."
+  },
+  {
+    "id": "EN6-015",
+    "prompt": "In a passage about students researching a historical story quilt, the writer describes the archive materials: “Several <u>quilters sketches</u> showed how the fabric blocks were planned.” Which choice correctly forms the plural possessive?",
+    "choices": {
+      "A": "quilters sketches",
+      "B": "quilter's sketches",
+      "C": "quilters' sketches",
+      "D": "quilters sketch's"
+    },
+    "correct": "C",
+    "explanation": "The sketches belonged to several quilters, so the apostrophe follows the plural noun “quilters.” “Quilter's” would indicate one quilter."
+  },
+  {
+    "id": "EN6-016",
+    "prompt": "The passage explains where the quilt was found: “The quilt had been stored in a cedar <u>chest its colors remained surprisingly bright.</u>” Which choice best corrects the run-on sentence?",
+    "choices": {
+      "A": "chest, its colors remained surprisingly bright.",
+      "B": "chest; its colors remained surprisingly bright.",
+      "C": "chest its colors remained, surprisingly bright.",
+      "D": "chest being why its colors remained surprisingly bright."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly joins the two related independent clauses. A comma alone would create a comma splice."
+  },
+  {
+    "id": "EN6-017",
+    "prompt": "The writer lists the students' research tasks: “Their work included <u>photographing each block, recording fabric colors, and to compare the patterns with old sketches</u>.” Which choice makes the list parallel?",
+    "choices": {
+      "A": "photographing each block, recording fabric colors, and comparing the patterns with old sketches",
+      "B": "to photograph each block, recording fabric colors, and comparing the patterns with old sketches",
+      "C": "photographing each block, fabric colors were recorded, and comparing the patterns with old sketches",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "All three items use parallel gerund forms: “photographing,” “recording,” and “comparing.” The other choices mix grammatical structures."
+  },
+  {
+    "id": "EN6-018",
+    "prompt": "The passage introduces three images sewn into the quilt: “The border repeats three community symbols <u>a riverboat, a wheat stalk, and a school bell.</u>” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": ", a riverboat, a wheat stalk, and a school bell.",
+      "B": "; a riverboat, a wheat stalk, and a school bell.",
+      "C": ": a riverboat, a wheat stalk, and a school bell.",
+      "D": "a riverboat, a wheat stalk, and a school bell."
+    },
+    "correct": "C",
+    "explanation": "A colon properly introduces the list after the complete clause. A comma or semicolon does not correctly introduce this list."
+  },
+  {
+    "id": "EN6-019",
+    "prompt": "The writer describes two student historians: “Both historians checked <u>his or her</u> notes against the museum catalog.” Which choice makes the pronoun agree with its plural antecedent?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "their",
+      "C": "its",
+      "D": "your"
+    },
+    "correct": "B",
+    "explanation": "The plural pronoun “their” agrees with the plural antecedent “historians.” “His or her” is singular."
+  },
+  {
+    "id": "EN6-020",
+    "prompt": "The passage explains how the students documented the quilt: “They planned <u>photographing</u> every block in both natural and indoor light.” Which choice uses the standard verb form?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "photograph",
+      "C": "to photograph",
+      "D": "having photographed"
+    },
+    "correct": "C",
+    "explanation": "The standard construction is “planned to photograph.” “Planned photographing” is not the accepted form in this sentence."
+  },
+  {
+    "id": "EN6-021",
+    "prompt": "The passage describes what the quilt communicates: “A collection of twelve picture blocks <u>tell</u> the story of the town's first harvest festival.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "tells",
+      "C": "have told",
+      "D": "are telling"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “collection” requires the singular verb “tells.” The plural noun “blocks” is part of a prepositional phrase."
+  },
+  {
+    "id": "EN6-022",
+    "prompt": "The passage quotes a museum curator discussing one block: “<u>Look at the tiny silver thread she said it represents moonlight on the river.</u>” Which choice correctly punctuates the quotation and the interrupting dialogue tag?",
+    "choices": {
+      "A": "“Look at the tiny silver thread,” she said. “It represents moonlight on the river.”",
+      "B": "“Look at the tiny silver thread” she said. “It represents moonlight on the river.”",
+      "C": "“Look at the tiny silver thread,” she said “it represents moonlight on the river.”",
+      "D": "“Look at the tiny silver thread” she said, “it represents moonlight on the river.”"
+    },
+    "correct": "A",
+    "explanation": "A comma separates the spoken command from the dialogue tag, and a period ends the first complete sentence. The other choices omit needed punctuation."
+  },
+  {
+    "id": "EN6-023",
+    "prompt": "The writer explains how the quilt was made: “The quilters <u>put together small pieces</u> of worn shirts, flour sacks, and new cloth.” Which choice is most precise and concise?",
+    "choices": {
+      "A": "assembled pieces",
+      "B": "did the putting together of pieces",
+      "C": "made pieces be together",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Assembled pieces” precisely and concisely describes joining the fabrics. The other choices are vague or unnecessarily wordy."
+  },
+  {
+    "id": "EN6-024",
+    "prompt": "The quilt passage states, “<u>Each and every block</u> contributes one part of the larger story.” Which choice is the most concise without changing the meaning?",
+    "choices": {
+      "A": "Each block",
+      "B": "Every single individual block",
+      "C": "Each separate block individually",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Each block” fully conveys that every block contributes. The other choices repeat the same idea."
+  },
+  {
+    "id": "EN6-025",
+    "prompt": "A paragraph about the story quilt contains these sentences:\n[1] One block showed a red building beside a row of young trees. [2] Its faded label contained only the word “opening.” [3] _____ [4] Her memory helped the students identify the building as the town's first public school.\nWhich choice provides the most logical sentence for the blank?",
+    "choices": {
+      "A": "Red fabric can be produced with several kinds of dye.",
+      "B": "A longtime resident remembered attending the school's opening celebration as a child.",
+      "C": "The museum displays pottery in another gallery.",
+      "D": "The students used a ruler to measure every block."
+    },
+    "correct": "B",
+    "explanation": "This sentence introduces the resident whose memory resolves the unclear label in sentence 4. The other details do not help identify the building."
+  },
+  {
+    "id": "EN6-026",
+    "prompt": "In a passage about a historical story quilt, the writer wants to support the claim that the quilt records community events rather than merely decorating a room. Which choice provides the most relevant supporting detail?",
+    "choices": {
+      "A": "Separate blocks depict the first bridge, a harvest celebration, and the opening of the town's public school.",
+      "B": "The quilt contains red, blue, brown, and gold fabric.",
+      "C": "Museum staff placed the quilt in a glass case.",
+      "D": "The case stands near a wooden bench."
+    },
+    "correct": "A",
+    "explanation": "The pictured events directly show that the quilt preserves community history. The other details concern appearance or display rather than historical content."
+  },
+  {
+    "id": "EN6-027",
+    "prompt": "A passage about a story quilt first describes the students' close examination of its blocks, then follows their research in archives and interviews, and finally explains the completed museum display. Which choice best explains why this organization is effective?",
+    "choices": {
+      "A": "It ranks the fabric colors from brightest to darkest.",
+      "B": "It moves from observing clues through interpreting them to sharing the findings.",
+      "C": "It hides the quilt's purpose until readers have forgotten the research.",
+      "D": "It compares the quilt with several unrelated paintings."
+    },
+    "correct": "B",
+    "explanation": "The sequence follows the students' inquiry from observation to interpretation to presentation. The other choices misdescribe the passage's organization."
+  },
+  {
+    "id": "EN6-028",
+    "prompt": "In a passage about testing model solar ovens, the writer states, “Noor placed a cup of water inside the foil-lined box <u>and Eli positioned a thermometer beside it.</u>” Which choice correctly punctuates the two independent clauses?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", and Eli positioned a thermometer beside it.",
+      "C": "and, Eli positioned a thermometer beside it.",
+      "D": "; and Eli positioned a thermometer beside it."
+    },
+    "correct": "B",
+    "explanation": "A comma before the coordinating conjunction “and” correctly joins the two independent clauses. A semicolon should not be combined with “and” in this construction."
+  },
+  {
+    "id": "EN6-029",
+    "prompt": "The passage describes a feature of one oven: “The series of foil panels around the lid <u>reflect</u> sunlight into the box.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have reflected",
+      "C": "reflects",
+      "D": "are reflecting"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “series” requires the singular verb “reflects.” The plural noun “panels” is inside a prepositional phrase."
+  },
+  {
+    "id": "EN6-030",
+    "prompt": "The writer states, “Eli placed the digital thermometer beside the glass thermometer before <u>it</u> was moved into the sunlight.” The writer wants to make clear that the digital thermometer was moved. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "that device",
+      "C": "the digital thermometer",
+      "D": "the glass thermometer"
+    },
+    "correct": "C",
+    "explanation": "Replacing “it” with “the digital thermometer” clearly identifies what was moved. The original pronoun could refer to either thermometer."
+  },
+  {
+    "id": "EN6-031",
+    "prompt": "The passage describes a test conducted last Monday: “The team aimed each reflector toward the sun and <u>records</u> the temperature every five minutes.” Which choice best maintains consistent verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "will record",
+      "C": "is recording",
+      "D": "recorded"
+    },
+    "correct": "D",
+    "explanation": "“Recorded” matches the past-tense verb “aimed” and the completed time marker “last Monday.” The other choices shift to present or future time."
+  },
+  {
+    "id": "EN6-032",
+    "prompt": "The writer describes Noor monitoring a thermometer: “<u>Watching the display, the rising temperature encouraged Noor.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "Watching the display, Noor was encouraged by the rising temperature.",
+      "B": "Watching the display, the rising temperature was encouraging.",
+      "C": "The temperature, watching the display, encouraged Noor as it rose.",
+      "D": "Noor, the rising temperature encouraged her while watching the display."
+    },
+    "correct": "A",
+    "explanation": "Noor is the person watching the display, so her name must follow the introductory phrase. The original illogically suggests that the temperature was watching."
+  },
+  {
+    "id": "EN6-033",
+    "prompt": "The passage contrasts two oven designs: “The uncovered box warmed <u>slowly however, the foil-lined box gained heat much faster.</u>” Which choice correctly joins the independent clauses?",
+    "choices": {
+      "A": "slowly, however, the foil-lined box gained heat much faster.",
+      "B": "slowly; however, the foil-lined box gained heat much faster.",
+      "C": "slowly however; the foil-lined box gained heat much faster.",
+      "D": "slowly however the foil-lined box gained heat much faster."
+    },
+    "correct": "B",
+    "explanation": "A semicolon separates the independent clauses, and a comma follows the conjunctive adverb “however.” A comma before “however” alone would create a comma splice."
+  },
+  {
+    "id": "EN6-034",
+    "prompt": "The passage describes one oven: “The <u>ovens lid</u> was covered with a sheet of clear plastic.” Which choice correctly forms the singular possessive?",
+    "choices": {
+      "A": "ovens lid",
+      "B": "ovens' lid",
+      "C": "oven's lid",
+      "D": "oven lid's"
+    },
+    "correct": "C",
+    "explanation": "The lid belongs to one oven, so the singular possessive “oven's” is correct. “Ovens'” would refer to multiple ovens."
+  },
+  {
+    "id": "EN6-035",
+    "prompt": "The writer reports a temperature change: “During the next five minutes, the water temperature <u>increased upward by ten degrees</u>.” Which choice is clearest and most concise?",
+    "choices": {
+      "A": "rose by ten degrees",
+      "B": "increased in an upward direction by ten degrees",
+      "C": "went up with an increase of ten degrees",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Rose by ten degrees” states the change directly. “Increased upward” is redundant, and the other choices are wordy."
+  },
+  {
+    "id": "EN6-036",
+    "prompt": "The passage uses a clear, explanatory style. It states, “The dark paper absorbed more incoming light and converted more of it to heat. <u>Basically, the black surface was really good at grabbing sunshine.</u>” Which choice best matches the passage's style?",
+    "choices": {
+      "A": "As a result, the black surface reached a higher temperature.",
+      "B": "The black paper gobbled up the sunlight like a hungry monster.",
+      "C": "So, yeah, the dark surface got way hotter.",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "This choice states the result precisely and maintains an informative tone. The other options are slangy or overly figurative."
+  },
+  {
+    "id": "EN6-037",
+    "prompt": "A passage about solar ovens begins, “Two cardboard boxes sat in the same patch of sunlight. After twenty minutes, the water in one box was barely warm, while the water in the foil-lined box was steaming.” Which choice would most effectively introduce the passage's focus on testing design features that collect solar heat?",
+    "choices": {
+      "A": "Cardboard boxes are used to store many kinds of objects.",
+      "B": "The students wanted to determine how reflectors, dark surfaces, and clear covers affected each oven's temperature.",
+      "C": "Sunlight travels a great distance before reaching Earth.",
+      "D": "The boxes were rectangular and made from brown cardboard."
+    },
+    "correct": "B",
+    "explanation": "This sentence identifies the design features and outcome the students investigate. The other choices provide side facts rather than the passage's focus."
+  },
+  {
+    "id": "EN6-038",
+    "prompt": "In a paragraph about testing solar ovens, the writer explains that students recorded temperature every five minutes. The writer wants to emphasize why repeated readings were useful. Which sentence would best accomplish this purpose?",
+    "choices": {
+      "A": "The thermometers displayed numbers on small screens.",
+      "B": "The students used pencils to write data in a chart.",
+      "C": "The sequence of readings showed how quickly each design gained heat and when its temperature leveled off.",
+      "D": "Each test began on the same classroom table."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly explains what repeated readings revealed over time. The other choices concern tools or procedures rather than the value of the data sequence."
+  },
+  {
+    "id": "EN6-039",
+    "prompt": "A passage about solar ovens includes the following paragraph:\n[1] The plain box reached only a modest temperature. [2] Adding black paper to the bottom increased heat absorption. [3] _____ [4] The students concluded that combining several design features produced the highest temperature.\nWhich choice provides the most logical transition for sentence 3?",
+    "choices": {
+      "A": "For example, aluminum foil is sold in rolls.",
+      "B": "In addition, a foil reflector and clear cover raised the temperature even further.",
+      "C": "Meanwhile, the class watered plants near the window.",
+      "D": "Similarly, both boxes were made from cardboard."
+    },
+    "correct": "B",
+    "explanation": "“In addition” introduces further improvements that support the conclusion about combining features. The other details do not develop the temperature comparison."
+  },
+  {
+    "id": "EN6-040",
+    "prompt": "At the end of a passage about model solar ovens, the writer explains that the class used its data to improve a final design. Which concluding sentence best reinforces the passage's main idea without exaggerating the findings?",
+    "choices": {
+      "A": "The small tests showed how measured comparisons could guide a more effective solar-oven design under the conditions the class observed.",
+      "B": "The project proved that solar ovens can replace every type of kitchen appliance.",
+      "C": "Clearly, any cardboard box can reach any desired temperature.",
+      "D": "Cardboard is also used for signs, packages, and craft projects."
+    },
+    "correct": "A",
+    "explanation": "This conclusion accurately summarizes the investigation while limiting the claim to the tested conditions. The other choices exaggerate or shift away from the main idea."
+  }
+]

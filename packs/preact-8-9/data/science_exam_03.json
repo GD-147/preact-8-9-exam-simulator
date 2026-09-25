@@ -1,0 +1,362 @@
+[
+  {
+    "id": "S3-001",
+    "prompt": "Scientists sampled the same section of a freshwater stream on 5 dates. On each date, they measured water temperature and dissolved oxygen, then counted mayfly larvae in 10 equal-area samples. The table gives the mean number of larvae per sample. Mayfly larvae are aquatic insects.\n\nWater temperature (°C) | Dissolved oxygen (mg/L) | Mean mayfly larvae per sample\n8                      | 11.4                    | 46\n12                     | 10.3                    | 42\n16                     | 9.1                     | 34\n20                     | 7.8                     | 20\n24                     | 6.6                     | 9\n\nQuestion:\nWhat was the mean number of mayfly larvae per sample when the water temperature was 16°C?",
+    "choices": {
+      "A": "20",
+      "B": "34",
+      "C": "42",
+      "D": "46"
+    },
+    "correct": "B",
+    "explanation": "The row for 16°C lists a mean of 34 mayfly larvae per sample."
+  },
+  {
+    "id": "S3-002",
+    "prompt": "Scientists sampled the same section of a freshwater stream on 5 dates. On each date, they measured water temperature and dissolved oxygen, then counted mayfly larvae in 10 equal-area samples. The table gives the mean number of larvae per sample. Mayfly larvae are aquatic insects.\n\nWater temperature (°C) | Dissolved oxygen (mg/L) | Mean mayfly larvae per sample\n8                      | 11.4                    | 46\n12                     | 10.3                    | 42\n16                     | 9.1                     | 34\n20                     | 7.8                     | 20\n24                     | 6.6                     | 9\n\nQuestion:\nBy how much did dissolved oxygen decrease between 8°C and 24°C?",
+    "choices": {
+      "A": "2.5 mg/L",
+      "B": "4.8 mg/L",
+      "C": "6.6 mg/L",
+      "D": "18.0 mg/L"
+    },
+    "correct": "B",
+    "explanation": "Dissolved oxygen decreased from 11.4 mg/L at 8°C to 6.6 mg/L at 24°C, a decrease of 4.8 mg/L."
+  },
+  {
+    "id": "S3-003",
+    "prompt": "Scientists sampled the same section of a freshwater stream on 5 dates. On each date, they measured water temperature and dissolved oxygen, then counted mayfly larvae in 10 equal-area samples. The table gives the mean number of larvae per sample. Mayfly larvae are aquatic insects.\n\nWater temperature (°C) | Dissolved oxygen (mg/L) | Mean mayfly larvae per sample\n8                      | 11.4                    | 46\n12                     | 10.3                    | 42\n16                     | 9.1                     | 34\n20                     | 7.8                     | 20\n24                     | 6.6                     | 9\n\nQuestion:\nIf dissolved oxygen changed linearly between 16°C and 20°C, what value would be estimated at 18°C?",
+    "choices": {
+      "A": "7.15 mg/L",
+      "B": "8.45 mg/L",
+      "C": "9.10 mg/L",
+      "D": "16.90 mg/L"
+    },
+    "correct": "B",
+    "explanation": "A temperature of 18°C is halfway between 16°C and 20°C, so the estimate is halfway between 9.1 mg/L and 7.8 mg/L, or 8.45 mg/L."
+  },
+  {
+    "id": "S3-004",
+    "prompt": "Scientists sampled the same section of a freshwater stream on 5 dates. On each date, they measured water temperature and dissolved oxygen, then counted mayfly larvae in 10 equal-area samples. The table gives the mean number of larvae per sample. Mayfly larvae are aquatic insects.\n\nWater temperature (°C) | Dissolved oxygen (mg/L) | Mean mayfly larvae per sample\n8                      | 11.4                    | 46\n12                     | 10.3                    | 42\n16                     | 9.1                     | 34\n20                     | 7.8                     | 20\n24                     | 6.6                     | 9\n\nQuestion:\nWhich additional investigation would best test whether dissolved oxygen affects mayfly abundance independently of water temperature?",
+    "choices": {
+      "A": "Keep water temperature constant in several tanks, vary dissolved oxygen, and count mayfly larvae after the same time.",
+      "B": "Measure temperature and dissolved oxygen on one additional date without counting larvae.",
+      "C": "Use tanks with different temperatures, different oxygen levels, and different numbers of starting larvae.",
+      "D": "Count a different insect at one stream location without measuring oxygen."
+    },
+    "correct": "A",
+    "explanation": "Holding temperature constant while changing dissolved oxygen isolates oxygen as the tested factor."
+  },
+  {
+    "id": "S3-005",
+    "prompt": "Scientists sampled the same section of a freshwater stream on 5 dates. On each date, they measured water temperature and dissolved oxygen, then counted mayfly larvae in 10 equal-area samples. The table gives the mean number of larvae per sample. Mayfly larvae are aquatic insects.\n\nWater temperature (°C) | Dissolved oxygen (mg/L) | Mean mayfly larvae per sample\n8                      | 11.4                    | 46\n12                     | 10.3                    | 42\n16                     | 9.1                     | 34\n20                     | 7.8                     | 20\n24                     | 6.6                     | 9\n\nQuestion:\nWhich statement is supported by the stream data without claiming that one variable caused another?",
+    "choices": {
+      "A": "Higher water temperatures were associated with lower dissolved oxygen and fewer mayfly larvae.",
+      "B": "Mayfly larvae caused the water temperature to increase.",
+      "C": "Dissolved oxygen increased as water temperature increased.",
+      "D": "Mayfly abundance remained constant across all 5 dates."
+    },
+    "correct": "A",
+    "explanation": "From 8°C to 24°C, dissolved oxygen fell from 11.4 mg/L to 6.6 mg/L and mean larval abundance fell from 46 to 9."
+  },
+  {
+    "id": "S3-006",
+    "prompt": "Students wrapped insulated wire around identical iron nails to make electromagnets. Each electromagnet was powered for 10 seconds and used to lift identical steel paper clips. Each result is the mean of 5 trials.\n\nExperiment 1: One battery was used while the number of wire turns was changed.\nWire turns | Mean paper clips lifted\n20         | 3\n40         | 7\n60         | 12\n80         | 16\n\nExperiment 2: The wire was wrapped 60 times while the number of identical batteries connected in series was changed.\nBatteries | Mean paper clips lifted\n1         | 12\n2         | 20\n3         | 27\n\nQuestion:\nIn Experiment 1, how many more paper clips were lifted with 80 wire turns than with 20 wire turns?",
+    "choices": {
+      "A": "4",
+      "B": "13",
+      "C": "16",
+      "D": "19"
+    },
+    "correct": "B",
+    "explanation": "The electromagnet lifted 16 clips with 80 turns and 3 clips with 20 turns, a difference of 13 clips."
+  },
+  {
+    "id": "S3-007",
+    "prompt": "Students wrapped insulated wire around identical iron nails to make electromagnets. Each electromagnet was powered for 10 seconds and used to lift identical steel paper clips. Each result is the mean of 5 trials.\n\nExperiment 1: One battery was used while the number of wire turns was changed.\nWire turns | Mean paper clips lifted\n20         | 3\n40         | 7\n60         | 12\n80         | 16\n\nExperiment 2: The wire was wrapped 60 times while the number of identical batteries connected in series was changed.\nBatteries | Mean paper clips lifted\n1         | 12\n2         | 20\n3         | 27\n\nQuestion:\nWhat mean number of paper clips was lifted using 60 wire turns and 2 batteries?",
+    "choices": {
+      "A": "12",
+      "B": "16",
+      "C": "20",
+      "D": "27"
+    },
+    "correct": "C",
+    "explanation": "Experiment 2 used 60 wire turns and shows that 2 batteries produced a mean of 20 lifted clips."
+  },
+  {
+    "id": "S3-008",
+    "prompt": "Students wrapped insulated wire around identical iron nails to make electromagnets. Each electromagnet was powered for 10 seconds and used to lift identical steel paper clips. Each result is the mean of 5 trials.\n\nExperiment 1: One battery was used while the number of wire turns was changed.\nWire turns | Mean paper clips lifted\n20         | 3\n40         | 7\n60         | 12\n80         | 16\n\nExperiment 2: The wire was wrapped 60 times while the number of identical batteries connected in series was changed.\nBatteries | Mean paper clips lifted\n1         | 12\n2         | 20\n3         | 27\n\nQuestion:\nWhich variables were changed in Experiments 1 and 2, respectively?",
+    "choices": {
+      "A": "Number of wire turns, then number of batteries",
+      "B": "Number of batteries, then nail material",
+      "C": "Paper-clip type, then power time",
+      "D": "Mean clips lifted, then wire turns"
+    },
+    "correct": "A",
+    "explanation": "Experiment 1 varied wire turns, whereas Experiment 2 held turns at 60 and varied battery number."
+  },
+  {
+    "id": "S3-009",
+    "prompt": "Students wrapped insulated wire around identical iron nails to make electromagnets. Each electromagnet was powered for 10 seconds and used to lift identical steel paper clips. Each result is the mean of 5 trials.\n\nExperiment 1: One battery was used while the number of wire turns was changed.\nWire turns | Mean paper clips lifted\n20         | 3\n40         | 7\n60         | 12\n80         | 16\n\nExperiment 2: The wire was wrapped 60 times while the number of identical batteries connected in series was changed.\nBatteries | Mean paper clips lifted\n1         | 12\n2         | 20\n3         | 27\n\nQuestion:\nWhy did the students use identical nails and identical paper clips in all trials?",
+    "choices": {
+      "A": "To keep nail and paper-clip properties from affecting comparisons",
+      "B": "To make nail type the independent variable",
+      "C": "To ensure every electromagnet lifted the same number of clips",
+      "D": "To eliminate the need to repeat each condition"
+    },
+    "correct": "A",
+    "explanation": "Using identical materials helps attribute differences in lifting capacity to wire turns or battery number."
+  },
+  {
+    "id": "S3-010",
+    "prompt": "Students wrapped insulated wire around identical iron nails to make electromagnets. Each electromagnet was powered for 10 seconds and used to lift identical steel paper clips. Each result is the mean of 5 trials.\n\nExperiment 1: One battery was used while the number of wire turns was changed.\nWire turns | Mean paper clips lifted\n20         | 3\n40         | 7\n60         | 12\n80         | 16\n\nExperiment 2: The wire was wrapped 60 times while the number of identical batteries connected in series was changed.\nBatteries | Mean paper clips lifted\n1         | 12\n2         | 20\n3         | 27\n\nQuestion:\nA student predicted that increasing either the number of wire turns or the number of batteries would increase lifting capacity. How do the results evaluate this prediction?",
+    "choices": {
+      "A": "They support it because the mean number of lifted clips increased with both variables.",
+      "B": "They support it because every condition lifted exactly 12 clips.",
+      "C": "They contradict it because additional batteries decreased lifting capacity.",
+      "D": "They cannot evaluate it because lifting capacity was not measured."
+    },
+    "correct": "A",
+    "explanation": "Lifted clips increased from 3 to 16 as turns increased and from 12 to 27 as battery number increased."
+  },
+  {
+    "id": "S3-011",
+    "prompt": "Researchers recorded atmospheric conditions at 5 elevations on the same mountain at noon on the same day. All instruments were calibrated before use.\n\nElevation (m) | Air pressure (kPa) | Air temperature (°C)\n0             | 101.2              | 24.0\n500           | 95.4               | 20.8\n1,000         | 89.9               | 17.5\n1,500         | 84.8               | 14.1\n2,000         | 79.9               | 10.9\n\nQuestion:\nWhat air pressure was measured at an elevation of 1,500 m?",
+    "choices": {
+      "A": "79.9 kPa",
+      "B": "84.8 kPa",
+      "C": "89.9 kPa",
+      "D": "95.4 kPa"
+    },
+    "correct": "B",
+    "explanation": "The row for 1,500 m lists an air pressure of 84.8 kPa."
+  },
+  {
+    "id": "S3-012",
+    "prompt": "Researchers recorded atmospheric conditions at 5 elevations on the same mountain at noon on the same day. All instruments were calibrated before use.\n\nElevation (m) | Air pressure (kPa) | Air temperature (°C)\n0             | 101.2              | 24.0\n500           | 95.4               | 20.8\n1,000         | 89.9               | 17.5\n1,500         | 84.8               | 14.1\n2,000         | 79.9               | 10.9\n\nQuestion:\nHow much lower was the air temperature at 2,000 m than at 0 m?",
+    "choices": {
+      "A": "10.9°C",
+      "B": "13.1°C",
+      "C": "24.0°C",
+      "D": "34.9°C"
+    },
+    "correct": "B",
+    "explanation": "Air temperature was 24.0°C at 0 m and 10.9°C at 2,000 m, a difference of 13.1°C."
+  },
+  {
+    "id": "S3-013",
+    "prompt": "Researchers recorded atmospheric conditions at 5 elevations on the same mountain at noon on the same day. All instruments were calibrated before use.\n\nElevation (m) | Air pressure (kPa) | Air temperature (°C)\n0             | 101.2              | 24.0\n500           | 95.4               | 20.8\n1,000         | 89.9               | 17.5\n1,500         | 84.8               | 14.1\n2,000         | 79.9               | 10.9\n\nQuestion:\nIf air pressure changed linearly between 1,000 m and 1,500 m, what pressure would be estimated at 1,250 m?",
+    "choices": {
+      "A": "82.35 kPa",
+      "B": "87.35 kPa",
+      "C": "89.90 kPa",
+      "D": "174.70 kPa"
+    },
+    "correct": "B",
+    "explanation": "An elevation of 1,250 m is halfway between 1,000 m and 1,500 m, so the estimate is halfway between 89.9 kPa and 84.8 kPa, or 87.35 kPa."
+  },
+  {
+    "id": "S3-014",
+    "prompt": "Researchers recorded atmospheric conditions at 5 elevations on the same mountain at noon on the same day. All instruments were calibrated before use.\n\nElevation (m) | Air pressure (kPa) | Air temperature (°C)\n0             | 101.2              | 24.0\n500           | 95.4               | 20.8\n1,000         | 89.9               | 17.5\n1,500         | 84.8               | 14.1\n2,000         | 79.9               | 10.9\n\nQuestion:\nWhich change would most directly improve the reliability of the reported elevation patterns?",
+    "choices": {
+      "A": "Repeat the measurements at each elevation on several days using calibrated instruments.",
+      "B": "Use a different pressure unit at every elevation.",
+      "C": "Measure pressure at high elevations and temperature only at low elevations.",
+      "D": "Remove the measurements from 0 m and 2,000 m."
+    },
+    "correct": "A",
+    "explanation": "Repeated measurements across several days would reduce the influence of unusual conditions on a single day."
+  },
+  {
+    "id": "S3-015",
+    "prompt": "Researchers recorded atmospheric conditions at 5 elevations on the same mountain at noon on the same day. All instruments were calibrated before use.\n\nElevation (m) | Air pressure (kPa) | Air temperature (°C)\n0             | 101.2              | 24.0\n500           | 95.4               | 20.8\n1,000         | 89.9               | 17.5\n1,500         | 84.8               | 14.1\n2,000         | 79.9               | 10.9\n\nQuestion:\nWhich conclusion is supported over the measured elevation range?",
+    "choices": {
+      "A": "Both air pressure and air temperature decreased as elevation increased.",
+      "B": "Air pressure increased while air temperature decreased as elevation increased.",
+      "C": "Air pressure remained constant at all elevations.",
+      "D": "Air temperature was greatest at 2,000 m."
+    },
+    "correct": "A",
+    "explanation": "From 0 m to 2,000 m, pressure decreased from 101.2 kPa to 79.9 kPa and temperature decreased from 24.0°C to 10.9°C."
+  },
+  {
+    "id": "S3-016",
+    "prompt": "Students investigated the hatching of brine shrimp eggs. Each container began with 100 eggs in the same volume of water and received the same light and oxygen supply. The number hatched after 48 hours is the mean of 4 trials.\n\nExperiment 1: Water temperature was held at 25°C while salinity was changed.\nSalinity (g/L) | Mean number hatched\n0              | 8\n10             | 56\n20             | 83\n30             | 69\n40             | 22\n\nExperiment 2: Salinity was held at 20 g/L while temperature was changed.\nTemperature (°C) | Mean number hatched\n15               | 31\n20               | 64\n25               | 83\n30               | 71\n\nQuestion:\nIn Experiment 2, what mean number of eggs hatched at 30°C?",
+    "choices": {
+      "A": "31",
+      "B": "64",
+      "C": "71",
+      "D": "83"
+    },
+    "correct": "C",
+    "explanation": "The Experiment 2 row for 30°C lists a mean of 71 eggs hatched."
+  },
+  {
+    "id": "S3-017",
+    "prompt": "Students investigated the hatching of brine shrimp eggs. Each container began with 100 eggs in the same volume of water and received the same light and oxygen supply. The number hatched after 48 hours is the mean of 4 trials.\n\nExperiment 1: Water temperature was held at 25°C while salinity was changed.\nSalinity (g/L) | Mean number hatched\n0              | 8\n10             | 56\n20             | 83\n30             | 69\n40             | 22\n\nExperiment 2: Salinity was held at 20 g/L while temperature was changed.\nTemperature (°C) | Mean number hatched\n15               | 31\n20               | 64\n25               | 83\n30               | 71\n\nQuestion:\nWhat was the dependent variable in both experiments?",
+    "choices": {
+      "A": "Mean number of eggs hatched after 48 hours",
+      "B": "Salinity of the water",
+      "C": "Temperature of the water",
+      "D": "Number of eggs placed in each container"
+    },
+    "correct": "A",
+    "explanation": "The students measured hatching after changing salinity in Experiment 1 or temperature in Experiment 2."
+  },
+  {
+    "id": "S3-018",
+    "prompt": "Students investigated the hatching of brine shrimp eggs. Each container began with 100 eggs in the same volume of water and received the same light and oxygen supply. The number hatched after 48 hours is the mean of 4 trials.\n\nExperiment 1: Water temperature was held at 25°C while salinity was changed.\nSalinity (g/L) | Mean number hatched\n0              | 8\n10             | 56\n20             | 83\n30             | 69\n40             | 22\n\nExperiment 2: Salinity was held at 20 g/L while temperature was changed.\nTemperature (°C) | Mean number hatched\n15               | 31\n20               | 64\n25               | 83\n30               | 71\n\nQuestion:\nWhy was salinity held at 20 g/L throughout Experiment 2?",
+    "choices": {
+      "A": "To isolate temperature as the factor being tested",
+      "B": "To make salinity the dependent variable",
+      "C": "To ensure that temperature and salinity changed together",
+      "D": "To prove that salinity never affects hatching"
+    },
+    "correct": "A",
+    "explanation": "Keeping salinity constant allowed the students to compare hatching while changing temperature alone."
+  },
+  {
+    "id": "S3-019",
+    "prompt": "Students investigated the hatching of brine shrimp eggs. Each container began with 100 eggs in the same volume of water and received the same light and oxygen supply. The number hatched after 48 hours is the mean of 4 trials.\n\nExperiment 1: Water temperature was held at 25°C while salinity was changed.\nSalinity (g/L) | Mean number hatched\n0              | 8\n10             | 56\n20             | 83\n30             | 69\n40             | 22\n\nExperiment 2: Salinity was held at 20 g/L while temperature was changed.\nTemperature (°C) | Mean number hatched\n15               | 31\n20               | 64\n25               | 83\n30               | 71\n\nQuestion:\nWhich combination produced the greatest mean hatching among the tested conditions?",
+    "choices": {
+      "A": "0 g/L at 25°C",
+      "B": "20 g/L at 15°C",
+      "C": "20 g/L at 25°C",
+      "D": "40 g/L at 25°C"
+    },
+    "correct": "C",
+    "explanation": "Both experiments show a mean of 83 eggs hatched at 20 g/L and 25°C, the greatest reported value."
+  },
+  {
+    "id": "S3-020",
+    "prompt": "Students investigated the hatching of brine shrimp eggs. Each container began with 100 eggs in the same volume of water and received the same light and oxygen supply. The number hatched after 48 hours is the mean of 4 trials.\n\nExperiment 1: Water temperature was held at 25°C while salinity was changed.\nSalinity (g/L) | Mean number hatched\n0              | 8\n10             | 56\n20             | 83\n30             | 69\n40             | 22\n\nExperiment 2: Salinity was held at 20 g/L while temperature was changed.\nTemperature (°C) | Mean number hatched\n15               | 31\n20               | 64\n25               | 83\n30               | 71\n\nQuestion:\nA new trial at 20 g/L and 35°C produced a mean of 40 hatched eggs. Which interpretation best combines this result with Experiment 2?",
+    "choices": {
+      "A": "Hatching likely reached a high point near 25°C and decreased at higher tested temperatures.",
+      "B": "Hatching increased steadily at every temperature from 15°C through 35°C.",
+      "C": "Temperature had no relationship to hatching at 20 g/L.",
+      "D": "The greatest hatching occurred at 15°C."
+    },
+    "correct": "A",
+    "explanation": "Hatching rose from 31 at 15°C to 83 at 25°C, then fell to 71 at 30°C and 40 at 35°C."
+  },
+  {
+    "id": "S3-021",
+    "prompt": "Geologists are studying a circular basin that is 2 km wide. Rocks around its rim are fractured. Sediments contain thin dark glassy droplets, and some quartz grains have parallel microscopic bands. A thick layer of soluble salt lies 150 m below the basin, and several smaller sinkholes occur nearby. No meteorite fragments have been found.\n\nViewpoint 1 — Impact model: A high-speed meteorite struck the area. The impact shock formed the basin, fractured the rim, produced the bands in quartz, and melted rock into glassy droplets. Meteorite fragments may now be buried or chemically altered.\n\nViewpoint 2 — Collapse model: Groundwater dissolved part of the underground salt layer until the overlying rock collapsed. The collapse formed the basin and fractured the rim. The quartz bands formed during much older regional mountain building, and the glassy droplets came from ancient volcanic ash. This model does not require meteorite fragments.\n\nQuestion:\nHow far below the basin is the soluble salt layer?",
+    "choices": {
+      "A": "2 m",
+      "B": "15 m",
+      "C": "150 m",
+      "D": "2,000 m"
+    },
+    "correct": "C",
+    "explanation": "The prompt states that the soluble salt layer lies 150 m below the basin."
+  },
+  {
+    "id": "S3-022",
+    "prompt": "Geologists are studying a circular basin that is 2 km wide. Rocks around its rim are fractured. Sediments contain thin dark glassy droplets, and some quartz grains have parallel microscopic bands. A thick layer of soluble salt lies 150 m below the basin, and several smaller sinkholes occur nearby. No meteorite fragments have been found.\n\nViewpoint 1 — Impact model: A high-speed meteorite struck the area. The impact shock formed the basin, fractured the rim, produced the bands in quartz, and melted rock into glassy droplets. Meteorite fragments may now be buried or chemically altered.\n\nViewpoint 2 — Collapse model: Groundwater dissolved part of the underground salt layer until the overlying rock collapsed. The collapse formed the basin and fractured the rim. The quartz bands formed during much older regional mountain building, and the glassy droplets came from ancient volcanic ash. This model does not require meteorite fragments.\n\nQuestion:\nWhich new finding would most directly support Viewpoint 1 over Viewpoint 2?",
+    "choices": {
+      "A": "Fragments with an extraterrestrial chemical composition are found buried beneath the basin's center.",
+      "B": "Groundwater is present in small sinkholes near the basin.",
+      "C": "The underground salt layer extends beneath the basin.",
+      "D": "The rim rocks contain fractures."
+    },
+    "correct": "A",
+    "explanation": "Extraterrestrial fragments beneath the center would be direct evidence of a meteorite and are not predicted by the collapse model."
+  },
+  {
+    "id": "S3-023",
+    "prompt": "Geologists are studying a circular basin that is 2 km wide. Rocks around its rim are fractured. Sediments contain thin dark glassy droplets, and some quartz grains have parallel microscopic bands. A thick layer of soluble salt lies 150 m below the basin, and several smaller sinkholes occur nearby. No meteorite fragments have been found.\n\nViewpoint 1 — Impact model: A high-speed meteorite struck the area. The impact shock formed the basin, fractured the rim, produced the bands in quartz, and melted rock into glassy droplets. Meteorite fragments may now be buried or chemically altered.\n\nViewpoint 2 — Collapse model: Groundwater dissolved part of the underground salt layer until the overlying rock collapsed. The collapse formed the basin and fractured the rim. The quartz bands formed during much older regional mountain building, and the glassy droplets came from ancient volcanic ash. This model does not require meteorite fragments.\n\nQuestion:\nWhich new finding would most directly support the mechanism in Viewpoint 2?",
+    "choices": {
+      "A": "Groundwater channels connect the basin to recently formed cavities in the salt layer.",
+      "B": "A distant meteor is observed moving through space.",
+      "C": "A laboratory impact melts rock into droplets.",
+      "D": "Quartz grains can develop bands during high-pressure impacts."
+    },
+    "correct": "A",
+    "explanation": "Such channels and cavities would directly support groundwater dissolution followed by collapse of the overlying rock."
+  },
+  {
+    "id": "S3-024",
+    "prompt": "Geologists are studying a circular basin that is 2 km wide. Rocks around its rim are fractured. Sediments contain thin dark glassy droplets, and some quartz grains have parallel microscopic bands. A thick layer of soluble salt lies 150 m below the basin, and several smaller sinkholes occur nearby. No meteorite fragments have been found.\n\nViewpoint 1 — Impact model: A high-speed meteorite struck the area. The impact shock formed the basin, fractured the rim, produced the bands in quartz, and melted rock into glassy droplets. Meteorite fragments may now be buried or chemically altered.\n\nViewpoint 2 — Collapse model: Groundwater dissolved part of the underground salt layer until the overlying rock collapsed. The collapse formed the basin and fractured the rim. The quartz bands formed during much older regional mountain building, and the glassy droplets came from ancient volcanic ash. This model does not require meteorite fragments.\n\nQuestion:\nThe two viewpoints disagree most directly about which event formed the basin?",
+    "choices": {
+      "A": "A meteorite impact or collapse into dissolved salt cavities",
+      "B": "Fracturing of rocks around the rim",
+      "C": "Deposition of sediment inside the basin",
+      "D": "Observation of nearby smaller sinkholes"
+    },
+    "correct": "A",
+    "explanation": "Viewpoint 1 attributes the basin to impact, while Viewpoint 2 attributes it to underground salt dissolution and collapse."
+  },
+  {
+    "id": "S3-025",
+    "prompt": "Geologists are studying a circular basin that is 2 km wide. Rocks around its rim are fractured. Sediments contain thin dark glassy droplets, and some quartz grains have parallel microscopic bands. A thick layer of soluble salt lies 150 m below the basin, and several smaller sinkholes occur nearby. No meteorite fragments have been found.\n\nViewpoint 1 — Impact model: A high-speed meteorite struck the area. The impact shock formed the basin, fractured the rim, produced the bands in quartz, and melted rock into glassy droplets. Meteorite fragments may now be buried or chemically altered.\n\nViewpoint 2 — Collapse model: Groundwater dissolved part of the underground salt layer until the overlying rock collapsed. The collapse formed the basin and fractured the rim. The quartz bands formed during much older regional mountain building, and the glassy droplets came from ancient volcanic ash. This model does not require meteorite fragments.\n\nQuestion:\nSuppose dating shows that the glassy droplets are millions of years older than the basin. This result would most likely:",
+    "choices": {
+      "A": "support Viewpoint 2 because the droplets could be older volcanic material unrelated to basin formation.",
+      "B": "support Viewpoint 1 because an impact must produce droplets before forming a basin.",
+      "C": "support both viewpoints equally because both require new glass during basin formation.",
+      "D": "contradict Viewpoint 2 because volcanic ash cannot contain glass."
+    },
+    "correct": "A",
+    "explanation": "Droplets much older than the basin fit Viewpoint 2's claim that they came from ancient volcanic ash rather than the basin-forming event."
+  },
+  {
+    "id": "S3-026",
+    "prompt": "A student tested pendulums made from a string and a metal bob. For each trial, the bob was pulled 10° to one side and released. The student timed 10 complete swings and divided by 10 to calculate the period, which is the time for one complete swing. Each result is the mean of 4 trials.\n\nExperiment 1: Bob mass was held at 100 g while string length was changed.\nString length (cm) | Mean period (s)\n20                 | 0.90\n40                 | 1.27\n60                 | 1.55\n80                 | 1.79\n\nExperiment 2: String length was held at 60 cm while bob mass was changed.\nBob mass (g) | Mean period (s)\n50           | 1.54\n100          | 1.55\n150          | 1.55\n200          | 1.56\n\nQuestion:\nIn Experiment 1, what mean period was measured for a string length of 80 cm?",
+    "choices": {
+      "A": "0.90 s",
+      "B": "1.27 s",
+      "C": "1.55 s",
+      "D": "1.79 s"
+    },
+    "correct": "D",
+    "explanation": "The 80 cm row in Experiment 1 lists a mean period of 1.79 s."
+  },
+  {
+    "id": "S3-027",
+    "prompt": "A student tested pendulums made from a string and a metal bob. For each trial, the bob was pulled 10° to one side and released. The student timed 10 complete swings and divided by 10 to calculate the period, which is the time for one complete swing. Each result is the mean of 4 trials.\n\nExperiment 1: Bob mass was held at 100 g while string length was changed.\nString length (cm) | Mean period (s)\n20                 | 0.90\n40                 | 1.27\n60                 | 1.55\n80                 | 1.79\n\nExperiment 2: String length was held at 60 cm while bob mass was changed.\nBob mass (g) | Mean period (s)\n50           | 1.54\n100          | 1.55\n150          | 1.55\n200          | 1.56\n\nQuestion:\nBy how much did mean period increase when string length increased from 20 cm to 60 cm?",
+    "choices": {
+      "A": "0.28 s",
+      "B": "0.65 s",
+      "C": "0.90 s",
+      "D": "2.45 s"
+    },
+    "correct": "B",
+    "explanation": "Mean period increased from 0.90 s at 20 cm to 1.55 s at 60 cm, a difference of 0.65 s."
+  },
+  {
+    "id": "S3-028",
+    "prompt": "A student tested pendulums made from a string and a metal bob. For each trial, the bob was pulled 10° to one side and released. The student timed 10 complete swings and divided by 10 to calculate the period, which is the time for one complete swing. Each result is the mean of 4 trials.\n\nExperiment 1: Bob mass was held at 100 g while string length was changed.\nString length (cm) | Mean period (s)\n20                 | 0.90\n40                 | 1.27\n60                 | 1.55\n80                 | 1.79\n\nExperiment 2: String length was held at 60 cm while bob mass was changed.\nBob mass (g) | Mean period (s)\n50           | 1.54\n100          | 1.55\n150          | 1.55\n200          | 1.56\n\nQuestion:\nIn Experiment 1, which factor did the student deliberately change?",
+    "choices": {
+      "A": "String length",
+      "B": "Bob mass",
+      "C": "Mean period",
+      "D": "Release angle"
+    },
+    "correct": "A",
+    "explanation": "Experiment 1 changed string length while holding bob mass at 100 g."
+  },
+  {
+    "id": "S3-029",
+    "prompt": "A student tested pendulums made from a string and a metal bob. For each trial, the bob was pulled 10° to one side and released. The student timed 10 complete swings and divided by 10 to calculate the period, which is the time for one complete swing. Each result is the mean of 4 trials.\n\nExperiment 1: Bob mass was held at 100 g while string length was changed.\nString length (cm) | Mean period (s)\n20                 | 0.90\n40                 | 1.27\n60                 | 1.55\n80                 | 1.79\n\nExperiment 2: String length was held at 60 cm while bob mass was changed.\nBob mass (g) | Mean period (s)\n50           | 1.54\n100          | 1.55\n150          | 1.55\n200          | 1.56\n\nQuestion:\nWhy did the student time 10 swings and divide by 10 instead of timing only 1 swing?",
+    "choices": {
+      "A": "To reduce the effect of reaction-time error on the calculated period",
+      "B": "To make bob mass change during a trial",
+      "C": "To cause the string to become longer after each swing",
+      "D": "To ensure that every pendulum had a period of 10 seconds"
+    },
+    "correct": "A",
+    "explanation": "Timing several swings makes a small start-or-stop timing error a smaller fraction of the total measured time."
+  },
+  {
+    "id": "S3-030",
+    "prompt": "A student tested pendulums made from a string and a metal bob. For each trial, the bob was pulled 10° to one side and released. The student timed 10 complete swings and divided by 10 to calculate the period, which is the time for one complete swing. Each result is the mean of 4 trials.\n\nExperiment 1: Bob mass was held at 100 g while string length was changed.\nString length (cm) | Mean period (s)\n20                 | 0.90\n40                 | 1.27\n60                 | 1.55\n80                 | 1.79\n\nExperiment 2: String length was held at 60 cm while bob mass was changed.\nBob mass (g) | Mean period (s)\n50           | 1.54\n100          | 1.55\n150          | 1.55\n200          | 1.56\n\nQuestion:\nA student claims that doubling bob mass from 100 g to 200 g doubles the period of a 60 cm pendulum. How do the results evaluate this claim?",
+    "choices": {
+      "A": "They support it because 1.56 s is twice 1.55 s.",
+      "B": "They support it because the heavier bob had a shorter string.",
+      "C": "They contradict it because the period changed only from 1.55 s to 1.56 s.",
+      "D": "They cannot evaluate it because bob mass was not changed in Experiment 2."
+    },
+    "correct": "C",
+    "explanation": "Doubling mass from 100 g to 200 g changed the mean period by only 0.01 s, not by a factor of 2."
+  }
+]

@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "EN5-001",
+    "prompt": "In a passage about students building a mobile classroom library, Maya recalls the first work session: “After the final class <u>ended we wheeled an unused audiovisual cart into the library</u>.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "ended, we wheeled an unused audiovisual cart into the library",
+      "C": "ended; we wheeled an unused audiovisual cart into the library",
+      "D": "ended we wheeled, an unused audiovisual cart into the library"
+    },
+    "correct": "B",
+    "explanation": "A comma should follow the introductory dependent clause “After the final class ended.” A semicolon cannot separate that dependent clause from the main clause."
+  },
+  {
+    "id": "EN5-002",
+    "prompt": "The passage describes books waiting to be loaded: “A box of mysteries and graphic novels <u>rest</u> beside the cart.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have rested",
+      "C": "rests",
+      "D": "are resting"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “box” requires the singular verb “rests.” The plural book categories in the prepositional phrase do not control the verb."
+  },
+  {
+    "id": "EN5-003",
+    "prompt": "Maya explains why the team added a lower shelf: “<u>The cart needed a lower shelf because several picture books were too tall for the upper shelves.</u>” Which choice is a complete sentence that clearly expresses the cause-and-effect relationship?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The cart needing a lower shelf. Because several picture books were too tall.",
+      "C": "Because several picture books were too tall for the upper shelves.",
+      "D": "A lower shelf, several picture books being too tall for the upper shelves."
+    },
+    "correct": "A",
+    "explanation": "The original is a complete sentence that connects the needed change to its reason. Each other choice contains a fragment or lacks a complete main clause."
+  },
+  {
+    "id": "EN5-004",
+    "prompt": "The passage states, “When Maya handed Keira the label maker, <u>she</u> printed signs for each shelf.” The writer wants to make clear that Keira printed the signs. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "the student",
+      "C": "Maya",
+      "D": "Keira"
+    },
+    "correct": "D",
+    "explanation": "Naming Keira clearly identifies who printed the signs. The pronoun and the vague phrase “the student” could refer to either person."
+  },
+  {
+    "id": "EN5-005",
+    "prompt": "The passage introduces the team's starting material: “The cart <u>a retired audiovisual stand</u> had three metal shelves and four sturdy wheels.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", a retired audiovisual stand,",
+      "C": "; a retired audiovisual stand;",
+      "D": "a retired audiovisual stand,"
+    },
+    "correct": "B",
+    "explanation": "The appositive “a retired audiovisual stand” renames the cart and must be enclosed by commas. A semicolon cannot set off this phrase."
+  },
+  {
+    "id": "EN5-006",
+    "prompt": "Maya narrates work completed one afternoon: “Keira measured the shelves while I <u>sort</u> the donated books by reading level.” Which choice best maintains the sentence's verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "sorted",
+      "C": "will sort",
+      "D": "am sorting"
+    },
+    "correct": "B",
+    "explanation": "“Sorted” matches the past-tense verb “measured.” The present and future forms create an unnecessary tense shift."
+  },
+  {
+    "id": "EN5-007",
+    "prompt": "The passage describes the completed book cart: “<u>Loaded with novels and picture books, Maya pushed the cart toward the sixth-grade hallway.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "Loaded with novels and picture books, the sixth-grade hallway received the cart from Maya.",
+      "C": "Maya, loaded with novels and picture books, pushed the cart toward the sixth-grade hallway.",
+      "D": "Maya pushed the cart, which was loaded with novels and picture books, toward the sixth-grade hallway."
+    },
+    "correct": "D",
+    "explanation": "The revised sentence makes clear that the cart, not Maya, was loaded with books. The original places Maya directly after the modifier and changes the intended meaning."
+  },
+  {
+    "id": "EN5-008",
+    "prompt": "Maya describes the cart's new side pockets: “The pockets were <u>small in size and light in weight</u>, but each could hold twenty bookmarks.” Which choice is most concise while preserving the meaning?",
+    "choices": {
+      "A": "small and light",
+      "B": "small-sized and light-weighted",
+      "C": "small in their size and light",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Small and light” conveys both qualities without the unnecessary phrases “in size” and “in weight.” The other choices are wordier or awkward."
+  },
+  {
+    "id": "EN5-009",
+    "prompt": "In a passage with an upbeat, reflective tone, Maya describes the cart's first trip: “One wheel squeaked so loudly that students turned to look. <u>Our project was an embarrassing catastrophe.</u>” Which choice best matches the passage's tone?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The noisy wheel reminded us to add regular maintenance to our plan.",
+      "C": "The cart had betrayed us in the worst possible way.",
+      "D": "We just laughed because planning ahead was apparently pointless."
+    },
+    "correct": "B",
+    "explanation": "This choice treats the problem as a useful lesson and maintains the passage's constructive tone. The other options are exaggerated, dramatic, or dismissive."
+  },
+  {
+    "id": "EN5-010",
+    "prompt": "A passage about a mobile school library begins, “At the far end of the school stood a classroom nearly five minutes from the main library. Between classes, few students there had enough time to visit the shelves.” Which choice would most effectively introduce the passage's focus on bringing books closer to students?",
+    "choices": {
+      "A": "The main library has windows facing the courtyard.",
+      "B": "Our team decided to turn an unused rolling cart into a small library that could visit distant classrooms.",
+      "C": "Five minutes can feel different depending on how quickly a person walks.",
+      "D": "Many classrooms contain desks, chairs, and whiteboards."
+    },
+    "correct": "B",
+    "explanation": "This sentence presents the mobile cart as a direct response to the access problem. The other choices provide side facts rather than the passage's main focus."
+  },
+  {
+    "id": "EN5-011",
+    "prompt": "In a paragraph about preparing the book cart, Maya writes: “First, we cleaned the metal shelves and tightened the wheels. Next, we sorted donated books by reading level and topic. _____, we labeled each shelf and planned the cart's weekly route.” Which choice provides the most logical transition?",
+    "choices": {
+      "A": "However",
+      "B": "For example",
+      "C": "Finally",
+      "D": "On the contrary"
+    },
+    "correct": "C",
+    "explanation": "“Finally” completes the chronological sequence begun by “First” and “Next.” The other transitions signal contrast or an example."
+  },
+  {
+    "id": "EN5-012",
+    "prompt": "A paragraph explains that the team surveyed students, adjusted the mixture of book genres, and changed the cart's route based on requests. The writer is considering adding this sentence: “The auditorium seats are covered in dark blue fabric.” Should the writer add the sentence?",
+    "choices": {
+      "A": "Yes, because the auditorium and book cart are in the same school.",
+      "B": "Yes, because the sentence includes a specific visual detail.",
+      "C": "No, because the detail distracts from the paragraph's focus on responding to student feedback.",
+      "D": "No, because colors should not be mentioned in an informational passage."
+    },
+    "correct": "C",
+    "explanation": "The auditorium seats do not explain how the team responded to feedback. Sharing a school setting does not make the detail relevant."
+  },
+  {
+    "id": "EN5-013",
+    "prompt": "A paragraph about the mobile library contains these sentences:\n[1] During the first week, the top shelf held mostly long novels. [2] Younger students often passed the cart without choosing a book. [3] The team added short mysteries, comics, and illustrated nonfiction to the top shelf. [4] The following week, twice as many younger students borrowed books.\nThe writer wants to add this sentence: “Those students had found few quick or highly visual choices in the original selection.” Where should the sentence be placed?",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 2",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The phrase “Those students” refers directly to the younger students in sentence 2, and the sentence explains their behavior before sentence 3 presents a response. Other placements would weaken the reference or the cause-and-effect sequence."
+  },
+  {
+    "id": "EN5-014",
+    "prompt": "At the end of a passage about a mobile school library, Maya describes a student returning one book and immediately borrowing another. Which concluding sentence best emphasizes the project's success?",
+    "choices": {
+      "A": "The cart's bright wheels are visible from the end of the hallway.",
+      "B": "A single cart could not replace the library, but it had turned an inconvenient distance into a regular chance to discover a book.",
+      "C": "Some books are longer than others.",
+      "D": "The school hallway is busiest just before lunch."
+    },
+    "correct": "B",
+    "explanation": "This conclusion acknowledges the cart's limits while showing how it improved access to books. The other choices end with unrelated details."
+  },
+  {
+    "id": "EN5-015",
+    "prompt": "In a passage about students creating live music for a silent film, the writer describes their planning materials: “The two <u>composers notes</u> filled the margins of the printed scene list.” Which choice correctly forms the plural possessive?",
+    "choices": {
+      "A": "composers notes",
+      "B": "composer's notes",
+      "C": "composers' notes",
+      "D": "composers note's"
+    },
+    "correct": "C",
+    "explanation": "The notes belong to two composers, so the apostrophe follows the plural noun “composers.” “Composer's” would indicate one composer."
+  },
+  {
+    "id": "EN5-016",
+    "prompt": "The passage describes the students' preparation: “The musicians watched the film <u>twice the second viewing helped them mark every major action.</u>” Which choice best corrects the run-on sentence?",
+    "choices": {
+      "A": "twice, the second viewing helped them mark every major action.",
+      "B": "twice; the second viewing helped them mark every major action.",
+      "C": "twice the second viewing helped them, mark every major action.",
+      "D": "twice being how the second viewing helped them mark every major action."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly joins the two closely related independent clauses. A comma alone would create a comma splice."
+  },
+  {
+    "id": "EN5-017",
+    "prompt": "The writer lists the ensemble's tasks: “Their preparation included <u>timing each scene, choosing instruments, and to rehearse the musical cues</u>.” Which choice makes the list parallel?",
+    "choices": {
+      "A": "timing each scene, choosing instruments, and rehearsing the musical cues",
+      "B": "to time each scene, choosing instruments, and rehearsing the musical cues",
+      "C": "timing each scene, instruments were chosen, and rehearsing the musical cues",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "All three items use parallel gerund forms: “timing,” “choosing,” and “rehearsing.” The other choices mix grammatical structures."
+  },
+  {
+    "id": "EN5-018",
+    "prompt": "The passage introduces the ensemble's main instruments: “Four sounds formed the core of the score <u>piano, violin, hand drum, and woodblock.</u>” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": ", piano, violin, hand drum, and woodblock.",
+      "B": "; piano, violin, hand drum, and woodblock.",
+      "C": ": piano, violin, hand drum, and woodblock.",
+      "D": "piano, violin, hand drum, and woodblock."
+    },
+    "correct": "C",
+    "explanation": "A colon properly introduces the list after the complete clause. A comma or semicolon does not correctly introduce this list."
+  },
+  {
+    "id": "EN5-019",
+    "prompt": "The writer describes two percussionists: “Both percussionists placed <u>his or her</u> mallets beside the music stand.” Which choice makes the pronoun agree with its plural antecedent?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "their",
+      "C": "its",
+      "D": "your"
+    },
+    "correct": "B",
+    "explanation": "The plural pronoun “their” agrees with the plural antecedent “percussionists.” “His or her” is singular."
+  },
+  {
+    "id": "EN5-020",
+    "prompt": "The passage reports advice from the music teacher: “Mr. Bell recommended <u>to use</u> a soft drum roll during the storm scene.” Which choice uses the standard verb form?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "use",
+      "C": "having used",
+      "D": "using"
+    },
+    "correct": "D",
+    "explanation": "The standard construction is “recommended using.” “Recommended to use” is not the accepted form in this sentence."
+  },
+  {
+    "id": "EN5-021",
+    "prompt": "The passage describes a musical cue: “A rapid series of woodblock taps <u>mark</u> the moment when the character begins to run.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "marks",
+      "C": "have marked",
+      "D": "are marking"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “series” requires the singular verb “marks.” The plural noun “taps” is part of a prepositional phrase."
+  },
+  {
+    "id": "EN5-022",
+    "prompt": "The passage quotes the film-club adviser during rehearsal: “<u>Watch the actor's feet she said and begin the rhythm when he starts running.</u>” Which choice correctly punctuates the quotation and the interrupting dialogue tag?",
+    "choices": {
+      "A": "“Watch the actor's feet,” she said, “and begin the rhythm when he starts running.”",
+      "B": "“Watch the actor's feet” she said, “and begin the rhythm when he starts running.”",
+      "C": "“Watch the actor's feet,” she said “and begin the rhythm when he starts running.”",
+      "D": "“Watch the actor's feet” she said “and begin the rhythm when he starts running.”"
+    },
+    "correct": "A",
+    "explanation": "Commas set off the interrupting dialogue tag “she said.” The other choices omit one or both required commas."
+  },
+  {
+    "id": "EN5-023",
+    "prompt": "The writer describes music for a chase scene: “As the character ran faster, the violin's sound <u>grew in its level of intensity</u>.” Which choice is most precise and concise?",
+    "choices": {
+      "A": "intensified",
+      "B": "did a more intense sound",
+      "C": "made intensity happen",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Intensified” precisely and concisely describes the sound becoming stronger. The other choices are vague, awkward, or wordy."
+  },
+  {
+    "id": "EN5-024",
+    "prompt": "The silent-film passage states, “For the final rehearsal, the musicians <u>joined together</u> with the projection team.” Which choice is the most concise without changing the meaning?",
+    "choices": {
+      "A": "joined",
+      "B": "joined together collectively",
+      "C": "came and joined together",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Joined” already means came together, so the added word is redundant. The other alternatives repeat the same idea."
+  },
+  {
+    "id": "EN5-025",
+    "prompt": "A paragraph about scoring the silent film contains these sentences:\n[1] In one scene, a character quietly opens a door and discovers a crowded party. [2] The students first used soft piano music for the entire scene. [3] _____ [4] They revised the cue so that a bright violin chord sounded the instant the door opened.\nWhich choice provides the most logical sentence for the blank?",
+    "choices": {
+      "A": "The theater's piano had been tuned earlier that month.",
+      "B": "During rehearsal, however, the discovery felt less surprising because the music did not change.",
+      "C": "Some doors open inward, while others open outward.",
+      "D": "The violinist stored extra strings inside the instrument case."
+    },
+    "correct": "B",
+    "explanation": "This sentence identifies the problem with the original cue and leads directly to the revision in sentence 4. The other details do not explain the musical change."
+  },
+  {
+    "id": "EN5-026",
+    "prompt": "In a passage about a live score for a silent film, the writer wants to support the claim that music can change how viewers interpret a scene. Which choice provides the most relevant supporting detail?",
+    "choices": {
+      "A": "When the students paired the same image with gentle piano notes, viewers described it as peaceful; with low drumbeats, they called it threatening.",
+      "B": "The piano stood on the left side of the stage.",
+      "C": "The film lasted forty-two minutes.",
+      "D": "Several musicians wore black shirts during the performance."
+    },
+    "correct": "A",
+    "explanation": "The contrasting audience reactions directly show that different music changed the scene's perceived mood. The other details do not address interpretation."
+  },
+  {
+    "id": "EN5-027",
+    "prompt": "A passage about scoring a silent film first explains how students identified important moments, then follows them as they composed and revised cues, and finally describes the public performance. Which choice best explains why this organization is effective?",
+    "choices": {
+      "A": "It ranks the instruments from loudest to softest.",
+      "B": "It moves from analyzing the film through creating the score to presenting the finished work.",
+      "C": "It delays naming the film until after the performance.",
+      "D": "It compares the project with several unrelated concerts."
+    },
+    "correct": "B",
+    "explanation": "The sequence follows the project from analysis through creation to performance. The other choices misdescribe the passage's organization."
+  },
+  {
+    "id": "EN5-028",
+    "prompt": "In a passage about testing paper bridge designs, the writer states, “Lena folded a paper beam into a triangle <u>and Inez placed it between two blocks.</u>” Which choice correctly punctuates the two independent clauses?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", and Inez placed it between two blocks.",
+      "C": "and, Inez placed it between two blocks.",
+      "D": "; and Inez placed it between two blocks."
+    },
+    "correct": "B",
+    "explanation": "A comma before the coordinating conjunction “and” correctly joins the two independent clauses. A semicolon should not be combined with “and” in this construction."
+  },
+  {
+    "id": "EN5-029",
+    "prompt": "The passage describes one bridge: “The row of triangular supports beneath the deck <u>keep</u> the paper from bending.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have kept",
+      "C": "keeps",
+      "D": "are keeping"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “row” requires the singular verb “keeps.” The plural noun “supports” is inside a prepositional phrase."
+  },
+  {
+    "id": "EN5-030",
+    "prompt": "The writer states, “Inez placed the wax-paper bridge beside the cardstock bridge before <u>it</u> was tested.” The writer wants to make clear that the wax-paper bridge was tested. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "that object",
+      "C": "the wax-paper bridge",
+      "D": "the cardstock bridge"
+    },
+    "correct": "C",
+    "explanation": "Replacing “it” with “the wax-paper bridge” clearly identifies what was tested. The original pronoun could refer to either bridge."
+  },
+  {
+    "id": "EN5-031",
+    "prompt": "The passage describes a test completed last Thursday: “The team added metal washers one at a time and <u>records</u> the total when the bridge bent.” Which choice best maintains consistent verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "will record",
+      "C": "is recording",
+      "D": "recorded"
+    },
+    "correct": "D",
+    "explanation": "“Recorded” matches the past-tense verb “added” and the completed time marker “last Thursday.” The other choices shift to present or future time."
+  },
+  {
+    "id": "EN5-032",
+    "prompt": "The writer describes Lena watching a load test: “<u>Looking at the scale, the rising numbers excited Lena.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "Looking at the scale, Lena was excited by the rising numbers.",
+      "B": "Looking at the scale, the rising numbers were exciting.",
+      "C": "The rising numbers, looking at the scale, excited Lena.",
+      "D": "Lena, the numbers excited her while looking at the scale."
+    },
+    "correct": "A",
+    "explanation": "Lena is the person looking at the scale, so her name must follow the introductory phrase. The original illogically suggests that the numbers were looking."
+  },
+  {
+    "id": "EN5-033",
+    "prompt": "The passage contrasts two bridge designs: “The flat strip held <u>little weight however, the folded beam supported twelve washers.</u>” Which choice correctly joins the independent clauses?",
+    "choices": {
+      "A": "little weight, however, the folded beam supported twelve washers.",
+      "B": "little weight; however, the folded beam supported twelve washers.",
+      "C": "little weight however; the folded beam supported twelve washers.",
+      "D": "little weight however the folded beam supported twelve washers."
+    },
+    "correct": "B",
+    "explanation": "A semicolon separates the independent clauses, and a comma follows the conjunctive adverb “however.” A comma before “however” alone would create a comma splice."
+  },
+  {
+    "id": "EN5-034",
+    "prompt": "The passage describes where one bridge failed: “The <u>bridges center</u> sagged before either end moved.” Which choice correctly forms the singular possessive?",
+    "choices": {
+      "A": "bridges center",
+      "B": "bridges' center",
+      "C": "bridge's center",
+      "D": "bridge center's"
+    },
+    "correct": "C",
+    "explanation": "The center belongs to one bridge, so the singular possessive “bridge's” is correct. “Bridges'” would refer to multiple bridges."
+  },
+  {
+    "id": "EN5-035",
+    "prompt": "The writer compares two designs: “The triangular beam supported <u>a greater amount of weight</u> than the flat strip.” Which choice is clearest and most concise?",
+    "choices": {
+      "A": "a more greater amount of weight",
+      "B": "more weight",
+      "C": "weight in a greater amount",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "“More weight” states the comparison directly and concisely. The other choices are wordy or ungrammatical."
+  },
+  {
+    "id": "EN5-036",
+    "prompt": "The passage uses a clear, explanatory style. It states, “Folding the paper created angled surfaces that resisted bending. <u>Basically, the triangles made the paper way tougher.</u>” Which choice best matches the passage's style?",
+    "choices": {
+      "A": "The triangular folds therefore increased the beam's strength.",
+      "B": "The triangles gave the paper superhero-level power.",
+      "C": "So, yeah, the paper became really hard to bend.",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "This choice explains the result precisely and maintains an informative tone. The other options are slangy or overly figurative."
+  },
+  {
+    "id": "EN5-037",
+    "prompt": "A passage about paper bridges begins, “A flat strip of paper sagged under three metal washers. Folded into a triangular beam, an identical strip held four times as many.” Which choice would most effectively introduce the passage's focus on testing how shape affects strength?",
+    "choices": {
+      "A": "The students decided to compare several folds while keeping the paper size and test distance the same.",
+      "B": "Paper is produced in many colors and thicknesses.",
+      "C": "Metal washers are often used with bolts.",
+      "D": "The classroom tables had smooth black tops."
+    },
+    "correct": "A",
+    "explanation": "This sentence introduces the variable being tested and the conditions being controlled. The other choices offer side facts rather than the investigation's focus."
+  },
+  {
+    "id": "EN5-038",
+    "prompt": "In a paragraph about testing paper bridges, the writer explains that students tested each design three times. The writer wants to emphasize why repeated trials were useful. Which sentence would best accomplish this purpose?",
+    "choices": {
+      "A": "The washers were stored in a plastic cup between tests.",
+      "B": "Each bridge was made from white paper.",
+      "C": "Multiple trials helped the team spot unusual results and calculate a more dependable average load.",
+      "D": "The students wrote their names at the top of the data sheet."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly explains how repeated trials improved the reliability of the results. The other choices concern materials or recordkeeping rather than the purpose of repetition."
+  },
+  {
+    "id": "EN5-039",
+    "prompt": "A passage about paper bridges includes the following paragraph:\n[1] The flat strip bent after only three washers were added. [2] A strip folded into a shallow U-shape held seven. [3] _____ [4] The results showed that folds creating deeper sides provided greater resistance to bending.\nWhich choice provides the most logical transition for sentence 3?",
+    "choices": {
+      "A": "For example, paper can also be folded into animals and flowers.",
+      "B": "Meanwhile, the teacher collected notebooks from another class.",
+      "C": "In comparison, the triangular beam supported twelve washers before sagging.",
+      "D": "Similarly, all washers had a hole in the center."
+    },
+    "correct": "C",
+    "explanation": "“In comparison” introduces the strongest result in the design sequence and supports the conclusion about deeper folds. The other details are unrelated to structural performance."
+  },
+  {
+    "id": "EN5-040",
+    "prompt": "At the end of a passage about testing paper bridges, the writer explains that the class used its data to design a final bridge for a display. Which concluding sentence best reinforces the passage's main idea without exaggerating the findings?",
+    "choices": {
+      "A": "The trial showed that a simple change in shape could strengthen one material under the conditions the class tested.",
+      "B": "The project proved that paper bridges are stronger than all bridges made from other materials.",
+      "C": "Clearly, triangular beams can never bend or fail.",
+      "D": "Paper is also useful for drawing, printing, and wrapping objects."
+    },
+    "correct": "A",
+    "explanation": "This conclusion accurately summarizes the investigation while limiting the claim to the tested conditions. The other choices exaggerate or shift away from the main idea."
+  },
+  {
+    "id": "M5-001",
+    "prompt": "What is the value of |−12| ÷ 3 + 2?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "10",
+      "E": "14"
+    },
+    "correct": "C",
+    "explanation": "|−12| = 12. Then 12 ÷ 3 + 2 = 4 + 2 = 6."
+  },
+  {
+    "id": "M5-002",
+    "prompt": "What value of x satisfies 8 − 2x = −10?",
+    "choices": {
+      "A": "−9",
+      "B": "−1",
+      "C": "1",
+      "D": "9",
+      "E": "18"
+    },
+    "correct": "D",
+    "explanation": "Subtract 8 from both sides to get −2x = −18, and then divide by −2 to get x = 9."
+  },
+  {
+    "id": "M5-003",
+    "prompt": "Three interior angles of a quadrilateral measure 85°, 95°, and 110°. What is the measure of the fourth interior angle?",
+    "choices": {
+      "A": "60°",
+      "B": "70°",
+      "C": "80°",
+      "D": "90°",
+      "E": "110°"
+    },
+    "correct": "B",
+    "explanation": "The interior angles of a quadrilateral sum to 360°. The fourth angle is 360° − 85° − 95° − 110° = 70°."
+  },
+  {
+    "id": "M5-004",
+    "prompt": "An elevator is 120 meters above the ground when it begins descending at a constant rate. Its height is shown in the table.\n\nt (seconds) | 0 | 3 | 6 | 9\nh (meters)  | 120 | 105 | 90 | 75\n\nWhich equation gives the elevator's height h after t seconds?",
+    "choices": {
+      "A": "h = 120 − 5t",
+      "B": "h = 120 − 15t",
+      "C": "h = 120 + 5t",
+      "D": "h = 40 − 5t",
+      "E": "h = 5t"
+    },
+    "correct": "A",
+    "explanation": "The elevator begins at 120 meters and descends 15 meters every 3 seconds, a rate of −5 meters per second. Therefore, h = 120 − 5t."
+  },
+  {
+    "id": "M5-005",
+    "prompt": "What is the range of the data set 4, 9, 11, 11, 18?",
+    "choices": {
+      "A": "7",
+      "B": "9",
+      "C": "11",
+      "D": "14",
+      "E": "18"
+    },
+    "correct": "D",
+    "explanation": "The range is the greatest value minus the least value: 18 − 4 = 14."
+  },
+  {
+    "id": "M5-006",
+    "prompt": "What is (4.5 × 10⁻³)(2 × 10⁴) written in scientific notation?",
+    "choices": {
+      "A": "9 × 10⁻⁷",
+      "B": "9 × 10⁻¹",
+      "C": "9 × 10¹",
+      "D": "9 × 10⁷",
+      "E": "90 × 10¹"
+    },
+    "correct": "C",
+    "explanation": "Multiply the coefficients and add the exponents: 4.5 × 2 = 9 and 10⁻³ × 10⁴ = 10¹. Therefore, the product is 9 × 10¹."
+  },
+  {
+    "id": "M5-007",
+    "prompt": "An online store discounts a $120 item by 15% and then adds an $8 shipping charge. What is the final cost before tax?",
+    "choices": {
+      "A": "$94",
+      "B": "$102",
+      "C": "$110",
+      "D": "$112",
+      "E": "$128"
+    },
+    "correct": "C",
+    "explanation": "The discounted price is $120 × 0.85 = $102. Adding $8 shipping gives $102 + $8 = $110."
+  },
+  {
+    "id": "M5-008",
+    "prompt": "A tailor uses 7 meters of fabric to make 4 identical costumes. At the same rate, how many meters of fabric are needed to make 10 costumes?",
+    "choices": {
+      "A": "13 meters",
+      "B": "14 meters",
+      "C": "17 meters",
+      "D": "17.5 meters",
+      "E": "28 meters"
+    },
+    "correct": "D",
+    "explanation": "The fabric rate is 7 ÷ 4 = 1.75 meters per costume. For 10 costumes, 10 × 1.75 = 17.5 meters."
+  },
+  {
+    "id": "M5-009",
+    "prompt": "A parallelogram has a base of 11 centimeters and a perpendicular height of 6 centimeters. What is its area?",
+    "choices": {
+      "A": "17 square centimeters",
+      "B": "33 square centimeters",
+      "C": "66 square centimeters",
+      "D": "72 square centimeters",
+      "E": "121 square centimeters"
+    },
+    "correct": "C",
+    "explanation": "A parallelogram's area is base × perpendicular height, so the area is 11 × 6 = 66 square centimeters."
+  },
+  {
+    "id": "M5-010",
+    "prompt": "One letter is selected at random from the 7 letters in the word ALGEBRA. What is the probability that the selected letter is A?",
+    "choices": {
+      "A": "1/7",
+      "B": "2/7",
+      "C": "1/3",
+      "D": "2/5",
+      "E": "1/2"
+    },
+    "correct": "B",
+    "explanation": "The word ALGEBRA has 7 letters, and 2 of them are A. The probability is 2/7."
+  },
+  {
+    "id": "M5-011",
+    "prompt": "What is the value of ∛216 + √49?",
+    "choices": {
+      "A": "11",
+      "B": "12",
+      "C": "13",
+      "D": "14",
+      "E": "19"
+    },
+    "correct": "C",
+    "explanation": "∛216 = 6 and √49 = 7, so ∛216 + √49 = 6 + 7 = 13."
+  },
+  {
+    "id": "M5-012",
+    "prompt": "The first three terms of an arithmetic sequence are −4, 2, and 8. What is the twelfth term?",
+    "choices": {
+      "A": "56",
+      "B": "60",
+      "C": "62",
+      "D": "66",
+      "E": "68"
+    },
+    "correct": "C",
+    "explanation": "The common difference is 6. There are 11 increases from the first term to the twelfth, so the twelfth term is −4 + 11 × 6 = 62."
+  },
+  {
+    "id": "M5-013",
+    "prompt": "An auditorium has 180 seats. Twenty-four seats are reserved for staff, and each visiting student group has 13 students. What is the greatest number of complete student groups that can be seated?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "14"
+    },
+    "correct": "C",
+    "explanation": "After reserving 24 seats, 180 − 24 = 156 seats remain. Since 156 ÷ 13 = 12, at most 12 complete groups can be seated."
+  },
+  {
+    "id": "M5-014",
+    "prompt": "Point V has coordinates (−3, 4). A dilation centered at the origin with scale factor 2 is applied to V. What are the coordinates of the image of V?",
+    "choices": {
+      "A": "(−6, 8)",
+      "B": "(−5, 6)",
+      "C": "(−1.5, 2)",
+      "D": "(3, −4)",
+      "E": "(6, −8)"
+    },
+    "correct": "A",
+    "explanation": "A dilation centered at the origin with scale factor 2 multiplies both coordinates by 2, so (−3, 4) maps to (−6, 8)."
+  },
+  {
+    "id": "M5-015",
+    "prompt": "The table shows whether 100 students buy lunch at school.\n\n          | Buys lunch | Does not buy lunch | Total\nGrade 8   | 35         | 15                 | 50\nGrade 9   | 30         | 20                 | 50\nTotal     | 65         | 35                 | 100\n\nOne student is selected at random from the students who buy lunch. What is the probability that the selected student is in Grade 8?",
+    "choices": {
+      "A": "7/20",
+      "B": "6/13",
+      "C": "7/13",
+      "D": "13/20",
+      "E": "7/10"
+    },
+    "correct": "C",
+    "explanation": "Of the 65 students who buy lunch, 35 are in Grade 8. The probability is 35/65 = 7/13."
+  },
+  {
+    "id": "M5-016",
+    "prompt": "A machine processes 450 grams of material in 3 minutes at a constant rate. How many kilograms of material does it process in 20 minutes?",
+    "choices": {
+      "A": "0.3 kilograms",
+      "B": "1.5 kilograms",
+      "C": "3 kilograms",
+      "D": "9 kilograms",
+      "E": "30 kilograms"
+    },
+    "correct": "C",
+    "explanation": "The machine processes 450 ÷ 3 = 150 grams per minute. In 20 minutes it processes 150 × 20 = 3,000 grams, or 3 kilograms."
+  },
+  {
+    "id": "M5-017",
+    "prompt": "A movie theater sells 28 tickets consisting only of adult and child tickets. Adult tickets cost $9, child tickets cost $6, and the total revenue is $225. How many adult tickets are sold?",
+    "choices": {
+      "A": "9",
+      "B": "13",
+      "C": "15",
+      "D": "19",
+      "E": "21"
+    },
+    "correct": "D",
+    "explanation": "Let a be adult tickets and c be child tickets. Then a + c = 28 and 9a + 6c = 225. Substituting c = 28 − a gives 3a + 168 = 225, so a = 19."
+  },
+  {
+    "id": "M5-018",
+    "prompt": "A bicycle costs $800 when new and loses 25% of its value each year. If this pattern continues, what is the bicycle's value after 2 years?",
+    "choices": {
+      "A": "$400",
+      "B": "$450",
+      "C": "$500",
+      "D": "$550",
+      "E": "$600"
+    },
+    "correct": "B",
+    "explanation": "Losing 25% leaves 75% of the value each year. After 2 years, the value is $800 × 0.75² = $800 × 0.5625 = $450."
+  },
+  {
+    "id": "M5-019",
+    "prompt": "A cylindrical label covers only the curved side of a can with radius 4 centimeters and height 10 centimeters. What is the area of the label?",
+    "choices": {
+      "A": "40π square centimeters",
+      "B": "56π square centimeters",
+      "C": "80π square centimeters",
+      "D": "100π square centimeters",
+      "E": "160π square centimeters"
+    },
+    "correct": "C",
+    "explanation": "The curved side area of a cylinder is 2πrh. With r = 4 and h = 10, the area is 2 × π × 4 × 10 = 80π square centimeters."
+  },
+  {
+    "id": "M5-020",
+    "prompt": "The table shows the number of books read by 10 students during one month.\n\nBooks read | 0 | 1 | 2 | 3\nStudents   | 2 | 4 | 3 | 1\n\nWhat is the mean number of books read per student?",
+    "choices": {
+      "A": "1.0",
+      "B": "1.2",
+      "C": "1.3",
+      "D": "1.5",
+      "E": "2.0"
+    },
+    "correct": "C",
+    "explanation": "The total books read is 0(2) + 1(4) + 2(3) + 3(1) = 13. Dividing by 10 students gives a mean of 13/10 = 1.3."
+  },
+  {
+    "id": "M5-021",
+    "prompt": "What is the value of (4³)(4⁻¹)?",
+    "choices": {
+      "A": "1/16",
+      "B": "4",
+      "C": "8",
+      "D": "16",
+      "E": "64"
+    },
+    "correct": "D",
+    "explanation": "Multiply powers with the same base by adding exponents: (4³)(4⁻¹) = 4² = 16."
+  },
+  {
+    "id": "M5-022",
+    "prompt": "The equation x² − 2x − 24 = 0 has two solutions. What is the greater solution?",
+    "choices": {
+      "A": "−6",
+      "B": "−4",
+      "C": "4",
+      "D": "6",
+      "E": "24"
+    },
+    "correct": "D",
+    "explanation": "Factoring gives x² − 2x − 24 = (x − 6)(x + 4), so the solutions are 6 and −4. The greater solution is 6."
+  },
+  {
+    "id": "M5-023",
+    "prompt": "The distance D, in kilometers, remaining on a trip after t hours is modeled by D(t) = 150 − 12t. After how many hours will 78 kilometers remain?",
+    "choices": {
+      "A": "4 hours",
+      "B": "5 hours",
+      "C": "6 hours",
+      "D": "7 hours",
+      "E": "8 hours"
+    },
+    "correct": "C",
+    "explanation": "Set 150 − 12t = 78. Then −12t = −72, so t = 6 hours."
+  },
+  {
+    "id": "M5-024",
+    "prompt": "At the same time of day, a 1.5-meter post casts a 2-meter shadow and a tree casts a 14-meter shadow. Assuming the post and tree are vertical, how tall is the tree?",
+    "choices": {
+      "A": "9.3 meters",
+      "B": "10.5 meters",
+      "C": "12 meters",
+      "D": "15.5 meters",
+      "E": "21 meters"
+    },
+    "correct": "B",
+    "explanation": "The post and tree form similar triangles with their shadows. The height-to-shadow ratio is 1.5/2, so the tree's height is 14 × (1.5/2) = 10.5 meters."
+  },
+  {
+    "id": "M5-025",
+    "prompt": "Service A charges C = 12 + 3.5h dollars for h hours. Service B charges a starting fee plus a constant hourly amount, as shown in the table.\n\nh (hours) | 0 | 2 | 4\nService B cost (dollars) | 20 | 26 | 32\n\nFor 8 hours, how does the cost of Service A compare with the cost of Service B?",
+    "choices": {
+      "A": "Service A costs $4 less.",
+      "B": "Service A costs $4 more.",
+      "C": "Service A costs $8 less.",
+      "D": "Service A costs $8 more.",
+      "E": "The two services cost the same amount."
+    },
+    "correct": "A",
+    "explanation": "For 8 hours, Service A costs 12 + 3.5(8) = $40. Service B has a rate of $3 per hour and a starting fee of $20, so it costs 20 + 3(8) = $44. Service A costs $4 less."
+  },
+  {
+    "id": "M5-026",
+    "prompt": "A rectangular photograph is 8 inches wide and 10 inches long. Both dimensions are increased by 25%. What is the perimeter of the enlarged photograph?",
+    "choices": {
+      "A": "36 inches",
+      "B": "40 inches",
+      "C": "45 inches",
+      "D": "50 inches",
+      "E": "56.25 inches"
+    },
+    "correct": "C",
+    "explanation": "Increasing both dimensions by 25% gives dimensions 8 × 1.25 = 10 inches and 10 × 1.25 = 12.5 inches. The perimeter is 2(10 + 12.5) = 45 inches."
+  },
+  {
+    "id": "M5-027",
+    "prompt": "What value of x satisfies 2(3x − 4) + 5 = 4x + 15?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "9",
+      "E": "11"
+    },
+    "correct": "D",
+    "explanation": "Expanding gives 6x − 8 + 5 = 4x + 15. Thus, 6x − 3 = 4x + 15, so 2x = 18 and x = 9."
+  },
+  {
+    "id": "M5-028",
+    "prompt": "Which of the following numbers is irrational?",
+    "choices": {
+      "A": "∛64",
+      "B": "√121",
+      "C": "−7/8",
+      "D": "0.333…",
+      "E": "√45"
+    },
+    "correct": "E",
+    "explanation": "∛64 = 4, √121 = 11, −7/8 is a ratio of integers, and 0.333… is a repeating decimal, so those four numbers are rational. Since 45 is not a perfect square, √45 is irrational."
+  },
+  {
+    "id": "M5-029",
+    "prompt": "What is the distance between the points (1, −2) and (7, 6) in the coordinate plane?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14",
+      "E": "100"
+    },
+    "correct": "B",
+    "explanation": "The horizontal change is 7 − 1 = 6, and the vertical change is 6 − (−2) = 8. The distance is √(6² + 8²) = √100 = 10."
+  },
+  {
+    "id": "M5-030",
+    "prompt": "A linear function f satisfies f(−2) = 10 and f(4) = −2. What is f(1)?",
+    "choices": {
+      "A": "−4",
+      "B": "0",
+      "C": "2",
+      "D": "4",
+      "E": "6"
+    },
+    "correct": "D",
+    "explanation": "The slope is (−2 − 10)/(4 − (−2)) = −12/6 = −2. The function is f(x) = −2x + 6, so f(1) = 4."
+  },
+  {
+    "id": "M5-031",
+    "prompt": "Two fair number cubes, each with faces numbered 1 through 6, are rolled. What is the probability that the sum of the two results is 7?",
+    "choices": {
+      "A": "1/12",
+      "B": "1/6",
+      "C": "1/4",
+      "D": "1/3",
+      "E": "7/12"
+    },
+    "correct": "B",
+    "explanation": "There are 36 equally likely ordered outcomes. The 6 outcomes with sum 7 are (1, 6), (2, 5), (3, 4), (4, 3), (5, 2), and (6, 1), so the probability is 6/36 = 1/6."
+  },
+  {
+    "id": "M5-032",
+    "prompt": "A rectangular sandbox is 2.4 meters long and 1.5 meters wide. It is filled with sand to a uniform depth of 0.25 meter. Each delivery contains 0.15 cubic meter of sand. What is the least number of deliveries needed to fill the sandbox?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8",
+      "E": "9"
+    },
+    "correct": "C",
+    "explanation": "The sandbox volume is 2.4 × 1.5 × 0.25 = 0.9 cubic meter. Each delivery contains 0.15 cubic meter, so 0.9 ÷ 0.15 = 6 deliveries are needed."
+  },
+  {
+    "id": "M5-033",
+    "prompt": "Rental Plan A costs $28 plus $6 per hour. Rental Plan B costs $52 plus $3 per hour. For how many hours do the two plans cost the same amount?",
+    "choices": {
+      "A": "4 hours",
+      "B": "6 hours",
+      "C": "8 hours",
+      "D": "10 hours",
+      "E": "12 hours"
+    },
+    "correct": "C",
+    "explanation": "Set the plan costs equal: 28 + 6h = 52 + 3h. Then 3h = 24, so h = 8 hours."
+  },
+  {
+    "id": "M5-034",
+    "prompt": "A rectangular sheet of cardboard measures 18 centimeters by 14 centimeters. Squares with side length 2 centimeters are cut from all four corners, and the remaining cardboard is folded to form an open box. What is the volume of the box?",
+    "choices": {
+      "A": "140 cubic centimeters",
+      "B": "196 cubic centimeters",
+      "C": "252 cubic centimeters",
+      "D": "280 cubic centimeters",
+      "E": "504 cubic centimeters"
+    },
+    "correct": "D",
+    "explanation": "After the corner squares are removed, the box base is (18 − 4) by (14 − 4), or 14 centimeters by 10 centimeters, and its height is 2 centimeters. The volume is 14 × 10 × 2 = 280 cubic centimeters."
+  },
+  {
+    "id": "M5-035",
+    "prompt": "The mean of 6 daily measurements is 14. One measurement, 20, is removed. What is the mean of the remaining 5 measurements?",
+    "choices": {
+      "A": "10.8",
+      "B": "12.0",
+      "C": "12.8",
+      "D": "13.2",
+      "E": "16.8"
+    },
+    "correct": "C",
+    "explanation": "The total of the 6 measurements is 6 × 14 = 84. Removing 20 leaves 64, and 64 ÷ 5 = 12.8."
+  },
+  {
+    "id": "R5-001",
+    "prompt": "Passage:\nThe Blurred Photograph\n\nSofia had taken 312 photographs at the Riverside Market, and she trusted exactly eight of them. Those eight showed straight rows of oranges, shining jars of honey, and vendors standing sharply inside the rectangles of their stalls. She printed them for the school exhibit called “Saturday in Our Neighborhood” and arranged them across her bedroom floor.\n\nHer younger cousin Luis leaned over the doorway. “Where’s mine?”\n\nSofia knew which picture he meant. She had let him use her camera for one minute while she tied her shoe. He had pressed the button as a baker passed a loaf to a small child. The child’s red sleeve swept across the image, the baker’s hands were doubled by motion, and the background tilted. Sofia had saved the photograph only because deleting someone else’s work felt rude.\n\n“It’s blurry,” she said.\n\n“They were moving,” Luis replied, as if that explained everything.\n\nAt school, Ms. Nwosu, the exhibit adviser, helped Sofia hang the eight prints. She stepped back, then walked from one end of the wall to the other. “Beautiful control,” she said. “What did the market sound like?”\n\nSofia waited for a comment about lighting or balance. “Sound like?”\n\n“These pictures make me feel that everyone held still until you left.”\n\nThe remark followed Sofia home. She opened the folder containing the other 304 photographs. Most deserved to stay there: closed eyes, blocked faces, a finger in front of the lens. Then she reached Luis’s picture. The baker’s moving hands formed a pale arc around the loaf. The child’s sleeve seemed to pull the eye toward it. Sofia could almost hear the paper bag crackle.\n\nThe next morning, she printed the photograph. On paper, the blur was even more obvious. She carried it to the market and showed it to Mr. Rami, the baker.\n\n“That’s Anika,” he said, recognizing the child. “She saves coins all week for our Saturday bread.” He did not complain about his doubled hands. Instead, he traced the pale arc without touching the paper. “That is exactly how busy it gets.”\n\nSofia returned to the exhibit wall and moved two of her stillest photographs apart. She placed Luis’s image between them. At first, it looked like a mistake interrupting a careful sentence. Then the neighboring pictures changed. The neat row of bread on one side seemed ready to be lifted; the empty basket on the other looked recently emptied.\n\nAt the exhibit opening, visitors paused longest near the blurred photograph. Luis arrived and read the small label beneath it: “Bread Exchange, photograph by Luis Moreno.”\n\n“You used mine,” he said.\n\nSofia studied the wall. She still loved the clean lines in her eight photographs. But now they had somewhere to go. “It made the others move,” she said.\n\nQuestion:\nWhy has Sofia kept Luis’s photograph even though she does not initially plan to display it?",
+    "choices": {
+      "A": "Ms. Nwosu has already selected it for the exhibit.",
+      "B": "Deleting another person’s photograph feels rude to her.",
+      "C": "Mr. Rami has asked to purchase it.",
+      "D": "It is the only image she took at the market."
+    },
+    "correct": "B",
+    "explanation": "The passage states that Sofia saved the blurred photograph only because deleting someone else’s work felt rude."
+  },
+  {
+    "id": "R5-002",
+    "prompt": "Passage:\nThe Blurred Photograph\n\nSofia had taken 312 photographs at the Riverside Market, and she trusted exactly eight of them. Those eight showed straight rows of oranges, shining jars of honey, and vendors standing sharply inside the rectangles of their stalls. She printed them for the school exhibit called “Saturday in Our Neighborhood” and arranged them across her bedroom floor.\n\nHer younger cousin Luis leaned over the doorway. “Where’s mine?”\n\nSofia knew which picture he meant. She had let him use her camera for one minute while she tied her shoe. He had pressed the button as a baker passed a loaf to a small child. The child’s red sleeve swept across the image, the baker’s hands were doubled by motion, and the background tilted. Sofia had saved the photograph only because deleting someone else’s work felt rude.\n\n“It’s blurry,” she said.\n\n“They were moving,” Luis replied, as if that explained everything.\n\nAt school, Ms. Nwosu, the exhibit adviser, helped Sofia hang the eight prints. She stepped back, then walked from one end of the wall to the other. “Beautiful control,” she said. “What did the market sound like?”\n\nSofia waited for a comment about lighting or balance. “Sound like?”\n\n“These pictures make me feel that everyone held still until you left.”\n\nThe remark followed Sofia home. She opened the folder containing the other 304 photographs. Most deserved to stay there: closed eyes, blocked faces, a finger in front of the lens. Then she reached Luis’s picture. The baker’s moving hands formed a pale arc around the loaf. The child’s sleeve seemed to pull the eye toward it. Sofia could almost hear the paper bag crackle.\n\nThe next morning, she printed the photograph. On paper, the blur was even more obvious. She carried it to the market and showed it to Mr. Rami, the baker.\n\n“That’s Anika,” he said, recognizing the child. “She saves coins all week for our Saturday bread.” He did not complain about his doubled hands. Instead, he traced the pale arc without touching the paper. “That is exactly how busy it gets.”\n\nSofia returned to the exhibit wall and moved two of her stillest photographs apart. She placed Luis’s image between them. At first, it looked like a mistake interrupting a careful sentence. Then the neighboring pictures changed. The neat row of bread on one side seemed ready to be lifted; the empty basket on the other looked recently emptied.\n\nAt the exhibit opening, visitors paused longest near the blurred photograph. Luis arrived and read the small label beneath it: “Bread Exchange, photograph by Luis Moreno.”\n\n“You used mine,” he said.\n\nSofia studied the wall. She still loved the clean lines in her eight photographs. But now they had somewhere to go. “It made the others move,” she said.\n\nQuestion:\nIt can reasonably be inferred that Ms. Nwosu asks what the market sounded like because she believes Sofia’s original display:",
+    "choices": {
+      "A": "contains too many photographs of bread.",
+      "B": "should include recorded music from the market.",
+      "C": "was arranged in the wrong order on the wall.",
+      "D": "captures visual control but not enough of the market’s activity and energy."
+    },
+    "correct": "D",
+    "explanation": "Ms. Nwosu praises the control but says the pictures make it seem that everyone held still. Her question points to the missing sense of movement and life."
+  },
+  {
+    "id": "R5-003",
+    "prompt": "Passage:\nThe Blurred Photograph\n\nSofia had taken 312 photographs at the Riverside Market, and she trusted exactly eight of them. Those eight showed straight rows of oranges, shining jars of honey, and vendors standing sharply inside the rectangles of their stalls. She printed them for the school exhibit called “Saturday in Our Neighborhood” and arranged them across her bedroom floor.\n\nHer younger cousin Luis leaned over the doorway. “Where’s mine?”\n\nSofia knew which picture he meant. She had let him use her camera for one minute while she tied her shoe. He had pressed the button as a baker passed a loaf to a small child. The child’s red sleeve swept across the image, the baker’s hands were doubled by motion, and the background tilted. Sofia had saved the photograph only because deleting someone else’s work felt rude.\n\n“It’s blurry,” she said.\n\n“They were moving,” Luis replied, as if that explained everything.\n\nAt school, Ms. Nwosu, the exhibit adviser, helped Sofia hang the eight prints. She stepped back, then walked from one end of the wall to the other. “Beautiful control,” she said. “What did the market sound like?”\n\nSofia waited for a comment about lighting or balance. “Sound like?”\n\n“These pictures make me feel that everyone held still until you left.”\n\nThe remark followed Sofia home. She opened the folder containing the other 304 photographs. Most deserved to stay there: closed eyes, blocked faces, a finger in front of the lens. Then she reached Luis’s picture. The baker’s moving hands formed a pale arc around the loaf. The child’s sleeve seemed to pull the eye toward it. Sofia could almost hear the paper bag crackle.\n\nThe next morning, she printed the photograph. On paper, the blur was even more obvious. She carried it to the market and showed it to Mr. Rami, the baker.\n\n“That’s Anika,” he said, recognizing the child. “She saves coins all week for our Saturday bread.” He did not complain about his doubled hands. Instead, he traced the pale arc without touching the paper. “That is exactly how busy it gets.”\n\nSofia returned to the exhibit wall and moved two of her stillest photographs apart. She placed Luis’s image between them. At first, it looked like a mistake interrupting a careful sentence. Then the neighboring pictures changed. The neat row of bread on one side seemed ready to be lifted; the empty basket on the other looked recently emptied.\n\nAt the exhibit opening, visitors paused longest near the blurred photograph. Luis arrived and read the small label beneath it: “Bread Exchange, photograph by Luis Moreno.”\n\n“You used mine,” he said.\n\nSofia studied the wall. She still loved the clean lines in her eight photographs. But now they had somewhere to go. “It made the others move,” she said.\n\nQuestion:\nIn the sentence “The remark followed Sofia home,” the word “followed” most nearly suggests that the remark:",
+    "choices": {
+      "A": "was repeated aloud by Luis.",
+      "B": "was written on the back of every photograph.",
+      "C": "remained in Sofia’s thoughts after she left school.",
+      "D": "caused Ms. Nwosu to visit Sofia’s house."
+    },
+    "correct": "C",
+    "explanation": "At home, Sofia reconsiders the rejected photographs because Ms. Nwosu’s observation continues to occupy her mind."
+  },
+  {
+    "id": "R5-004",
+    "prompt": "Passage:\nThe Blurred Photograph\n\nSofia had taken 312 photographs at the Riverside Market, and she trusted exactly eight of them. Those eight showed straight rows of oranges, shining jars of honey, and vendors standing sharply inside the rectangles of their stalls. She printed them for the school exhibit called “Saturday in Our Neighborhood” and arranged them across her bedroom floor.\n\nHer younger cousin Luis leaned over the doorway. “Where’s mine?”\n\nSofia knew which picture he meant. She had let him use her camera for one minute while she tied her shoe. He had pressed the button as a baker passed a loaf to a small child. The child’s red sleeve swept across the image, the baker’s hands were doubled by motion, and the background tilted. Sofia had saved the photograph only because deleting someone else’s work felt rude.\n\n“It’s blurry,” she said.\n\n“They were moving,” Luis replied, as if that explained everything.\n\nAt school, Ms. Nwosu, the exhibit adviser, helped Sofia hang the eight prints. She stepped back, then walked from one end of the wall to the other. “Beautiful control,” she said. “What did the market sound like?”\n\nSofia waited for a comment about lighting or balance. “Sound like?”\n\n“These pictures make me feel that everyone held still until you left.”\n\nThe remark followed Sofia home. She opened the folder containing the other 304 photographs. Most deserved to stay there: closed eyes, blocked faces, a finger in front of the lens. Then she reached Luis’s picture. The baker’s moving hands formed a pale arc around the loaf. The child’s sleeve seemed to pull the eye toward it. Sofia could almost hear the paper bag crackle.\n\nThe next morning, she printed the photograph. On paper, the blur was even more obvious. She carried it to the market and showed it to Mr. Rami, the baker.\n\n“That’s Anika,” he said, recognizing the child. “She saves coins all week for our Saturday bread.” He did not complain about his doubled hands. Instead, he traced the pale arc without touching the paper. “That is exactly how busy it gets.”\n\nSofia returned to the exhibit wall and moved two of her stillest photographs apart. She placed Luis’s image between them. At first, it looked like a mistake interrupting a careful sentence. Then the neighboring pictures changed. The neat row of bread on one side seemed ready to be lifted; the empty basket on the other looked recently emptied.\n\nAt the exhibit opening, visitors paused longest near the blurred photograph. Luis arrived and read the small label beneath it: “Bread Exchange, photograph by Luis Moreno.”\n\n“You used mine,” he said.\n\nSofia studied the wall. She still loved the clean lines in her eight photographs. But now they had somewhere to go. “It made the others move,” she said.\n\nQuestion:\nWhat is the main function of Mr. Rami’s response to the blurred photograph?",
+    "choices": {
+      "A": "It provides evidence that the image’s motion blur communicates a real quality of the busy market.",
+      "B": "It proves that Luis planned every visual effect in the image.",
+      "C": "It persuades Sofia to remove all her sharp photographs.",
+      "D": "It explains why the baker no longer sells bread on Saturdays."
+    },
+    "correct": "A",
+    "explanation": "Mr. Rami recognizes the child and says the blurred arc shows exactly how busy the market becomes, helping Sofia see expressive value in the imperfection."
+  },
+  {
+    "id": "R5-005",
+    "prompt": "Passage:\nThe Blurred Photograph\n\nSofia had taken 312 photographs at the Riverside Market, and she trusted exactly eight of them. Those eight showed straight rows of oranges, shining jars of honey, and vendors standing sharply inside the rectangles of their stalls. She printed them for the school exhibit called “Saturday in Our Neighborhood” and arranged them across her bedroom floor.\n\nHer younger cousin Luis leaned over the doorway. “Where’s mine?”\n\nSofia knew which picture he meant. She had let him use her camera for one minute while she tied her shoe. He had pressed the button as a baker passed a loaf to a small child. The child’s red sleeve swept across the image, the baker’s hands were doubled by motion, and the background tilted. Sofia had saved the photograph only because deleting someone else’s work felt rude.\n\n“It’s blurry,” she said.\n\n“They were moving,” Luis replied, as if that explained everything.\n\nAt school, Ms. Nwosu, the exhibit adviser, helped Sofia hang the eight prints. She stepped back, then walked from one end of the wall to the other. “Beautiful control,” she said. “What did the market sound like?”\n\nSofia waited for a comment about lighting or balance. “Sound like?”\n\n“These pictures make me feel that everyone held still until you left.”\n\nThe remark followed Sofia home. She opened the folder containing the other 304 photographs. Most deserved to stay there: closed eyes, blocked faces, a finger in front of the lens. Then she reached Luis’s picture. The baker’s moving hands formed a pale arc around the loaf. The child’s sleeve seemed to pull the eye toward it. Sofia could almost hear the paper bag crackle.\n\nThe next morning, she printed the photograph. On paper, the blur was even more obvious. She carried it to the market and showed it to Mr. Rami, the baker.\n\n“That’s Anika,” he said, recognizing the child. “She saves coins all week for our Saturday bread.” He did not complain about his doubled hands. Instead, he traced the pale arc without touching the paper. “That is exactly how busy it gets.”\n\nSofia returned to the exhibit wall and moved two of her stillest photographs apart. She placed Luis’s image between them. At first, it looked like a mistake interrupting a careful sentence. Then the neighboring pictures changed. The neat row of bread on one side seemed ready to be lifted; the empty basket on the other looked recently emptied.\n\nAt the exhibit opening, visitors paused longest near the blurred photograph. Luis arrived and read the small label beneath it: “Bread Exchange, photograph by Luis Moreno.”\n\n“You used mine,” he said.\n\nSofia studied the wall. She still loved the clean lines in her eight photographs. But now they had somewhere to go. “It made the others move,” she said.\n\nQuestion:\nHow does adding Luis’s photograph affect Sofia’s view of her other pictures?",
+    "choices": {
+      "A": "It makes her decide that the other photographs are too small to display.",
+      "B": "It allows the still images to suggest actions occurring before and after the blurred moment.",
+      "C": "It convinces her that only Luis should receive credit for the exhibit.",
+      "D": "It shows her that every market photograph should be intentionally blurred."
+    },
+    "correct": "B",
+    "explanation": "Beside the blurred exchange, the row of bread seems ready to be lifted and the basket seems recently emptied. The motion image gives the still images a sense of sequence."
+  },
+  {
+    "id": "R5-006",
+    "prompt": "Passage:\nThe Blurred Photograph\n\nSofia had taken 312 photographs at the Riverside Market, and she trusted exactly eight of them. Those eight showed straight rows of oranges, shining jars of honey, and vendors standing sharply inside the rectangles of their stalls. She printed them for the school exhibit called “Saturday in Our Neighborhood” and arranged them across her bedroom floor.\n\nHer younger cousin Luis leaned over the doorway. “Where’s mine?”\n\nSofia knew which picture he meant. She had let him use her camera for one minute while she tied her shoe. He had pressed the button as a baker passed a loaf to a small child. The child’s red sleeve swept across the image, the baker’s hands were doubled by motion, and the background tilted. Sofia had saved the photograph only because deleting someone else’s work felt rude.\n\n“It’s blurry,” she said.\n\n“They were moving,” Luis replied, as if that explained everything.\n\nAt school, Ms. Nwosu, the exhibit adviser, helped Sofia hang the eight prints. She stepped back, then walked from one end of the wall to the other. “Beautiful control,” she said. “What did the market sound like?”\n\nSofia waited for a comment about lighting or balance. “Sound like?”\n\n“These pictures make me feel that everyone held still until you left.”\n\nThe remark followed Sofia home. She opened the folder containing the other 304 photographs. Most deserved to stay there: closed eyes, blocked faces, a finger in front of the lens. Then she reached Luis’s picture. The baker’s moving hands formed a pale arc around the loaf. The child’s sleeve seemed to pull the eye toward it. Sofia could almost hear the paper bag crackle.\n\nThe next morning, she printed the photograph. On paper, the blur was even more obvious. She carried it to the market and showed it to Mr. Rami, the baker.\n\n“That’s Anika,” he said, recognizing the child. “She saves coins all week for our Saturday bread.” He did not complain about his doubled hands. Instead, he traced the pale arc without touching the paper. “That is exactly how busy it gets.”\n\nSofia returned to the exhibit wall and moved two of her stillest photographs apart. She placed Luis’s image between them. At first, it looked like a mistake interrupting a careful sentence. Then the neighboring pictures changed. The neat row of bread on one side seemed ready to be lifted; the empty basket on the other looked recently emptied.\n\nAt the exhibit opening, visitors paused longest near the blurred photograph. Luis arrived and read the small label beneath it: “Bread Exchange, photograph by Luis Moreno.”\n\n“You used mine,” he said.\n\nSofia studied the wall. She still loved the clean lines in her eight photographs. But now they had somewhere to go. “It made the others move,” she said.\n\nQuestion:\nWhich choice best summarizes the passage?",
+    "choices": {
+      "A": "Sofia teaches Luis how to repair a camera after he deletes her market pictures.",
+      "B": "Ms. Nwosu rejects Sofia’s exhibit because it contains no photographs of customers.",
+      "C": "Mr. Rami commissions a new series of perfectly sharp bakery photographs.",
+      "D": "Sofia comes to value a blurred photograph because its sense of movement adds life and meaning to her carefully controlled exhibit."
+    },
+    "correct": "D",
+    "explanation": "Sofia first dismisses Luis’s image as a mistake, but feedback and closer attention reveal that its motion changes how viewers experience the whole display."
+  },
+  {
+    "id": "R5-007",
+    "prompt": "Passage:\nPassage A: A New Score for an Old Screen\n\nWhen I accompany a silent film on piano, I am not trying to hide the film’s age. I am helping a present-day audience enter its rhythm. A chase may need a quick pulse, while a long glance between characters may be stronger with only a few quiet notes. The film guides me, but no single melody is required by every image.\n\nNew music can reveal connections that an older score did not emphasize. A repeated theme might link two characters who rarely share the screen. An unusual instrument might draw attention to the machines in a film about city life. Different musicians can make different choices while still respecting the same work.\n\nImprovisation does not mean arriving unprepared. I watch the film repeatedly, mark important changes, and research the setting. Programs should identify the composer and date of any new score so audiences do not mistake it for original music. A thoughtful modern accompaniment is not a replacement for history. It is one more documented conversation with the film.\n\nPassage B: Listen for the Evidence\n\nMany silent films were never truly silent. Theaters employed pianists or small ensembles, and distributors sometimes supplied cue sheets suggesting particular kinds of music for individual scenes. Surviving scores, cue sheets, and theater records can reveal how early audiences may have experienced a film.\n\nBefore creating new accompaniment, musicians should examine that evidence. A historical cue may explain why a scene changes mood suddenly or why an apparently minor character receives a musical theme. Following an old score can also restore contrasts that a modern viewer might otherwise overlook.\n\nHistorical evidence is often incomplete. A cue sheet may be missing pages, and two theaters may have played different music for the same film. In such cases, modern choices are unavoidable. Those choices should be made visible rather than presented as recovered fact. Performances might use surviving music where possible and newly composed passages where necessary. The goal is not to freeze every screening into one form, but to let evidence participate in the performance.\n\nQuestion:\nWhich choice best states the central idea of Passage A?",
+    "choices": {
+      "A": "Silent films should be shown without any musical accompaniment.",
+      "B": "Every silent film has one required melody that all musicians must use.",
+      "C": "A prepared and clearly identified modern score can offer a respectful new interpretation of an older film.",
+      "D": "Musicians should improvise without watching or researching the film first."
+    },
+    "correct": "C",
+    "explanation": "Passage A supports new musical choices guided by repeated viewing and research, provided programs identify the score as a modern interpretation."
+  },
+  {
+    "id": "R5-008",
+    "prompt": "Passage:\nPassage A: A New Score for an Old Screen\n\nWhen I accompany a silent film on piano, I am not trying to hide the film’s age. I am helping a present-day audience enter its rhythm. A chase may need a quick pulse, while a long glance between characters may be stronger with only a few quiet notes. The film guides me, but no single melody is required by every image.\n\nNew music can reveal connections that an older score did not emphasize. A repeated theme might link two characters who rarely share the screen. An unusual instrument might draw attention to the machines in a film about city life. Different musicians can make different choices while still respecting the same work.\n\nImprovisation does not mean arriving unprepared. I watch the film repeatedly, mark important changes, and research the setting. Programs should identify the composer and date of any new score so audiences do not mistake it for original music. A thoughtful modern accompaniment is not a replacement for history. It is one more documented conversation with the film.\n\nPassage B: Listen for the Evidence\n\nMany silent films were never truly silent. Theaters employed pianists or small ensembles, and distributors sometimes supplied cue sheets suggesting particular kinds of music for individual scenes. Surviving scores, cue sheets, and theater records can reveal how early audiences may have experienced a film.\n\nBefore creating new accompaniment, musicians should examine that evidence. A historical cue may explain why a scene changes mood suddenly or why an apparently minor character receives a musical theme. Following an old score can also restore contrasts that a modern viewer might otherwise overlook.\n\nHistorical evidence is often incomplete. A cue sheet may be missing pages, and two theaters may have played different music for the same film. In such cases, modern choices are unavoidable. Those choices should be made visible rather than presented as recovered fact. Performances might use surviving music where possible and newly composed passages where necessary. The goal is not to freeze every screening into one form, but to let evidence participate in the performance.\n\nQuestion:\nWhy does Passage A mention a chase and a long glance between characters?",
+    "choices": {
+      "A": "To illustrate how musicians can shape accompaniment in response to different moments on screen.",
+      "B": "To argue that silent films contain only two kinds of scenes.",
+      "C": "To prove that quick music is historically accurate for every chase.",
+      "D": "To explain why modern audiences cannot understand visual action."
+    },
+    "correct": "A",
+    "explanation": "The contrasting examples show how tempo and the number of notes may respond differently to the rhythm and feeling of individual scenes."
+  },
+  {
+    "id": "R5-009",
+    "prompt": "Passage:\nPassage A: A New Score for an Old Screen\n\nWhen I accompany a silent film on piano, I am not trying to hide the film’s age. I am helping a present-day audience enter its rhythm. A chase may need a quick pulse, while a long glance between characters may be stronger with only a few quiet notes. The film guides me, but no single melody is required by every image.\n\nNew music can reveal connections that an older score did not emphasize. A repeated theme might link two characters who rarely share the screen. An unusual instrument might draw attention to the machines in a film about city life. Different musicians can make different choices while still respecting the same work.\n\nImprovisation does not mean arriving unprepared. I watch the film repeatedly, mark important changes, and research the setting. Programs should identify the composer and date of any new score so audiences do not mistake it for original music. A thoughtful modern accompaniment is not a replacement for history. It is one more documented conversation with the film.\n\nPassage B: Listen for the Evidence\n\nMany silent films were never truly silent. Theaters employed pianists or small ensembles, and distributors sometimes supplied cue sheets suggesting particular kinds of music for individual scenes. Surviving scores, cue sheets, and theater records can reveal how early audiences may have experienced a film.\n\nBefore creating new accompaniment, musicians should examine that evidence. A historical cue may explain why a scene changes mood suddenly or why an apparently minor character receives a musical theme. Following an old score can also restore contrasts that a modern viewer might otherwise overlook.\n\nHistorical evidence is often incomplete. A cue sheet may be missing pages, and two theaters may have played different music for the same film. In such cases, modern choices are unavoidable. Those choices should be made visible rather than presented as recovered fact. Performances might use surviving music where possible and newly composed passages where necessary. The goal is not to freeze every screening into one form, but to let evidence participate in the performance.\n\nQuestion:\nAccording to Passage B, what can surviving cue sheets and theater records reveal?",
+    "choices": {
+      "A": "The exact music played at every screening of a film.",
+      "B": "Evidence about how some early audiences may have experienced a film.",
+      "C": "Why all silent films were originally shown without sound.",
+      "D": "Which modern instrument must accompany each character."
+    },
+    "correct": "B",
+    "explanation": "Passage B states that scores, cue sheets, and theater records can show how early audiences may have experienced a film, while also noting that practices varied."
+  },
+  {
+    "id": "R5-010",
+    "prompt": "Passage:\nPassage A: A New Score for an Old Screen\n\nWhen I accompany a silent film on piano, I am not trying to hide the film’s age. I am helping a present-day audience enter its rhythm. A chase may need a quick pulse, while a long glance between characters may be stronger with only a few quiet notes. The film guides me, but no single melody is required by every image.\n\nNew music can reveal connections that an older score did not emphasize. A repeated theme might link two characters who rarely share the screen. An unusual instrument might draw attention to the machines in a film about city life. Different musicians can make different choices while still respecting the same work.\n\nImprovisation does not mean arriving unprepared. I watch the film repeatedly, mark important changes, and research the setting. Programs should identify the composer and date of any new score so audiences do not mistake it for original music. A thoughtful modern accompaniment is not a replacement for history. It is one more documented conversation with the film.\n\nPassage B: Listen for the Evidence\n\nMany silent films were never truly silent. Theaters employed pianists or small ensembles, and distributors sometimes supplied cue sheets suggesting particular kinds of music for individual scenes. Surviving scores, cue sheets, and theater records can reveal how early audiences may have experienced a film.\n\nBefore creating new accompaniment, musicians should examine that evidence. A historical cue may explain why a scene changes mood suddenly or why an apparently minor character receives a musical theme. Following an old score can also restore contrasts that a modern viewer might otherwise overlook.\n\nHistorical evidence is often incomplete. A cue sheet may be missing pages, and two theaters may have played different music for the same film. In such cases, modern choices are unavoidable. Those choices should be made visible rather than presented as recovered fact. Performances might use surviving music where possible and newly composed passages where necessary. The goal is not to freeze every screening into one form, but to let evidence participate in the performance.\n\nQuestion:\nAs used in Passage B, “freeze” most nearly means:",
+    "choices": {
+      "A": "lower the theater’s temperature.",
+      "B": "pause a film on one image.",
+      "C": "preserve damaged film in cold storage.",
+      "D": "fix permanently into a single unchanging form."
+    },
+    "correct": "D",
+    "explanation": "Passage B says the goal is not to make every screening use one form, so “freeze” means fix the experience permanently and prevent variation."
+  },
+  {
+    "id": "R5-011",
+    "prompt": "Passage:\nPassage A: A New Score for an Old Screen\n\nWhen I accompany a silent film on piano, I am not trying to hide the film’s age. I am helping a present-day audience enter its rhythm. A chase may need a quick pulse, while a long glance between characters may be stronger with only a few quiet notes. The film guides me, but no single melody is required by every image.\n\nNew music can reveal connections that an older score did not emphasize. A repeated theme might link two characters who rarely share the screen. An unusual instrument might draw attention to the machines in a film about city life. Different musicians can make different choices while still respecting the same work.\n\nImprovisation does not mean arriving unprepared. I watch the film repeatedly, mark important changes, and research the setting. Programs should identify the composer and date of any new score so audiences do not mistake it for original music. A thoughtful modern accompaniment is not a replacement for history. It is one more documented conversation with the film.\n\nPassage B: Listen for the Evidence\n\nMany silent films were never truly silent. Theaters employed pianists or small ensembles, and distributors sometimes supplied cue sheets suggesting particular kinds of music for individual scenes. Surviving scores, cue sheets, and theater records can reveal how early audiences may have experienced a film.\n\nBefore creating new accompaniment, musicians should examine that evidence. A historical cue may explain why a scene changes mood suddenly or why an apparently minor character receives a musical theme. Following an old score can also restore contrasts that a modern viewer might otherwise overlook.\n\nHistorical evidence is often incomplete. A cue sheet may be missing pages, and two theaters may have played different music for the same film. In such cases, modern choices are unavoidable. Those choices should be made visible rather than presented as recovered fact. Performances might use surviving music where possible and newly composed passages where necessary. The goal is not to freeze every screening into one form, but to let evidence participate in the performance.\n\nQuestion:\nThe passages differ mainly in that Passage A emphasizes:",
+    "choices": {
+      "A": "the expressive possibilities of a new score, while Passage B emphasizes consulting historical musical evidence.",
+      "B": "the cost of musical instruments, while Passage B focuses on ticket prices.",
+      "C": "the need to remove music from films, while Passage B supports adding dialogue.",
+      "D": "the biography of one composer, while Passage B compares several directors."
+    },
+    "correct": "A",
+    "explanation": "Passage A focuses on modern accompaniment as interpretation. Passage B focuses on what cue sheets, scores, and records can contribute to a performance."
+  },
+  {
+    "id": "R5-012",
+    "prompt": "Passage:\nPassage A: A New Score for an Old Screen\n\nWhen I accompany a silent film on piano, I am not trying to hide the film’s age. I am helping a present-day audience enter its rhythm. A chase may need a quick pulse, while a long glance between characters may be stronger with only a few quiet notes. The film guides me, but no single melody is required by every image.\n\nNew music can reveal connections that an older score did not emphasize. A repeated theme might link two characters who rarely share the screen. An unusual instrument might draw attention to the machines in a film about city life. Different musicians can make different choices while still respecting the same work.\n\nImprovisation does not mean arriving unprepared. I watch the film repeatedly, mark important changes, and research the setting. Programs should identify the composer and date of any new score so audiences do not mistake it for original music. A thoughtful modern accompaniment is not a replacement for history. It is one more documented conversation with the film.\n\nPassage B: Listen for the Evidence\n\nMany silent films were never truly silent. Theaters employed pianists or small ensembles, and distributors sometimes supplied cue sheets suggesting particular kinds of music for individual scenes. Surviving scores, cue sheets, and theater records can reveal how early audiences may have experienced a film.\n\nBefore creating new accompaniment, musicians should examine that evidence. A historical cue may explain why a scene changes mood suddenly or why an apparently minor character receives a musical theme. Following an old score can also restore contrasts that a modern viewer might otherwise overlook.\n\nHistorical evidence is often incomplete. A cue sheet may be missing pages, and two theaters may have played different music for the same film. In such cases, modern choices are unavoidable. Those choices should be made visible rather than presented as recovered fact. Performances might use surviving music where possible and newly composed passages where necessary. The goal is not to freeze every screening into one form, but to let evidence participate in the performance.\n\nQuestion:\nWhich statement would both authors most likely support?",
+    "choices": {
+      "A": "A newly written score should be presented as if it were original to the film.",
+      "B": "Incomplete historical evidence makes all responsible accompaniment impossible.",
+      "C": "Musical choices should be informed and clearly identified rather than confused with recovered historical fact.",
+      "D": "Every theater must use identical music for the same film."
+    },
+    "correct": "C",
+    "explanation": "Passage A calls for research and labels identifying new scores. Passage B accepts modern choices when evidence is incomplete but insists that those choices be made visible."
+  },
+  {
+    "id": "R5-013",
+    "prompt": "Passage:\nFinding the Way Back\n\nDigital directions often tell travelers exactly when to turn. Such instructions can make a first trip efficient, but cognitive researcher Imani Wells wondered whether they help people remember a route afterward. Her team compared turn-by-turn directions with prompts that called attention to landmarks.\n\nEighty students who had never visited a large botanical garden participated. Each student followed the same winding path from the entrance to a greenhouse. Half received arrow instructions on a handheld device, such as “Turn left in 40 meters.” The other half received landmark prompts, such as “At the stone fountain, turn toward the bamboo gate.” Both devices displayed one instruction at a time and gave no overhead map.\n\nOn the first trip, researchers measured travel time and wrong turns. After a twenty-minute activity inside the greenhouse, the devices were collected. Students were then asked to walk the route in reverse without assistance. At the end, they sketched the route and marked any features they remembered.\n\nDuring the guided trip, the arrow group arrived about two minutes sooner on average and made slightly fewer wrong turns. On the return trip, however, the landmark group made 35 percent fewer wrong turns than the arrow group. Their sketches also placed more turns in the correct relation to one another and included more accurate features from the garden.\n\nInterviews suggested a possible explanation. Several arrow-group students said they watched the distance counter and waited for the next command. Landmark-group students described searching ahead for fountains, gates, and unusual trees. One student said, “I had to match the words to a real place, so the turn had a reason to stick.”\n\nThe study does not prove that landmark prompts are always superior. The participants walked one route in good weather, and they knew they were part of a study. A busy street, a nighttime trip, or a traveler carrying heavy bags might produce different results. Also, the arrow group’s faster first trip could matter when speed is the main goal.\n\nWells argues that route instructions serve at least two purposes: guiding a person now and helping that person learn the surroundings. The best design may depend on which purpose matters more. A system could even combine methods, supplying precise distance information while naming stable features worth noticing.\n\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Turn-by-turn arrows are slower and less accurate during every kind of trip.",
+      "B": "Landmark prompts may require more attention during an initial trip but can support stronger memory of a route afterward.",
+      "C": "Botanical gardens are too complicated to navigate without an overhead map.",
+      "D": "Students remember routes only when they travel in bad weather."
+    },
+    "correct": "B",
+    "explanation": "The arrow group was faster at first, but the landmark group made fewer return errors and produced more accurate route sketches and features."
+  },
+  {
+    "id": "R5-014",
+    "prompt": "Passage:\nFinding the Way Back\n\nDigital directions often tell travelers exactly when to turn. Such instructions can make a first trip efficient, but cognitive researcher Imani Wells wondered whether they help people remember a route afterward. Her team compared turn-by-turn directions with prompts that called attention to landmarks.\n\nEighty students who had never visited a large botanical garden participated. Each student followed the same winding path from the entrance to a greenhouse. Half received arrow instructions on a handheld device, such as “Turn left in 40 meters.” The other half received landmark prompts, such as “At the stone fountain, turn toward the bamboo gate.” Both devices displayed one instruction at a time and gave no overhead map.\n\nOn the first trip, researchers measured travel time and wrong turns. After a twenty-minute activity inside the greenhouse, the devices were collected. Students were then asked to walk the route in reverse without assistance. At the end, they sketched the route and marked any features they remembered.\n\nDuring the guided trip, the arrow group arrived about two minutes sooner on average and made slightly fewer wrong turns. On the return trip, however, the landmark group made 35 percent fewer wrong turns than the arrow group. Their sketches also placed more turns in the correct relation to one another and included more accurate features from the garden.\n\nInterviews suggested a possible explanation. Several arrow-group students said they watched the distance counter and waited for the next command. Landmark-group students described searching ahead for fountains, gates, and unusual trees. One student said, “I had to match the words to a real place, so the turn had a reason to stick.”\n\nThe study does not prove that landmark prompts are always superior. The participants walked one route in good weather, and they knew they were part of a study. A busy street, a nighttime trip, or a traveler carrying heavy bags might produce different results. Also, the arrow group’s faster first trip could matter when speed is the main goal.\n\nWells argues that route instructions serve at least two purposes: guiding a person now and helping that person learn the surroundings. The best design may depend on which purpose matters more. A system could even combine methods, supplying precise distance information while naming stable features worth noticing.\n\nQuestion:\nWhich result did the researchers observe?",
+    "choices": {
+      "A": "The landmark group reached the greenhouse two minutes faster during the guided trip.",
+      "B": "Both groups made exactly the same number of return-trip errors.",
+      "C": "The arrow group drew more accurate sketches with more garden features.",
+      "D": "The landmark group made 35 percent fewer wrong turns on the unassisted return trip."
+    },
+    "correct": "D",
+    "explanation": "The passage directly reports that the landmark group made 35 percent fewer wrong turns than the arrow group when returning without devices."
+  },
+  {
+    "id": "R5-015",
+    "prompt": "Passage:\nFinding the Way Back\n\nDigital directions often tell travelers exactly when to turn. Such instructions can make a first trip efficient, but cognitive researcher Imani Wells wondered whether they help people remember a route afterward. Her team compared turn-by-turn directions with prompts that called attention to landmarks.\n\nEighty students who had never visited a large botanical garden participated. Each student followed the same winding path from the entrance to a greenhouse. Half received arrow instructions on a handheld device, such as “Turn left in 40 meters.” The other half received landmark prompts, such as “At the stone fountain, turn toward the bamboo gate.” Both devices displayed one instruction at a time and gave no overhead map.\n\nOn the first trip, researchers measured travel time and wrong turns. After a twenty-minute activity inside the greenhouse, the devices were collected. Students were then asked to walk the route in reverse without assistance. At the end, they sketched the route and marked any features they remembered.\n\nDuring the guided trip, the arrow group arrived about two minutes sooner on average and made slightly fewer wrong turns. On the return trip, however, the landmark group made 35 percent fewer wrong turns than the arrow group. Their sketches also placed more turns in the correct relation to one another and included more accurate features from the garden.\n\nInterviews suggested a possible explanation. Several arrow-group students said they watched the distance counter and waited for the next command. Landmark-group students described searching ahead for fountains, gates, and unusual trees. One student said, “I had to match the words to a real place, so the turn had a reason to stick.”\n\nThe study does not prove that landmark prompts are always superior. The participants walked one route in good weather, and they knew they were part of a study. A busy street, a nighttime trip, or a traveler carrying heavy bags might produce different results. Also, the arrow group’s faster first trip could matter when speed is the main goal.\n\nWells argues that route instructions serve at least two purposes: guiding a person now and helping that person learn the surroundings. The best design may depend on which purpose matters more. A system could even combine methods, supplying precise distance information while naming stable features worth noticing.\n\nQuestion:\nWhat is the main purpose of including the student’s statement that the turn had “a reason to stick”?",
+    "choices": {
+      "A": "To prove that landmark users ignored every instruction on their devices.",
+      "B": "To show that the student believed the garden path was physically sticky.",
+      "C": "To illustrate how connecting an instruction to a visible place may support memory.",
+      "D": "To explain why the greenhouse activity lasted twenty minutes."
+    },
+    "correct": "C",
+    "explanation": "The student describes matching words to a real feature, offering a possible explanation for why landmark users remembered the route better."
+  },
+  {
+    "id": "R5-016",
+    "prompt": "Passage:\nFinding the Way Back\n\nDigital directions often tell travelers exactly when to turn. Such instructions can make a first trip efficient, but cognitive researcher Imani Wells wondered whether they help people remember a route afterward. Her team compared turn-by-turn directions with prompts that called attention to landmarks.\n\nEighty students who had never visited a large botanical garden participated. Each student followed the same winding path from the entrance to a greenhouse. Half received arrow instructions on a handheld device, such as “Turn left in 40 meters.” The other half received landmark prompts, such as “At the stone fountain, turn toward the bamboo gate.” Both devices displayed one instruction at a time and gave no overhead map.\n\nOn the first trip, researchers measured travel time and wrong turns. After a twenty-minute activity inside the greenhouse, the devices were collected. Students were then asked to walk the route in reverse without assistance. At the end, they sketched the route and marked any features they remembered.\n\nDuring the guided trip, the arrow group arrived about two minutes sooner on average and made slightly fewer wrong turns. On the return trip, however, the landmark group made 35 percent fewer wrong turns than the arrow group. Their sketches also placed more turns in the correct relation to one another and included more accurate features from the garden.\n\nInterviews suggested a possible explanation. Several arrow-group students said they watched the distance counter and waited for the next command. Landmark-group students described searching ahead for fountains, gates, and unusual trees. One student said, “I had to match the words to a real place, so the turn had a reason to stick.”\n\nThe study does not prove that landmark prompts are always superior. The participants walked one route in good weather, and they knew they were part of a study. A busy street, a nighttime trip, or a traveler carrying heavy bags might produce different results. Also, the arrow group’s faster first trip could matter when speed is the main goal.\n\nWells argues that route instructions serve at least two purposes: guiding a person now and helping that person learn the surroundings. The best design may depend on which purpose matters more. A system could even combine methods, supplying precise distance information while naming stable features worth noticing.\n\nQuestion:\nWhy were both groups sent along the same route to the same greenhouse?",
+    "choices": {
+      "A": "To reduce route difficulty and destination as alternative explanations for differences between the groups.",
+      "B": "To ensure that every participant arrived at exactly the same second.",
+      "C": "To prevent the students from seeing any garden landmarks.",
+      "D": "To allow students to keep their devices during the return trip."
+    },
+    "correct": "A",
+    "explanation": "Using the same path and destination keeps the physical journey consistent, making the instruction type the main planned difference."
+  },
+  {
+    "id": "R5-017",
+    "prompt": "Passage:\nFinding the Way Back\n\nDigital directions often tell travelers exactly when to turn. Such instructions can make a first trip efficient, but cognitive researcher Imani Wells wondered whether they help people remember a route afterward. Her team compared turn-by-turn directions with prompts that called attention to landmarks.\n\nEighty students who had never visited a large botanical garden participated. Each student followed the same winding path from the entrance to a greenhouse. Half received arrow instructions on a handheld device, such as “Turn left in 40 meters.” The other half received landmark prompts, such as “At the stone fountain, turn toward the bamboo gate.” Both devices displayed one instruction at a time and gave no overhead map.\n\nOn the first trip, researchers measured travel time and wrong turns. After a twenty-minute activity inside the greenhouse, the devices were collected. Students were then asked to walk the route in reverse without assistance. At the end, they sketched the route and marked any features they remembered.\n\nDuring the guided trip, the arrow group arrived about two minutes sooner on average and made slightly fewer wrong turns. On the return trip, however, the landmark group made 35 percent fewer wrong turns than the arrow group. Their sketches also placed more turns in the correct relation to one another and included more accurate features from the garden.\n\nInterviews suggested a possible explanation. Several arrow-group students said they watched the distance counter and waited for the next command. Landmark-group students described searching ahead for fountains, gates, and unusual trees. One student said, “I had to match the words to a real place, so the turn had a reason to stick.”\n\nThe study does not prove that landmark prompts are always superior. The participants walked one route in good weather, and they knew they were part of a study. A busy street, a nighttime trip, or a traveler carrying heavy bags might produce different results. Also, the arrow group’s faster first trip could matter when speed is the main goal.\n\nWells argues that route instructions serve at least two purposes: guiding a person now and helping that person learn the surroundings. The best design may depend on which purpose matters more. A system could even combine methods, supplying precise distance information while naming stable features worth noticing.\n\nQuestion:\nWhich combination of findings most strongly supports the claim that landmark prompts improved knowledge of the surroundings rather than only return performance?",
+    "choices": {
+      "A": "Participants were students, and the weather was good.",
+      "B": "Landmark users made fewer return errors and included more correctly placed turns and accurate features in their sketches.",
+      "C": "Arrow users arrived sooner at first, and the greenhouse activity lasted twenty minutes.",
+      "D": "Both devices showed one instruction at a time and provided no overhead map."
+    },
+    "correct": "B",
+    "explanation": "The unassisted return measured navigation, while the more accurate sketches and remembered features separately showed stronger representation of the route and surroundings."
+  },
+  {
+    "id": "R5-018",
+    "prompt": "Passage:\nFinding the Way Back\n\nDigital directions often tell travelers exactly when to turn. Such instructions can make a first trip efficient, but cognitive researcher Imani Wells wondered whether they help people remember a route afterward. Her team compared turn-by-turn directions with prompts that called attention to landmarks.\n\nEighty students who had never visited a large botanical garden participated. Each student followed the same winding path from the entrance to a greenhouse. Half received arrow instructions on a handheld device, such as “Turn left in 40 meters.” The other half received landmark prompts, such as “At the stone fountain, turn toward the bamboo gate.” Both devices displayed one instruction at a time and gave no overhead map.\n\nOn the first trip, researchers measured travel time and wrong turns. After a twenty-minute activity inside the greenhouse, the devices were collected. Students were then asked to walk the route in reverse without assistance. At the end, they sketched the route and marked any features they remembered.\n\nDuring the guided trip, the arrow group arrived about two minutes sooner on average and made slightly fewer wrong turns. On the return trip, however, the landmark group made 35 percent fewer wrong turns than the arrow group. Their sketches also placed more turns in the correct relation to one another and included more accurate features from the garden.\n\nInterviews suggested a possible explanation. Several arrow-group students said they watched the distance counter and waited for the next command. Landmark-group students described searching ahead for fountains, gates, and unusual trees. One student said, “I had to match the words to a real place, so the turn had a reason to stick.”\n\nThe study does not prove that landmark prompts are always superior. The participants walked one route in good weather, and they knew they were part of a study. A busy street, a nighttime trip, or a traveler carrying heavy bags might produce different results. Also, the arrow group’s faster first trip could matter when speed is the main goal.\n\nWells argues that route instructions serve at least two purposes: guiding a person now and helping that person learn the surroundings. The best design may depend on which purpose matters more. A system could even combine methods, supplying precise distance information while naming stable features worth noticing.\n\nQuestion:\nWhich choice best describes the passage’s overall structure?",
+    "choices": {
+      "A": "It lists garden landmarks before presenting instructions for building a handheld device.",
+      "B": "It argues that speed never matters and then removes the arrow group’s results.",
+      "C": "It compares several botanical gardens in order to rank their path designs.",
+      "D": "It introduces a research question, describes two guidance conditions, reports immediate and later outcomes, and discusses limits and uses."
+    },
+    "correct": "D",
+    "explanation": "The passage moves from Wells’s question through the guided and unassisted trips, presents findings and interviews, and ends with cautions and design implications."
+  },
+  {
+    "id": "R5-019",
+    "prompt": "Passage:\nA Spinning Seed’s Balance\n\nSome trees release seeds attached to a thin wing. As the seed falls, the wing may rotate, slowing the descent and giving wind more time to carry the seed away from the parent tree. Engineer Pavel Arun wondered how the location of weight along the wing affects this spinning motion.\n\nArun’s team built ninety artificial seeds from identical paper wings and tiny metal beads. In one group, the bead sat near the thick base where a natural seed body would be. In a second group, the bead sat halfway along the wing. In a third, it sat near the wing tip. Every model had the same total mass, wing area, and overall length.\n\nThe researchers released each model from the top of a six-meter indoor chamber. Still air prevented unpredictable gusts. High-speed cameras recorded when the model began to rotate, how steadily it spun, and how many seconds it took to reach a padded floor.\n\nBase-weighted models began rotating after the shortest drop and followed the steadiest paths. They also had the longest average descent time. Middle-weighted models usually rotated, but many rocked from side to side before settling into a regular spin. Tip-weighted models often tumbled or slid sideways, reaching the floor sooner.\n\nTo understand the pattern, the team measured each model’s center of mass—the point around which its weight was balanced. With weight near the base, the heavy end tended to lead downward while the broad paper wing met the air above it. This arrangement made a stable rotation easier to establish. Moving weight toward the tip shifted the balance and made the model more likely to wobble.\n\nThe team then tested natural seeds from three tree species. All carried most of their mass close to one end of the wing, and many showed the same early, steady rotation as the base-weighted models. The natural seeds differed in shape and stiffness, however, so their descent times could not be compared directly with those of the paper models.\n\nAn indoor drop chamber simplifies the conditions a seed meets outdoors. Wind can lift, push, or interrupt a spinning seed, and rain can change a wing’s mass and flexibility. The artificial models also lacked veins and curved surfaces. Even so, holding most features constant allowed the experiment to isolate one important factor: where a winged seed carries its weight.\n\nQuestion:\nWhich choice best states the central idea of the passage?",
+    "choices": {
+      "A": "Wing area is the only feature that determines how a seed falls.",
+      "B": "Tip-weighted seeds remain in the air longer because they tumble.",
+      "C": "Keeping weight near the base of a wing can help a falling seed establish stable rotation and descend more slowly.",
+      "D": "Natural seeds carry equal amounts of weight at every point along their wings."
+    },
+    "correct": "C",
+    "explanation": "Base-weighted models started rotating sooner, followed steadier paths, and had longer descent times; natural seeds also concentrated mass near one end."
+  },
+  {
+    "id": "R5-020",
+    "prompt": "Passage:\nA Spinning Seed’s Balance\n\nSome trees release seeds attached to a thin wing. As the seed falls, the wing may rotate, slowing the descent and giving wind more time to carry the seed away from the parent tree. Engineer Pavel Arun wondered how the location of weight along the wing affects this spinning motion.\n\nArun’s team built ninety artificial seeds from identical paper wings and tiny metal beads. In one group, the bead sat near the thick base where a natural seed body would be. In a second group, the bead sat halfway along the wing. In a third, it sat near the wing tip. Every model had the same total mass, wing area, and overall length.\n\nThe researchers released each model from the top of a six-meter indoor chamber. Still air prevented unpredictable gusts. High-speed cameras recorded when the model began to rotate, how steadily it spun, and how many seconds it took to reach a padded floor.\n\nBase-weighted models began rotating after the shortest drop and followed the steadiest paths. They also had the longest average descent time. Middle-weighted models usually rotated, but many rocked from side to side before settling into a regular spin. Tip-weighted models often tumbled or slid sideways, reaching the floor sooner.\n\nTo understand the pattern, the team measured each model’s center of mass—the point around which its weight was balanced. With weight near the base, the heavy end tended to lead downward while the broad paper wing met the air above it. This arrangement made a stable rotation easier to establish. Moving weight toward the tip shifted the balance and made the model more likely to wobble.\n\nThe team then tested natural seeds from three tree species. All carried most of their mass close to one end of the wing, and many showed the same early, steady rotation as the base-weighted models. The natural seeds differed in shape and stiffness, however, so their descent times could not be compared directly with those of the paper models.\n\nAn indoor drop chamber simplifies the conditions a seed meets outdoors. Wind can lift, push, or interrupt a spinning seed, and rain can change a wing’s mass and flexibility. The artificial models also lacked veins and curved surfaces. Even so, holding most features constant allowed the experiment to isolate one important factor: where a winged seed carries its weight.\n\nQuestion:\nWhy did every artificial seed have the same total mass, wing area, and length?",
+    "choices": {
+      "A": "To make weight location the main planned difference among the model groups.",
+      "B": "To ensure that all models would land at exactly the same time.",
+      "C": "To reproduce every vein and curve found in natural seeds.",
+      "D": "To prevent the models from rotating inside the chamber."
+    },
+    "correct": "A",
+    "explanation": "Holding those features constant allowed the experiment to isolate the effect of placing the bead near the base, middle, or tip."
+  },
+  {
+    "id": "R5-021",
+    "prompt": "Passage:\nA Spinning Seed’s Balance\n\nSome trees release seeds attached to a thin wing. As the seed falls, the wing may rotate, slowing the descent and giving wind more time to carry the seed away from the parent tree. Engineer Pavel Arun wondered how the location of weight along the wing affects this spinning motion.\n\nArun’s team built ninety artificial seeds from identical paper wings and tiny metal beads. In one group, the bead sat near the thick base where a natural seed body would be. In a second group, the bead sat halfway along the wing. In a third, it sat near the wing tip. Every model had the same total mass, wing area, and overall length.\n\nThe researchers released each model from the top of a six-meter indoor chamber. Still air prevented unpredictable gusts. High-speed cameras recorded when the model began to rotate, how steadily it spun, and how many seconds it took to reach a padded floor.\n\nBase-weighted models began rotating after the shortest drop and followed the steadiest paths. They also had the longest average descent time. Middle-weighted models usually rotated, but many rocked from side to side before settling into a regular spin. Tip-weighted models often tumbled or slid sideways, reaching the floor sooner.\n\nTo understand the pattern, the team measured each model’s center of mass—the point around which its weight was balanced. With weight near the base, the heavy end tended to lead downward while the broad paper wing met the air above it. This arrangement made a stable rotation easier to establish. Moving weight toward the tip shifted the balance and made the model more likely to wobble.\n\nThe team then tested natural seeds from three tree species. All carried most of their mass close to one end of the wing, and many showed the same early, steady rotation as the base-weighted models. The natural seeds differed in shape and stiffness, however, so their descent times could not be compared directly with those of the paper models.\n\nAn indoor drop chamber simplifies the conditions a seed meets outdoors. Wind can lift, push, or interrupt a spinning seed, and rain can change a wing’s mass and flexibility. The artificial models also lacked veins and curved surfaces. Even so, holding most features constant allowed the experiment to isolate one important factor: where a winged seed carries its weight.\n\nQuestion:\nAs used in the passage, “isolate” most nearly means:",
+    "choices": {
+      "A": "store separately after the experiment.",
+      "B": "examine the effect of apart from other changing factors.",
+      "C": "prevent from being recorded by cameras.",
+      "D": "move outside the indoor chamber."
+    },
+    "correct": "B",
+    "explanation": "Because other model features were held constant, the team could examine weight location apart from differences in mass, size, veins, or curves."
+  },
+  {
+    "id": "R5-022",
+    "prompt": "Passage:\nA Spinning Seed’s Balance\n\nSome trees release seeds attached to a thin wing. As the seed falls, the wing may rotate, slowing the descent and giving wind more time to carry the seed away from the parent tree. Engineer Pavel Arun wondered how the location of weight along the wing affects this spinning motion.\n\nArun’s team built ninety artificial seeds from identical paper wings and tiny metal beads. In one group, the bead sat near the thick base where a natural seed body would be. In a second group, the bead sat halfway along the wing. In a third, it sat near the wing tip. Every model had the same total mass, wing area, and overall length.\n\nThe researchers released each model from the top of a six-meter indoor chamber. Still air prevented unpredictable gusts. High-speed cameras recorded when the model began to rotate, how steadily it spun, and how many seconds it took to reach a padded floor.\n\nBase-weighted models began rotating after the shortest drop and followed the steadiest paths. They also had the longest average descent time. Middle-weighted models usually rotated, but many rocked from side to side before settling into a regular spin. Tip-weighted models often tumbled or slid sideways, reaching the floor sooner.\n\nTo understand the pattern, the team measured each model’s center of mass—the point around which its weight was balanced. With weight near the base, the heavy end tended to lead downward while the broad paper wing met the air above it. This arrangement made a stable rotation easier to establish. Moving weight toward the tip shifted the balance and made the model more likely to wobble.\n\nThe team then tested natural seeds from three tree species. All carried most of their mass close to one end of the wing, and many showed the same early, steady rotation as the base-weighted models. The natural seeds differed in shape and stiffness, however, so their descent times could not be compared directly with those of the paper models.\n\nAn indoor drop chamber simplifies the conditions a seed meets outdoors. Wind can lift, push, or interrupt a spinning seed, and rain can change a wing’s mass and flexibility. The artificial models also lacked veins and curved surfaces. Even so, holding most features constant allowed the experiment to isolate one important factor: where a winged seed carries its weight.\n\nQuestion:\nWhich step occurred before the researchers tested natural seeds from three tree species?",
+    "choices": {
+      "A": "They exposed all models to unpredictable outdoor gusts.",
+      "B": "They soaked the paper wings in rainwater.",
+      "C": "They concluded that natural and paper seeds had identical descent times.",
+      "D": "They released artificial seeds in still air and recorded their rotation and descent."
+    },
+    "correct": "D",
+    "explanation": "The artificial-model drops and analysis of balance are described before the passage says the team then tested natural seeds."
+  },
+  {
+    "id": "R5-023",
+    "prompt": "Passage:\nA Spinning Seed’s Balance\n\nSome trees release seeds attached to a thin wing. As the seed falls, the wing may rotate, slowing the descent and giving wind more time to carry the seed away from the parent tree. Engineer Pavel Arun wondered how the location of weight along the wing affects this spinning motion.\n\nArun’s team built ninety artificial seeds from identical paper wings and tiny metal beads. In one group, the bead sat near the thick base where a natural seed body would be. In a second group, the bead sat halfway along the wing. In a third, it sat near the wing tip. Every model had the same total mass, wing area, and overall length.\n\nThe researchers released each model from the top of a six-meter indoor chamber. Still air prevented unpredictable gusts. High-speed cameras recorded when the model began to rotate, how steadily it spun, and how many seconds it took to reach a padded floor.\n\nBase-weighted models began rotating after the shortest drop and followed the steadiest paths. They also had the longest average descent time. Middle-weighted models usually rotated, but many rocked from side to side before settling into a regular spin. Tip-weighted models often tumbled or slid sideways, reaching the floor sooner.\n\nTo understand the pattern, the team measured each model’s center of mass—the point around which its weight was balanced. With weight near the base, the heavy end tended to lead downward while the broad paper wing met the air above it. This arrangement made a stable rotation easier to establish. Moving weight toward the tip shifted the balance and made the model more likely to wobble.\n\nThe team then tested natural seeds from three tree species. All carried most of their mass close to one end of the wing, and many showed the same early, steady rotation as the base-weighted models. The natural seeds differed in shape and stiffness, however, so their descent times could not be compared directly with those of the paper models.\n\nAn indoor drop chamber simplifies the conditions a seed meets outdoors. Wind can lift, push, or interrupt a spinning seed, and rain can change a wing’s mass and flexibility. The artificial models also lacked veins and curved surfaces. Even so, holding most features constant allowed the experiment to isolate one important factor: where a winged seed carries its weight.\n\nQuestion:\nWhat can reasonably be inferred about a model that begins stable rotation early in its fall?",
+    "choices": {
+      "A": "It will necessarily weigh less than every tumbling model.",
+      "B": "It cannot be affected by air resistance.",
+      "C": "It may remain in the air longer than a similar model that tumbles or slides.",
+      "D": "It must have its weight located at the wing tip."
+    },
+    "correct": "C",
+    "explanation": "The base-weighted models established early, stable rotation and had the longest descent times, whereas tumbling tip-weighted models reached the floor sooner."
+  },
+  {
+    "id": "R5-024",
+    "prompt": "Passage:\nA Spinning Seed’s Balance\n\nSome trees release seeds attached to a thin wing. As the seed falls, the wing may rotate, slowing the descent and giving wind more time to carry the seed away from the parent tree. Engineer Pavel Arun wondered how the location of weight along the wing affects this spinning motion.\n\nArun’s team built ninety artificial seeds from identical paper wings and tiny metal beads. In one group, the bead sat near the thick base where a natural seed body would be. In a second group, the bead sat halfway along the wing. In a third, it sat near the wing tip. Every model had the same total mass, wing area, and overall length.\n\nThe researchers released each model from the top of a six-meter indoor chamber. Still air prevented unpredictable gusts. High-speed cameras recorded when the model began to rotate, how steadily it spun, and how many seconds it took to reach a padded floor.\n\nBase-weighted models began rotating after the shortest drop and followed the steadiest paths. They also had the longest average descent time. Middle-weighted models usually rotated, but many rocked from side to side before settling into a regular spin. Tip-weighted models often tumbled or slid sideways, reaching the floor sooner.\n\nTo understand the pattern, the team measured each model’s center of mass—the point around which its weight was balanced. With weight near the base, the heavy end tended to lead downward while the broad paper wing met the air above it. This arrangement made a stable rotation easier to establish. Moving weight toward the tip shifted the balance and made the model more likely to wobble.\n\nThe team then tested natural seeds from three tree species. All carried most of their mass close to one end of the wing, and many showed the same early, steady rotation as the base-weighted models. The natural seeds differed in shape and stiffness, however, so their descent times could not be compared directly with those of the paper models.\n\nAn indoor drop chamber simplifies the conditions a seed meets outdoors. Wind can lift, push, or interrupt a spinning seed, and rain can change a wing’s mass and flexibility. The artificial models also lacked veins and curved surfaces. Even so, holding most features constant allowed the experiment to isolate one important factor: where a winged seed carries its weight.\n\nQuestion:\nWhat is the main function of the final paragraph?",
+    "choices": {
+      "A": "To identify limits of the indoor models while explaining the value of controlling variables.",
+      "B": "To show that wind and rain have no effect on natural seeds.",
+      "C": "To argue that paper models are identical to seeds in every feature.",
+      "D": "To introduce results showing that tip-weighted models descend slowest outdoors."
+    },
+    "correct": "A",
+    "explanation": "The paragraph names outdoor forces and natural features absent from the experiment, then explains that constant model features helped isolate weight location."
+  },
+  {
+    "id": "R5-025",
+    "prompt": "Passage:\nA Spinning Seed’s Balance\n\nSome trees release seeds attached to a thin wing. As the seed falls, the wing may rotate, slowing the descent and giving wind more time to carry the seed away from the parent tree. Engineer Pavel Arun wondered how the location of weight along the wing affects this spinning motion.\n\nArun’s team built ninety artificial seeds from identical paper wings and tiny metal beads. In one group, the bead sat near the thick base where a natural seed body would be. In a second group, the bead sat halfway along the wing. In a third, it sat near the wing tip. Every model had the same total mass, wing area, and overall length.\n\nThe researchers released each model from the top of a six-meter indoor chamber. Still air prevented unpredictable gusts. High-speed cameras recorded when the model began to rotate, how steadily it spun, and how many seconds it took to reach a padded floor.\n\nBase-weighted models began rotating after the shortest drop and followed the steadiest paths. They also had the longest average descent time. Middle-weighted models usually rotated, but many rocked from side to side before settling into a regular spin. Tip-weighted models often tumbled or slid sideways, reaching the floor sooner.\n\nTo understand the pattern, the team measured each model’s center of mass—the point around which its weight was balanced. With weight near the base, the heavy end tended to lead downward while the broad paper wing met the air above it. This arrangement made a stable rotation easier to establish. Moving weight toward the tip shifted the balance and made the model more likely to wobble.\n\nThe team then tested natural seeds from three tree species. All carried most of their mass close to one end of the wing, and many showed the same early, steady rotation as the base-weighted models. The natural seeds differed in shape and stiffness, however, so their descent times could not be compared directly with those of the paper models.\n\nAn indoor drop chamber simplifies the conditions a seed meets outdoors. Wind can lift, push, or interrupt a spinning seed, and rain can change a wing’s mass and flexibility. The artificial models also lacked veins and curved surfaces. Even so, holding most features constant allowed the experiment to isolate one important factor: where a winged seed carries its weight.\n\nQuestion:\nWhich choice best summarizes the experiment’s findings?",
+    "choices": {
+      "A": "All weight locations produced identical rotation because the models had equal mass.",
+      "B": "Middle-weighted models never rotated, while tip-weighted models remained aloft longest.",
+      "C": "Base-weighted models rotated earlier and more steadily and descended longer, a pattern also observed in many natural seeds despite other differences.",
+      "D": "Natural seeds carried most of their mass at the wing tip and could be compared directly with paper models."
+    },
+    "correct": "C",
+    "explanation": "Base-weighted models performed best for early stable rotation and slow descent, and natural seeds with mass near one end often showed similar rotation, though their shapes differed."
+  },
+  {
+    "id": "S5-001",
+    "prompt": "Ecologists studied equal-area plots in one forest. For each plot, they measured the percentage of sky blocked by leaves, called canopy cover, the soil moisture, and the number of fern plants. The table gives mean values for groups of plots with similar canopy cover.\n\nCanopy cover (%) | Soil moisture (%) | Mean ferns per plot\n10               | 11                | 4\n30               | 15                | 11\n50               | 20                | 22\n70               | 24                | 30\n90               | 27                | 26\n\nQuestion:\nWhat was the mean number of ferns in plots with 70% canopy cover?",
+    "choices": {
+      "A": "11",
+      "B": "22",
+      "C": "26",
+      "D": "30"
+    },
+    "correct": "D",
+    "explanation": "Plots with 70% canopy cover had a mean of 30 ferns."
+  },
+  {
+    "id": "S5-002",
+    "prompt": "Ecologists studied equal-area plots in one forest. For each plot, they measured the percentage of sky blocked by leaves, called canopy cover, the soil moisture, and the number of fern plants. The table gives mean values for groups of plots with similar canopy cover.\n\nCanopy cover (%) | Soil moisture (%) | Mean ferns per plot\n10               | 11                | 4\n30               | 15                | 11\n50               | 20                | 22\n70               | 24                | 30\n90               | 27                | 26\n\nQuestion:\nHow many percentage points greater was soil moisture at 90% canopy cover than at 10% canopy cover?",
+    "choices": {
+      "A": "10 percentage points",
+      "B": "16 percentage points",
+      "C": "27 percentage points",
+      "D": "38 percentage points"
+    },
+    "correct": "B",
+    "explanation": "Soil moisture was 27% at 90% canopy cover and 11% at 10% canopy cover, a difference of 16 percentage points."
+  },
+  {
+    "id": "S5-003",
+    "prompt": "Ecologists studied equal-area plots in one forest. For each plot, they measured the percentage of sky blocked by leaves, called canopy cover, the soil moisture, and the number of fern plants. The table gives mean values for groups of plots with similar canopy cover.\n\nCanopy cover (%) | Soil moisture (%) | Mean ferns per plot\n10               | 11                | 4\n30               | 15                | 11\n50               | 20                | 22\n70               | 24                | 30\n90               | 27                | 26\n\nQuestion:\nIf fern abundance changed linearly between 50% and 70% canopy cover, what mean number of ferns would be estimated at 60% canopy cover?",
+    "choices": {
+      "A": "24",
+      "B": "26",
+      "C": "28",
+      "D": "52"
+    },
+    "correct": "B",
+    "explanation": "A canopy cover of 60% is halfway between 50% and 70%, so the estimate is halfway between 22 and 30 ferns, or 26."
+  },
+  {
+    "id": "S5-004",
+    "prompt": "Ecologists studied equal-area plots in one forest. For each plot, they measured the percentage of sky blocked by leaves, called canopy cover, the soil moisture, and the number of fern plants. The table gives mean values for groups of plots with similar canopy cover.\n\nCanopy cover (%) | Soil moisture (%) | Mean ferns per plot\n10               | 11                | 4\n30               | 15                | 11\n50               | 20                | 22\n70               | 24                | 30\n90               | 27                | 26\n\nQuestion:\nWhich investigation would best test the effect of canopy shade on fern growth while controlling water availability?",
+    "choices": {
+      "A": "Grow identical ferns with equal water and soil under several controlled shade levels.",
+      "B": "Grow different plant species in different soils and give each a different amount of water.",
+      "C": "Count trees in several forests without measuring shade or ferns.",
+      "D": "Compare ferns at one shade level while changing both water and soil type."
+    },
+    "correct": "A",
+    "explanation": "Holding water and soil constant while changing shade isolates shade as the tested factor."
+  },
+  {
+    "id": "S5-005",
+    "prompt": "Ecologists studied equal-area plots in one forest. For each plot, they measured the percentage of sky blocked by leaves, called canopy cover, the soil moisture, and the number of fern plants. The table gives mean values for groups of plots with similar canopy cover.\n\nCanopy cover (%) | Soil moisture (%) | Mean ferns per plot\n10               | 11                | 4\n30               | 15                | 11\n50               | 20                | 22\n70               | 24                | 30\n90               | 27                | 26\n\nQuestion:\nWhich conclusion is supported across the measured plots?",
+    "choices": {
+      "A": "Soil moisture increased throughout the canopy range, while fern abundance peaked at 70% canopy cover.",
+      "B": "Both soil moisture and fern abundance were lowest at 70% canopy cover.",
+      "C": "Fern abundance increased at every step through 90% canopy cover.",
+      "D": "Canopy cover had no association with either measured variable."
+    },
+    "correct": "A",
+    "explanation": "Moisture rose from 11% to 27%, while fern abundance rose to 30 at 70% canopy cover and then fell to 26 at 90%."
+  },
+  {
+    "id": "S5-006",
+    "prompt": "Students dropped the same rubber ball onto the same hard floor and measured its maximum rebound height. The ball was released without being pushed. Each result is the mean of 6 trials.\n\nExperiment 1: Ball temperature was held at 20°C while drop height was changed.\nDrop height (cm) | Mean rebound height (cm)\n50               | 31\n100              | 61\n150              | 88\n200              | 112\n\nExperiment 2: Drop height was held at 100 cm while ball temperature was changed. Before each trial, the ball was kept at the listed temperature long enough to reach that temperature.\nBall temperature (°C) | Mean rebound height (cm)\n5                     | 46\n20                    | 61\n35                    | 70\n50                    | 67\n\nQuestion:\nIn Experiment 1, how much greater was the mean rebound height from a 200 cm drop than from a 50 cm drop?",
+    "choices": {
+      "A": "62 cm",
+      "B": "81 cm",
+      "C": "112 cm",
+      "D": "143 cm"
+    },
+    "correct": "B",
+    "explanation": "Mean rebound height increased from 31 cm to 112 cm, a difference of 81 cm."
+  },
+  {
+    "id": "S5-007",
+    "prompt": "Students dropped the same rubber ball onto the same hard floor and measured its maximum rebound height. The ball was released without being pushed. Each result is the mean of 6 trials.\n\nExperiment 1: Ball temperature was held at 20°C while drop height was changed.\nDrop height (cm) | Mean rebound height (cm)\n50               | 31\n100              | 61\n150              | 88\n200              | 112\n\nExperiment 2: Drop height was held at 100 cm while ball temperature was changed. Before each trial, the ball was kept at the listed temperature long enough to reach that temperature.\nBall temperature (°C) | Mean rebound height (cm)\n5                     | 46\n20                    | 61\n35                    | 70\n50                    | 67\n\nQuestion:\nWhat mean rebound height was measured for a ball temperature of 35°C?",
+    "choices": {
+      "A": "46 cm",
+      "B": "61 cm",
+      "C": "67 cm",
+      "D": "70 cm"
+    },
+    "correct": "D",
+    "explanation": "Experiment 2 lists a mean rebound height of 70 cm at 35°C."
+  },
+  {
+    "id": "S5-008",
+    "prompt": "Students dropped the same rubber ball onto the same hard floor and measured its maximum rebound height. The ball was released without being pushed. Each result is the mean of 6 trials.\n\nExperiment 1: Ball temperature was held at 20°C while drop height was changed.\nDrop height (cm) | Mean rebound height (cm)\n50               | 31\n100              | 61\n150              | 88\n200              | 112\n\nExperiment 2: Drop height was held at 100 cm while ball temperature was changed. Before each trial, the ball was kept at the listed temperature long enough to reach that temperature.\nBall temperature (°C) | Mean rebound height (cm)\n5                     | 46\n20                    | 61\n35                    | 70\n50                    | 67\n\nQuestion:\nWhich factor was intentionally varied in Experiment 2?",
+    "choices": {
+      "A": "Ball temperature",
+      "B": "Drop height",
+      "C": "Floor material",
+      "D": "Rebound height"
+    },
+    "correct": "A",
+    "explanation": "Experiment 2 changed ball temperature while keeping drop height at 100 cm."
+  },
+  {
+    "id": "S5-009",
+    "prompt": "Students dropped the same rubber ball onto the same hard floor and measured its maximum rebound height. The ball was released without being pushed. Each result is the mean of 6 trials.\n\nExperiment 1: Ball temperature was held at 20°C while drop height was changed.\nDrop height (cm) | Mean rebound height (cm)\n50               | 31\n100              | 61\n150              | 88\n200              | 112\n\nExperiment 2: Drop height was held at 100 cm while ball temperature was changed. Before each trial, the ball was kept at the listed temperature long enough to reach that temperature.\nBall temperature (°C) | Mean rebound height (cm)\n5                     | 46\n20                    | 61\n35                    | 70\n50                    | 67\n\nQuestion:\nWhy did the students use the same hard floor for every drop?",
+    "choices": {
+      "A": "To keep differences in the collision surface from affecting rebound comparisons",
+      "B": "To make floor material the measured response",
+      "C": "To ensure rebound height always equaled drop height",
+      "D": "To cause ball temperature to change during each bounce"
+    },
+    "correct": "A",
+    "explanation": "A constant floor surface helps isolate drop height or ball temperature as the tested factor."
+  },
+  {
+    "id": "S5-010",
+    "prompt": "Students dropped the same rubber ball onto the same hard floor and measured its maximum rebound height. The ball was released without being pushed. Each result is the mean of 6 trials.\n\nExperiment 1: Ball temperature was held at 20°C while drop height was changed.\nDrop height (cm) | Mean rebound height (cm)\n50               | 31\n100              | 61\n150              | 88\n200              | 112\n\nExperiment 2: Drop height was held at 100 cm while ball temperature was changed. Before each trial, the ball was kept at the listed temperature long enough to reach that temperature.\nBall temperature (°C) | Mean rebound height (cm)\n5                     | 46\n20                    | 61\n35                    | 70\n50                    | 67\n\nQuestion:\nWhich statement best describes the Experiment 2 results?",
+    "choices": {
+      "A": "Rebound height increased from 5°C to 35°C, then decreased slightly at 50°C.",
+      "B": "Rebound height decreased at every higher temperature.",
+      "C": "Temperature had no relationship to rebound height because all values were equal.",
+      "D": "The greatest rebound height occurred at 5°C."
+    },
+    "correct": "A",
+    "explanation": "The mean rose from 46 cm to 70 cm between 5°C and 35°C, then fell to 67 cm at 50°C."
+  },
+  {
+    "id": "S5-011",
+    "prompt": "An ocean buoy recorded wind speed and wave height during a coastal storm. Time 0 was when the storm began at the buoy.\n\nHours after storm began | Wind speed (m/s) | Mean wave height (m)\n0                       | 3                | 0.4\n2                       | 8                | 0.7\n4                       | 13               | 1.3\n6                       | 15               | 2.2\n8                       | 10               | 1.9\n\nQuestion:\nWhen was the greatest wind speed recorded?",
+    "choices": {
+      "A": "At 0 hours",
+      "B": "At 2 hours",
+      "C": "At 6 hours",
+      "D": "At 8 hours"
+    },
+    "correct": "C",
+    "explanation": "The greatest wind speed, 15 m/s, was recorded 6 hours after the storm began."
+  },
+  {
+    "id": "S5-012",
+    "prompt": "An ocean buoy recorded wind speed and wave height during a coastal storm. Time 0 was when the storm began at the buoy.\n\nHours after storm began | Wind speed (m/s) | Mean wave height (m)\n0                       | 3                | 0.4\n2                       | 8                | 0.7\n4                       | 13               | 1.3\n6                       | 15               | 2.2\n8                       | 10               | 1.9\n\nQuestion:\nBy how much did mean wave height increase from 0 hours to 6 hours?",
+    "choices": {
+      "A": "1.3 m",
+      "B": "1.8 m",
+      "C": "2.2 m",
+      "D": "2.6 m"
+    },
+    "correct": "B",
+    "explanation": "Mean wave height increased from 0.4 m to 2.2 m, a difference of 1.8 m."
+  },
+  {
+    "id": "S5-013",
+    "prompt": "An ocean buoy recorded wind speed and wave height during a coastal storm. Time 0 was when the storm began at the buoy.\n\nHours after storm began | Wind speed (m/s) | Mean wave height (m)\n0                       | 3                | 0.4\n2                       | 8                | 0.7\n4                       | 13               | 1.3\n6                       | 15               | 2.2\n8                       | 10               | 1.9\n\nQuestion:\nAssuming a linear change between 4 hours and 6 hours, what mean wave height would be estimated at 5 hours?",
+    "choices": {
+      "A": "1.45 m",
+      "B": "1.75 m",
+      "C": "2.20 m",
+      "D": "3.50 m"
+    },
+    "correct": "B",
+    "explanation": "Five hours is halfway between 4 and 6 hours, so the estimate is halfway between 1.3 m and 2.2 m, or 1.75 m."
+  },
+  {
+    "id": "S5-014",
+    "prompt": "An ocean buoy recorded wind speed and wave height during a coastal storm. Time 0 was when the storm began at the buoy.\n\nHours after storm began | Wind speed (m/s) | Mean wave height (m)\n0                       | 3                | 0.4\n2                       | 8                | 0.7\n4                       | 13               | 1.3\n6                       | 15               | 2.2\n8                       | 10               | 1.9\n\nQuestion:\nWhich change would best determine whether the buoy's measurements represented a larger coastal region?",
+    "choices": {
+      "A": "Place additional calibrated buoys at several locations in the region.",
+      "B": "Measure only wind speed and stop measuring waves.",
+      "C": "Move the same buoy to a new location after the storm ends.",
+      "D": "Record one measurement instead of measurements over 8 hours."
+    },
+    "correct": "A",
+    "explanation": "Simultaneous measurements from several locations would show whether the same pattern occurred across the region."
+  },
+  {
+    "id": "S5-015",
+    "prompt": "An ocean buoy recorded wind speed and wave height during a coastal storm. Time 0 was when the storm began at the buoy.\n\nHours after storm began | Wind speed (m/s) | Mean wave height (m)\n0                       | 3                | 0.4\n2                       | 8                | 0.7\n4                       | 13               | 1.3\n6                       | 15               | 2.2\n8                       | 10               | 1.9\n\nQuestion:\nWhich summary is supported by the buoy data?",
+    "choices": {
+      "A": "Wind speed and wave height both reached their greatest measured values at 6 hours and were lower at 8 hours.",
+      "B": "Wave height was greatest before the storm began.",
+      "C": "Wind speed decreased continuously from 0 hours to 8 hours.",
+      "D": "Wave height remained at 0.4 m throughout the storm."
+    },
+    "correct": "A",
+    "explanation": "Wind speed peaked at 15 m/s and wave height at 2.2 m at 6 hours; both values were lower at 8 hours."
+  },
+  {
+    "id": "S5-016",
+    "prompt": "Students coated identical plastic tiles with equal amounts of a harmless bacterial culture. Each tile then received one cleaning treatment. The tiles were swabbed, and the swabs were used to inoculate sealed nutrient plates. After the same incubation time, the students counted bacterial colonies. Fewer colonies indicate that fewer bacteria remained on a tile. Each value is the mean of 5 trials.\n\nCleaning treatment          | Mean colonies\nNo cleaning                 | 94\nRinse with water for 20 s   | 68\nSoap and water for 10 s     | 37\nSoap and water for 20 s     | 16\nAlcohol gel for 20 s        | 18\n\nQuestion:\nWhich treatment produced the fewest mean colonies?",
+    "choices": {
+      "A": "No cleaning",
+      "B": "Rinse with water for 20 s",
+      "C": "Soap and water for 20 s",
+      "D": "Alcohol gel for 20 s"
+    },
+    "correct": "C",
+    "explanation": "Soap and water for 20 seconds produced 16 mean colonies, the fewest among the treatments."
+  },
+  {
+    "id": "S5-017",
+    "prompt": "Students coated identical plastic tiles with equal amounts of a harmless bacterial culture. Each tile then received one cleaning treatment. The tiles were swabbed, and the swabs were used to inoculate sealed nutrient plates. After the same incubation time, the students counted bacterial colonies. Fewer colonies indicate that fewer bacteria remained on a tile. Each value is the mean of 5 trials.\n\nCleaning treatment          | Mean colonies\nNo cleaning                 | 94\nRinse with water for 20 s   | 68\nSoap and water for 10 s     | 37\nSoap and water for 20 s     | 16\nAlcohol gel for 20 s        | 18\n\nQuestion:\nWhat was the dependent variable in this investigation?",
+    "choices": {
+      "A": "Mean number of bacterial colonies",
+      "B": "Type of cleaning treatment",
+      "C": "Incubation time",
+      "D": "Starting amount of bacterial culture"
+    },
+    "correct": "A",
+    "explanation": "The students measured colony number after applying different cleaning treatments."
+  },
+  {
+    "id": "S5-018",
+    "prompt": "Students coated identical plastic tiles with equal amounts of a harmless bacterial culture. Each tile then received one cleaning treatment. The tiles were swabbed, and the swabs were used to inoculate sealed nutrient plates. After the same incubation time, the students counted bacterial colonies. Fewer colonies indicate that fewer bacteria remained on a tile. Each value is the mean of 5 trials.\n\nCleaning treatment          | Mean colonies\nNo cleaning                 | 94\nRinse with water for 20 s   | 68\nSoap and water for 10 s     | 37\nSoap and water for 20 s     | 16\nAlcohol gel for 20 s        | 18\n\nQuestion:\nWhat was the main purpose of the no-cleaning condition?",
+    "choices": {
+      "A": "To provide a comparison showing colony growth without a cleaning treatment",
+      "B": "To make incubation time the independent variable",
+      "C": "To guarantee that every treatment produced 94 colonies",
+      "D": "To determine the temperature of the plastic tiles"
+    },
+    "correct": "A",
+    "explanation": "The no-cleaning condition gives a baseline for comparing how much each treatment reduced the remaining bacteria."
+  },
+  {
+    "id": "S5-019",
+    "prompt": "Students coated identical plastic tiles with equal amounts of a harmless bacterial culture. Each tile then received one cleaning treatment. The tiles were swabbed, and the swabs were used to inoculate sealed nutrient plates. After the same incubation time, the students counted bacterial colonies. Fewer colonies indicate that fewer bacteria remained on a tile. Each value is the mean of 5 trials.\n\nCleaning treatment          | Mean colonies\nNo cleaning                 | 94\nRinse with water for 20 s   | 68\nSoap and water for 10 s     | 37\nSoap and water for 20 s     | 16\nAlcohol gel for 20 s        | 18\n\nQuestion:\nWhich conclusion is best supported by the treatment results?",
+    "choices": {
+      "A": "All cleaning treatments reduced mean colony number compared with no cleaning.",
+      "B": "Rinsing with water eliminated all bacteria from the tiles.",
+      "C": "Alcohol gel produced more colonies than no cleaning.",
+      "D": "Soap for 10 seconds and soap for 20 seconds produced identical results."
+    },
+    "correct": "A",
+    "explanation": "Every cleaning treatment produced fewer than the 94 mean colonies found after no cleaning."
+  },
+  {
+    "id": "S5-020",
+    "prompt": "Students coated identical plastic tiles with equal amounts of a harmless bacterial culture. Each tile then received one cleaning treatment. The tiles were swabbed, and the swabs were used to inoculate sealed nutrient plates. After the same incubation time, the students counted bacterial colonies. Fewer colonies indicate that fewer bacteria remained on a tile. Each value is the mean of 5 trials.\n\nCleaning treatment          | Mean colonies\nNo cleaning                 | 94\nRinse with water for 20 s   | 68\nSoap and water for 10 s     | 37\nSoap and water for 20 s     | 16\nAlcohol gel for 20 s        | 18\n\nQuestion:\nA new soap-and-water treatment lasting 30 seconds produces a mean of 15 colonies. Which inference is best supported when this result is compared with the 20-second soap treatment?",
+    "choices": {
+      "A": "Increasing washing time from 20 to 30 seconds produced little additional reduction under these conditions.",
+      "B": "The 30-second treatment produced 15 more colonies than the 20-second treatment.",
+      "C": "Longer washing always increases colony number.",
+      "D": "The 20-second treatment removed no bacteria."
+    },
+    "correct": "A",
+    "explanation": "The mean changed only from 16 colonies at 20 seconds to 15 colonies at 30 seconds."
+  },
+  {
+    "id": "S5-021",
+    "prompt": "Geologists are studying a mountain valley containing large rounded boulders whose rock type matches bedrock 20 km upstream. The valley floor has parallel scratches, and a thick deposit contains mixed grain sizes from clay to boulders with little sorting. Terraces along the valley walls show that a large lake once occupied the valley.\n\nViewpoint 1 — Glacier model: A glacier flowed down the valley, dragging rocks that scratched the valley floor. Ice carried boulders from upstream and deposited the poorly sorted mixture when the glacier melted. The lake formed later behind leftover glacial sediment.\n\nViewpoint 2 — Outburst-flood model: A natural dam holding the ancient lake broke suddenly. Fast floodwater carried boulders downstream, and rock debris in the flow scratched the valley floor. The rapidly slowing flood deposited grains of many sizes together. No glacier was required.\n\nQuestion:\nHow far upstream is the matching source bedrock from the valley boulders?",
+    "choices": {
+      "A": "2 km",
+      "B": "10 km",
+      "C": "20 km",
+      "D": "200 km"
+    },
+    "correct": "C",
+    "explanation": "The prompt states that the boulders match bedrock located 20 km upstream."
+  },
+  {
+    "id": "S5-022",
+    "prompt": "Geologists are studying a mountain valley containing large rounded boulders whose rock type matches bedrock 20 km upstream. The valley floor has parallel scratches, and a thick deposit contains mixed grain sizes from clay to boulders with little sorting. Terraces along the valley walls show that a large lake once occupied the valley.\n\nViewpoint 1 — Glacier model: A glacier flowed down the valley, dragging rocks that scratched the valley floor. Ice carried boulders from upstream and deposited the poorly sorted mixture when the glacier melted. The lake formed later behind leftover glacial sediment.\n\nViewpoint 2 — Outburst-flood model: A natural dam holding the ancient lake broke suddenly. Fast floodwater carried boulders downstream, and rock debris in the flow scratched the valley floor. The rapidly slowing flood deposited grains of many sizes together. No glacier was required.\n\nQuestion:\nWhich new evidence would most directly support Viewpoint 1 over Viewpoint 2?",
+    "choices": {
+      "A": "A dated ridge of glacial sediment crosses the valley and contains preserved ice of the same age as the boulder deposit.",
+      "B": "Ancient lake terraces occur along the valley walls.",
+      "C": "The valley deposit contains both clay and boulders.",
+      "D": "Rounded boulders match rock found upstream."
+    },
+    "correct": "A",
+    "explanation": "Preserved ice and a same-age glacial ridge would directly connect the deposit to a glacier."
+  },
+  {
+    "id": "S5-023",
+    "prompt": "Geologists are studying a mountain valley containing large rounded boulders whose rock type matches bedrock 20 km upstream. The valley floor has parallel scratches, and a thick deposit contains mixed grain sizes from clay to boulders with little sorting. Terraces along the valley walls show that a large lake once occupied the valley.\n\nViewpoint 1 — Glacier model: A glacier flowed down the valley, dragging rocks that scratched the valley floor. Ice carried boulders from upstream and deposited the poorly sorted mixture when the glacier melted. The lake formed later behind leftover glacial sediment.\n\nViewpoint 2 — Outburst-flood model: A natural dam holding the ancient lake broke suddenly. Fast floodwater carried boulders downstream, and rock debris in the flow scratched the valley floor. The rapidly slowing flood deposited grains of many sizes together. No glacier was required.\n\nQuestion:\nWhich new observation would give the strongest direct support to the outburst-flood mechanism?",
+    "choices": {
+      "A": "Sediment structures record a sudden high-speed flow immediately after the ancient lake level dropped.",
+      "B": "Ice currently covers a mountain on another continent.",
+      "C": "Small scratches can be made by dragging rocks across a surface.",
+      "D": "The upstream bedrock has the same composition as some boulders."
+    },
+    "correct": "A",
+    "explanation": "A sudden flow tied to rapid lake drainage is the event proposed by the outburst-flood model."
+  },
+  {
+    "id": "S5-024",
+    "prompt": "Geologists are studying a mountain valley containing large rounded boulders whose rock type matches bedrock 20 km upstream. The valley floor has parallel scratches, and a thick deposit contains mixed grain sizes from clay to boulders with little sorting. Terraces along the valley walls show that a large lake once occupied the valley.\n\nViewpoint 1 — Glacier model: A glacier flowed down the valley, dragging rocks that scratched the valley floor. Ice carried boulders from upstream and deposited the poorly sorted mixture when the glacier melted. The lake formed later behind leftover glacial sediment.\n\nViewpoint 2 — Outburst-flood model: A natural dam holding the ancient lake broke suddenly. Fast floodwater carried boulders downstream, and rock debris in the flow scratched the valley floor. The rapidly slowing flood deposited grains of many sizes together. No glacier was required.\n\nQuestion:\nThe viewpoints disagree most directly about whether the boulders were transported by:",
+    "choices": {
+      "A": "moving glacier ice or floodwater.",
+      "B": "wind or volcanic ash.",
+      "C": "animals or plant roots.",
+      "D": "ocean tides or coastal currents."
+    },
+    "correct": "A",
+    "explanation": "Viewpoint 1 proposes transport by ice, while Viewpoint 2 proposes transport by a sudden flood."
+  },
+  {
+    "id": "S5-025",
+    "prompt": "Geologists are studying a mountain valley containing large rounded boulders whose rock type matches bedrock 20 km upstream. The valley floor has parallel scratches, and a thick deposit contains mixed grain sizes from clay to boulders with little sorting. Terraces along the valley walls show that a large lake once occupied the valley.\n\nViewpoint 1 — Glacier model: A glacier flowed down the valley, dragging rocks that scratched the valley floor. Ice carried boulders from upstream and deposited the poorly sorted mixture when the glacier melted. The lake formed later behind leftover glacial sediment.\n\nViewpoint 2 — Outburst-flood model: A natural dam holding the ancient lake broke suddenly. Fast floodwater carried boulders downstream, and rock debris in the flow scratched the valley floor. The rapidly slowing flood deposited grains of many sizes together. No glacier was required.\n\nQuestion:\nSuppose dating shows that the boulder deposit formed after all glaciers had disappeared from the valley but at the same time the ancient lake drained rapidly. This evidence would most likely:",
+    "choices": {
+      "A": "support Viewpoint 2 because the timing matches an outburst flood rather than glacial transport.",
+      "B": "support Viewpoint 1 because glaciers must be absent when they deposit boulders.",
+      "C": "support both viewpoints equally because neither involves the lake.",
+      "D": "contradict Viewpoint 2 because floods cannot move sediment."
+    },
+    "correct": "A",
+    "explanation": "A deposit formed after glacier disappearance but during rapid lake drainage fits the outburst-flood model."
+  },
+  {
+    "id": "S5-026",
+    "prompt": "Students built simple circuits and measured electric current with an ammeter. Each result is the mean of 4 trials.\n\nExperiment 1: The same 10 Ω resistor was used while identical 1.5 V cells connected in series were added.\nCells | Total voltage (V) | Mean current (A)\n1     | 1.5               | 0.15\n2     | 3.0               | 0.30\n3     | 4.5               | 0.45\n4     | 6.0               | 0.60\n\nExperiment 2: Total voltage was held at 3.0 V while resistance was changed.\nResistance (Ω) | Mean current (A)\n5              | 0.60\n10             | 0.30\n15             | 0.20\n20             | 0.15\n\nQuestion:\nIn Experiment 1, what mean current was measured with 3 cells?",
+    "choices": {
+      "A": "0.20 A",
+      "B": "0.30 A",
+      "C": "0.45 A",
+      "D": "0.60 A"
+    },
+    "correct": "C",
+    "explanation": "The Experiment 1 row for 3 cells lists a mean current of 0.45 A."
+  },
+  {
+    "id": "S5-027",
+    "prompt": "Students built simple circuits and measured electric current with an ammeter. Each result is the mean of 4 trials.\n\nExperiment 1: The same 10 Ω resistor was used while identical 1.5 V cells connected in series were added.\nCells | Total voltage (V) | Mean current (A)\n1     | 1.5               | 0.15\n2     | 3.0               | 0.30\n3     | 4.5               | 0.45\n4     | 6.0               | 0.60\n\nExperiment 2: Total voltage was held at 3.0 V while resistance was changed.\nResistance (Ω) | Mean current (A)\n5              | 0.60\n10             | 0.30\n15             | 0.20\n20             | 0.15\n\nQuestion:\nAt 3.0 V, how much greater was the mean current through 5 Ω than through 20 Ω?",
+    "choices": {
+      "A": "0.15 A",
+      "B": "0.30 A",
+      "C": "0.45 A",
+      "D": "0.75 A"
+    },
+    "correct": "C",
+    "explanation": "The currents were 0.60 A and 0.15 A, a difference of 0.45 A."
+  },
+  {
+    "id": "S5-028",
+    "prompt": "Students built simple circuits and measured electric current with an ammeter. Each result is the mean of 4 trials.\n\nExperiment 1: The same 10 Ω resistor was used while identical 1.5 V cells connected in series were added.\nCells | Total voltage (V) | Mean current (A)\n1     | 1.5               | 0.15\n2     | 3.0               | 0.30\n3     | 4.5               | 0.45\n4     | 6.0               | 0.60\n\nExperiment 2: Total voltage was held at 3.0 V while resistance was changed.\nResistance (Ω) | Mean current (A)\n5              | 0.60\n10             | 0.30\n15             | 0.20\n20             | 0.15\n\nQuestion:\nWhich quantity was deliberately changed in Experiment 1?",
+    "choices": {
+      "A": "Total voltage",
+      "B": "Resistance",
+      "C": "Mean current",
+      "D": "Ammeter type"
+    },
+    "correct": "A",
+    "explanation": "Adding cells changed total voltage while the same 10 Ω resistor was used."
+  },
+  {
+    "id": "S5-029",
+    "prompt": "Students built simple circuits and measured electric current with an ammeter. Each result is the mean of 4 trials.\n\nExperiment 1: The same 10 Ω resistor was used while identical 1.5 V cells connected in series were added.\nCells | Total voltage (V) | Mean current (A)\n1     | 1.5               | 0.15\n2     | 3.0               | 0.30\n3     | 4.5               | 0.45\n4     | 6.0               | 0.60\n\nExperiment 2: Total voltage was held at 3.0 V while resistance was changed.\nResistance (Ω) | Mean current (A)\n5              | 0.60\n10             | 0.30\n15             | 0.20\n20             | 0.15\n\nQuestion:\nWhy was total voltage held at 3.0 V throughout Experiment 2?",
+    "choices": {
+      "A": "To isolate resistance as the tested factor affecting current",
+      "B": "To make voltage the measured response",
+      "C": "To ensure resistance and voltage increased together",
+      "D": "To prove that voltage can never affect current"
+    },
+    "correct": "A",
+    "explanation": "Keeping voltage constant allowed current to be compared while resistance alone was changed."
+  },
+  {
+    "id": "S5-030",
+    "prompt": "Students built simple circuits and measured electric current with an ammeter. Each result is the mean of 4 trials.\n\nExperiment 1: The same 10 Ω resistor was used while identical 1.5 V cells connected in series were added.\nCells | Total voltage (V) | Mean current (A)\n1     | 1.5               | 0.15\n2     | 3.0               | 0.30\n3     | 4.5               | 0.45\n4     | 6.0               | 0.60\n\nExperiment 2: Total voltage was held at 3.0 V while resistance was changed.\nResistance (Ω) | Mean current (A)\n5              | 0.60\n10             | 0.30\n15             | 0.20\n20             | 0.15\n\nQuestion:\nA student claims that, at constant voltage, increasing resistance increases current. How do the Experiment 2 results evaluate this claim?",
+    "choices": {
+      "A": "They support it because current rose from 0.15 A to 0.60 A as resistance increased.",
+      "B": "They support it because voltage remained at 3.0 V.",
+      "C": "They contradict it because current decreased from 0.60 A to 0.15 A as resistance increased.",
+      "D": "They cannot evaluate it because resistance was held constant."
+    },
+    "correct": "C",
+    "explanation": "At 3.0 V, increasing resistance from 5 Ω to 20 Ω corresponded to a decrease in current from 0.60 A to 0.15 A."
+  }
+]

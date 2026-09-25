@@ -1,0 +1,482 @@
+[
+  {
+    "id": "EN2-001",
+    "prompt": "In a passage about students creating a tactile map of their school, Tessa recalls the first planning meeting: “Before the final bell <u>rang we spread our sketches across a library table</u>.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "rang, we spread our sketches across a library table",
+      "C": "rang; we spread our sketches across a library table",
+      "D": "rang we spread, our sketches across a library table"
+    },
+    "correct": "B",
+    "explanation": "A comma should follow the introductory dependent clause “Before the final bell rang.” A semicolon cannot separate that dependent clause from the main clause."
+  },
+  {
+    "id": "EN2-002",
+    "prompt": "The passage describes one feature of the tactile map: “A row of textured circles along the left edge <u>identify</u> the doors to the science rooms.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have identified",
+      "C": "identifies",
+      "D": "are identifying"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “row” requires the singular verb “identifies.” The plural noun “circles” is part of a prepositional phrase and does not control the verb."
+  },
+  {
+    "id": "EN2-003",
+    "prompt": "Tessa explains how the team improved its design: “<u>We tested the first draft with two students. Who had never visited the building.</u>” Which choice most effectively corrects the underlined portion?",
+    "choices": {
+      "A": "We tested the first draft with two students who had never visited the building.",
+      "B": "We tested the first draft. With two students who had never visited the building.",
+      "C": "Testing the first draft with two students who had never visited the building.",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "This choice attaches the who-clause to “students” and forms one complete sentence. The other versions leave a fragment."
+  },
+  {
+    "id": "EN2-004",
+    "prompt": "The passage states, “When Omar handed Eli the sample map, <u>he</u> compared its raised symbols with the legend.” The writer wants to make clear that Eli made the comparison. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "the student",
+      "C": "Omar",
+      "D": "Eli"
+    },
+    "correct": "D",
+    "explanation": "Naming Eli makes it clear that he compared the symbols with the legend. “He” and “the student” could refer to either person."
+  },
+  {
+    "id": "EN2-005",
+    "prompt": "The passage describes the completed project: “The team's only finished map <u>which weighs less than a textbook</u> hangs beside the main entrance.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "which weighs less than a textbook,",
+      "C": ", which weighs less than a textbook",
+      "D": ", which weighs less than a textbook,"
+    },
+    "correct": "D",
+    "explanation": "The team's only finished map is already fully identified, so the added description is nonessential and must be enclosed by commas. Choices with one comma mark only one boundary."
+  },
+  {
+    "id": "EN2-006",
+    "prompt": "Tessa narrates work completed during one afternoon: “I trimmed strips of foam while Omar <u>labels</u> the matching rooms on our paper guide.” Which choice best maintains the sentence's verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "labeled",
+      "C": "will label",
+      "D": "is labeling"
+    },
+    "correct": "B",
+    "explanation": "“Labeled” matches the past-tense verb “trimmed.” The present and future forms create an unnecessary tense shift."
+  },
+  {
+    "id": "EN2-007",
+    "prompt": "The passage describes how Tessa marked a staircase on the tactile map: “<u>Using a narrow strip of rough paper, the east staircase was marked by Tessa.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "Using a narrow strip of rough paper, the east staircase had a mark.",
+      "B": "The east staircase used a narrow strip of rough paper as Tessa marked it.",
+      "C": "Using a narrow strip of rough paper, Tessa marked the east staircase.",
+      "D": "Tessa's east staircase was marked using a narrow strip of rough paper."
+    },
+    "correct": "C",
+    "explanation": "Tessa is the person using the paper, so her name must follow the introductory phrase. The original incorrectly suggests that the staircase used the paper."
+  },
+  {
+    "id": "EN2-008",
+    "prompt": "Tessa describes a symbol on the map: “The main office is represented by a square that is <u>small in size and blue in color</u>.” Which choice is most concise while preserving the meaning?",
+    "choices": {
+      "A": "small and blue",
+      "B": "small-sized and blue-colored",
+      "C": "little in its size and blue",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Small and blue” expresses both details directly without the unnecessary phrases “in size” and “in color.” The other choices are wordier."
+  },
+  {
+    "id": "EN2-009",
+    "prompt": "In a passage with a thoughtful, practical tone, Tessa reflects on the team's first design: “Our symbols were too similar, so users sometimes confused the library with the cafeteria. <u>The whole thing was a ridiculous mess.</u>” Which choice best matches the passage's tone?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "Our initial attempt was an absolutely catastrophic failure.",
+      "C": "That mix-up showed us that each location needed a more distinct texture.",
+      "D": "We laughed because careful design was apparently impossible."
+    },
+    "correct": "C",
+    "explanation": "This choice maintains the reflective, practical tone and explains what the team learned. The other options sound exaggerated, mocking, or discouraged."
+  },
+  {
+    "id": "EN2-010",
+    "prompt": "A passage about creating a tactile school map begins, “On the table lay foam strips, textured paper, plastic dots, and a cardboard outline of the school. Tessa closed her eyes and traced a path from the front entrance to the library.” Which choice would most effectively introduce the passage's focus on designing and testing a map that could be read by touch?",
+    "choices": {
+      "A": "School buildings often contain classrooms, offices, and hallways.",
+      "B": "She and her teammates wanted every texture on the map to communicate a clear direction.",
+      "C": "The library table was near a shelf of mystery novels.",
+      "D": "Cardboard is commonly used for boxes and signs."
+    },
+    "correct": "B",
+    "explanation": "This sentence connects Tessa's action to the passage's focus on clear tactile design. The other choices introduce side facts rather than the main idea."
+  },
+  {
+    "id": "EN2-011",
+    "prompt": "In a paragraph about planning the tactile map, Tessa writes: “First, we listed the locations that a new student would need to find. Next, we assigned a different texture to each type of space. _____, we built a small sample and asked two students to test it.” Which choice provides the most logical transition?",
+    "choices": {
+      "A": "In contrast",
+      "B": "For example",
+      "C": "Eventually",
+      "D": "Then"
+    },
+    "correct": "D",
+    "explanation": "“Then” continues the chronological sequence established by “First” and “Next.” The other transitions signal contrast, an example, or a delayed outcome."
+  },
+  {
+    "id": "EN2-012",
+    "prompt": "A paragraph explains that the map team enlarged the legend, increased the space between symbols, and replaced two textures that felt too similar. The writer is considering adding this sentence: “The library's oldest dictionary was printed more than fifty years ago.” Should the writer add the sentence?",
+    "choices": {
+      "A": "Yes, because the team worked in the library.",
+      "B": "Yes, because the sentence provides historical background about one school resource.",
+      "C": "No, because a dictionary cannot be represented on a tactile map.",
+      "D": "No, because the detail distracts from the paragraph's focus on revisions to the map."
+    },
+    "correct": "D",
+    "explanation": "The dictionary's age does not explain any change the team made to its design. Working in the library does not make every library fact relevant."
+  },
+  {
+    "id": "EN2-013",
+    "prompt": "A paragraph about the tactile map contains these sentences:\n[1] The team first used smooth foam for both the cafeteria and the gym. [2] During testing, users often confused the two locations. [3] The students replaced the gym's symbol with a patch of ridged paper. [4] On the next trial, every user identified both rooms correctly.\nThe writer wants to add this sentence: “The change gave each room a texture that could be recognized immediately.” Where should the sentence be placed?",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains the benefit of replacing the gym's symbol, so it belongs immediately after that change is described. Sentence 4 then supplies the successful result."
+  },
+  {
+    "id": "EN2-014",
+    "prompt": "At the end of a passage about creating a tactile school map, Tessa explains that the map now hangs by the entrance and that new students have begun using it. Which concluding sentence best emphasizes what the team learned about thoughtful design?",
+    "choices": {
+      "A": "Foam, paper, and plastic are available in many colors.",
+      "B": "By listening to the people who tested our map, we learned that a useful design begins with understanding its users.",
+      "C": "The entrance is also where visitors sign in at the school office.",
+      "D": "Some students prefer maps, while others prefer written directions."
+    },
+    "correct": "B",
+    "explanation": "This conclusion connects the completed map to the team's central lesson about user-focused design. The other choices end with unrelated or overly general details."
+  },
+  {
+    "id": "EN2-015",
+    "prompt": "In a passage about teenagers producing an audio walking tour, the writer describes their source material: “The students recorded longtime <u>residents stories</u> about the neighborhood.” Which choice correctly forms the plural possessive?",
+    "choices": {
+      "A": "residents stories",
+      "B": "resident's stories",
+      "C": "residents' stories",
+      "D": "residents story's"
+    },
+    "correct": "C",
+    "explanation": "The stories belong to multiple residents, so the apostrophe follows the plural noun “residents.” “Resident's” would refer to only one resident."
+  },
+  {
+    "id": "EN2-016",
+    "prompt": "The passage explains how listeners access the tour: “The library stores the recordings on its <u>website visitors can stream them on a phone.</u>” Which choice best corrects the run-on sentence?",
+    "choices": {
+      "A": "website, visitors can stream them on a phone.",
+      "B": "website; visitors can stream them on a phone.",
+      "C": "website visitors can stream them, on a phone.",
+      "D": "website being where visitors can stream them on a phone."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly joins the two closely related independent clauses. A comma alone would create a comma splice."
+  },
+  {
+    "id": "EN2-017",
+    "prompt": "The writer lists the students' responsibilities: “Their work included <u>interviewing shop owners, editing the recordings, and they wrote short introductions</u>.” Which choice makes the list parallel?",
+    "choices": {
+      "A": "interviewing shop owners, editing the recordings, and writing short introductions",
+      "B": "to interview shop owners, editing the recordings, and short introductions",
+      "C": "interviews with shop owners, editing the recordings, and they wrote short introductions",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "All three items use parallel gerund forms: “interviewing,” “editing,” and “writing.” The other choices mix grammatical forms."
+  },
+  {
+    "id": "EN2-018",
+    "prompt": "The passage introduces three stops on the walking tour: “The route highlights three gathering places <u>the old train platform, Rivera Bakery, and Maple Court.</u>” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": ", the old train platform, Rivera Bakery, and Maple Court.",
+      "B": "; the old train platform, Rivera Bakery, and Maple Court.",
+      "C": "the old train platform, Rivera Bakery, and Maple Court.",
+      "D": ": the old train platform, Rivera Bakery, and Maple Court."
+    },
+    "correct": "D",
+    "explanation": "A colon properly introduces the list after the complete clause. A comma or semicolon does not correctly introduce this list."
+  },
+  {
+    "id": "EN2-019",
+    "prompt": "The writer describes the recording session: “Both narrators adjusted <u>his or her</u> headphones before reading the introduction.” Which choice makes the pronoun agree with its plural antecedent?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "their",
+      "C": "its",
+      "D": "your"
+    },
+    "correct": "B",
+    "explanation": "The plural pronoun “their” agrees with the plural antecedent “narrators.” “His or her” is singular."
+  },
+  {
+    "id": "EN2-020",
+    "prompt": "The passage explains how the team preserved background sound: “The students decided <u>recording</u> the bell above the bakery door before the shop opened.” Which choice uses the standard verb form?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "having recorded",
+      "C": "to record",
+      "D": "recorded"
+    },
+    "correct": "C",
+    "explanation": "The standard construction is “decided to record.” “Decided recording” does not use the accepted verb form after “decided.”"
+  },
+  {
+    "id": "EN2-021",
+    "prompt": "The writer describes the final part of the tour: “Near the end of the route <u>is</u> three short interviews with local musicians.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "has been",
+      "C": "was",
+      "D": "are"
+    },
+    "correct": "D",
+    "explanation": "The plural subject “three short interviews” requires the plural verb “are,” even though the subject follows the verb. “Is” incorrectly treats the subject as singular."
+  },
+  {
+    "id": "EN2-022",
+    "prompt": "The passage quotes Ms. Rivera, whose family owns a bakery: “<u>My grandfather opened this shop she explained when the street had only six buildings.</u>” Which choice correctly punctuates the quotation and the interrupting dialogue tag?",
+    "choices": {
+      "A": "“My grandfather opened this shop” she explained, “when the street had only six buildings.”",
+      "B": "“My grandfather opened this shop,” she explained, “when the street had only six buildings.”",
+      "C": "“My grandfather opened this shop,” she explained “when the street had only six buildings.”",
+      "D": "“My grandfather opened this shop” she explained “when the street had only six buildings.”"
+    },
+    "correct": "B",
+    "explanation": "Commas set off the interrupting dialogue tag “she explained.” The other choices omit one or both required commas."
+  },
+  {
+    "id": "EN2-023",
+    "prompt": "The writer describes one interview: “Mr. Chen <u>talked about</u> how the empty train platform became a weekend market.” Which choice is most precise for an informational passage?",
+    "choices": {
+      "A": "went into",
+      "B": "said stuff about",
+      "C": "described",
+      "D": "NO CHANGE"
+    },
+    "correct": "C",
+    "explanation": "“Described” precisely conveys that Mr. Chen gave an account of the platform's change. The other choices are vague or too informal for an informational passage."
+  },
+  {
+    "id": "EN2-024",
+    "prompt": "The audio-tour passage states, “The recordings preserve the neighborhood's <u>past history</u> in the voices of people who lived it.” Which choice is the most concise without changing the meaning?",
+    "choices": {
+      "A": "history",
+      "B": "former past history",
+      "C": "history from the past",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“History” already refers to the past, so “past history” is redundant. The longer alternatives repeat the same idea."
+  },
+  {
+    "id": "EN2-025",
+    "prompt": "A paragraph about the audio walking tour contains these sentences:\n[1] Before each interview, the students researched the location connected to the speaker's story. [2] They used that research to prepare specific questions. [3] _____ [4] As a result, the speakers often shared detailed memories rather than brief answers.\nWhich choice provides the most logical sentence for the blank?",
+    "choices": {
+      "A": "Some microphones are small enough to fit inside a shirt pocket.",
+      "B": "The neighborhood's streets form an uneven grid.",
+      "C": "During the conversations, the students also asked follow-up questions about unexpected details.",
+      "D": "Each recording was saved as a digital audio file."
+    },
+    "correct": "C",
+    "explanation": "This sentence extends the explanation of how students encouraged detailed answers and leads logically to the result in sentence 4. The other details do not explain the speakers' fuller responses."
+  },
+  {
+    "id": "EN2-026",
+    "prompt": "In a passage about an audio walking tour, the writer wants to support the claim that the tour presents several generations' perspectives. Which choice provides the most relevant supporting detail?",
+    "choices": {
+      "A": "The tour's opening music lasts twelve seconds.",
+      "B": "Speakers include a ninety-year-old gardener, a middle-aged shop owner, and a high school drummer.",
+      "C": "The library lent the students two microphones and a laptop.",
+      "D": "Listeners can pause a recording between stops."
+    },
+    "correct": "B",
+    "explanation": "The ages and roles of these speakers directly demonstrate that the tour includes several generations. The other choices do not address generational perspective."
+  },
+  {
+    "id": "EN2-027",
+    "prompt": "A passage about creating an audio walking tour first explains how students gathered interviews, then describes how they edited the recordings, and finally follows listeners along the completed route. Which choice best explains why this organization is effective?",
+    "choices": {
+      "A": "It compares the tour with several unrelated school projects.",
+      "B": "It hides the purpose of the interviews until the final paragraph.",
+      "C": "It arranges the locations from newest to oldest.",
+      "D": "It moves from collecting material through producing the tour to experiencing the finished result."
+    },
+    "correct": "D",
+    "explanation": "This description accurately identifies the passage's process-based sequence. The other choices misstate its content or organization."
+  },
+  {
+    "id": "EN2-028",
+    "prompt": "In a passage about measuring temperatures on a school playground, the writer states, “Nia placed one thermometer beneath a shade sail <u>and Jalen set another beside the metal slide.</u>” Which choice correctly punctuates the two independent clauses?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "and, Jalen set another beside the metal slide.",
+      "C": ", and Jalen set another beside the metal slide.",
+      "D": "; and Jalen set another beside the metal slide."
+    },
+    "correct": "C",
+    "explanation": "A comma before the coordinating conjunction “and” correctly joins the two independent clauses. A semicolon should not be combined with “and” in this construction."
+  },
+  {
+    "id": "EN2-029",
+    "prompt": "The passage describes part of the playground: “The group of shaded benches near the garden <u>stay</u> cooler than the uncovered seats at midday.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "stays",
+      "C": "are staying",
+      "D": "have stayed"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “group” requires the singular verb “stays.” The plural noun “benches” is inside a prepositional phrase."
+  },
+  {
+    "id": "EN2-030",
+    "prompt": "The writer states, “After Jalen placed the sensor beside the metal slide, <u>it</u> became warm quickly.” The writer wants to make clear that the slide became warm. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "that object",
+      "C": "the slide",
+      "D": "the sensor"
+    },
+    "correct": "C",
+    "explanation": "Replacing “it” with “the slide” clearly identifies what became warm. The original pronoun could refer to either the sensor or the slide."
+  },
+  {
+    "id": "EN2-031",
+    "prompt": "The passage describes measurements taken last Tuesday: “The class checked each thermometer at noon and <u>records</u> the result on a clipboard.” Which choice best maintains consistent verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "will record",
+      "C": "is recording",
+      "D": "recorded"
+    },
+    "correct": "D",
+    "explanation": "“Recorded” matches the past-tense verb “checked” and the completed time marker “last Tuesday.” The other choices shift to present or future time."
+  },
+  {
+    "id": "EN2-032",
+    "prompt": "The writer describes Nia reviewing the measurements: “<u>After comparing the numbers, the temperature difference surprised Nia.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "After comparing the numbers, Nia was surprised by the temperature difference.",
+      "B": "The temperature difference, after comparing the numbers, surprised Nia.",
+      "C": "After the numbers compared, Nia noticed the surprising temperature difference.",
+      "D": "Nia, the temperature difference surprised her after comparing the numbers."
+    },
+    "correct": "A",
+    "explanation": "This choice places Nia immediately after the introductory phrase, correctly showing that she compared the numbers. The original illogically suggests that the temperature difference made the comparison."
+  },
+  {
+    "id": "EN2-033",
+    "prompt": "The passage contrasts two playground surfaces: “The grass felt comfortable in the <u>sun however, the dark rubber surface was hot to the touch.</u>” Which choice correctly joins the independent clauses?",
+    "choices": {
+      "A": "sun, however, the dark rubber surface was hot to the touch.",
+      "B": "sun however; the dark rubber surface was hot to the touch.",
+      "C": "sun however the dark rubber surface was hot to the touch.",
+      "D": "sun; however, the dark rubber surface was hot to the touch."
+    },
+    "correct": "D",
+    "explanation": "A semicolon separates the independent clauses, and a comma follows the conjunctive adverb “however.” A comma before “however” alone would create a comma splice."
+  },
+  {
+    "id": "EN2-034",
+    "prompt": "The passage reports the class's conclusion: “The <u>playgrounds surface</u> affected how much heat was absorbed.” Which choice correctly forms the singular possessive?",
+    "choices": {
+      "A": "playgrounds surface",
+      "B": "playground's surface",
+      "C": "playgrounds' surface",
+      "D": "playground surface's"
+    },
+    "correct": "B",
+    "explanation": "The surface belongs to one playground, so the singular possessive “playground's” is correct. “Playgrounds'” would refer to multiple playgrounds."
+  },
+  {
+    "id": "EN2-035",
+    "prompt": "The writer compares two readings: “At noon, the thermometer under the shade sail registered <u>a temperature that was cooler</u> than the thermometer beside the slide.” Which choice is clearest and most concise?",
+    "choices": {
+      "A": "a cooler temperature",
+      "B": "a temperature cooler in degree",
+      "C": "a temperature that had more coolness",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "This choice states the comparison clearly and concisely. The other choices use unnecessary phrases to express the same idea."
+  },
+  {
+    "id": "EN2-036",
+    "prompt": "The passage uses a clear, explanatory style. It states, “Dark surfaces absorb more of the sunlight that reaches them. <u>That is why the rubber area got super toasty.</u>” Which choice best matches the passage's style?",
+    "choices": {
+      "A": "That is the deal with the rubber area's heat.",
+      "B": "Consequently, the rubber surface reached a higher temperature.",
+      "C": "The rubber area eagerly collected the Sun's fiery rays.",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "This sentence clearly states the result in an informative style. The other choices are conversational or overly dramatic."
+  },
+  {
+    "id": "EN2-037",
+    "prompt": "A passage about playground temperatures begins, “At noon, Nia could stand comfortably beneath the blue shade sail, but the nearby metal slide was too hot to touch for long.” Which choice would most effectively introduce the passage's focus on measuring how shade and surface materials affect temperature?",
+    "choices": {
+      "A": "She wondered how large the temperature differences were and what caused them.",
+      "B": "The shade sail had been installed during the previous summer.",
+      "C": "Blue is one of the three primary colors used in traditional painting.",
+      "D": "Many students enjoy visiting the playground during recess."
+    },
+    "correct": "A",
+    "explanation": "This sentence turns the opening contrast into the questions the class investigates. The other choices do not establish the passage's focus on measurement and causes."
+  },
+  {
+    "id": "EN2-038",
+    "prompt": "In a paragraph about a playground temperature study, the writer explains that students measured each location at 9:00 a.m., noon, and 3:00 p.m. The writer wants to emphasize why measuring at several times was useful. Which sentence would best accomplish this purpose?",
+    "choices": {
+      "A": "The class used three clipboards because several students recorded data.",
+      "B": "Each thermometer displayed temperature in degrees Fahrenheit.",
+      "C": "Repeated measurements showed when each surface warmed most quickly and when it began to cool.",
+      "D": "The playground opened at the same time as the school."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly explains the value of collecting data at several times. The other choices concern equipment or schedules rather than the purpose of repeated measurements."
+  },
+  {
+    "id": "EN2-039",
+    "prompt": "A passage about playground temperatures includes the following paragraph:\n[1] At noon, the uncovered metal slide had the highest temperature in the class's chart. [2] A nearby slide made from light-colored plastic was several degrees cooler. [3] _____ [4] The class concluded that both material and exposure to direct sunlight influenced the readings.\nWhich choice provides the most logical transition for sentence 3?",
+    "choices": {
+      "A": "In addition, the shaded metal ladder was cooler than either slide.",
+      "B": "For example, the school office keeps extra chalk in a cabinet.",
+      "C": "Nevertheless, the students used identical pencils to record every result.",
+      "D": "Similarly, playgrounds may contain swings, benches, and climbing walls."
+    },
+    "correct": "A",
+    "explanation": "This sentence adds relevant evidence about both shade and material before the class draws its conclusion. The other choices do not develop the comparison of temperatures."
+  },
+  {
+    "id": "EN2-040",
+    "prompt": "At the end of a passage about measuring playground temperatures, the writer explains that the class shared its data with the group planning new shade structures. Which concluding sentence best reinforces the passage's main idea without exaggerating the study's results?",
+    "choices": {
+      "A": "The class proved that every playground should be built from grass alone.",
+      "B": "Clearly, a thermometer can answer any question about outdoor safety.",
+      "C": "Shade structures are available in many shapes and colors.",
+      "D": "The project showed how careful measurements could help the school make a more informed decision about its outdoor spaces."
+    },
+    "correct": "D",
+    "explanation": "This conclusion accurately states the study's practical value without claiming that the results apply everywhere. The other choices exaggerate or shift away from the main idea."
+  }
+]

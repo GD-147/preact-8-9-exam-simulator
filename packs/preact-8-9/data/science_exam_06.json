@@ -1,0 +1,362 @@
+[
+  {
+    "id": "S6-001",
+    "prompt": "Students monitored a compost pile containing plant scraps. At each measurement, they recorded the pile's mass and its temperature at the center. The surrounding air remained near 22°C. Decomposers are organisms that break down the scraps.\n\nWeek | Compost mass (kg) | Center temperature (°C)\n0    | 20.0              | 22\n2    | 17.2              | 48\n4    | 14.8              | 39\n6    | 12.9              | 30\n8    | 11.5              | 24\n\nQuestion:\nAt which week was the compost center temperature greatest?",
+    "choices": {
+      "A": "Week 0",
+      "B": "Week 2",
+      "C": "Week 4",
+      "D": "Week 8"
+    },
+    "correct": "B",
+    "explanation": "The greatest center temperature was 48°C at Week 2."
+  },
+  {
+    "id": "S6-002",
+    "prompt": "Students monitored a compost pile containing plant scraps. At each measurement, they recorded the pile's mass and its temperature at the center. The surrounding air remained near 22°C. Decomposers are organisms that break down the scraps.\n\nWeek | Compost mass (kg) | Center temperature (°C)\n0    | 20.0              | 22\n2    | 17.2              | 48\n4    | 14.8              | 39\n6    | 12.9              | 30\n8    | 11.5              | 24\n\nQuestion:\nHow much mass did the compost lose from Week 0 to Week 8?",
+    "choices": {
+      "A": "8.5 kg",
+      "B": "11.5 kg",
+      "C": "20.0 kg",
+      "D": "31.5 kg"
+    },
+    "correct": "A",
+    "explanation": "The mass decreased from 20.0 kg to 11.5 kg, a loss of 8.5 kg."
+  },
+  {
+    "id": "S6-003",
+    "prompt": "Students monitored a compost pile containing plant scraps. At each measurement, they recorded the pile's mass and its temperature at the center. The surrounding air remained near 22°C. Decomposers are organisms that break down the scraps.\n\nWeek | Compost mass (kg) | Center temperature (°C)\n0    | 20.0              | 22\n2    | 17.2              | 48\n4    | 14.8              | 39\n6    | 12.9              | 30\n8    | 11.5              | 24\n\nQuestion:\nIf compost mass changed linearly between Week 4 and Week 6, what mass would be estimated at Week 5?",
+    "choices": {
+      "A": "13.35 kg",
+      "B": "13.85 kg",
+      "C": "14.80 kg",
+      "D": "27.70 kg"
+    },
+    "correct": "B",
+    "explanation": "Week 5 is halfway between Weeks 4 and 6, so the estimate is halfway between 14.8 kg and 12.9 kg, or 13.85 kg."
+  },
+  {
+    "id": "S6-004",
+    "prompt": "Students monitored a compost pile containing plant scraps. At each measurement, they recorded the pile's mass and its temperature at the center. The surrounding air remained near 22°C. Decomposers are organisms that break down the scraps.\n\nWeek | Compost mass (kg) | Center temperature (°C)\n0    | 20.0              | 22\n2    | 17.2              | 48\n4    | 14.8              | 39\n6    | 12.9              | 30\n8    | 11.5              | 24\n\nQuestion:\nWhich investigation would best test whether decomposers caused the early temperature increase?",
+    "choices": {
+      "A": "Compare identical piles with active decomposers and heat-treated piles with greatly reduced decomposer activity under the same conditions.",
+      "B": "Compare piles of different sizes outdoors on different days without measuring temperature.",
+      "C": "Measure only the surrounding air temperature after the compost is removed.",
+      "D": "Add different materials and different amounts of water to every pile."
+    },
+    "correct": "A",
+    "explanation": "The comparison changes decomposer activity while keeping the other pile conditions alike."
+  },
+  {
+    "id": "S6-005",
+    "prompt": "Students monitored a compost pile containing plant scraps. At each measurement, they recorded the pile's mass and its temperature at the center. The surrounding air remained near 22°C. Decomposers are organisms that break down the scraps.\n\nWeek | Compost mass (kg) | Center temperature (°C)\n0    | 20.0              | 22\n2    | 17.2              | 48\n4    | 14.8              | 39\n6    | 12.9              | 30\n8    | 11.5              | 24\n\nQuestion:\nWhich statement best summarizes the measured changes?",
+    "choices": {
+      "A": "Compost mass decreased throughout, while temperature rose sharply and then moved back toward air temperature.",
+      "B": "Compost mass and temperature both increased at every measurement.",
+      "C": "Compost mass remained constant after Week 0.",
+      "D": "The center was coldest at Week 2 and hottest at Week 8."
+    },
+    "correct": "A",
+    "explanation": "Mass fell at every measurement; temperature rose from 22°C to 48°C, then declined to 24°C."
+  },
+  {
+    "id": "S6-006",
+    "prompt": "Students used a rigid lever resting on a pivot. They applied a downward force at one side to lift a load on the other side. Each result is the mean of 5 trials.\n\nExperiment 1: The load was 60 N and remained 20 cm from the pivot while the distance from the applied force to the pivot was changed.\nForce distance (cm) | Mean applied force (N)\n20                  | 60\n40                  | 30\n60                  | 20\n80                  | 15\n\nExperiment 2: Force distance was held at 60 cm and load distance at 20 cm while the load was changed.\nLoad (N) | Mean applied force (N)\n30       | 10\n60       | 20\n90       | 30\n120      | 40\n\nQuestion:\nIn Experiment 1, how much did mean applied force decrease when force distance increased from 20 cm to 80 cm?",
+    "choices": {
+      "A": "15 N",
+      "B": "40 N",
+      "C": "45 N",
+      "D": "75 N"
+    },
+    "correct": "C",
+    "explanation": "Mean applied force decreased from 60 N to 15 N, a difference of 45 N."
+  },
+  {
+    "id": "S6-007",
+    "prompt": "Students used a rigid lever resting on a pivot. They applied a downward force at one side to lift a load on the other side. Each result is the mean of 5 trials.\n\nExperiment 1: The load was 60 N and remained 20 cm from the pivot while the distance from the applied force to the pivot was changed.\nForce distance (cm) | Mean applied force (N)\n20                  | 60\n40                  | 30\n60                  | 20\n80                  | 15\n\nExperiment 2: Force distance was held at 60 cm and load distance at 20 cm while the load was changed.\nLoad (N) | Mean applied force (N)\n30       | 10\n60       | 20\n90       | 30\n120      | 40\n\nQuestion:\nWhat mean applied force lifted a 90 N load in Experiment 2?",
+    "choices": {
+      "A": "10 N",
+      "B": "20 N",
+      "C": "30 N",
+      "D": "40 N"
+    },
+    "correct": "C",
+    "explanation": "The 90 N row in Experiment 2 lists a mean applied force of 30 N."
+  },
+  {
+    "id": "S6-008",
+    "prompt": "Students used a rigid lever resting on a pivot. They applied a downward force at one side to lift a load on the other side. Each result is the mean of 5 trials.\n\nExperiment 1: The load was 60 N and remained 20 cm from the pivot while the distance from the applied force to the pivot was changed.\nForce distance (cm) | Mean applied force (N)\n20                  | 60\n40                  | 30\n60                  | 20\n80                  | 15\n\nExperiment 2: Force distance was held at 60 cm and load distance at 20 cm while the load was changed.\nLoad (N) | Mean applied force (N)\n30       | 10\n60       | 20\n90       | 30\n120      | 40\n\nQuestion:\nWhat variable was deliberately changed during Experiment 1?",
+    "choices": {
+      "A": "Distance from the applied force to the pivot",
+      "B": "Load force",
+      "C": "Load distance",
+      "D": "Mean applied force"
+    },
+    "correct": "A",
+    "explanation": "Experiment 1 changed force distance while the load and its distance from the pivot remained fixed."
+  },
+  {
+    "id": "S6-009",
+    "prompt": "Students used a rigid lever resting on a pivot. They applied a downward force at one side to lift a load on the other side. Each result is the mean of 5 trials.\n\nExperiment 1: The load was 60 N and remained 20 cm from the pivot while the distance from the applied force to the pivot was changed.\nForce distance (cm) | Mean applied force (N)\n20                  | 60\n40                  | 30\n60                  | 20\n80                  | 15\n\nExperiment 2: Force distance was held at 60 cm and load distance at 20 cm while the load was changed.\nLoad (N) | Mean applied force (N)\n30       | 10\n60       | 20\n90       | 30\n120      | 40\n\nQuestion:\nWhy was the load kept 20 cm from the pivot in every trial?",
+    "choices": {
+      "A": "To prevent load distance from affecting comparisons of applied force",
+      "B": "To make load distance the dependent variable",
+      "C": "To ensure the applied force was always 20 N",
+      "D": "To make force distance and load change together"
+    },
+    "correct": "A",
+    "explanation": "Holding load distance constant isolates force distance or load as the tested factor."
+  },
+  {
+    "id": "S6-010",
+    "prompt": "Students used a rigid lever resting on a pivot. They applied a downward force at one side to lift a load on the other side. Each result is the mean of 5 trials.\n\nExperiment 1: The load was 60 N and remained 20 cm from the pivot while the distance from the applied force to the pivot was changed.\nForce distance (cm) | Mean applied force (N)\n20                  | 60\n40                  | 30\n60                  | 20\n80                  | 15\n\nExperiment 2: Force distance was held at 60 cm and load distance at 20 cm while the load was changed.\nLoad (N) | Mean applied force (N)\n30       | 10\n60       | 20\n90       | 30\n120      | 40\n\nQuestion:\nA student claims that doubling force distance halves the applied force needed for the same load. Which Experiment 1 comparisons support this claim?",
+    "choices": {
+      "A": "20 cm to 40 cm and 40 cm to 80 cm",
+      "B": "20 cm to 60 cm only",
+      "C": "60 cm to 80 cm only",
+      "D": "No listed comparison supports it"
+    },
+    "correct": "A",
+    "explanation": "Doubling distance from 20 to 40 cm changed force from 60 to 30 N, and doubling from 40 to 80 cm changed it from 30 to 15 N."
+  },
+  {
+    "id": "S6-011",
+    "prompt": "Scientists monitored a volcano for 5 consecutive days. They measured sulfur dioxide gas released per day and counted small earthquakes beneath the volcano.\n\nDay | Sulfur dioxide (tons/day) | Small earthquakes\n1   | 120                       | 4\n2   | 160                       | 7\n3   | 230                       | 12\n4   | 350                       | 20\n5   | 510                       | 31\n\nQuestion:\nHow many small earthquakes were recorded on Day 4?",
+    "choices": {
+      "A": "12",
+      "B": "20",
+      "C": "31",
+      "D": "350"
+    },
+    "correct": "B",
+    "explanation": "The Day 4 row lists 20 small earthquakes."
+  },
+  {
+    "id": "S6-012",
+    "prompt": "Scientists monitored a volcano for 5 consecutive days. They measured sulfur dioxide gas released per day and counted small earthquakes beneath the volcano.\n\nDay | Sulfur dioxide (tons/day) | Small earthquakes\n1   | 120                       | 4\n2   | 160                       | 7\n3   | 230                       | 12\n4   | 350                       | 20\n5   | 510                       | 31\n\nQuestion:\nBy how much did sulfur dioxide release increase from Day 1 to Day 5?",
+    "choices": {
+      "A": "31 tons/day",
+      "B": "390 tons/day",
+      "C": "510 tons/day",
+      "D": "630 tons/day"
+    },
+    "correct": "B",
+    "explanation": "Sulfur dioxide increased from 120 to 510 tons/day, a rise of 390 tons/day."
+  },
+  {
+    "id": "S6-013",
+    "prompt": "Scientists monitored a volcano for 5 consecutive days. They measured sulfur dioxide gas released per day and counted small earthquakes beneath the volcano.\n\nDay | Sulfur dioxide (tons/day) | Small earthquakes\n1   | 120                       | 4\n2   | 160                       | 7\n3   | 230                       | 12\n4   | 350                       | 20\n5   | 510                       | 31\n\nQuestion:\nIf sulfur dioxide release changed linearly between Day 3 and Day 4, what value would be estimated halfway between those measurements?",
+    "choices": {
+      "A": "255 tons/day",
+      "B": "290 tons/day",
+      "C": "350 tons/day",
+      "D": "580 tons/day"
+    },
+    "correct": "B",
+    "explanation": "The halfway value between 230 and 350 tons/day is 290 tons/day."
+  },
+  {
+    "id": "S6-014",
+    "prompt": "Scientists monitored a volcano for 5 consecutive days. They measured sulfur dioxide gas released per day and counted small earthquakes beneath the volcano.\n\nDay | Sulfur dioxide (tons/day) | Small earthquakes\n1   | 120                       | 4\n2   | 160                       | 7\n3   | 230                       | 12\n4   | 350                       | 20\n5   | 510                       | 31\n\nQuestion:\nWhich change would best show whether the earthquake counts were similar around the entire volcano?",
+    "choices": {
+      "A": "Use several calibrated seismic stations distributed around the volcano.",
+      "B": "Measure sulfur dioxide at only one location and stop counting earthquakes.",
+      "C": "Count earthquakes on Day 1 but not on later days.",
+      "D": "Replace seismic measurements with daily rainfall totals."
+    },
+    "correct": "A",
+    "explanation": "Several stations would reveal whether the earthquake pattern occurred across the volcano rather than near one sensor."
+  },
+  {
+    "id": "S6-015",
+    "prompt": "Scientists monitored a volcano for 5 consecutive days. They measured sulfur dioxide gas released per day and counted small earthquakes beneath the volcano.\n\nDay | Sulfur dioxide (tons/day) | Small earthquakes\n1   | 120                       | 4\n2   | 160                       | 7\n3   | 230                       | 12\n4   | 350                       | 20\n5   | 510                       | 31\n\nQuestion:\nWhich conclusion is supported without claiming that one measurement caused the other?",
+    "choices": {
+      "A": "Sulfur dioxide release and small-earthquake counts both increased across the 5 days.",
+      "B": "Sulfur dioxide caused exactly 1 earthquake for every ton released.",
+      "C": "Earthquake counts decreased while sulfur dioxide increased.",
+      "D": "Neither measurement changed after Day 1."
+    },
+    "correct": "A",
+    "explanation": "Gas release rose from 120 to 510 tons/day while earthquake count rose from 4 to 31."
+  },
+  {
+    "id": "S6-016",
+    "prompt": "Researchers tested the hypothesis that ripe fruit releases a gas that speeds the ripening of green tomatoes. Identical green tomatoes were placed under the conditions listed below. All conditions had the same light and temperature. The mean time to become fully red was calculated from 6 trials.\n\nCondition                              | Mean time to become red (days)\nSealed bag with no additional object   | 8.4\nSealed bag with a ripe banana           | 4.1\nSealed bag with a ripe apple            | 5.3\nSealed bag with a plastic model banana  | 8.2\nOpen air                                | 10.1\n\nQuestion:\nWhich condition produced the shortest mean time for tomatoes to become red?",
+    "choices": {
+      "A": "Sealed bag with no additional object",
+      "B": "Sealed bag with a ripe banana",
+      "C": "Sealed bag with a plastic model banana",
+      "D": "Open air"
+    },
+    "correct": "B",
+    "explanation": "The ripe-banana condition had the shortest mean ripening time, 4.1 days."
+  },
+  {
+    "id": "S6-017",
+    "prompt": "Researchers tested the hypothesis that ripe fruit releases a gas that speeds the ripening of green tomatoes. Identical green tomatoes were placed under the conditions listed below. All conditions had the same light and temperature. The mean time to become fully red was calculated from 6 trials.\n\nCondition                              | Mean time to become red (days)\nSealed bag with no additional object   | 8.4\nSealed bag with a ripe banana           | 4.1\nSealed bag with a ripe apple            | 5.3\nSealed bag with a plastic model banana  | 8.2\nOpen air                                | 10.1\n\nQuestion:\nWhat was the measured response in this investigation?",
+    "choices": {
+      "A": "Mean time for a tomato to become fully red",
+      "B": "Type of object placed with the tomato",
+      "C": "Light level",
+      "D": "Starting tomato color"
+    },
+    "correct": "A",
+    "explanation": "Ripening time was measured after the surrounding condition was changed."
+  },
+  {
+    "id": "S6-018",
+    "prompt": "Researchers tested the hypothesis that ripe fruit releases a gas that speeds the ripening of green tomatoes. Identical green tomatoes were placed under the conditions listed below. All conditions had the same light and temperature. The mean time to become fully red was calculated from 6 trials.\n\nCondition                              | Mean time to become red (days)\nSealed bag with no additional object   | 8.4\nSealed bag with a ripe banana           | 4.1\nSealed bag with a ripe apple            | 5.3\nSealed bag with a plastic model banana  | 8.2\nOpen air                                | 10.1\n\nQuestion:\nWhy was a plastic model banana included?",
+    "choices": {
+      "A": "To test whether merely placing a banana-shaped object in the bag explained the effect",
+      "B": "To release more ripening gas than a real banana",
+      "C": "To make tomato color the independent variable",
+      "D": "To change the temperature only in that bag"
+    },
+    "correct": "A",
+    "explanation": "The model controlled for the physical presence and shape of a banana without using ripe fruit."
+  },
+  {
+    "id": "S6-019",
+    "prompt": "Researchers tested the hypothesis that ripe fruit releases a gas that speeds the ripening of green tomatoes. Identical green tomatoes were placed under the conditions listed below. All conditions had the same light and temperature. The mean time to become fully red was calculated from 6 trials.\n\nCondition                              | Mean time to become red (days)\nSealed bag with no additional object   | 8.4\nSealed bag with a ripe banana           | 4.1\nSealed bag with a ripe apple            | 5.3\nSealed bag with a plastic model banana  | 8.2\nOpen air                                | 10.1\n\nQuestion:\nWhich result most strongly supports the researchers' gas hypothesis?",
+    "choices": {
+      "A": "Real ripe fruits shortened ripening time, while a plastic model produced a time similar to the empty sealed bag.",
+      "B": "Every tomato began green.",
+      "C": "The open-air condition took 10.1 days.",
+      "D": "All conditions received the same light."
+    },
+    "correct": "A",
+    "explanation": "Banana and apple shortened ripening to 4.1 and 5.3 days, while the model and empty bag took 8.2 and 8.4 days."
+  },
+  {
+    "id": "S6-020",
+    "prompt": "Researchers tested the hypothesis that ripe fruit releases a gas that speeds the ripening of green tomatoes. Identical green tomatoes were placed under the conditions listed below. All conditions had the same light and temperature. The mean time to become fully red was calculated from 6 trials.\n\nCondition                              | Mean time to become red (days)\nSealed bag with no additional object   | 8.4\nSealed bag with a ripe banana           | 4.1\nSealed bag with a ripe apple            | 5.3\nSealed bag with a plastic model banana  | 8.2\nOpen air                                | 10.1\n\nQuestion:\nActivated charcoal absorbs many gases. A banana-and-tomato bag containing activated charcoal has a mean ripening time of 7.9 days. How does this result affect the hypothesis?",
+    "choices": {
+      "A": "It supports the hypothesis because absorbing gas greatly reduced the banana's ripening effect.",
+      "B": "It contradicts the hypothesis because charcoal made ripening faster than 4.1 days.",
+      "C": "It proves that light caused every difference.",
+      "D": "It provides no comparison with any original condition."
+    },
+    "correct": "A",
+    "explanation": "With charcoal, ripening took 7.9 days instead of 4.1 days with the banana alone, consistent with removal of a ripening gas."
+  },
+  {
+    "id": "S6-021",
+    "prompt": "Hot springs at the base of a dormant volcano release water at 58°C. The water's isotope pattern matches local rain, and it contains minerals found in deep rock. Faults and fractures extend beneath the springs. The volcano last erupted 12,000 years ago. Current imaging has not detected molten rock, but the imaging cannot clearly resolve material deeper than 6 km.\n\nViewpoint 1 — Magma-heating model: A deep body of molten rock remains beneath the volcano. Rainwater moves underground through fractures, is heated near the magma, dissolves minerals, and rises to the springs. A volcano can contain magma without erupting.\n\nViewpoint 2 — Deep-circulation model: No magma is needed. Rainwater descends several kilometers along faults, where ordinary solid rock is hotter because temperature increases with depth. The heated water dissolves minerals and then rises through other fractures.\n\nQuestion:\nWhat temperature is reported for the hot-spring water?",
+    "choices": {
+      "A": "6°C",
+      "B": "12°C",
+      "C": "58°C",
+      "D": "120°C"
+    },
+    "correct": "C",
+    "explanation": "The spring water is reported to emerge at 58°C."
+  },
+  {
+    "id": "S6-022",
+    "prompt": "Hot springs at the base of a dormant volcano release water at 58°C. The water's isotope pattern matches local rain, and it contains minerals found in deep rock. Faults and fractures extend beneath the springs. The volcano last erupted 12,000 years ago. Current imaging has not detected molten rock, but the imaging cannot clearly resolve material deeper than 6 km.\n\nViewpoint 1 — Magma-heating model: A deep body of molten rock remains beneath the volcano. Rainwater moves underground through fractures, is heated near the magma, dissolves minerals, and rises to the springs. A volcano can contain magma without erupting.\n\nViewpoint 2 — Deep-circulation model: No magma is needed. Rainwater descends several kilometers along faults, where ordinary solid rock is hotter because temperature increases with depth. The heated water dissolves minerals and then rises through other fractures.\n\nQuestion:\nWhich additional result would most strongly favor the magma-heating model?",
+    "choices": {
+      "A": "Improved imaging detects a molten body beneath the springs, and spring temperature rises as that body moves upward.",
+      "B": "Spring water has the isotope pattern of local rain.",
+      "C": "The water contains minerals found in deep rock.",
+      "D": "Faults occur beneath the springs."
+    },
+    "correct": "A",
+    "explanation": "A detected molten body linked to spring temperature would provide the heat source proposed only by the magma model."
+  },
+  {
+    "id": "S6-023",
+    "prompt": "Hot springs at the base of a dormant volcano release water at 58°C. The water's isotope pattern matches local rain, and it contains minerals found in deep rock. Faults and fractures extend beneath the springs. The volcano last erupted 12,000 years ago. Current imaging has not detected molten rock, but the imaging cannot clearly resolve material deeper than 6 km.\n\nViewpoint 1 — Magma-heating model: A deep body of molten rock remains beneath the volcano. Rainwater moves underground through fractures, is heated near the magma, dissolves minerals, and rises to the springs. A volcano can contain magma without erupting.\n\nViewpoint 2 — Deep-circulation model: No magma is needed. Rainwater descends several kilometers along faults, where ordinary solid rock is hotter because temperature increases with depth. The heated water dissolves minerals and then rises through other fractures.\n\nQuestion:\nWhich finding would provide the strongest direct support for Viewpoint 2?",
+    "choices": {
+      "A": "A tracer in local rain travels down one fault to 4 km depth and later emerges from the spring through another fracture.",
+      "B": "A volcano elsewhere erupts above a magma chamber.",
+      "C": "Molten rock can heat water in a laboratory.",
+      "D": "The spring water temperature remains above air temperature."
+    },
+    "correct": "A",
+    "explanation": "The tracer path would directly demonstrate the deep circulation route proposed by Viewpoint 2."
+  },
+  {
+    "id": "S6-024",
+    "prompt": "Hot springs at the base of a dormant volcano release water at 58°C. The water's isotope pattern matches local rain, and it contains minerals found in deep rock. Faults and fractures extend beneath the springs. The volcano last erupted 12,000 years ago. Current imaging has not detected molten rock, but the imaging cannot clearly resolve material deeper than 6 km.\n\nViewpoint 1 — Magma-heating model: A deep body of molten rock remains beneath the volcano. Rainwater moves underground through fractures, is heated near the magma, dissolves minerals, and rises to the springs. A volcano can contain magma without erupting.\n\nViewpoint 2 — Deep-circulation model: No magma is needed. Rainwater descends several kilometers along faults, where ordinary solid rock is hotter because temperature increases with depth. The heated water dissolves minerals and then rises through other fractures.\n\nQuestion:\nThe viewpoints disagree most directly about:",
+    "choices": {
+      "A": "whether magma or hot solid rock supplies the heat.",
+      "B": "whether the spring water originally fell as local rain.",
+      "C": "whether the water contains dissolved minerals.",
+      "D": "whether fractures occur beneath the springs."
+    },
+    "correct": "A",
+    "explanation": "Viewpoint 1 uses heat from magma, whereas Viewpoint 2 uses the normal increase in solid-rock temperature with depth."
+  },
+  {
+    "id": "S6-025",
+    "prompt": "Hot springs at the base of a dormant volcano release water at 58°C. The water's isotope pattern matches local rain, and it contains minerals found in deep rock. Faults and fractures extend beneath the springs. The volcano last erupted 12,000 years ago. Current imaging has not detected molten rock, but the imaging cannot clearly resolve material deeper than 6 km.\n\nViewpoint 1 — Magma-heating model: A deep body of molten rock remains beneath the volcano. Rainwater moves underground through fractures, is heated near the magma, dissolves minerals, and rises to the springs. A volcano can contain magma without erupting.\n\nViewpoint 2 — Deep-circulation model: No magma is needed. Rainwater descends several kilometers along faults, where ordinary solid rock is hotter because temperature increases with depth. The heated water dissolves minerals and then rises through other fractures.\n\nQuestion:\nSuppose measurements show that solid rock along the deepest possible circulation path is only 35°C, while a nearby molten body is confirmed. This evidence would most likely:",
+    "choices": {
+      "A": "support Viewpoint 1 because the solid-rock path is too cool to explain 58°C water but magma could provide additional heat.",
+      "B": "support Viewpoint 2 because 35°C rock must heat water to 58°C.",
+      "C": "support both viewpoints equally because neither proposes a heat source.",
+      "D": "contradict Viewpoint 1 because molten rock cannot transfer heat."
+    },
+    "correct": "A",
+    "explanation": "The measured solid rock would be cooler than the spring water, while confirmed magma supplies the extra heat required by Viewpoint 1."
+  },
+  {
+    "id": "S6-026",
+    "prompt": "Students blew gently across open tubes and measured the main sound frequency with a sensor. A greater frequency corresponds to a higher pitch. Each result is the mean of 4 trials.\n\nExperiment 1: Tube diameter was held at 2 cm while air-column length was changed.\nAir-column length (cm) | Mean frequency (Hz)\n10                     | 680\n20                     | 340\n30                     | 227\n40                     | 170\n\nExperiment 2: Air-column length was held at 20 cm while tube diameter was changed.\nTube diameter (cm) | Mean frequency (Hz)\n1                  | 342\n2                  | 340\n3                  | 339\n4                  | 341\n\nQuestion:\nIn Experiment 1, what mean frequency was produced by a 30 cm air column?",
+    "choices": {
+      "A": "170 Hz",
+      "B": "227 Hz",
+      "C": "340 Hz",
+      "D": "680 Hz"
+    },
+    "correct": "B",
+    "explanation": "The 30 cm row lists a mean frequency of 227 Hz."
+  },
+  {
+    "id": "S6-027",
+    "prompt": "Students blew gently across open tubes and measured the main sound frequency with a sensor. A greater frequency corresponds to a higher pitch. Each result is the mean of 4 trials.\n\nExperiment 1: Tube diameter was held at 2 cm while air-column length was changed.\nAir-column length (cm) | Mean frequency (Hz)\n10                     | 680\n20                     | 340\n30                     | 227\n40                     | 170\n\nExperiment 2: Air-column length was held at 20 cm while tube diameter was changed.\nTube diameter (cm) | Mean frequency (Hz)\n1                  | 342\n2                  | 340\n3                  | 339\n4                  | 341\n\nQuestion:\nHow much lower was the mean frequency at 40 cm than at 10 cm?",
+    "choices": {
+      "A": "170 Hz",
+      "B": "340 Hz",
+      "C": "510 Hz",
+      "D": "850 Hz"
+    },
+    "correct": "C",
+    "explanation": "The difference between 680 Hz and 170 Hz is 510 Hz."
+  },
+  {
+    "id": "S6-028",
+    "prompt": "Students blew gently across open tubes and measured the main sound frequency with a sensor. A greater frequency corresponds to a higher pitch. Each result is the mean of 4 trials.\n\nExperiment 1: Tube diameter was held at 2 cm while air-column length was changed.\nAir-column length (cm) | Mean frequency (Hz)\n10                     | 680\n20                     | 340\n30                     | 227\n40                     | 170\n\nExperiment 2: Air-column length was held at 20 cm while tube diameter was changed.\nTube diameter (cm) | Mean frequency (Hz)\n1                  | 342\n2                  | 340\n3                  | 339\n4                  | 341\n\nQuestion:\nWhich factor did the students intentionally vary in Experiment 2?",
+    "choices": {
+      "A": "Tube diameter",
+      "B": "Air-column length",
+      "C": "Mean frequency",
+      "D": "Number of trials"
+    },
+    "correct": "A",
+    "explanation": "Experiment 2 changed tube diameter while holding air-column length at 20 cm."
+  },
+  {
+    "id": "S6-029",
+    "prompt": "Students blew gently across open tubes and measured the main sound frequency with a sensor. A greater frequency corresponds to a higher pitch. Each result is the mean of 4 trials.\n\nExperiment 1: Tube diameter was held at 2 cm while air-column length was changed.\nAir-column length (cm) | Mean frequency (Hz)\n10                     | 680\n20                     | 340\n30                     | 227\n40                     | 170\n\nExperiment 2: Air-column length was held at 20 cm while tube diameter was changed.\nTube diameter (cm) | Mean frequency (Hz)\n1                  | 342\n2                  | 340\n3                  | 339\n4                  | 341\n\nQuestion:\nWhy did the students blow gently across the tubes in the same manner for all trials?",
+    "choices": {
+      "A": "To keep the sound-producing procedure consistent while tube dimensions were tested",
+      "B": "To make blowing method the independent variable",
+      "C": "To guarantee that all tubes produced 340 Hz",
+      "D": "To change air-column length during each measurement"
+    },
+    "correct": "A",
+    "explanation": "A consistent blowing method prevents it from becoming another explanation for frequency differences."
+  },
+  {
+    "id": "S6-030",
+    "prompt": "Students blew gently across open tubes and measured the main sound frequency with a sensor. A greater frequency corresponds to a higher pitch. Each result is the mean of 4 trials.\n\nExperiment 1: Tube diameter was held at 2 cm while air-column length was changed.\nAir-column length (cm) | Mean frequency (Hz)\n10                     | 680\n20                     | 340\n30                     | 227\n40                     | 170\n\nExperiment 2: Air-column length was held at 20 cm while tube diameter was changed.\nTube diameter (cm) | Mean frequency (Hz)\n1                  | 342\n2                  | 340\n3                  | 339\n4                  | 341\n\nQuestion:\nA student claims that increasing tube diameter from 1 cm to 4 cm greatly lowers frequency when air-column length is fixed. How do the results evaluate this claim?",
+    "choices": {
+      "A": "They support it because frequency fell from 680 Hz to 170 Hz.",
+      "B": "They support it because every wider tube had exactly half the previous frequency.",
+      "C": "They contradict it because frequencies stayed near 340 Hz across all tested diameters.",
+      "D": "They cannot evaluate it because tube diameter was not varied."
+    },
+    "correct": "C",
+    "explanation": "At a fixed 20 cm length, frequencies ranged only from 339 Hz to 342 Hz as diameter changed."
+  }
+]

@@ -19,7 +19,12 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "english_exam_01.json"
+        "english_exam_01.json",
+        "english_exam_02.json",
+        "english_exam_03.json",
+        "english_exam_04.json",
+        "english_exam_05.json",
+        "english_exam_06.json"
       ]
     },
     {
@@ -30,7 +35,12 @@
       "type": "mcq",
       "choices": 5,
       "examFiles": [
-        "math_exam_01.json"
+        "math_exam_01.json",
+        "math_exam_02.json",
+        "math_exam_03.json",
+        "math_exam_04.json",
+        "math_exam_05.json",
+        "math_exam_06.json"
       ]
     },
     {
@@ -41,7 +51,12 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "reading_exam_01.json"
+        "reading_exam_01.json",
+        "reading_exam_02.json",
+        "reading_exam_03.json",
+        "reading_exam_04.json",
+        "reading_exam_05.json",
+        "reading_exam_06.json"
       ]
     },
     {
@@ -53,7 +68,12 @@
       "choices": 4,
       "optional": true,
       "examFiles": [
-        "science_exam_01.json"
+        "science_exam_01.json",
+        "science_exam_02.json",
+        "science_exam_03.json",
+        "science_exam_04.json",
+        "science_exam_05.json",
+        "science_exam_06.json"
       ]
     },
     {
@@ -63,7 +83,12 @@
       "examQuestions": 130,
       "type": "mcq",
       "examFiles": [
-        "full_length_exam_01.json"
+        "full_length_exam_01.json",
+        "full_length_exam_02.json",
+        "full_length_exam_03.json",
+        "full_length_exam_04.json",
+        "full_length_exam_05.json",
+        "full_length_exam_06.json"
       ]
     }
   ],
@@ -83,6 +108,86 @@
     {
       "label": "Printable Practice Exam 04 — Science",
       "file": "preact_8_9_printable_04_science.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 05 — English",
+      "file": "preact_8_9_printable_05_english.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 06 — Math",
+      "file": "preact_8_9_printable_06_math.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 07 — Reading",
+      "file": "preact_8_9_printable_07_reading.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 08 — Science",
+      "file": "preact_8_9_printable_08_science.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 09 — English",
+      "file": "preact_8_9_printable_09_english.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 10 — Math",
+      "file": "preact_8_9_printable_10_math.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 11 — Reading",
+      "file": "preact_8_9_printable_11_reading.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 12 — Science",
+      "file": "preact_8_9_printable_12_science.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 13 — English",
+      "file": "preact_8_9_printable_13_english.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 14 — Math",
+      "file": "preact_8_9_printable_14_math.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 15 — Reading",
+      "file": "preact_8_9_printable_15_reading.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 16 — Science",
+      "file": "preact_8_9_printable_16_science.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 17 — English",
+      "file": "preact_8_9_printable_17_english.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 18 — Math",
+      "file": "preact_8_9_printable_18_math.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 19 — Reading",
+      "file": "preact_8_9_printable_19_reading.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 20 — Science",
+      "file": "preact_8_9_printable_20_science.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 21 — English",
+      "file": "preact_8_9_printable_21_english.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 22 — Math",
+      "file": "preact_8_9_printable_22_math.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 23 — Reading",
+      "file": "preact_8_9_printable_23_reading.pdf"
+    },
+    {
+      "label": "Printable Practice Exam 24 — Science",
+      "file": "preact_8_9_printable_24_science.pdf"
     }
   ]
 }

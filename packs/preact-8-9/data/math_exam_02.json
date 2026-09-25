@@ -1,0 +1,457 @@
+[
+  {
+    "id": "M2-001",
+    "prompt": "What is the value of |−9| − √16?",
+    "choices": {
+      "A": "−13",
+      "B": "−5",
+      "C": "5",
+      "D": "9",
+      "E": "13"
+    },
+    "correct": "C",
+    "explanation": "|−9| = 9 and √16 = 4, so |−9| − √16 = 9 − 4 = 5."
+  },
+  {
+    "id": "M2-002",
+    "prompt": "What value of x satisfies 4x + 9 = 29?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "7",
+      "D": "8",
+      "E": "10"
+    },
+    "correct": "B",
+    "explanation": "Subtract 9 from both sides to get 4x = 20, and then divide by 4 to get x = 5."
+  },
+  {
+    "id": "M2-003",
+    "prompt": "Two angles of a triangle measure 47° and 68°. What is the measure of the third angle?",
+    "choices": {
+      "A": "55°",
+      "B": "65°",
+      "C": "75°",
+      "D": "111°",
+      "E": "115°"
+    },
+    "correct": "B",
+    "explanation": "The angles of a triangle sum to 180°, so the third angle is 180° − 47° − 68° = 65°."
+  },
+  {
+    "id": "M2-004",
+    "prompt": "A plant is 14 centimeters tall when it is first measured. Its height increases at a constant rate, as shown in the table.\n\nw (weeks) | 0 | 3 | 6 | 9\nh (centimeters) | 14 | 20 | 26 | 32\n\nWhich equation gives the plant's height h after w weeks?",
+    "choices": {
+      "A": "h = 2w + 14",
+      "B": "h = 3w + 14",
+      "C": "h = 6w + 14",
+      "D": "h = 14w + 2",
+      "E": "h = 14w + 6"
+    },
+    "correct": "A",
+    "explanation": "The height is 14 centimeters at week 0 and increases by 6 centimeters every 3 weeks, a rate of 2 centimeters per week. Therefore, h = 2w + 14."
+  },
+  {
+    "id": "M2-005",
+    "prompt": "What is the mean of the data set 6, 8, 8, 10, 13?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "9.5",
+      "D": "10",
+      "E": "11"
+    },
+    "correct": "B",
+    "explanation": "The sum of the 5 values is 45, so the mean is 45 ÷ 5 = 9."
+  },
+  {
+    "id": "M2-006",
+    "prompt": "What is (6 × 10⁷) ÷ (3 × 10³) written in scientific notation?",
+    "choices": {
+      "A": "2 × 10³",
+      "B": "2 × 10⁴",
+      "C": "2 × 10¹⁰",
+      "D": "3 × 10⁴",
+      "E": "3 × 10¹⁰"
+    },
+    "correct": "B",
+    "explanation": "Divide the coefficients to get 2, and divide the powers of 10: 10⁷ ÷ 10³ = 10⁴. Therefore, the result is 2 × 10⁴."
+  },
+  {
+    "id": "M2-007",
+    "prompt": "A restaurant bill is $48. A customer leaves a tip equal to 18% of the bill. What is the total amount of the bill and tip?",
+    "choices": {
+      "A": "$48.18",
+      "B": "$54.40",
+      "C": "$56.64",
+      "D": "$57.60",
+      "E": "$66.00"
+    },
+    "correct": "C",
+    "explanation": "The tip is $48 × 0.18 = $8.64. Adding it to the bill gives $48 + $8.64 = $56.64."
+  },
+  {
+    "id": "M2-008",
+    "prompt": "On a map, 1 centimeter represents 12 kilometers. Two towns are 7.5 centimeters apart on the map. What is the actual distance between the towns?",
+    "choices": {
+      "A": "19.5 kilometers",
+      "B": "62.5 kilometers",
+      "C": "72 kilometers",
+      "D": "90 kilometers",
+      "E": "120 kilometers"
+    },
+    "correct": "D",
+    "explanation": "Each centimeter represents 12 kilometers, so 7.5 × 12 = 90 kilometers."
+  },
+  {
+    "id": "M2-009",
+    "prompt": "A circular fountain has a radius of 7 meters. What is the circumference of the fountain?",
+    "choices": {
+      "A": "7π meters",
+      "B": "14π meters",
+      "C": "28π meters",
+      "D": "49π meters",
+      "E": "98π meters"
+    },
+    "correct": "B",
+    "explanation": "The circumference is 2πr. With r = 7, it is 2 × π × 7 = 14π meters."
+  },
+  {
+    "id": "M2-010",
+    "prompt": "A bag contains 5 red tiles, 3 blue tiles, and 2 green tiles. One tile is selected at random. What is the probability that the tile is not blue?",
+    "choices": {
+      "A": "1/5",
+      "B": "3/10",
+      "C": "1/2",
+      "D": "7/10",
+      "E": "4/5"
+    },
+    "correct": "D",
+    "explanation": "There are 10 tiles total and 7 are not blue, so the probability is 7/10."
+  },
+  {
+    "id": "M2-011",
+    "prompt": "What is the value of √144 − ∛125?",
+    "choices": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "12",
+      "E": "17"
+    },
+    "correct": "B",
+    "explanation": "√144 = 12 and ∛125 = 5, so √144 − ∛125 = 12 − 5 = 7."
+  },
+  {
+    "id": "M2-012",
+    "prompt": "The first term of a sequence is 3. Each term after the first is twice the preceding term. What is the sixth term?",
+    "choices": {
+      "A": "24",
+      "B": "48",
+      "C": "64",
+      "D": "96",
+      "E": "192"
+    },
+    "correct": "D",
+    "explanation": "Starting with 3 and doubling 5 times gives 3, 6, 12, 24, 48, 96. Therefore, the sixth term is 96."
+  },
+  {
+    "id": "M2-013",
+    "prompt": "A community group wants to collect at least $500. It has already collected $128 and expects to collect $31 each day. What is the least number of additional days needed to reach the goal?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "16"
+    },
+    "correct": "C",
+    "explanation": "The group still needs $500 − $128 = $372. Since $372 ÷ $31 = 12, it needs at least 12 additional days."
+  },
+  {
+    "id": "M2-014",
+    "prompt": "Point R has coordinates (−4, 2). It is translated 3 units to the right and 5 units down. What are the coordinates of the image of R?",
+    "choices": {
+      "A": "(−9, 5)",
+      "B": "(−7, 7)",
+      "C": "(−1, −3)",
+      "D": "(1, −2)",
+      "E": "(1, 7)"
+    },
+    "correct": "C",
+    "explanation": "Moving (−4, 2) right 3 units changes x to −1, and moving it down 5 units changes y to −3."
+  },
+  {
+    "id": "M2-015",
+    "prompt": "The table shows whether 120 students have a library card.\n\n          | Has a card | Does not have a card | Total\nGrade 8   | 36         | 24                   | 60\nGrade 9   | 42         | 18                   | 60\nTotal     | 78         | 42                   | 120\n\nOne student is selected at random from the students who do not have a library card. What is the probability that the selected student is in Grade 9?",
+    "choices": {
+      "A": "3/20",
+      "B": "2/7",
+      "C": "3/7",
+      "D": "7/20",
+      "E": "7/10"
+    },
+    "correct": "C",
+    "explanation": "Of the 42 students without a library card, 18 are in Grade 9. The probability is 18/42 = 3/7."
+  },
+  {
+    "id": "M2-016",
+    "prompt": "A car travels 156 miles using 6 gallons of fuel at a constant rate. At this rate, how far can the car travel using 9.5 gallons of fuel?",
+    "choices": {
+      "A": "171 miles",
+      "B": "228 miles",
+      "C": "234 miles",
+      "D": "247 miles",
+      "E": "296.4 miles"
+    },
+    "correct": "D",
+    "explanation": "The car travels 156 ÷ 6 = 26 miles per gallon. With 9.5 gallons, it travels 26 × 9.5 = 247 miles."
+  },
+  {
+    "id": "M2-017",
+    "prompt": "A shopper buys 18 pieces of fruit consisting only of apples and pears. Apples cost $2 each, pears cost $3 each, and the total cost is $44. How many pears does the shopper buy?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "14"
+    },
+    "correct": "B",
+    "explanation": "Let a be apples and p be pears. Then a + p = 18 and 2a + 3p = 44. Substituting a = 18 − p gives 36 + p = 44, so p = 8."
+  },
+  {
+    "id": "M2-018",
+    "prompt": "A new video has 125 views when its view count is first recorded. The total number of views doubles each day. How many views will the video have 4 days after the first count?",
+    "choices": {
+      "A": "500",
+      "B": "1,000",
+      "C": "1,500",
+      "D": "2,000",
+      "E": "4,000"
+    },
+    "correct": "D",
+    "explanation": "Four days produce 4 doublings, so the number of views is 125 × 2⁴ = 125 × 16 = 2,000."
+  },
+  {
+    "id": "M2-019",
+    "prompt": "A cone has a radius of 4 centimeters and a height of 9 centimeters. What is its volume?",
+    "choices": {
+      "A": "12π cubic centimeters",
+      "B": "36π cubic centimeters",
+      "C": "48π cubic centimeters",
+      "D": "108π cubic centimeters",
+      "E": "144π cubic centimeters"
+    },
+    "correct": "C",
+    "explanation": "A cone's volume is (1/3)πr²h. Substituting r = 4 and h = 9 gives (1/3) × π × 4² × 9 = 48π cubic centimeters."
+  },
+  {
+    "id": "M2-020",
+    "prompt": "A company wants to estimate the average commuting time of all its employees. Which method is most likely to produce a representative sample?",
+    "choices": {
+      "A": "Survey the 80 employees who arrive earliest.",
+      "B": "Survey all employees who ride the bus.",
+      "C": "Randomly select 80 employees from the complete employee roster.",
+      "D": "Ask for volunteers in the company's parking garage.",
+      "E": "Survey the 80 employees who live closest to the office."
+    },
+    "correct": "C",
+    "explanation": "A random selection from the full roster gives every employee a chance to be included and avoids choosing a group based on commuting habits."
+  },
+  {
+    "id": "M2-021",
+    "prompt": "What is the value of 5⁶ ÷ (5² × 5)?",
+    "choices": {
+      "A": "5",
+      "B": "25",
+      "C": "125",
+      "D": "625",
+      "E": "15,625"
+    },
+    "correct": "C",
+    "explanation": "Since 5² × 5 = 5³, the expression is 5⁶ ÷ 5³ = 5³ = 125."
+  },
+  {
+    "id": "M2-022",
+    "prompt": "The equation x² − 3x − 10 = 0 has two solutions. What is the greater solution?",
+    "choices": {
+      "A": "−5",
+      "B": "−2",
+      "C": "2",
+      "D": "3",
+      "E": "5"
+    },
+    "correct": "E",
+    "explanation": "Factoring gives x² − 3x − 10 = (x − 5)(x + 2), so the solutions are 5 and −2. The greater solution is 5."
+  },
+  {
+    "id": "M2-023",
+    "prompt": "A gym charges a monthly fee of $24 plus $8 for each fitness class attended. One member's total charge for a month is $72. How many fitness classes did the member attend?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8",
+      "E": "9"
+    },
+    "correct": "C",
+    "explanation": "Subtract the $24 monthly fee from $72 to get $48. At $8 per class, the member attended $48 ÷ $8 = 6 classes."
+  },
+  {
+    "id": "M2-024",
+    "prompt": "Two triangles are similar. A 10-centimeter side of the smaller triangle corresponds to a 15-centimeter side of the larger triangle. If another side of the smaller triangle is 11 centimeters, what is the length of its corresponding side in the larger triangle?",
+    "choices": {
+      "A": "13.5 centimeters",
+      "B": "15.5 centimeters",
+      "C": "16.5 centimeters",
+      "D": "21 centimeters",
+      "E": "26 centimeters"
+    },
+    "correct": "C",
+    "explanation": "The scale factor is 15/10 = 1.5. Therefore, the corresponding side is 11 × 1.5 = 16.5 centimeters."
+  },
+  {
+    "id": "M2-025",
+    "prompt": "Company A charges y = 4x + 18 dollars to rent a bicycle for x hours. Company B charges a starting fee plus a constant amount per hour, as shown in the table.\n\nx (hours) | 0 | 2 | 4\ny (dollars) | 10 | 20 | 30\n\nFor a 6-hour rental, how does Company A's charge compare with Company B's charge?",
+    "choices": {
+      "A": "Company A charges $2 less.",
+      "B": "Company A charges $2 more.",
+      "C": "Company A charges $8 less.",
+      "D": "Company A charges $8 more.",
+      "E": "The two companies charge the same amount."
+    },
+    "correct": "B",
+    "explanation": "For 6 hours, Company A charges 4(6) + 18 = $42. Company B's table has a rate of $5 per hour and a starting charge of $10, so it charges 5(6) + 10 = $40. Company A charges $2 more."
+  },
+  {
+    "id": "M2-026",
+    "prompt": "A rectangular room is 15 feet long and 12 feet wide. A contractor plans to buy 10% more flooring than the room's area to allow for waste. Flooring is sold only in whole boxes, and each box covers 20 square feet. What is the least number of boxes the contractor must buy?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "18",
+      "E": "20"
+    },
+    "correct": "B",
+    "explanation": "The room's area is 15 × 12 = 180 square feet. Including 10% extra requires 180 × 1.10 = 198 square feet. Since 198 ÷ 20 = 9.9, the contractor must buy 10 whole boxes."
+  },
+  {
+    "id": "M2-027",
+    "prompt": "What value of x satisfies 4(2x − 3) = 3x + 23?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "11"
+    },
+    "correct": "C",
+    "explanation": "Expanding gives 8x − 12 = 3x + 23. Then 5x = 35, so x = 7."
+  },
+  {
+    "id": "M2-028",
+    "prompt": "Which of the following is an irrational number between 4 and 5?",
+    "choices": {
+      "A": "√15",
+      "B": "4.25",
+      "C": "√20",
+      "D": "√25",
+      "E": "∛125"
+    },
+    "correct": "C",
+    "explanation": "Since 16 < 20 < 25, 4 < √20 < 5. Because 20 is not a perfect square, √20 is irrational."
+  },
+  {
+    "id": "M2-029",
+    "prompt": "What is the midpoint of the line segment with endpoints (−3, 5) and (7, −1)?",
+    "choices": {
+      "A": "(−5, 3)",
+      "B": "(1, 2)",
+      "C": "(2, 2)",
+      "D": "(2, 3)",
+      "E": "(5, 4)"
+    },
+    "correct": "C",
+    "explanation": "Average the x-coordinates and y-coordinates: ((−3 + 7)/2, (5 + (−1))/2) = (2, 2)."
+  },
+  {
+    "id": "M2-030",
+    "prompt": "A linear function f passes through the points (−1, 4) and (3, 12). What is f(5)?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16",
+      "E": "18"
+    },
+    "correct": "D",
+    "explanation": "The slope is (12 − 4)/(3 − (−1)) = 8/4 = 2. The function is f(x) = 2x + 6, so f(5) = 16."
+  },
+  {
+    "id": "M2-031",
+    "prompt": "One integer is selected at random from the integers 1 through 24. What is the probability that the selected integer is a multiple of 3 or a multiple of 5?",
+    "choices": {
+      "A": "1/3",
+      "B": "3/8",
+      "C": "5/12",
+      "D": "11/24",
+      "E": "1/2"
+    },
+    "correct": "D",
+    "explanation": "From 1 through 24 there are 8 multiples of 3 and 4 multiples of 5. The number 15 is counted in both groups, so there are 8 + 4 − 1 = 11 favorable integers. The probability is 11/24."
+  },
+  {
+    "id": "M2-032",
+    "prompt": "A water tank holds 2,400 liters when full and is currently 35% full. Water flows into the tank at 18 liters per minute. How many minutes will it take for the tank to become 80% full?",
+    "choices": {
+      "A": "40 minutes",
+      "B": "47 minutes",
+      "C": "60 minutes",
+      "D": "80 minutes",
+      "E": "107 minutes"
+    },
+    "correct": "C",
+    "explanation": "The tank must increase from 35% to 80%, a change of 45% of 2,400 liters. That is 0.45 × 2,400 = 1,080 liters. At 18 liters per minute, the time is 1,080 ÷ 18 = 60 minutes."
+  },
+  {
+    "id": "M2-033",
+    "prompt": "A theater sells 120 tickets consisting only of adult and youth tickets. Adult tickets cost $14, youth tickets cost $9, and the total revenue is $1,430. How many youth tickets are sold?",
+    "choices": {
+      "A": "40",
+      "B": "50",
+      "C": "60",
+      "D": "70",
+      "E": "80"
+    },
+    "correct": "B",
+    "explanation": "If all 120 tickets were youth tickets, the revenue would be $1,080. Each adult ticket adds $5, so the number of adult tickets is ($1,430 − $1,080) ÷ $5 = 70. Therefore, 120 − 70 = 50 youth tickets were sold."
+  },
+  {
+    "id": "M2-034",
+    "prompt": "A solid is made by joining 2 identical cubes, each with an edge length of 4 centimeters, along one complete face. What is the surface area of the resulting solid?",
+    "choices": {
+      "A": "96 square centimeters",
+      "B": "128 square centimeters",
+      "C": "144 square centimeters",
+      "D": "160 square centimeters",
+      "E": "192 square centimeters"
+    },
+    "correct": "D",
+    "explanation": "Two separate cubes have 2 × 6 = 12 square faces. Joining them hides 2 faces, leaving 10 exposed faces. Each face has area 4² = 16 square centimeters, so the surface area is 10 × 16 = 160 square centimeters."
+  },
+  {
+    "id": "M2-035",
+    "prompt": "A student has 5 quiz scores: 72, 78, 82, 88, and 90. The score of 72 is replaced by a score of 84. Which statement correctly describes how the mean and range change?",
+    "choices": {
+      "A": "The mean increases by 2.4 points, and the range decreases by 6 points.",
+      "B": "The mean increases by 6 points, and the range decreases by 2.4 points.",
+      "C": "The mean increases by 12 points, and the range decreases by 6 points.",
+      "D": "The mean increases by 2.4 points, and the range increases by 6 points.",
+      "E": "The mean and range each increase by 2.4 points."
+    },
+    "correct": "A",
+    "explanation": "Replacing 72 with 84 increases the total by 12, so the mean increases by 12 ÷ 5 = 2.4. The original range is 90 − 72 = 18, and the new ordered scores are 78, 82, 84, 88, 90, with range 90 − 78 = 12, a decrease of 6."
+  }
+]

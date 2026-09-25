@@ -1,0 +1,457 @@
+[
+  {
+    "id": "M6-001",
+    "prompt": "What is the value of −5 + 3²?",
+    "choices": {
+      "A": "−14",
+      "B": "−4",
+      "C": "4",
+      "D": "8",
+      "E": "14"
+    },
+    "correct": "C",
+    "explanation": "3² = 9, so −5 + 3² = −5 + 9 = 4."
+  },
+  {
+    "id": "M6-002",
+    "prompt": "What value of x satisfies 4 − 5x = 24?",
+    "choices": {
+      "A": "−5",
+      "B": "−4",
+      "C": "4",
+      "D": "5",
+      "E": "20"
+    },
+    "correct": "B",
+    "explanation": "Subtract 4 from both sides to get −5x = 20, and then divide by −5 to get x = −4."
+  },
+  {
+    "id": "M6-003",
+    "prompt": "Two lines intersect. One of the angles formed measures 126°. What is the measure of an angle adjacent to it?",
+    "choices": {
+      "A": "36°",
+      "B": "44°",
+      "C": "54°",
+      "D": "126°",
+      "E": "234°"
+    },
+    "correct": "C",
+    "explanation": "Adjacent angles formed by intersecting lines are supplementary, so the adjacent angle measures 180° − 126° = 54°."
+  },
+  {
+    "id": "M6-004",
+    "prompt": "A tank contains 72 liters of water and drains at a constant rate, as shown in the table.\n\nt (minutes) | 0 | 3 | 6 | 9\nV (liters)  | 72 | 60 | 48 | 36\n\nWhich equation gives the volume V after t minutes?",
+    "choices": {
+      "A": "V = 72 − 4t",
+      "B": "V = 72 − 12t",
+      "C": "V = 72 + 4t",
+      "D": "V = 24 − 4t",
+      "E": "V = 4t"
+    },
+    "correct": "A",
+    "explanation": "The tank starts with 72 liters and loses 12 liters every 3 minutes, a rate of −4 liters per minute. Therefore, V = 72 − 4t."
+  },
+  {
+    "id": "M6-005",
+    "prompt": "What is the mode of the data set 6, 8, 8, 9, 11, 11, 11, 14?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11",
+      "E": "14"
+    },
+    "correct": "D",
+    "explanation": "The value 11 appears 3 times, more often than any other value, so the mode is 11."
+  },
+  {
+    "id": "M6-006",
+    "prompt": "What is (7.5 × 10⁸) ÷ (2.5 × 10²) written in scientific notation?",
+    "choices": {
+      "A": "3 × 10⁴",
+      "B": "3 × 10⁶",
+      "C": "3 × 10¹⁰",
+      "D": "5 × 10⁶",
+      "E": "5 × 10¹⁰"
+    },
+    "correct": "B",
+    "explanation": "Divide the coefficients and subtract the exponents: 7.5 ÷ 2.5 = 3 and 10⁸ ÷ 10² = 10⁶. Therefore, the quotient is 3 × 10⁶."
+  },
+  {
+    "id": "M6-007",
+    "prompt": "A $90 item is discounted by 30%. A 6% sales tax is then applied to the discounted price. What is the final price?",
+    "choices": {
+      "A": "$59.40",
+      "B": "$63.00",
+      "C": "$64.80",
+      "D": "$66.78",
+      "E": "$68.40"
+    },
+    "correct": "D",
+    "explanation": "The discounted price is $90 × 0.70 = $63. Applying 6% tax gives $63 × 1.06 = $66.78."
+  },
+  {
+    "id": "M6-008",
+    "prompt": "A scanner processes 24 pages in 15 minutes at a constant rate. How many pages does it process in 40 minutes?",
+    "choices": {
+      "A": "49 pages",
+      "B": "60 pages",
+      "C": "64 pages",
+      "D": "72 pages",
+      "E": "96 pages"
+    },
+    "correct": "C",
+    "explanation": "The scanner's rate is 24 ÷ 15 = 1.6 pages per minute. In 40 minutes it processes 1.6 × 40 = 64 pages."
+  },
+  {
+    "id": "M6-009",
+    "prompt": "A trapezoid has parallel bases of 8 centimeters and 14 centimeters and a height of 5 centimeters. What is its area?",
+    "choices": {
+      "A": "44 square centimeters",
+      "B": "50 square centimeters",
+      "C": "55 square centimeters",
+      "D": "70 square centimeters",
+      "E": "110 square centimeters"
+    },
+    "correct": "C",
+    "explanation": "The area of a trapezoid is (1/2)(sum of bases)(height), so the area is (1/2)(8 + 14)(5) = 55 square centimeters."
+  },
+  {
+    "id": "M6-010",
+    "prompt": "A bag contains 4 yellow counters, 6 purple counters, and 5 white counters. One counter is selected at random. What is the probability that it is purple?",
+    "choices": {
+      "A": "1/5",
+      "B": "4/15",
+      "C": "1/3",
+      "D": "2/5",
+      "E": "3/5"
+    },
+    "correct": "D",
+    "explanation": "There are 4 + 6 + 5 = 15 counters, and 6 are purple. The probability is 6/15 = 2/5."
+  },
+  {
+    "id": "M6-011",
+    "prompt": "What is the value of √225 − 2³?",
+    "choices": {
+      "A": "5",
+      "B": "7",
+      "C": "8",
+      "D": "13",
+      "E": "23"
+    },
+    "correct": "B",
+    "explanation": "√225 = 15 and 2³ = 8, so √225 − 2³ = 15 − 8 = 7."
+  },
+  {
+    "id": "M6-012",
+    "prompt": "The first term of a sequence is 5. Each term after the first is 3 times the preceding term. What is the fifth term?",
+    "choices": {
+      "A": "45",
+      "B": "135",
+      "C": "243",
+      "D": "405",
+      "E": "1,215"
+    },
+    "correct": "D",
+    "explanation": "Multiplying by 3 repeatedly gives 5, 15, 45, 135, 405. Therefore, the fifth term is 405."
+  },
+  {
+    "id": "M6-013",
+    "prompt": "A delivery van can carry at most 2,400 kilograms. The driver and equipment have a combined mass of 1,800 kilograms. Each box has a mass of 45 kilograms. What is the greatest number of boxes the van can carry?",
+    "choices": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "40",
+      "E": "53"
+    },
+    "correct": "B",
+    "explanation": "The remaining carrying capacity is 2,400 − 1,800 = 600 kilograms. Since 600 ÷ 45 = 13 remainder 15, the van can carry at most 13 boxes."
+  },
+  {
+    "id": "M6-014",
+    "prompt": "Point W has coordinates (−4, 1). It is rotated 90° clockwise about the origin. What are the coordinates of the image of W?",
+    "choices": {
+      "A": "(−1, −4)",
+      "B": "(−1, 4)",
+      "C": "(1, −4)",
+      "D": "(1, 4)",
+      "E": "(4, 1)"
+    },
+    "correct": "D",
+    "explanation": "A 90° clockwise rotation maps (x, y) to (y, −x). Therefore, (−4, 1) maps to (1, 4)."
+  },
+  {
+    "id": "M6-015",
+    "prompt": "The table shows whether 100 students own a pet.\n\n          | Owns a pet | Does not own a pet | Total\nGrade 8   | 27         | 23                 | 50\nGrade 9   | 33         | 17                 | 50\nTotal     | 60         | 40                 | 100\n\nOne student is selected at random from the students who own a pet. What is the probability that the selected student is in Grade 9?",
+    "choices": {
+      "A": "17/50",
+      "B": "9/20",
+      "C": "11/20",
+      "D": "3/5",
+      "E": "33/50"
+    },
+    "correct": "C",
+    "explanation": "Of the 60 students who own a pet, 33 are in Grade 9. The probability is 33/60 = 11/20."
+  },
+  {
+    "id": "M6-016",
+    "prompt": "An animal shelter uses 2.4 kilograms of food to feed 16 dogs. At the same rate, how many kilograms of food are needed to feed 30 dogs?",
+    "choices": {
+      "A": "3.6 kilograms",
+      "B": "4.0 kilograms",
+      "C": "4.5 kilograms",
+      "D": "5.0 kilograms",
+      "E": "7.2 kilograms"
+    },
+    "correct": "C",
+    "explanation": "The shelter uses 2.4 ÷ 16 = 0.15 kilogram per dog. For 30 dogs, it needs 30 × 0.15 = 4.5 kilograms."
+  },
+  {
+    "id": "M6-017",
+    "prompt": "A café sells 32 items consisting only of sandwiches and drinks. Sandwiches cost $7, drinks cost $2, and the total revenue is $134. How many sandwiches are sold?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "18",
+      "E": "22"
+    },
+    "correct": "C",
+    "explanation": "Let s be sandwiches and d be drinks. Then s + d = 32 and 7s + 2d = 134. Substituting d = 32 − s gives 5s + 64 = 134, so s = 14."
+  },
+  {
+    "id": "M6-018",
+    "prompt": "A culture begins with 50 cells. The number of cells quadruples every 3 hours. How many cells are present after 6 hours?",
+    "choices": {
+      "A": "200",
+      "B": "400",
+      "C": "600",
+      "D": "800",
+      "E": "3,200"
+    },
+    "correct": "D",
+    "explanation": "Six hours contains 2 three-hour periods. Quadrupling twice gives 50 × 4² = 50 × 16 = 800 cells."
+  },
+  {
+    "id": "M6-019",
+    "prompt": "A sphere has a radius of 5 centimeters. What is its surface area?",
+    "choices": {
+      "A": "20π square centimeters",
+      "B": "25π square centimeters",
+      "C": "50π square centimeters",
+      "D": "100π square centimeters",
+      "E": "125π square centimeters"
+    },
+    "correct": "D",
+    "explanation": "A sphere's surface area is 4πr². With r = 5, the area is 4 × π × 5² = 100π square centimeters."
+  },
+  {
+    "id": "M6-020",
+    "prompt": "Two data sets are shown.\n\nData Set A: 6, 7, 8, 9, 10\nData Set B: 4, 7, 8, 9, 12\n\nWhich statement correctly compares their means and ranges?",
+    "choices": {
+      "A": "The data sets have the same mean and the same range.",
+      "B": "The data sets have the same mean, but Data Set A has the greater range.",
+      "C": "The data sets have the same mean, but Data Set B has the greater range.",
+      "D": "Data Set A has the greater mean and the greater range.",
+      "E": "Data Set B has the greater mean and the greater range."
+    },
+    "correct": "C",
+    "explanation": "Each data set has sum 40 and mean 8. Data Set A has range 10 − 6 = 4, while Data Set B has range 12 − 4 = 8, so Data Set B has the greater range."
+  },
+  {
+    "id": "M6-021",
+    "prompt": "What is the value of 6⁵ ÷ (6² × 6)?",
+    "choices": {
+      "A": "6",
+      "B": "12",
+      "C": "18",
+      "D": "36",
+      "E": "216"
+    },
+    "correct": "D",
+    "explanation": "Since 6² × 6 = 6³, the expression is 6⁵ ÷ 6³ = 6² = 36."
+  },
+  {
+    "id": "M6-022",
+    "prompt": "The equation x² − 10x + 21 = 0 has two solutions. What is the greater solution?",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "10",
+      "E": "21"
+    },
+    "correct": "C",
+    "explanation": "Factoring gives x² − 10x + 21 = (x − 3)(x − 7), so the solutions are 3 and 7. The greater solution is 7."
+  },
+  {
+    "id": "M6-023",
+    "prompt": "A printing company charges a setup fee of $25 plus $4.50 for each poster. If a customer can spend exactly $61, how many posters can be ordered?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "E": "13"
+    },
+    "correct": "C",
+    "explanation": "Subtract the $25 setup fee from $61 to get $36. At $4.50 per poster, the customer can order $36 ÷ $4.50 = 8 posters."
+  },
+  {
+    "id": "M6-024",
+    "prompt": "A 12-centimeter-tall model represents an 18-meter-tall building. At the same scale, another model building is 20 centimeters tall. What is the actual height of the second building?",
+    "choices": {
+      "A": "24 meters",
+      "B": "27 meters",
+      "C": "30 meters",
+      "D": "36 meters",
+      "E": "120 meters"
+    },
+    "correct": "C",
+    "explanation": "The scale is 18 meters for 12 centimeters, or 1.5 meters per centimeter. A 20-centimeter model represents 20 × 1.5 = 30 meters."
+  },
+  {
+    "id": "M6-025",
+    "prompt": "Machine A produces items at a constant rate, as shown in the table. Machine B's production after x minutes is B = 4x − 6.\n\nx (minutes) | 0 | 4 | 8\nMachine A items | 5 | 17 | 29\n\nAfter 10 minutes, how does Machine A's production compare with Machine B's production?",
+    "choices": {
+      "A": "Machine A produces 1 fewer item.",
+      "B": "Machine A produces 1 more item.",
+      "C": "Machine A produces 5 fewer items.",
+      "D": "Machine A produces 5 more items.",
+      "E": "The machines produce the same number of items."
+    },
+    "correct": "B",
+    "explanation": "Machine A increases by 12 items every 4 minutes, or 3 items per minute, and starts at 5. After 10 minutes it produces 5 + 3(10) = 35 items. Machine B produces 4(10) − 6 = 34 items, so Machine A produces 1 more."
+  },
+  {
+    "id": "M6-026",
+    "prompt": "A rectangular floor is 18 feet long and 14 feet wide. A contractor buys 8% more tile than the floor's area to allow for waste. Each tile covers 1.5 square feet, and only whole tiles can be purchased. What is the least number of tiles needed?",
+    "choices": {
+      "A": "168",
+      "B": "180",
+      "C": "181",
+      "D": "182",
+      "E": "272"
+    },
+    "correct": "D",
+    "explanation": "The floor area is 18 × 14 = 252 square feet. Including 8% extra requires 252 × 1.08 = 272.16 square feet. Since 272.16 ÷ 1.5 = 181.44, the contractor must buy 182 whole tiles."
+  },
+  {
+    "id": "M6-027",
+    "prompt": "What value of x satisfies 7(x − 2) = 3x + 18?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10",
+      "E": "14"
+    },
+    "correct": "C",
+    "explanation": "Expanding gives 7x − 14 = 3x + 18. Then 4x = 32, so x = 8."
+  },
+  {
+    "id": "M6-028",
+    "prompt": "Which of the following numbers is rational?",
+    "choices": {
+      "A": "√13",
+      "B": "√50",
+      "C": "∛5",
+      "D": "∛8",
+      "E": "π"
+    },
+    "correct": "D",
+    "explanation": "∛8 = 2, which is an integer and therefore rational. The other roots are not roots of perfect squares or cubes, and π is irrational."
+  },
+  {
+    "id": "M6-029",
+    "prompt": "What is the midpoint of the line segment with endpoints (−6, 2) and (4, −8)?",
+    "choices": {
+      "A": "(−5, −3)",
+      "B": "(−1, −5)",
+      "C": "(−1, −3)",
+      "D": "(1, −3)",
+      "E": "(5, 3)"
+    },
+    "correct": "C",
+    "explanation": "Average the x-coordinates and y-coordinates: ((−6 + 4)/2, (2 + (−8))/2) = (−1, −3)."
+  },
+  {
+    "id": "M6-030",
+    "prompt": "A function is defined by f(x) = 2x + 9. If f(k) = −5, what is the value of k?",
+    "choices": {
+      "A": "−9",
+      "B": "−7",
+      "C": "−2",
+      "D": "2",
+      "E": "7"
+    },
+    "correct": "B",
+    "explanation": "Set 2k + 9 = −5. Then 2k = −14, so k = −7."
+  },
+  {
+    "id": "M6-031",
+    "prompt": "Two fair coins are tossed. What is the probability of getting at least one head?",
+    "choices": {
+      "A": "1/4",
+      "B": "1/3",
+      "C": "1/2",
+      "D": "2/3",
+      "E": "3/4"
+    },
+    "correct": "E",
+    "explanation": "The 4 equally likely outcomes are HH, HT, TH, and TT. Three outcomes contain at least one head, so the probability is 3/4."
+  },
+  {
+    "id": "M6-032",
+    "prompt": "A rectangular pool is 5 meters long and 3 meters wide. It contains water to a uniform depth of 0.8 meter. A pump removes water at 0.4 cubic meter per minute. How many minutes will it take to remove all the water?",
+    "choices": {
+      "A": "12 minutes",
+      "B": "20 minutes",
+      "C": "24 minutes",
+      "D": "30 minutes",
+      "E": "40 minutes"
+    },
+    "correct": "D",
+    "explanation": "The pool contains 5 × 3 × 0.8 = 12 cubic meters of water. At 0.4 cubic meter per minute, draining takes 12 ÷ 0.4 = 30 minutes."
+  },
+  {
+    "id": "M6-033",
+    "prompt": "A jar contains 45 coins consisting only of quarters and dimes. The coins have a total value of $7.20. How many dimes are in the jar?",
+    "choices": {
+      "A": "15",
+      "B": "18",
+      "C": "24",
+      "D": "27",
+      "E": "30"
+    },
+    "correct": "D",
+    "explanation": "If all 45 coins were dimes, their value would be $4.50. Each quarter replacing a dime adds $0.15. The additional $7.20 − $4.50 = $2.70 requires $2.70 ÷ $0.15 = 18 quarters, leaving 45 − 18 = 27 dimes."
+  },
+  {
+    "id": "M6-034",
+    "prompt": "A rectangular prism has a volume of 360 cubic centimeters. Its length is 12 centimeters, and its width is 5 centimeters. What is its total surface area?",
+    "choices": {
+      "A": "216 square centimeters",
+      "B": "252 square centimeters",
+      "C": "300 square centimeters",
+      "D": "324 square centimeters",
+      "E": "360 square centimeters"
+    },
+    "correct": "D",
+    "explanation": "The height is 360 ÷ (12 × 5) = 6 centimeters. The surface area is 2(12 × 5 + 12 × 6 + 5 × 6) = 2(60 + 72 + 30) = 324 square centimeters."
+  },
+  {
+    "id": "M6-035",
+    "prompt": "The mean of 8 test scores is 74. One score of 62 is replaced by a score of 86. What is the new mean?",
+    "choices": {
+      "A": "75",
+      "B": "76",
+      "C": "77",
+      "D": "78",
+      "E": "80"
+    },
+    "correct": "C",
+    "explanation": "The original total is 8 × 74 = 592. Replacing 62 with 86 increases the total by 24, giving 616. The new mean is 616 ÷ 8 = 77."
+  }
+]

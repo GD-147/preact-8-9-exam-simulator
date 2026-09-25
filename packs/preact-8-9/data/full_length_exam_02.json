@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "EN2-001",
+    "prompt": "In a passage about students creating a tactile map of their school, Tessa recalls the first planning meeting: “Before the final bell <u>rang we spread our sketches across a library table</u>.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "rang, we spread our sketches across a library table",
+      "C": "rang; we spread our sketches across a library table",
+      "D": "rang we spread, our sketches across a library table"
+    },
+    "correct": "B",
+    "explanation": "A comma should follow the introductory dependent clause “Before the final bell rang.” A semicolon cannot separate that dependent clause from the main clause."
+  },
+  {
+    "id": "EN2-002",
+    "prompt": "The passage describes one feature of the tactile map: “A row of textured circles along the left edge <u>identify</u> the doors to the science rooms.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have identified",
+      "C": "identifies",
+      "D": "are identifying"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “row” requires the singular verb “identifies.” The plural noun “circles” is part of a prepositional phrase and does not control the verb."
+  },
+  {
+    "id": "EN2-003",
+    "prompt": "Tessa explains how the team improved its design: “<u>We tested the first draft with two students. Who had never visited the building.</u>” Which choice most effectively corrects the underlined portion?",
+    "choices": {
+      "A": "We tested the first draft with two students who had never visited the building.",
+      "B": "We tested the first draft. With two students who had never visited the building.",
+      "C": "Testing the first draft with two students who had never visited the building.",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "This choice attaches the who-clause to “students” and forms one complete sentence. The other versions leave a fragment."
+  },
+  {
+    "id": "EN2-004",
+    "prompt": "The passage states, “When Omar handed Eli the sample map, <u>he</u> compared its raised symbols with the legend.” The writer wants to make clear that Eli made the comparison. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "the student",
+      "C": "Omar",
+      "D": "Eli"
+    },
+    "correct": "D",
+    "explanation": "Naming Eli makes it clear that he compared the symbols with the legend. “He” and “the student” could refer to either person."
+  },
+  {
+    "id": "EN2-005",
+    "prompt": "The passage describes the completed project: “The team's only finished map <u>which weighs less than a textbook</u> hangs beside the main entrance.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "which weighs less than a textbook,",
+      "C": ", which weighs less than a textbook",
+      "D": ", which weighs less than a textbook,"
+    },
+    "correct": "D",
+    "explanation": "The team's only finished map is already fully identified, so the added description is nonessential and must be enclosed by commas. Choices with one comma mark only one boundary."
+  },
+  {
+    "id": "EN2-006",
+    "prompt": "Tessa narrates work completed during one afternoon: “I trimmed strips of foam while Omar <u>labels</u> the matching rooms on our paper guide.” Which choice best maintains the sentence's verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "labeled",
+      "C": "will label",
+      "D": "is labeling"
+    },
+    "correct": "B",
+    "explanation": "“Labeled” matches the past-tense verb “trimmed.” The present and future forms create an unnecessary tense shift."
+  },
+  {
+    "id": "EN2-007",
+    "prompt": "The passage describes how Tessa marked a staircase on the tactile map: “<u>Using a narrow strip of rough paper, the east staircase was marked by Tessa.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "Using a narrow strip of rough paper, the east staircase had a mark.",
+      "B": "The east staircase used a narrow strip of rough paper as Tessa marked it.",
+      "C": "Using a narrow strip of rough paper, Tessa marked the east staircase.",
+      "D": "Tessa's east staircase was marked using a narrow strip of rough paper."
+    },
+    "correct": "C",
+    "explanation": "Tessa is the person using the paper, so her name must follow the introductory phrase. The original incorrectly suggests that the staircase used the paper."
+  },
+  {
+    "id": "EN2-008",
+    "prompt": "Tessa describes a symbol on the map: “The main office is represented by a square that is <u>small in size and blue in color</u>.” Which choice is most concise while preserving the meaning?",
+    "choices": {
+      "A": "small and blue",
+      "B": "small-sized and blue-colored",
+      "C": "little in its size and blue",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Small and blue” expresses both details directly without the unnecessary phrases “in size” and “in color.” The other choices are wordier."
+  },
+  {
+    "id": "EN2-009",
+    "prompt": "In a passage with a thoughtful, practical tone, Tessa reflects on the team's first design: “Our symbols were too similar, so users sometimes confused the library with the cafeteria. <u>The whole thing was a ridiculous mess.</u>” Which choice best matches the passage's tone?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "Our initial attempt was an absolutely catastrophic failure.",
+      "C": "That mix-up showed us that each location needed a more distinct texture.",
+      "D": "We laughed because careful design was apparently impossible."
+    },
+    "correct": "C",
+    "explanation": "This choice maintains the reflective, practical tone and explains what the team learned. The other options sound exaggerated, mocking, or discouraged."
+  },
+  {
+    "id": "EN2-010",
+    "prompt": "A passage about creating a tactile school map begins, “On the table lay foam strips, textured paper, plastic dots, and a cardboard outline of the school. Tessa closed her eyes and traced a path from the front entrance to the library.” Which choice would most effectively introduce the passage's focus on designing and testing a map that could be read by touch?",
+    "choices": {
+      "A": "School buildings often contain classrooms, offices, and hallways.",
+      "B": "She and her teammates wanted every texture on the map to communicate a clear direction.",
+      "C": "The library table was near a shelf of mystery novels.",
+      "D": "Cardboard is commonly used for boxes and signs."
+    },
+    "correct": "B",
+    "explanation": "This sentence connects Tessa's action to the passage's focus on clear tactile design. The other choices introduce side facts rather than the main idea."
+  },
+  {
+    "id": "EN2-011",
+    "prompt": "In a paragraph about planning the tactile map, Tessa writes: “First, we listed the locations that a new student would need to find. Next, we assigned a different texture to each type of space. _____, we built a small sample and asked two students to test it.” Which choice provides the most logical transition?",
+    "choices": {
+      "A": "In contrast",
+      "B": "For example",
+      "C": "Eventually",
+      "D": "Then"
+    },
+    "correct": "D",
+    "explanation": "“Then” continues the chronological sequence established by “First” and “Next.” The other transitions signal contrast, an example, or a delayed outcome."
+  },
+  {
+    "id": "EN2-012",
+    "prompt": "A paragraph explains that the map team enlarged the legend, increased the space between symbols, and replaced two textures that felt too similar. The writer is considering adding this sentence: “The library's oldest dictionary was printed more than fifty years ago.” Should the writer add the sentence?",
+    "choices": {
+      "A": "Yes, because the team worked in the library.",
+      "B": "Yes, because the sentence provides historical background about one school resource.",
+      "C": "No, because a dictionary cannot be represented on a tactile map.",
+      "D": "No, because the detail distracts from the paragraph's focus on revisions to the map."
+    },
+    "correct": "D",
+    "explanation": "The dictionary's age does not explain any change the team made to its design. Working in the library does not make every library fact relevant."
+  },
+  {
+    "id": "EN2-013",
+    "prompt": "A paragraph about the tactile map contains these sentences:\n[1] The team first used smooth foam for both the cafeteria and the gym. [2] During testing, users often confused the two locations. [3] The students replaced the gym's symbol with a patch of ridged paper. [4] On the next trial, every user identified both rooms correctly.\nThe writer wants to add this sentence: “The change gave each room a texture that could be recognized immediately.” Where should the sentence be placed?",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains the benefit of replacing the gym's symbol, so it belongs immediately after that change is described. Sentence 4 then supplies the successful result."
+  },
+  {
+    "id": "EN2-014",
+    "prompt": "At the end of a passage about creating a tactile school map, Tessa explains that the map now hangs by the entrance and that new students have begun using it. Which concluding sentence best emphasizes what the team learned about thoughtful design?",
+    "choices": {
+      "A": "Foam, paper, and plastic are available in many colors.",
+      "B": "By listening to the people who tested our map, we learned that a useful design begins with understanding its users.",
+      "C": "The entrance is also where visitors sign in at the school office.",
+      "D": "Some students prefer maps, while others prefer written directions."
+    },
+    "correct": "B",
+    "explanation": "This conclusion connects the completed map to the team's central lesson about user-focused design. The other choices end with unrelated or overly general details."
+  },
+  {
+    "id": "EN2-015",
+    "prompt": "In a passage about teenagers producing an audio walking tour, the writer describes their source material: “The students recorded longtime <u>residents stories</u> about the neighborhood.” Which choice correctly forms the plural possessive?",
+    "choices": {
+      "A": "residents stories",
+      "B": "resident's stories",
+      "C": "residents' stories",
+      "D": "residents story's"
+    },
+    "correct": "C",
+    "explanation": "The stories belong to multiple residents, so the apostrophe follows the plural noun “residents.” “Resident's” would refer to only one resident."
+  },
+  {
+    "id": "EN2-016",
+    "prompt": "The passage explains how listeners access the tour: “The library stores the recordings on its <u>website visitors can stream them on a phone.</u>” Which choice best corrects the run-on sentence?",
+    "choices": {
+      "A": "website, visitors can stream them on a phone.",
+      "B": "website; visitors can stream them on a phone.",
+      "C": "website visitors can stream them, on a phone.",
+      "D": "website being where visitors can stream them on a phone."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly joins the two closely related independent clauses. A comma alone would create a comma splice."
+  },
+  {
+    "id": "EN2-017",
+    "prompt": "The writer lists the students' responsibilities: “Their work included <u>interviewing shop owners, editing the recordings, and they wrote short introductions</u>.” Which choice makes the list parallel?",
+    "choices": {
+      "A": "interviewing shop owners, editing the recordings, and writing short introductions",
+      "B": "to interview shop owners, editing the recordings, and short introductions",
+      "C": "interviews with shop owners, editing the recordings, and they wrote short introductions",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "All three items use parallel gerund forms: “interviewing,” “editing,” and “writing.” The other choices mix grammatical forms."
+  },
+  {
+    "id": "EN2-018",
+    "prompt": "The passage introduces three stops on the walking tour: “The route highlights three gathering places <u>the old train platform, Rivera Bakery, and Maple Court.</u>” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": ", the old train platform, Rivera Bakery, and Maple Court.",
+      "B": "; the old train platform, Rivera Bakery, and Maple Court.",
+      "C": "the old train platform, Rivera Bakery, and Maple Court.",
+      "D": ": the old train platform, Rivera Bakery, and Maple Court."
+    },
+    "correct": "D",
+    "explanation": "A colon properly introduces the list after the complete clause. A comma or semicolon does not correctly introduce this list."
+  },
+  {
+    "id": "EN2-019",
+    "prompt": "The writer describes the recording session: “Both narrators adjusted <u>his or her</u> headphones before reading the introduction.” Which choice makes the pronoun agree with its plural antecedent?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "their",
+      "C": "its",
+      "D": "your"
+    },
+    "correct": "B",
+    "explanation": "The plural pronoun “their” agrees with the plural antecedent “narrators.” “His or her” is singular."
+  },
+  {
+    "id": "EN2-020",
+    "prompt": "The passage explains how the team preserved background sound: “The students decided <u>recording</u> the bell above the bakery door before the shop opened.” Which choice uses the standard verb form?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "having recorded",
+      "C": "to record",
+      "D": "recorded"
+    },
+    "correct": "C",
+    "explanation": "The standard construction is “decided to record.” “Decided recording” does not use the accepted verb form after “decided.”"
+  },
+  {
+    "id": "EN2-021",
+    "prompt": "The writer describes the final part of the tour: “Near the end of the route <u>is</u> three short interviews with local musicians.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "has been",
+      "C": "was",
+      "D": "are"
+    },
+    "correct": "D",
+    "explanation": "The plural subject “three short interviews” requires the plural verb “are,” even though the subject follows the verb. “Is” incorrectly treats the subject as singular."
+  },
+  {
+    "id": "EN2-022",
+    "prompt": "The passage quotes Ms. Rivera, whose family owns a bakery: “<u>My grandfather opened this shop she explained when the street had only six buildings.</u>” Which choice correctly punctuates the quotation and the interrupting dialogue tag?",
+    "choices": {
+      "A": "“My grandfather opened this shop” she explained, “when the street had only six buildings.”",
+      "B": "“My grandfather opened this shop,” she explained, “when the street had only six buildings.”",
+      "C": "“My grandfather opened this shop,” she explained “when the street had only six buildings.”",
+      "D": "“My grandfather opened this shop” she explained “when the street had only six buildings.”"
+    },
+    "correct": "B",
+    "explanation": "Commas set off the interrupting dialogue tag “she explained.” The other choices omit one or both required commas."
+  },
+  {
+    "id": "EN2-023",
+    "prompt": "The writer describes one interview: “Mr. Chen <u>talked about</u> how the empty train platform became a weekend market.” Which choice is most precise for an informational passage?",
+    "choices": {
+      "A": "went into",
+      "B": "said stuff about",
+      "C": "described",
+      "D": "NO CHANGE"
+    },
+    "correct": "C",
+    "explanation": "“Described” precisely conveys that Mr. Chen gave an account of the platform's change. The other choices are vague or too informal for an informational passage."
+  },
+  {
+    "id": "EN2-024",
+    "prompt": "The audio-tour passage states, “The recordings preserve the neighborhood's <u>past history</u> in the voices of people who lived it.” Which choice is the most concise without changing the meaning?",
+    "choices": {
+      "A": "history",
+      "B": "former past history",
+      "C": "history from the past",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“History” already refers to the past, so “past history” is redundant. The longer alternatives repeat the same idea."
+  },
+  {
+    "id": "EN2-025",
+    "prompt": "A paragraph about the audio walking tour contains these sentences:\n[1] Before each interview, the students researched the location connected to the speaker's story. [2] They used that research to prepare specific questions. [3] _____ [4] As a result, the speakers often shared detailed memories rather than brief answers.\nWhich choice provides the most logical sentence for the blank?",
+    "choices": {
+      "A": "Some microphones are small enough to fit inside a shirt pocket.",
+      "B": "The neighborhood's streets form an uneven grid.",
+      "C": "During the conversations, the students also asked follow-up questions about unexpected details.",
+      "D": "Each recording was saved as a digital audio file."
+    },
+    "correct": "C",
+    "explanation": "This sentence extends the explanation of how students encouraged detailed answers and leads logically to the result in sentence 4. The other details do not explain the speakers' fuller responses."
+  },
+  {
+    "id": "EN2-026",
+    "prompt": "In a passage about an audio walking tour, the writer wants to support the claim that the tour presents several generations' perspectives. Which choice provides the most relevant supporting detail?",
+    "choices": {
+      "A": "The tour's opening music lasts twelve seconds.",
+      "B": "Speakers include a ninety-year-old gardener, a middle-aged shop owner, and a high school drummer.",
+      "C": "The library lent the students two microphones and a laptop.",
+      "D": "Listeners can pause a recording between stops."
+    },
+    "correct": "B",
+    "explanation": "The ages and roles of these speakers directly demonstrate that the tour includes several generations. The other choices do not address generational perspective."
+  },
+  {
+    "id": "EN2-027",
+    "prompt": "A passage about creating an audio walking tour first explains how students gathered interviews, then describes how they edited the recordings, and finally follows listeners along the completed route. Which choice best explains why this organization is effective?",
+    "choices": {
+      "A": "It compares the tour with several unrelated school projects.",
+      "B": "It hides the purpose of the interviews until the final paragraph.",
+      "C": "It arranges the locations from newest to oldest.",
+      "D": "It moves from collecting material through producing the tour to experiencing the finished result."
+    },
+    "correct": "D",
+    "explanation": "This description accurately identifies the passage's process-based sequence. The other choices misstate its content or organization."
+  },
+  {
+    "id": "EN2-028",
+    "prompt": "In a passage about measuring temperatures on a school playground, the writer states, “Nia placed one thermometer beneath a shade sail <u>and Jalen set another beside the metal slide.</u>” Which choice correctly punctuates the two independent clauses?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "and, Jalen set another beside the metal slide.",
+      "C": ", and Jalen set another beside the metal slide.",
+      "D": "; and Jalen set another beside the metal slide."
+    },
+    "correct": "C",
+    "explanation": "A comma before the coordinating conjunction “and” correctly joins the two independent clauses. A semicolon should not be combined with “and” in this construction."
+  },
+  {
+    "id": "EN2-029",
+    "prompt": "The passage describes part of the playground: “The group of shaded benches near the garden <u>stay</u> cooler than the uncovered seats at midday.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "stays",
+      "C": "are staying",
+      "D": "have stayed"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “group” requires the singular verb “stays.” The plural noun “benches” is inside a prepositional phrase."
+  },
+  {
+    "id": "EN2-030",
+    "prompt": "The writer states, “After Jalen placed the sensor beside the metal slide, <u>it</u> became warm quickly.” The writer wants to make clear that the slide became warm. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "that object",
+      "C": "the slide",
+      "D": "the sensor"
+    },
+    "correct": "C",
+    "explanation": "Replacing “it” with “the slide” clearly identifies what became warm. The original pronoun could refer to either the sensor or the slide."
+  },
+  {
+    "id": "EN2-031",
+    "prompt": "The passage describes measurements taken last Tuesday: “The class checked each thermometer at noon and <u>records</u> the result on a clipboard.” Which choice best maintains consistent verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "will record",
+      "C": "is recording",
+      "D": "recorded"
+    },
+    "correct": "D",
+    "explanation": "“Recorded” matches the past-tense verb “checked” and the completed time marker “last Tuesday.” The other choices shift to present or future time."
+  },
+  {
+    "id": "EN2-032",
+    "prompt": "The writer describes Nia reviewing the measurements: “<u>After comparing the numbers, the temperature difference surprised Nia.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "After comparing the numbers, Nia was surprised by the temperature difference.",
+      "B": "The temperature difference, after comparing the numbers, surprised Nia.",
+      "C": "After the numbers compared, Nia noticed the surprising temperature difference.",
+      "D": "Nia, the temperature difference surprised her after comparing the numbers."
+    },
+    "correct": "A",
+    "explanation": "This choice places Nia immediately after the introductory phrase, correctly showing that she compared the numbers. The original illogically suggests that the temperature difference made the comparison."
+  },
+  {
+    "id": "EN2-033",
+    "prompt": "The passage contrasts two playground surfaces: “The grass felt comfortable in the <u>sun however, the dark rubber surface was hot to the touch.</u>” Which choice correctly joins the independent clauses?",
+    "choices": {
+      "A": "sun, however, the dark rubber surface was hot to the touch.",
+      "B": "sun however; the dark rubber surface was hot to the touch.",
+      "C": "sun however the dark rubber surface was hot to the touch.",
+      "D": "sun; however, the dark rubber surface was hot to the touch."
+    },
+    "correct": "D",
+    "explanation": "A semicolon separates the independent clauses, and a comma follows the conjunctive adverb “however.” A comma before “however” alone would create a comma splice."
+  },
+  {
+    "id": "EN2-034",
+    "prompt": "The passage reports the class's conclusion: “The <u>playgrounds surface</u> affected how much heat was absorbed.” Which choice correctly forms the singular possessive?",
+    "choices": {
+      "A": "playgrounds surface",
+      "B": "playground's surface",
+      "C": "playgrounds' surface",
+      "D": "playground surface's"
+    },
+    "correct": "B",
+    "explanation": "The surface belongs to one playground, so the singular possessive “playground's” is correct. “Playgrounds'” would refer to multiple playgrounds."
+  },
+  {
+    "id": "EN2-035",
+    "prompt": "The writer compares two readings: “At noon, the thermometer under the shade sail registered <u>a temperature that was cooler</u> than the thermometer beside the slide.” Which choice is clearest and most concise?",
+    "choices": {
+      "A": "a cooler temperature",
+      "B": "a temperature cooler in degree",
+      "C": "a temperature that had more coolness",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "This choice states the comparison clearly and concisely. The other choices use unnecessary phrases to express the same idea."
+  },
+  {
+    "id": "EN2-036",
+    "prompt": "The passage uses a clear, explanatory style. It states, “Dark surfaces absorb more of the sunlight that reaches them. <u>That is why the rubber area got super toasty.</u>” Which choice best matches the passage's style?",
+    "choices": {
+      "A": "That is the deal with the rubber area's heat.",
+      "B": "Consequently, the rubber surface reached a higher temperature.",
+      "C": "The rubber area eagerly collected the Sun's fiery rays.",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "This sentence clearly states the result in an informative style. The other choices are conversational or overly dramatic."
+  },
+  {
+    "id": "EN2-037",
+    "prompt": "A passage about playground temperatures begins, “At noon, Nia could stand comfortably beneath the blue shade sail, but the nearby metal slide was too hot to touch for long.” Which choice would most effectively introduce the passage's focus on measuring how shade and surface materials affect temperature?",
+    "choices": {
+      "A": "She wondered how large the temperature differences were and what caused them.",
+      "B": "The shade sail had been installed during the previous summer.",
+      "C": "Blue is one of the three primary colors used in traditional painting.",
+      "D": "Many students enjoy visiting the playground during recess."
+    },
+    "correct": "A",
+    "explanation": "This sentence turns the opening contrast into the questions the class investigates. The other choices do not establish the passage's focus on measurement and causes."
+  },
+  {
+    "id": "EN2-038",
+    "prompt": "In a paragraph about a playground temperature study, the writer explains that students measured each location at 9:00 a.m., noon, and 3:00 p.m. The writer wants to emphasize why measuring at several times was useful. Which sentence would best accomplish this purpose?",
+    "choices": {
+      "A": "The class used three clipboards because several students recorded data.",
+      "B": "Each thermometer displayed temperature in degrees Fahrenheit.",
+      "C": "Repeated measurements showed when each surface warmed most quickly and when it began to cool.",
+      "D": "The playground opened at the same time as the school."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly explains the value of collecting data at several times. The other choices concern equipment or schedules rather than the purpose of repeated measurements."
+  },
+  {
+    "id": "EN2-039",
+    "prompt": "A passage about playground temperatures includes the following paragraph:\n[1] At noon, the uncovered metal slide had the highest temperature in the class's chart. [2] A nearby slide made from light-colored plastic was several degrees cooler. [3] _____ [4] The class concluded that both material and exposure to direct sunlight influenced the readings.\nWhich choice provides the most logical transition for sentence 3?",
+    "choices": {
+      "A": "In addition, the shaded metal ladder was cooler than either slide.",
+      "B": "For example, the school office keeps extra chalk in a cabinet.",
+      "C": "Nevertheless, the students used identical pencils to record every result.",
+      "D": "Similarly, playgrounds may contain swings, benches, and climbing walls."
+    },
+    "correct": "A",
+    "explanation": "This sentence adds relevant evidence about both shade and material before the class draws its conclusion. The other choices do not develop the comparison of temperatures."
+  },
+  {
+    "id": "EN2-040",
+    "prompt": "At the end of a passage about measuring playground temperatures, the writer explains that the class shared its data with the group planning new shade structures. Which concluding sentence best reinforces the passage's main idea without exaggerating the study's results?",
+    "choices": {
+      "A": "The class proved that every playground should be built from grass alone.",
+      "B": "Clearly, a thermometer can answer any question about outdoor safety.",
+      "C": "Shade structures are available in many shapes and colors.",
+      "D": "The project showed how careful measurements could help the school make a more informed decision about its outdoor spaces."
+    },
+    "correct": "D",
+    "explanation": "This conclusion accurately states the study's practical value without claiming that the results apply everywhere. The other choices exaggerate or shift away from the main idea."
+  },
+  {
+    "id": "M2-001",
+    "prompt": "What is the value of |−9| − √16?",
+    "choices": {
+      "A": "−13",
+      "B": "−5",
+      "C": "5",
+      "D": "9",
+      "E": "13"
+    },
+    "correct": "C",
+    "explanation": "|−9| = 9 and √16 = 4, so |−9| − √16 = 9 − 4 = 5."
+  },
+  {
+    "id": "M2-002",
+    "prompt": "What value of x satisfies 4x + 9 = 29?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "7",
+      "D": "8",
+      "E": "10"
+    },
+    "correct": "B",
+    "explanation": "Subtract 9 from both sides to get 4x = 20, and then divide by 4 to get x = 5."
+  },
+  {
+    "id": "M2-003",
+    "prompt": "Two angles of a triangle measure 47° and 68°. What is the measure of the third angle?",
+    "choices": {
+      "A": "55°",
+      "B": "65°",
+      "C": "75°",
+      "D": "111°",
+      "E": "115°"
+    },
+    "correct": "B",
+    "explanation": "The angles of a triangle sum to 180°, so the third angle is 180° − 47° − 68° = 65°."
+  },
+  {
+    "id": "M2-004",
+    "prompt": "A plant is 14 centimeters tall when it is first measured. Its height increases at a constant rate, as shown in the table.\n\nw (weeks) | 0 | 3 | 6 | 9\nh (centimeters) | 14 | 20 | 26 | 32\n\nWhich equation gives the plant's height h after w weeks?",
+    "choices": {
+      "A": "h = 2w + 14",
+      "B": "h = 3w + 14",
+      "C": "h = 6w + 14",
+      "D": "h = 14w + 2",
+      "E": "h = 14w + 6"
+    },
+    "correct": "A",
+    "explanation": "The height is 14 centimeters at week 0 and increases by 6 centimeters every 3 weeks, a rate of 2 centimeters per week. Therefore, h = 2w + 14."
+  },
+  {
+    "id": "M2-005",
+    "prompt": "What is the mean of the data set 6, 8, 8, 10, 13?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "9.5",
+      "D": "10",
+      "E": "11"
+    },
+    "correct": "B",
+    "explanation": "The sum of the 5 values is 45, so the mean is 45 ÷ 5 = 9."
+  },
+  {
+    "id": "M2-006",
+    "prompt": "What is (6 × 10⁷) ÷ (3 × 10³) written in scientific notation?",
+    "choices": {
+      "A": "2 × 10³",
+      "B": "2 × 10⁴",
+      "C": "2 × 10¹⁰",
+      "D": "3 × 10⁴",
+      "E": "3 × 10¹⁰"
+    },
+    "correct": "B",
+    "explanation": "Divide the coefficients to get 2, and divide the powers of 10: 10⁷ ÷ 10³ = 10⁴. Therefore, the result is 2 × 10⁴."
+  },
+  {
+    "id": "M2-007",
+    "prompt": "A restaurant bill is $48. A customer leaves a tip equal to 18% of the bill. What is the total amount of the bill and tip?",
+    "choices": {
+      "A": "$48.18",
+      "B": "$54.40",
+      "C": "$56.64",
+      "D": "$57.60",
+      "E": "$66.00"
+    },
+    "correct": "C",
+    "explanation": "The tip is $48 × 0.18 = $8.64. Adding it to the bill gives $48 + $8.64 = $56.64."
+  },
+  {
+    "id": "M2-008",
+    "prompt": "On a map, 1 centimeter represents 12 kilometers. Two towns are 7.5 centimeters apart on the map. What is the actual distance between the towns?",
+    "choices": {
+      "A": "19.5 kilometers",
+      "B": "62.5 kilometers",
+      "C": "72 kilometers",
+      "D": "90 kilometers",
+      "E": "120 kilometers"
+    },
+    "correct": "D",
+    "explanation": "Each centimeter represents 12 kilometers, so 7.5 × 12 = 90 kilometers."
+  },
+  {
+    "id": "M2-009",
+    "prompt": "A circular fountain has a radius of 7 meters. What is the circumference of the fountain?",
+    "choices": {
+      "A": "7π meters",
+      "B": "14π meters",
+      "C": "28π meters",
+      "D": "49π meters",
+      "E": "98π meters"
+    },
+    "correct": "B",
+    "explanation": "The circumference is 2πr. With r = 7, it is 2 × π × 7 = 14π meters."
+  },
+  {
+    "id": "M2-010",
+    "prompt": "A bag contains 5 red tiles, 3 blue tiles, and 2 green tiles. One tile is selected at random. What is the probability that the tile is not blue?",
+    "choices": {
+      "A": "1/5",
+      "B": "3/10",
+      "C": "1/2",
+      "D": "7/10",
+      "E": "4/5"
+    },
+    "correct": "D",
+    "explanation": "There are 10 tiles total and 7 are not blue, so the probability is 7/10."
+  },
+  {
+    "id": "M2-011",
+    "prompt": "What is the value of √144 − ∛125?",
+    "choices": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "12",
+      "E": "17"
+    },
+    "correct": "B",
+    "explanation": "√144 = 12 and ∛125 = 5, so √144 − ∛125 = 12 − 5 = 7."
+  },
+  {
+    "id": "M2-012",
+    "prompt": "The first term of a sequence is 3. Each term after the first is twice the preceding term. What is the sixth term?",
+    "choices": {
+      "A": "24",
+      "B": "48",
+      "C": "64",
+      "D": "96",
+      "E": "192"
+    },
+    "correct": "D",
+    "explanation": "Starting with 3 and doubling 5 times gives 3, 6, 12, 24, 48, 96. Therefore, the sixth term is 96."
+  },
+  {
+    "id": "M2-013",
+    "prompt": "A community group wants to collect at least $500. It has already collected $128 and expects to collect $31 each day. What is the least number of additional days needed to reach the goal?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "16"
+    },
+    "correct": "C",
+    "explanation": "The group still needs $500 − $128 = $372. Since $372 ÷ $31 = 12, it needs at least 12 additional days."
+  },
+  {
+    "id": "M2-014",
+    "prompt": "Point R has coordinates (−4, 2). It is translated 3 units to the right and 5 units down. What are the coordinates of the image of R?",
+    "choices": {
+      "A": "(−9, 5)",
+      "B": "(−7, 7)",
+      "C": "(−1, −3)",
+      "D": "(1, −2)",
+      "E": "(1, 7)"
+    },
+    "correct": "C",
+    "explanation": "Moving (−4, 2) right 3 units changes x to −1, and moving it down 5 units changes y to −3."
+  },
+  {
+    "id": "M2-015",
+    "prompt": "The table shows whether 120 students have a library card.\n\n          | Has a card | Does not have a card | Total\nGrade 8   | 36         | 24                   | 60\nGrade 9   | 42         | 18                   | 60\nTotal     | 78         | 42                   | 120\n\nOne student is selected at random from the students who do not have a library card. What is the probability that the selected student is in Grade 9?",
+    "choices": {
+      "A": "3/20",
+      "B": "2/7",
+      "C": "3/7",
+      "D": "7/20",
+      "E": "7/10"
+    },
+    "correct": "C",
+    "explanation": "Of the 42 students without a library card, 18 are in Grade 9. The probability is 18/42 = 3/7."
+  },
+  {
+    "id": "M2-016",
+    "prompt": "A car travels 156 miles using 6 gallons of fuel at a constant rate. At this rate, how far can the car travel using 9.5 gallons of fuel?",
+    "choices": {
+      "A": "171 miles",
+      "B": "228 miles",
+      "C": "234 miles",
+      "D": "247 miles",
+      "E": "296.4 miles"
+    },
+    "correct": "D",
+    "explanation": "The car travels 156 ÷ 6 = 26 miles per gallon. With 9.5 gallons, it travels 26 × 9.5 = 247 miles."
+  },
+  {
+    "id": "M2-017",
+    "prompt": "A shopper buys 18 pieces of fruit consisting only of apples and pears. Apples cost $2 each, pears cost $3 each, and the total cost is $44. How many pears does the shopper buy?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "14"
+    },
+    "correct": "B",
+    "explanation": "Let a be apples and p be pears. Then a + p = 18 and 2a + 3p = 44. Substituting a = 18 − p gives 36 + p = 44, so p = 8."
+  },
+  {
+    "id": "M2-018",
+    "prompt": "A new video has 125 views when its view count is first recorded. The total number of views doubles each day. How many views will the video have 4 days after the first count?",
+    "choices": {
+      "A": "500",
+      "B": "1,000",
+      "C": "1,500",
+      "D": "2,000",
+      "E": "4,000"
+    },
+    "correct": "D",
+    "explanation": "Four days produce 4 doublings, so the number of views is 125 × 2⁴ = 125 × 16 = 2,000."
+  },
+  {
+    "id": "M2-019",
+    "prompt": "A cone has a radius of 4 centimeters and a height of 9 centimeters. What is its volume?",
+    "choices": {
+      "A": "12π cubic centimeters",
+      "B": "36π cubic centimeters",
+      "C": "48π cubic centimeters",
+      "D": "108π cubic centimeters",
+      "E": "144π cubic centimeters"
+    },
+    "correct": "C",
+    "explanation": "A cone's volume is (1/3)πr²h. Substituting r = 4 and h = 9 gives (1/3) × π × 4² × 9 = 48π cubic centimeters."
+  },
+  {
+    "id": "M2-020",
+    "prompt": "A company wants to estimate the average commuting time of all its employees. Which method is most likely to produce a representative sample?",
+    "choices": {
+      "A": "Survey the 80 employees who arrive earliest.",
+      "B": "Survey all employees who ride the bus.",
+      "C": "Randomly select 80 employees from the complete employee roster.",
+      "D": "Ask for volunteers in the company's parking garage.",
+      "E": "Survey the 80 employees who live closest to the office."
+    },
+    "correct": "C",
+    "explanation": "A random selection from the full roster gives every employee a chance to be included and avoids choosing a group based on commuting habits."
+  },
+  {
+    "id": "M2-021",
+    "prompt": "What is the value of 5⁶ ÷ (5² × 5)?",
+    "choices": {
+      "A": "5",
+      "B": "25",
+      "C": "125",
+      "D": "625",
+      "E": "15,625"
+    },
+    "correct": "C",
+    "explanation": "Since 5² × 5 = 5³, the expression is 5⁶ ÷ 5³ = 5³ = 125."
+  },
+  {
+    "id": "M2-022",
+    "prompt": "The equation x² − 3x − 10 = 0 has two solutions. What is the greater solution?",
+    "choices": {
+      "A": "−5",
+      "B": "−2",
+      "C": "2",
+      "D": "3",
+      "E": "5"
+    },
+    "correct": "E",
+    "explanation": "Factoring gives x² − 3x − 10 = (x − 5)(x + 2), so the solutions are 5 and −2. The greater solution is 5."
+  },
+  {
+    "id": "M2-023",
+    "prompt": "A gym charges a monthly fee of $24 plus $8 for each fitness class attended. One member's total charge for a month is $72. How many fitness classes did the member attend?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8",
+      "E": "9"
+    },
+    "correct": "C",
+    "explanation": "Subtract the $24 monthly fee from $72 to get $48. At $8 per class, the member attended $48 ÷ $8 = 6 classes."
+  },
+  {
+    "id": "M2-024",
+    "prompt": "Two triangles are similar. A 10-centimeter side of the smaller triangle corresponds to a 15-centimeter side of the larger triangle. If another side of the smaller triangle is 11 centimeters, what is the length of its corresponding side in the larger triangle?",
+    "choices": {
+      "A": "13.5 centimeters",
+      "B": "15.5 centimeters",
+      "C": "16.5 centimeters",
+      "D": "21 centimeters",
+      "E": "26 centimeters"
+    },
+    "correct": "C",
+    "explanation": "The scale factor is 15/10 = 1.5. Therefore, the corresponding side is 11 × 1.5 = 16.5 centimeters."
+  },
+  {
+    "id": "M2-025",
+    "prompt": "Company A charges y = 4x + 18 dollars to rent a bicycle for x hours. Company B charges a starting fee plus a constant amount per hour, as shown in the table.\n\nx (hours) | 0 | 2 | 4\ny (dollars) | 10 | 20 | 30\n\nFor a 6-hour rental, how does Company A's charge compare with Company B's charge?",
+    "choices": {
+      "A": "Company A charges $2 less.",
+      "B": "Company A charges $2 more.",
+      "C": "Company A charges $8 less.",
+      "D": "Company A charges $8 more.",
+      "E": "The two companies charge the same amount."
+    },
+    "correct": "B",
+    "explanation": "For 6 hours, Company A charges 4(6) + 18 = $42. Company B's table has a rate of $5 per hour and a starting charge of $10, so it charges 5(6) + 10 = $40. Company A charges $2 more."
+  },
+  {
+    "id": "M2-026",
+    "prompt": "A rectangular room is 15 feet long and 12 feet wide. A contractor plans to buy 10% more flooring than the room's area to allow for waste. Flooring is sold only in whole boxes, and each box covers 20 square feet. What is the least number of boxes the contractor must buy?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "18",
+      "E": "20"
+    },
+    "correct": "B",
+    "explanation": "The room's area is 15 × 12 = 180 square feet. Including 10% extra requires 180 × 1.10 = 198 square feet. Since 198 ÷ 20 = 9.9, the contractor must buy 10 whole boxes."
+  },
+  {
+    "id": "M2-027",
+    "prompt": "What value of x satisfies 4(2x − 3) = 3x + 23?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "11"
+    },
+    "correct": "C",
+    "explanation": "Expanding gives 8x − 12 = 3x + 23. Then 5x = 35, so x = 7."
+  },
+  {
+    "id": "M2-028",
+    "prompt": "Which of the following is an irrational number between 4 and 5?",
+    "choices": {
+      "A": "√15",
+      "B": "4.25",
+      "C": "√20",
+      "D": "√25",
+      "E": "∛125"
+    },
+    "correct": "C",
+    "explanation": "Since 16 < 20 < 25, 4 < √20 < 5. Because 20 is not a perfect square, √20 is irrational."
+  },
+  {
+    "id": "M2-029",
+    "prompt": "What is the midpoint of the line segment with endpoints (−3, 5) and (7, −1)?",
+    "choices": {
+      "A": "(−5, 3)",
+      "B": "(1, 2)",
+      "C": "(2, 2)",
+      "D": "(2, 3)",
+      "E": "(5, 4)"
+    },
+    "correct": "C",
+    "explanation": "Average the x-coordinates and y-coordinates: ((−3 + 7)/2, (5 + (−1))/2) = (2, 2)."
+  },
+  {
+    "id": "M2-030",
+    "prompt": "A linear function f passes through the points (−1, 4) and (3, 12). What is f(5)?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16",
+      "E": "18"
+    },
+    "correct": "D",
+    "explanation": "The slope is (12 − 4)/(3 − (−1)) = 8/4 = 2. The function is f(x) = 2x + 6, so f(5) = 16."
+  },
+  {
+    "id": "M2-031",
+    "prompt": "One integer is selected at random from the integers 1 through 24. What is the probability that the selected integer is a multiple of 3 or a multiple of 5?",
+    "choices": {
+      "A": "1/3",
+      "B": "3/8",
+      "C": "5/12",
+      "D": "11/24",
+      "E": "1/2"
+    },
+    "correct": "D",
+    "explanation": "From 1 through 24 there are 8 multiples of 3 and 4 multiples of 5. The number 15 is counted in both groups, so there are 8 + 4 − 1 = 11 favorable integers. The probability is 11/24."
+  },
+  {
+    "id": "M2-032",
+    "prompt": "A water tank holds 2,400 liters when full and is currently 35% full. Water flows into the tank at 18 liters per minute. How many minutes will it take for the tank to become 80% full?",
+    "choices": {
+      "A": "40 minutes",
+      "B": "47 minutes",
+      "C": "60 minutes",
+      "D": "80 minutes",
+      "E": "107 minutes"
+    },
+    "correct": "C",
+    "explanation": "The tank must increase from 35% to 80%, a change of 45% of 2,400 liters. That is 0.45 × 2,400 = 1,080 liters. At 18 liters per minute, the time is 1,080 ÷ 18 = 60 minutes."
+  },
+  {
+    "id": "M2-033",
+    "prompt": "A theater sells 120 tickets consisting only of adult and youth tickets. Adult tickets cost $14, youth tickets cost $9, and the total revenue is $1,430. How many youth tickets are sold?",
+    "choices": {
+      "A": "40",
+      "B": "50",
+      "C": "60",
+      "D": "70",
+      "E": "80"
+    },
+    "correct": "B",
+    "explanation": "If all 120 tickets were youth tickets, the revenue would be $1,080. Each adult ticket adds $5, so the number of adult tickets is ($1,430 − $1,080) ÷ $5 = 70. Therefore, 120 − 70 = 50 youth tickets were sold."
+  },
+  {
+    "id": "M2-034",
+    "prompt": "A solid is made by joining 2 identical cubes, each with an edge length of 4 centimeters, along one complete face. What is the surface area of the resulting solid?",
+    "choices": {
+      "A": "96 square centimeters",
+      "B": "128 square centimeters",
+      "C": "144 square centimeters",
+      "D": "160 square centimeters",
+      "E": "192 square centimeters"
+    },
+    "correct": "D",
+    "explanation": "Two separate cubes have 2 × 6 = 12 square faces. Joining them hides 2 faces, leaving 10 exposed faces. Each face has area 4² = 16 square centimeters, so the surface area is 10 × 16 = 160 square centimeters."
+  },
+  {
+    "id": "M2-035",
+    "prompt": "A student has 5 quiz scores: 72, 78, 82, 88, and 90. The score of 72 is replaced by a score of 84. Which statement correctly describes how the mean and range change?",
+    "choices": {
+      "A": "The mean increases by 2.4 points, and the range decreases by 6 points.",
+      "B": "The mean increases by 6 points, and the range decreases by 2.4 points.",
+      "C": "The mean increases by 12 points, and the range decreases by 6 points.",
+      "D": "The mean increases by 2.4 points, and the range increases by 6 points.",
+      "E": "The mean and range each increase by 2.4 points."
+    },
+    "correct": "A",
+    "explanation": "Replacing 72 with 84 increases the total by 12, so the mean increases by 12 ÷ 5 = 2.4. The original range is 90 − 72 = 18, and the new ordered scores are 78, 82, 84, 88, 90, with range 90 − 78 = 12, a decrease of 6."
+  },
+  {
+    "id": "R2-001",
+    "prompt": "Passage:\nThe Long Way on Paper\n\nTessa’s map of the Harbor Walk fit perfectly on one sheet of paper. She had measured every turn, drawn the shoreline in a smooth blue curve, and marked the finish with a tiny flag. On Friday evening, two hundred copies were supposed to roll from her father’s printing press. On Saturday morning, families would follow the map during the neighborhood scavenger walk.\n\nAt the planning meeting, Mr. Okafor studied Tessa’s draft through square glasses. He had delivered mail in the neighborhood for thirty years and knew its shortcuts better than anyone. His finger stopped at the old railway underpass.\n\n“That tunnel collects water after a hard rain,” he said.\n\nTessa glanced through the community-center window. The clouds had already emptied and were breaking apart. “The weather is clearing. Besides, the underpass is the shortest route.”\n\nMr. Okafor folded the map but did not return it. “A line can be short on paper and still be a long problem on foot.”\n\nTessa wanted to defend the tidy page. The alternate route climbed Market Hill, bent around the library, and would force her to redraw nearly everything. Instead, she tucked the map under her jacket and borrowed her brother’s bicycle.\n\nAt the underpass, brown water covered the path from wall to wall. Tessa stopped where the pavement disappeared. A branch floated through the tunnel and caught against the railing. She imagined a parent pushing a stroller toward the water or a child racing ahead of the group. The blue line on her map suddenly looked less like a direction and more like a promise she had not checked.\n\nBack at the print shop, her father had arranged blank paper beside the press. “Ready?” he asked.\n\nTessa spread out her damp map. “Not yet.” She explained what she had found and pointed to the longer route. If she changed it, they might miss the evening pickup for the boxes of printed maps.\n\nHer father switched off the press light. The shop, normally full of clicking and humming, held its breath. “The machine can wait,” he said. “Can the walkers?”\n\nTessa erased the underpass route. At first, the new line seemed to crowd everything else. Then she noticed that Market Hill passed the fire station’s painted doors and a courtyard where three enormous sycamore trees grew. She moved two scavenger clues to those places and added a bench symbol halfway up the hill. Mr. Okafor returned with hot sandwiches and tested the directions aloud while Tessa worked.\n\nThe printing finished late. On Saturday, Tessa stood near the hill, expecting complaints about the climb. Instead, children counted the painted stars on the fire-station doors, and several walkers rested beneath the sycamores. When Mr. Okafor reached the top, he held up the map.\n\n“Not the shortest,” he said.\n\nTessa watched a family compare the real courtyard with her small green symbols. “No,” she replied, “but it gets people where I said it would.”\n\nQuestion:\nWhy is Tessa initially reluctant to use the alternate route?",
+    "choices": {
+      "A": "She believes Mr. Okafor wants to cancel the entire event.",
+      "B": "She has never visited Market Hill or the library.",
+      "C": "It would require major changes to her tidy map and might delay printing.",
+      "D": "It would lead walkers through the flooded railway underpass."
+    },
+    "correct": "C",
+    "explanation": "Tessa thinks the alternate route will force her to redraw nearly everything, and she later notes that changing it may cause them to miss the pickup deadline."
+  },
+  {
+    "id": "R2-002",
+    "prompt": "Passage:\nThe Long Way on Paper\n\nTessa’s map of the Harbor Walk fit perfectly on one sheet of paper. She had measured every turn, drawn the shoreline in a smooth blue curve, and marked the finish with a tiny flag. On Friday evening, two hundred copies were supposed to roll from her father’s printing press. On Saturday morning, families would follow the map during the neighborhood scavenger walk.\n\nAt the planning meeting, Mr. Okafor studied Tessa’s draft through square glasses. He had delivered mail in the neighborhood for thirty years and knew its shortcuts better than anyone. His finger stopped at the old railway underpass.\n\n“That tunnel collects water after a hard rain,” he said.\n\nTessa glanced through the community-center window. The clouds had already emptied and were breaking apart. “The weather is clearing. Besides, the underpass is the shortest route.”\n\nMr. Okafor folded the map but did not return it. “A line can be short on paper and still be a long problem on foot.”\n\nTessa wanted to defend the tidy page. The alternate route climbed Market Hill, bent around the library, and would force her to redraw nearly everything. Instead, she tucked the map under her jacket and borrowed her brother’s bicycle.\n\nAt the underpass, brown water covered the path from wall to wall. Tessa stopped where the pavement disappeared. A branch floated through the tunnel and caught against the railing. She imagined a parent pushing a stroller toward the water or a child racing ahead of the group. The blue line on her map suddenly looked less like a direction and more like a promise she had not checked.\n\nBack at the print shop, her father had arranged blank paper beside the press. “Ready?” he asked.\n\nTessa spread out her damp map. “Not yet.” She explained what she had found and pointed to the longer route. If she changed it, they might miss the evening pickup for the boxes of printed maps.\n\nHer father switched off the press light. The shop, normally full of clicking and humming, held its breath. “The machine can wait,” he said. “Can the walkers?”\n\nTessa erased the underpass route. At first, the new line seemed to crowd everything else. Then she noticed that Market Hill passed the fire station’s painted doors and a courtyard where three enormous sycamore trees grew. She moved two scavenger clues to those places and added a bench symbol halfway up the hill. Mr. Okafor returned with hot sandwiches and tested the directions aloud while Tessa worked.\n\nThe printing finished late. On Saturday, Tessa stood near the hill, expecting complaints about the climb. Instead, children counted the painted stars on the fire-station doors, and several walkers rested beneath the sycamores. When Mr. Okafor reached the top, he held up the map.\n\n“Not the shortest,” he said.\n\nTessa watched a family compare the real courtyard with her small green symbols. “No,” she replied, “but it gets people where I said it would.”\n\nQuestion:\nIt can reasonably be inferred that Tessa’s father switches off the press light because he wants to:",
+    "choices": {
+      "A": "give Tessa time to choose an accurate route instead of rushing to print.",
+      "B": "show that the press has broken and cannot be used that evening.",
+      "C": "persuade Tessa to keep the shorter route through the underpass.",
+      "D": "wait until Mr. Okafor agrees to pay for the printing."
+    },
+    "correct": "A",
+    "explanation": "After Tessa explains the problem, her father says the machine can wait and asks whether the walkers can. His response puts their safety and the map’s accuracy before the deadline."
+  },
+  {
+    "id": "R2-003",
+    "prompt": "Passage:\nThe Long Way on Paper\n\nTessa’s map of the Harbor Walk fit perfectly on one sheet of paper. She had measured every turn, drawn the shoreline in a smooth blue curve, and marked the finish with a tiny flag. On Friday evening, two hundred copies were supposed to roll from her father’s printing press. On Saturday morning, families would follow the map during the neighborhood scavenger walk.\n\nAt the planning meeting, Mr. Okafor studied Tessa’s draft through square glasses. He had delivered mail in the neighborhood for thirty years and knew its shortcuts better than anyone. His finger stopped at the old railway underpass.\n\n“That tunnel collects water after a hard rain,” he said.\n\nTessa glanced through the community-center window. The clouds had already emptied and were breaking apart. “The weather is clearing. Besides, the underpass is the shortest route.”\n\nMr. Okafor folded the map but did not return it. “A line can be short on paper and still be a long problem on foot.”\n\nTessa wanted to defend the tidy page. The alternate route climbed Market Hill, bent around the library, and would force her to redraw nearly everything. Instead, she tucked the map under her jacket and borrowed her brother’s bicycle.\n\nAt the underpass, brown water covered the path from wall to wall. Tessa stopped where the pavement disappeared. A branch floated through the tunnel and caught against the railing. She imagined a parent pushing a stroller toward the water or a child racing ahead of the group. The blue line on her map suddenly looked less like a direction and more like a promise she had not checked.\n\nBack at the print shop, her father had arranged blank paper beside the press. “Ready?” he asked.\n\nTessa spread out her damp map. “Not yet.” She explained what she had found and pointed to the longer route. If she changed it, they might miss the evening pickup for the boxes of printed maps.\n\nHer father switched off the press light. The shop, normally full of clicking and humming, held its breath. “The machine can wait,” he said. “Can the walkers?”\n\nTessa erased the underpass route. At first, the new line seemed to crowd everything else. Then she noticed that Market Hill passed the fire station’s painted doors and a courtyard where three enormous sycamore trees grew. She moved two scavenger clues to those places and added a bench symbol halfway up the hill. Mr. Okafor returned with hot sandwiches and tested the directions aloud while Tessa worked.\n\nThe printing finished late. On Saturday, Tessa stood near the hill, expecting complaints about the climb. Instead, children counted the painted stars on the fire-station doors, and several walkers rested beneath the sycamores. When Mr. Okafor reached the top, he held up the map.\n\n“Not the shortest,” he said.\n\nTessa watched a family compare the real courtyard with her small green symbols. “No,” she replied, “but it gets people where I said it would.”\n\nQuestion:\nIn the sentence “The shop, normally full of clicking and humming, held its breath,” the phrase “held its breath” most nearly suggests that the shop became:",
+    "choices": {
+      "A": "dangerously hot.",
+      "B": "filled with unfamiliar noises.",
+      "C": "too crowded for Tessa to work.",
+      "D": "quiet, as if waiting for a decision."
+    },
+    "correct": "D",
+    "explanation": "The press light has just been switched off, ending the shop’s usual clicking and humming. The figurative phrase emphasizes the quiet pause while Tessa considers what to do."
+  },
+  {
+    "id": "R2-004",
+    "prompt": "Passage:\nThe Long Way on Paper\n\nTessa’s map of the Harbor Walk fit perfectly on one sheet of paper. She had measured every turn, drawn the shoreline in a smooth blue curve, and marked the finish with a tiny flag. On Friday evening, two hundred copies were supposed to roll from her father’s printing press. On Saturday morning, families would follow the map during the neighborhood scavenger walk.\n\nAt the planning meeting, Mr. Okafor studied Tessa’s draft through square glasses. He had delivered mail in the neighborhood for thirty years and knew its shortcuts better than anyone. His finger stopped at the old railway underpass.\n\n“That tunnel collects water after a hard rain,” he said.\n\nTessa glanced through the community-center window. The clouds had already emptied and were breaking apart. “The weather is clearing. Besides, the underpass is the shortest route.”\n\nMr. Okafor folded the map but did not return it. “A line can be short on paper and still be a long problem on foot.”\n\nTessa wanted to defend the tidy page. The alternate route climbed Market Hill, bent around the library, and would force her to redraw nearly everything. Instead, she tucked the map under her jacket and borrowed her brother’s bicycle.\n\nAt the underpass, brown water covered the path from wall to wall. Tessa stopped where the pavement disappeared. A branch floated through the tunnel and caught against the railing. She imagined a parent pushing a stroller toward the water or a child racing ahead of the group. The blue line on her map suddenly looked less like a direction and more like a promise she had not checked.\n\nBack at the print shop, her father had arranged blank paper beside the press. “Ready?” he asked.\n\nTessa spread out her damp map. “Not yet.” She explained what she had found and pointed to the longer route. If she changed it, they might miss the evening pickup for the boxes of printed maps.\n\nHer father switched off the press light. The shop, normally full of clicking and humming, held its breath. “The machine can wait,” he said. “Can the walkers?”\n\nTessa erased the underpass route. At first, the new line seemed to crowd everything else. Then she noticed that Market Hill passed the fire station’s painted doors and a courtyard where three enormous sycamore trees grew. She moved two scavenger clues to those places and added a bench symbol halfway up the hill. Mr. Okafor returned with hot sandwiches and tested the directions aloud while Tessa worked.\n\nThe printing finished late. On Saturday, Tessa stood near the hill, expecting complaints about the climb. Instead, children counted the painted stars on the fire-station doors, and several walkers rested beneath the sycamores. When Mr. Okafor reached the top, he held up the map.\n\n“Not the shortest,” he said.\n\nTessa watched a family compare the real courtyard with her small green symbols. “No,” she replied, “but it gets people where I said it would.”\n\nQuestion:\nWhat is the main function of the scene at the flooded underpass?",
+    "choices": {
+      "A": "It explains why Mr. Okafor stopped delivering mail.",
+      "B": "It turns a warning into visible evidence that causes Tessa to reconsider her map.",
+      "C": "It shows that Tessa’s bicycle cannot travel on wet pavement.",
+      "D": "It introduces the locations used for the scavenger clues on Market Hill."
+    },
+    "correct": "B",
+    "explanation": "Seeing the water and imagining walkers approaching it makes the danger concrete. Tessa then views the line on her map as a promise she has not checked."
+  },
+  {
+    "id": "R2-005",
+    "prompt": "Passage:\nThe Long Way on Paper\n\nTessa’s map of the Harbor Walk fit perfectly on one sheet of paper. She had measured every turn, drawn the shoreline in a smooth blue curve, and marked the finish with a tiny flag. On Friday evening, two hundred copies were supposed to roll from her father’s printing press. On Saturday morning, families would follow the map during the neighborhood scavenger walk.\n\nAt the planning meeting, Mr. Okafor studied Tessa’s draft through square glasses. He had delivered mail in the neighborhood for thirty years and knew its shortcuts better than anyone. His finger stopped at the old railway underpass.\n\n“That tunnel collects water after a hard rain,” he said.\n\nTessa glanced through the community-center window. The clouds had already emptied and were breaking apart. “The weather is clearing. Besides, the underpass is the shortest route.”\n\nMr. Okafor folded the map but did not return it. “A line can be short on paper and still be a long problem on foot.”\n\nTessa wanted to defend the tidy page. The alternate route climbed Market Hill, bent around the library, and would force her to redraw nearly everything. Instead, she tucked the map under her jacket and borrowed her brother’s bicycle.\n\nAt the underpass, brown water covered the path from wall to wall. Tessa stopped where the pavement disappeared. A branch floated through the tunnel and caught against the railing. She imagined a parent pushing a stroller toward the water or a child racing ahead of the group. The blue line on her map suddenly looked less like a direction and more like a promise she had not checked.\n\nBack at the print shop, her father had arranged blank paper beside the press. “Ready?” he asked.\n\nTessa spread out her damp map. “Not yet.” She explained what she had found and pointed to the longer route. If she changed it, they might miss the evening pickup for the boxes of printed maps.\n\nHer father switched off the press light. The shop, normally full of clicking and humming, held its breath. “The machine can wait,” he said. “Can the walkers?”\n\nTessa erased the underpass route. At first, the new line seemed to crowd everything else. Then she noticed that Market Hill passed the fire station’s painted doors and a courtyard where three enormous sycamore trees grew. She moved two scavenger clues to those places and added a bench symbol halfway up the hill. Mr. Okafor returned with hot sandwiches and tested the directions aloud while Tessa worked.\n\nThe printing finished late. On Saturday, Tessa stood near the hill, expecting complaints about the climb. Instead, children counted the painted stars on the fire-station doors, and several walkers rested beneath the sycamores. When Mr. Okafor reached the top, he held up the map.\n\n“Not the shortest,” he said.\n\nTessa watched a family compare the real courtyard with her small green symbols. “No,” she replied, “but it gets people where I said it would.”\n\nQuestion:\nHow does Tessa’s understanding of a map change during the passage?",
+    "choices": {
+      "A": "She begins by seeing maps as historical records and ends by seeing them as decorations.",
+      "B": "She begins by distrusting printed maps and ends by refusing to use them.",
+      "C": "She begins by valuing neatness and shortness but comes to see directions as a responsibility to walkers.",
+      "D": "She begins by drawing for families but decides maps should be made only for mail carriers."
+    },
+    "correct": "C",
+    "explanation": "At first, Tessa defends the tidy page and shortest route. After seeing the flood, she realizes that the map makes a promise and revises it so walkers can rely on it."
+  },
+  {
+    "id": "R2-006",
+    "prompt": "Passage:\nThe Long Way on Paper\n\nTessa’s map of the Harbor Walk fit perfectly on one sheet of paper. She had measured every turn, drawn the shoreline in a smooth blue curve, and marked the finish with a tiny flag. On Friday evening, two hundred copies were supposed to roll from her father’s printing press. On Saturday morning, families would follow the map during the neighborhood scavenger walk.\n\nAt the planning meeting, Mr. Okafor studied Tessa’s draft through square glasses. He had delivered mail in the neighborhood for thirty years and knew its shortcuts better than anyone. His finger stopped at the old railway underpass.\n\n“That tunnel collects water after a hard rain,” he said.\n\nTessa glanced through the community-center window. The clouds had already emptied and were breaking apart. “The weather is clearing. Besides, the underpass is the shortest route.”\n\nMr. Okafor folded the map but did not return it. “A line can be short on paper and still be a long problem on foot.”\n\nTessa wanted to defend the tidy page. The alternate route climbed Market Hill, bent around the library, and would force her to redraw nearly everything. Instead, she tucked the map under her jacket and borrowed her brother’s bicycle.\n\nAt the underpass, brown water covered the path from wall to wall. Tessa stopped where the pavement disappeared. A branch floated through the tunnel and caught against the railing. She imagined a parent pushing a stroller toward the water or a child racing ahead of the group. The blue line on her map suddenly looked less like a direction and more like a promise she had not checked.\n\nBack at the print shop, her father had arranged blank paper beside the press. “Ready?” he asked.\n\nTessa spread out her damp map. “Not yet.” She explained what she had found and pointed to the longer route. If she changed it, they might miss the evening pickup for the boxes of printed maps.\n\nHer father switched off the press light. The shop, normally full of clicking and humming, held its breath. “The machine can wait,” he said. “Can the walkers?”\n\nTessa erased the underpass route. At first, the new line seemed to crowd everything else. Then she noticed that Market Hill passed the fire station’s painted doors and a courtyard where three enormous sycamore trees grew. She moved two scavenger clues to those places and added a bench symbol halfway up the hill. Mr. Okafor returned with hot sandwiches and tested the directions aloud while Tessa worked.\n\nThe printing finished late. On Saturday, Tessa stood near the hill, expecting complaints about the climb. Instead, children counted the painted stars on the fire-station doors, and several walkers rested beneath the sycamores. When Mr. Okafor reached the top, he held up the map.\n\n“Not the shortest,” he said.\n\nTessa watched a family compare the real courtyard with her small green symbols. “No,” she replied, “but it gets people where I said it would.”\n\nQuestion:\nWhich choice best summarizes the passage?",
+    "choices": {
+      "A": "After checking a warned-about route, Tessa accepts a printing delay and redesigns her map to guide walkers safely along a more interesting path.",
+      "B": "Tessa cancels a neighborhood walk when her father refuses to print a map that includes Market Hill.",
+      "C": "Mr. Okafor secretly redraws Tessa’s map and moves every scavenger clue without consulting her.",
+      "D": "Families ignore Tessa’s map because they prefer the shortest route through a flooded tunnel."
+    },
+    "correct": "A",
+    "explanation": "Tessa verifies Mr. Okafor’s warning, replaces the unsafe route, and uses features of the longer path to improve the event despite the delayed printing."
+  },
+  {
+    "id": "R2-007",
+    "prompt": "Passage:\nPassage A: Let the Copy Do Some Work\n\nIn our transportation museum, visitors once viewed a nineteenth-century train brake from behind glass. Its iron handle and gears were easy to see but difficult to understand. Then our exhibit team built a full-size working reproduction. Now visitors can pull the handle and watch wooden wheels slow as the gears press a model brake shoe against them. The original remains protected nearby, while the copy helps explain what the original did.\n\nReproductions are sometimes dismissed as second-rate objects. That judgment overlooks what a carefully made copy can offer. A copy may be handled, opened, tested, or even repaired in front of visitors. It can reveal motion and texture that a fragile original cannot safely provide. Reproductions can also replace missing parts in a demonstration, allowing people to study a complete process instead of a single surviving piece.\n\nCopies must be labeled honestly. Visitors should know what is old, what is newly made, and which features are based on evidence rather than certainty. When those distinctions are clear, a reproduction does not compete with an original. It becomes a tool for asking better questions about the original.\n\nPassage B: What the Original Still Knows\n\nA wooden bowl in a local history collection may look ordinary until light reveals knife marks beneath its rim. A darkened patch may show where a thumb repeatedly rested. Such traces are not decoration. They are physical evidence of how one particular object was made and used.\n\nThis evidence is why original objects deserve careful attention. No reproduction, however accurate its measurements, can carry the exact history of wear, repair, and accident found in the object it copies. If visitors encounter only smooth stand-ins, they may miss the uncertainty that makes historical study interesting. A scratch might come from daily use, later damage, or the maker’s tool. The original preserves the question even when it does not supply an easy answer.\n\nThat does not make reproductions useless. A model may show how separate pieces once fit together, and a touchable copy may give more people access to an object’s shape. But the copy should guide attention back to the surviving evidence, not replace it. In a strong exhibit, the reproduction explains a possible function while the original reminds viewers that the past was physical, specific, and never perfectly neat.\n\nQuestion:\nWhich choice best states the central idea of Passage A?",
+    "choices": {
+      "A": "Museums should replace all fragile objects with working machines.",
+      "B": "Visitors learn best when historical objects are left entirely unexplained.",
+      "C": "Reproductions are valuable only when no original object survives.",
+      "D": "Clearly labeled reproductions can help visitors explore features that originals cannot safely demonstrate."
+    },
+    "correct": "D",
+    "explanation": "Passage A argues that copies can be handled, opened, and tested while the originals remain protected, provided the copies are honestly labeled."
+  },
+  {
+    "id": "R2-008",
+    "prompt": "Passage:\nPassage A: Let the Copy Do Some Work\n\nIn our transportation museum, visitors once viewed a nineteenth-century train brake from behind glass. Its iron handle and gears were easy to see but difficult to understand. Then our exhibit team built a full-size working reproduction. Now visitors can pull the handle and watch wooden wheels slow as the gears press a model brake shoe against them. The original remains protected nearby, while the copy helps explain what the original did.\n\nReproductions are sometimes dismissed as second-rate objects. That judgment overlooks what a carefully made copy can offer. A copy may be handled, opened, tested, or even repaired in front of visitors. It can reveal motion and texture that a fragile original cannot safely provide. Reproductions can also replace missing parts in a demonstration, allowing people to study a complete process instead of a single surviving piece.\n\nCopies must be labeled honestly. Visitors should know what is old, what is newly made, and which features are based on evidence rather than certainty. When those distinctions are clear, a reproduction does not compete with an original. It becomes a tool for asking better questions about the original.\n\nPassage B: What the Original Still Knows\n\nA wooden bowl in a local history collection may look ordinary until light reveals knife marks beneath its rim. A darkened patch may show where a thumb repeatedly rested. Such traces are not decoration. They are physical evidence of how one particular object was made and used.\n\nThis evidence is why original objects deserve careful attention. No reproduction, however accurate its measurements, can carry the exact history of wear, repair, and accident found in the object it copies. If visitors encounter only smooth stand-ins, they may miss the uncertainty that makes historical study interesting. A scratch might come from daily use, later damage, or the maker’s tool. The original preserves the question even when it does not supply an easy answer.\n\nThat does not make reproductions useless. A model may show how separate pieces once fit together, and a touchable copy may give more people access to an object’s shape. But the copy should guide attention back to the surviving evidence, not replace it. In a strong exhibit, the reproduction explains a possible function while the original reminds viewers that the past was physical, specific, and never perfectly neat.\n\nQuestion:\nWhy does Passage A begin with the example of the train brake?",
+    "choices": {
+      "A": "To prove that working train brakes are safer when built from wood.",
+      "B": "To illustrate how a reproduction can make an original object’s operation easier to understand.",
+      "C": "To show that visitors damaged the original brake by touching it.",
+      "D": "To argue that transportation museums should contain only machines."
+    },
+    "correct": "B",
+    "explanation": "The working reproduction lets visitors operate the handle and observe the mechanism, while the original stays protected nearby. It provides a concrete example of the author’s argument."
+  },
+  {
+    "id": "R2-009",
+    "prompt": "Passage:\nPassage A: Let the Copy Do Some Work\n\nIn our transportation museum, visitors once viewed a nineteenth-century train brake from behind glass. Its iron handle and gears were easy to see but difficult to understand. Then our exhibit team built a full-size working reproduction. Now visitors can pull the handle and watch wooden wheels slow as the gears press a model brake shoe against them. The original remains protected nearby, while the copy helps explain what the original did.\n\nReproductions are sometimes dismissed as second-rate objects. That judgment overlooks what a carefully made copy can offer. A copy may be handled, opened, tested, or even repaired in front of visitors. It can reveal motion and texture that a fragile original cannot safely provide. Reproductions can also replace missing parts in a demonstration, allowing people to study a complete process instead of a single surviving piece.\n\nCopies must be labeled honestly. Visitors should know what is old, what is newly made, and which features are based on evidence rather than certainty. When those distinctions are clear, a reproduction does not compete with an original. It becomes a tool for asking better questions about the original.\n\nPassage B: What the Original Still Knows\n\nA wooden bowl in a local history collection may look ordinary until light reveals knife marks beneath its rim. A darkened patch may show where a thumb repeatedly rested. Such traces are not decoration. They are physical evidence of how one particular object was made and used.\n\nThis evidence is why original objects deserve careful attention. No reproduction, however accurate its measurements, can carry the exact history of wear, repair, and accident found in the object it copies. If visitors encounter only smooth stand-ins, they may miss the uncertainty that makes historical study interesting. A scratch might come from daily use, later damage, or the maker’s tool. The original preserves the question even when it does not supply an easy answer.\n\nThat does not make reproductions useless. A model may show how separate pieces once fit together, and a touchable copy may give more people access to an object’s shape. But the copy should guide attention back to the surviving evidence, not replace it. In a strong exhibit, the reproduction explains a possible function while the original reminds viewers that the past was physical, specific, and never perfectly neat.\n\nQuestion:\nAccording to Passage B, why are marks of wear on an original object important?",
+    "choices": {
+      "A": "They may provide evidence about how that particular object was made and used.",
+      "B": "They prove that every scratch was created by the object’s original maker.",
+      "C": "They make it possible to determine an object’s exact age without other evidence.",
+      "D": "They show that the object should be repaired until its surface looks new."
+    },
+    "correct": "A",
+    "explanation": "Passage B describes knife marks and a darkened thumb patch as physical evidence connected to the making and use of one particular bowl."
+  },
+  {
+    "id": "R2-010",
+    "prompt": "Passage:\nPassage A: Let the Copy Do Some Work\n\nIn our transportation museum, visitors once viewed a nineteenth-century train brake from behind glass. Its iron handle and gears were easy to see but difficult to understand. Then our exhibit team built a full-size working reproduction. Now visitors can pull the handle and watch wooden wheels slow as the gears press a model brake shoe against them. The original remains protected nearby, while the copy helps explain what the original did.\n\nReproductions are sometimes dismissed as second-rate objects. That judgment overlooks what a carefully made copy can offer. A copy may be handled, opened, tested, or even repaired in front of visitors. It can reveal motion and texture that a fragile original cannot safely provide. Reproductions can also replace missing parts in a demonstration, allowing people to study a complete process instead of a single surviving piece.\n\nCopies must be labeled honestly. Visitors should know what is old, what is newly made, and which features are based on evidence rather than certainty. When those distinctions are clear, a reproduction does not compete with an original. It becomes a tool for asking better questions about the original.\n\nPassage B: What the Original Still Knows\n\nA wooden bowl in a local history collection may look ordinary until light reveals knife marks beneath its rim. A darkened patch may show where a thumb repeatedly rested. Such traces are not decoration. They are physical evidence of how one particular object was made and used.\n\nThis evidence is why original objects deserve careful attention. No reproduction, however accurate its measurements, can carry the exact history of wear, repair, and accident found in the object it copies. If visitors encounter only smooth stand-ins, they may miss the uncertainty that makes historical study interesting. A scratch might come from daily use, later damage, or the maker’s tool. The original preserves the question even when it does not supply an easy answer.\n\nThat does not make reproductions useless. A model may show how separate pieces once fit together, and a touchable copy may give more people access to an object’s shape. But the copy should guide attention back to the surviving evidence, not replace it. In a strong exhibit, the reproduction explains a possible function while the original reminds viewers that the past was physical, specific, and never perfectly neat.\n\nQuestion:\nAs used in Passage B, “stand-ins” most nearly refers to:",
+    "choices": {
+      "A": "museum employees who explain an exhibit.",
+      "B": "original objects that have uncertain histories.",
+      "C": "substitutes made to represent original objects.",
+      "D": "tools used to repair scratches and worn surfaces."
+    },
+    "correct": "C",
+    "explanation": "The phrase appears in a discussion of reproductions that lack the original’s exact wear and history, so “stand-ins” means substitutes representing originals."
+  },
+  {
+    "id": "R2-011",
+    "prompt": "Passage:\nPassage A: Let the Copy Do Some Work\n\nIn our transportation museum, visitors once viewed a nineteenth-century train brake from behind glass. Its iron handle and gears were easy to see but difficult to understand. Then our exhibit team built a full-size working reproduction. Now visitors can pull the handle and watch wooden wheels slow as the gears press a model brake shoe against them. The original remains protected nearby, while the copy helps explain what the original did.\n\nReproductions are sometimes dismissed as second-rate objects. That judgment overlooks what a carefully made copy can offer. A copy may be handled, opened, tested, or even repaired in front of visitors. It can reveal motion and texture that a fragile original cannot safely provide. Reproductions can also replace missing parts in a demonstration, allowing people to study a complete process instead of a single surviving piece.\n\nCopies must be labeled honestly. Visitors should know what is old, what is newly made, and which features are based on evidence rather than certainty. When those distinctions are clear, a reproduction does not compete with an original. It becomes a tool for asking better questions about the original.\n\nPassage B: What the Original Still Knows\n\nA wooden bowl in a local history collection may look ordinary until light reveals knife marks beneath its rim. A darkened patch may show where a thumb repeatedly rested. Such traces are not decoration. They are physical evidence of how one particular object was made and used.\n\nThis evidence is why original objects deserve careful attention. No reproduction, however accurate its measurements, can carry the exact history of wear, repair, and accident found in the object it copies. If visitors encounter only smooth stand-ins, they may miss the uncertainty that makes historical study interesting. A scratch might come from daily use, later damage, or the maker’s tool. The original preserves the question even when it does not supply an easy answer.\n\nThat does not make reproductions useless. A model may show how separate pieces once fit together, and a touchable copy may give more people access to an object’s shape. But the copy should guide attention back to the surviving evidence, not replace it. In a strong exhibit, the reproduction explains a possible function while the original reminds viewers that the past was physical, specific, and never perfectly neat.\n\nQuestion:\nThe passages differ mainly in that Passage A emphasizes what reproductions allow visitors to do, while Passage B emphasizes:",
+    "choices": {
+      "A": "why museum visitors should avoid asking questions about objects.",
+      "B": "how copies can carry the exact wear of individual originals.",
+      "C": "why working mechanisms are more important than historical evidence.",
+      "D": "what unique physical evidence an original object preserves."
+    },
+    "correct": "D",
+    "explanation": "Passage A stresses handling and demonstrating copies. Passage B focuses on the marks, wear, repairs, and uncertainties preserved only by a particular original."
+  },
+  {
+    "id": "R2-012",
+    "prompt": "Passage:\nPassage A: Let the Copy Do Some Work\n\nIn our transportation museum, visitors once viewed a nineteenth-century train brake from behind glass. Its iron handle and gears were easy to see but difficult to understand. Then our exhibit team built a full-size working reproduction. Now visitors can pull the handle and watch wooden wheels slow as the gears press a model brake shoe against them. The original remains protected nearby, while the copy helps explain what the original did.\n\nReproductions are sometimes dismissed as second-rate objects. That judgment overlooks what a carefully made copy can offer. A copy may be handled, opened, tested, or even repaired in front of visitors. It can reveal motion and texture that a fragile original cannot safely provide. Reproductions can also replace missing parts in a demonstration, allowing people to study a complete process instead of a single surviving piece.\n\nCopies must be labeled honestly. Visitors should know what is old, what is newly made, and which features are based on evidence rather than certainty. When those distinctions are clear, a reproduction does not compete with an original. It becomes a tool for asking better questions about the original.\n\nPassage B: What the Original Still Knows\n\nA wooden bowl in a local history collection may look ordinary until light reveals knife marks beneath its rim. A darkened patch may show where a thumb repeatedly rested. Such traces are not decoration. They are physical evidence of how one particular object was made and used.\n\nThis evidence is why original objects deserve careful attention. No reproduction, however accurate its measurements, can carry the exact history of wear, repair, and accident found in the object it copies. If visitors encounter only smooth stand-ins, they may miss the uncertainty that makes historical study interesting. A scratch might come from daily use, later damage, or the maker’s tool. The original preserves the question even when it does not supply an easy answer.\n\nThat does not make reproductions useless. A model may show how separate pieces once fit together, and a touchable copy may give more people access to an object’s shape. But the copy should guide attention back to the surviving evidence, not replace it. In a strong exhibit, the reproduction explains a possible function while the original reminds viewers that the past was physical, specific, and never perfectly neat.\n\nQuestion:\nWhich statement would both authors most likely support?",
+    "choices": {
+      "A": "A reproduction should be presented without revealing that it is newly made.",
+      "B": "A reproduction can be useful when its role is clear and it directs attention to historical evidence.",
+      "C": "An original object should always be handled by visitors before they view a copy.",
+      "D": "A museum must choose between displaying originals and displaying reproductions."
+    },
+    "correct": "B",
+    "explanation": "Passage A requires honest labels and treats copies as tools for questioning originals. Passage B accepts models and touchable copies when they guide attention back to surviving evidence."
+  },
+  {
+    "id": "R2-013",
+    "prompt": "Passage:\nIdeas Before Voices\n\nIn many group discussions, the first confident suggestion becomes the starting point for everything that follows. Later speakers may improve that idea, yet they may also stop considering other possibilities. Social scientist Lian Perez and her team wondered whether a short period of silent idea writing could change the range of proposals a group considered.\n\nThe researchers recruited twenty-four teams of eighth- and ninth-grade students from three schools. Each team received the same challenge: recommend one redesign for an unused school courtyard. Half the teams began with twelve minutes of open discussion. The other half spent the first four minutes writing ideas individually on unmarked cards, then discussed for eight minutes. Thus, both groups had twelve minutes to generate and discuss ideas. In the silent-first teams, a facilitator shuffled the cards and read them aloud without identifying their authors.\n\nResearchers counted the number of distinct proposals each team considered. They also recorded how evenly speaking time was shared and asked three architects, who did not know which routine a team had used, to rate the final plans for usefulness and originality.\n\nThe open-discussion teams considered an average of 4.1 distinct proposals. The silent-first teams considered 6.7. Speaking time in the silent-first teams was also distributed more evenly, although it did not become perfectly equal. The architects’ ratings of usefulness were similar for both groups, but they rated the silent-first teams’ final plans slightly higher in originality.\n\nInterviews after the activity helped explain the pattern. Several students said an idea sounded more worthy of discussion when it was read from an anonymous card than when it came from someone who rarely spoke. One student explained, “We argued with the suggestion instead of deciding first whether the person usually has good suggestions.” Other students said the cards made the discussion feel crowded at the beginning because the team had more options to sort.\n\nThe study does not show that silent writing is best for every decision. Each team worked together only once, and redesigning a courtyard may encourage different behavior than solving a conflict or making an urgent choice. Facilitators also knew which routine each team used, though the outside architects did not. Still, the comparison suggests that changing the first few minutes can prevent an early voice from narrowing the entire discussion.\n\nPerez does not argue for silent meetings. Instead, she describes the writing period as a wider doorway into conversation. Once more ideas have entered, students still need to question, combine, and choose among them aloud.\n\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Courtyard design is too complex for students to discuss in groups.",
+      "B": "Anonymous cards prevent groups from making final decisions.",
+      "C": "Writing ideas silently before discussion may broaden the ideas and participation included in a group’s conversation.",
+      "D": "Architects and students usually agree about which designs are most useful."
+    },
+    "correct": "C",
+    "explanation": "Silent-first teams considered more distinct proposals and shared speaking time more evenly, supporting the idea that a brief writing period can widen the discussion."
+  },
+  {
+    "id": "R2-014",
+    "prompt": "Passage:\nIdeas Before Voices\n\nIn many group discussions, the first confident suggestion becomes the starting point for everything that follows. Later speakers may improve that idea, yet they may also stop considering other possibilities. Social scientist Lian Perez and her team wondered whether a short period of silent idea writing could change the range of proposals a group considered.\n\nThe researchers recruited twenty-four teams of eighth- and ninth-grade students from three schools. Each team received the same challenge: recommend one redesign for an unused school courtyard. Half the teams began with twelve minutes of open discussion. The other half spent the first four minutes writing ideas individually on unmarked cards, then discussed for eight minutes. Thus, both groups had twelve minutes to generate and discuss ideas. In the silent-first teams, a facilitator shuffled the cards and read them aloud without identifying their authors.\n\nResearchers counted the number of distinct proposals each team considered. They also recorded how evenly speaking time was shared and asked three architects, who did not know which routine a team had used, to rate the final plans for usefulness and originality.\n\nThe open-discussion teams considered an average of 4.1 distinct proposals. The silent-first teams considered 6.7. Speaking time in the silent-first teams was also distributed more evenly, although it did not become perfectly equal. The architects’ ratings of usefulness were similar for both groups, but they rated the silent-first teams’ final plans slightly higher in originality.\n\nInterviews after the activity helped explain the pattern. Several students said an idea sounded more worthy of discussion when it was read from an anonymous card than when it came from someone who rarely spoke. One student explained, “We argued with the suggestion instead of deciding first whether the person usually has good suggestions.” Other students said the cards made the discussion feel crowded at the beginning because the team had more options to sort.\n\nThe study does not show that silent writing is best for every decision. Each team worked together only once, and redesigning a courtyard may encourage different behavior than solving a conflict or making an urgent choice. Facilitators also knew which routine each team used, though the outside architects did not. Still, the comparison suggests that changing the first few minutes can prevent an early voice from narrowing the entire discussion.\n\nPerez does not argue for silent meetings. Instead, she describes the writing period as a wider doorway into conversation. Once more ideas have entered, students still need to question, combine, and choose among them aloud.\n\nQuestion:\nWhich result did the researchers observe?",
+    "choices": {
+      "A": "Silent-first teams considered more distinct proposals on average than open-discussion teams.",
+      "B": "Open-discussion teams received much higher usefulness ratings from the architects.",
+      "C": "Speaking time became perfectly equal in every silent-first team.",
+      "D": "Open-discussion teams produced an average of 6.7 distinct proposals."
+    },
+    "correct": "A",
+    "explanation": "The silent-first teams considered an average of 6.7 proposals, compared with 4.1 for the open-discussion teams."
+  },
+  {
+    "id": "R2-015",
+    "prompt": "Passage:\nIdeas Before Voices\n\nIn many group discussions, the first confident suggestion becomes the starting point for everything that follows. Later speakers may improve that idea, yet they may also stop considering other possibilities. Social scientist Lian Perez and her team wondered whether a short period of silent idea writing could change the range of proposals a group considered.\n\nThe researchers recruited twenty-four teams of eighth- and ninth-grade students from three schools. Each team received the same challenge: recommend one redesign for an unused school courtyard. Half the teams began with twelve minutes of open discussion. The other half spent the first four minutes writing ideas individually on unmarked cards, then discussed for eight minutes. Thus, both groups had twelve minutes to generate and discuss ideas. In the silent-first teams, a facilitator shuffled the cards and read them aloud without identifying their authors.\n\nResearchers counted the number of distinct proposals each team considered. They also recorded how evenly speaking time was shared and asked three architects, who did not know which routine a team had used, to rate the final plans for usefulness and originality.\n\nThe open-discussion teams considered an average of 4.1 distinct proposals. The silent-first teams considered 6.7. Speaking time in the silent-first teams was also distributed more evenly, although it did not become perfectly equal. The architects’ ratings of usefulness were similar for both groups, but they rated the silent-first teams’ final plans slightly higher in originality.\n\nInterviews after the activity helped explain the pattern. Several students said an idea sounded more worthy of discussion when it was read from an anonymous card than when it came from someone who rarely spoke. One student explained, “We argued with the suggestion instead of deciding first whether the person usually has good suggestions.” Other students said the cards made the discussion feel crowded at the beginning because the team had more options to sort.\n\nThe study does not show that silent writing is best for every decision. Each team worked together only once, and redesigning a courtyard may encourage different behavior than solving a conflict or making an urgent choice. Facilitators also knew which routine each team used, though the outside architects did not. Still, the comparison suggests that changing the first few minutes can prevent an early voice from narrowing the entire discussion.\n\nPerez does not argue for silent meetings. Instead, she describes the writing period as a wider doorway into conversation. Once more ideas have entered, students still need to question, combine, and choose among them aloud.\n\nQuestion:\nWhat is the main purpose of including the student’s comment about arguing with the suggestion instead of judging the person?",
+    "choices": {
+      "A": "To show that students could identify the authors of all the anonymous cards.",
+      "B": "To explain why the architects refused to rate the final plans.",
+      "C": "To prove that open discussion always leads to personal arguments.",
+      "D": "To illustrate how anonymity may shift attention from a speaker’s reputation to the idea itself."
+    },
+    "correct": "D",
+    "explanation": "The comment directly contrasts evaluating an anonymous suggestion with first judging whether its author usually offers good ideas."
+  },
+  {
+    "id": "R2-016",
+    "prompt": "Passage:\nIdeas Before Voices\n\nIn many group discussions, the first confident suggestion becomes the starting point for everything that follows. Later speakers may improve that idea, yet they may also stop considering other possibilities. Social scientist Lian Perez and her team wondered whether a short period of silent idea writing could change the range of proposals a group considered.\n\nThe researchers recruited twenty-four teams of eighth- and ninth-grade students from three schools. Each team received the same challenge: recommend one redesign for an unused school courtyard. Half the teams began with twelve minutes of open discussion. The other half spent the first four minutes writing ideas individually on unmarked cards, then discussed for eight minutes. Thus, both groups had twelve minutes to generate and discuss ideas. In the silent-first teams, a facilitator shuffled the cards and read them aloud without identifying their authors.\n\nResearchers counted the number of distinct proposals each team considered. They also recorded how evenly speaking time was shared and asked three architects, who did not know which routine a team had used, to rate the final plans for usefulness and originality.\n\nThe open-discussion teams considered an average of 4.1 distinct proposals. The silent-first teams considered 6.7. Speaking time in the silent-first teams was also distributed more evenly, although it did not become perfectly equal. The architects’ ratings of usefulness were similar for both groups, but they rated the silent-first teams’ final plans slightly higher in originality.\n\nInterviews after the activity helped explain the pattern. Several students said an idea sounded more worthy of discussion when it was read from an anonymous card than when it came from someone who rarely spoke. One student explained, “We argued with the suggestion instead of deciding first whether the person usually has good suggestions.” Other students said the cards made the discussion feel crowded at the beginning because the team had more options to sort.\n\nThe study does not show that silent writing is best for every decision. Each team worked together only once, and redesigning a courtyard may encourage different behavior than solving a conflict or making an urgent choice. Facilitators also knew which routine each team used, though the outside architects did not. Still, the comparison suggests that changing the first few minutes can prevent an early voice from narrowing the entire discussion.\n\nPerez does not argue for silent meetings. Instead, she describes the writing period as a wider doorway into conversation. Once more ideas have entered, students still need to question, combine, and choose among them aloud.\n\nQuestion:\nWhy did both routines provide twelve total minutes for generating and discussing ideas?",
+    "choices": {
+      "A": "To guarantee that every team would produce the same number of proposals.",
+      "B": "To make time equal across conditions so the opening routine was the main planned difference.",
+      "C": "To allow the architects to join each team for the final four minutes.",
+      "D": "To prevent facilitators from knowing which routine their teams used."
+    },
+    "correct": "B",
+    "explanation": "Both conditions lasted twelve minutes, but only the silent-first condition reserved four minutes for individual writing. Equal total time makes the opening routine the main designed difference."
+  },
+  {
+    "id": "R2-017",
+    "prompt": "Passage:\nIdeas Before Voices\n\nIn many group discussions, the first confident suggestion becomes the starting point for everything that follows. Later speakers may improve that idea, yet they may also stop considering other possibilities. Social scientist Lian Perez and her team wondered whether a short period of silent idea writing could change the range of proposals a group considered.\n\nThe researchers recruited twenty-four teams of eighth- and ninth-grade students from three schools. Each team received the same challenge: recommend one redesign for an unused school courtyard. Half the teams began with twelve minutes of open discussion. The other half spent the first four minutes writing ideas individually on unmarked cards, then discussed for eight minutes. Thus, both groups had twelve minutes to generate and discuss ideas. In the silent-first teams, a facilitator shuffled the cards and read them aloud without identifying their authors.\n\nResearchers counted the number of distinct proposals each team considered. They also recorded how evenly speaking time was shared and asked three architects, who did not know which routine a team had used, to rate the final plans for usefulness and originality.\n\nThe open-discussion teams considered an average of 4.1 distinct proposals. The silent-first teams considered 6.7. Speaking time in the silent-first teams was also distributed more evenly, although it did not become perfectly equal. The architects’ ratings of usefulness were similar for both groups, but they rated the silent-first teams’ final plans slightly higher in originality.\n\nInterviews after the activity helped explain the pattern. Several students said an idea sounded more worthy of discussion when it was read from an anonymous card than when it came from someone who rarely spoke. One student explained, “We argued with the suggestion instead of deciding first whether the person usually has good suggestions.” Other students said the cards made the discussion feel crowded at the beginning because the team had more options to sort.\n\nThe study does not show that silent writing is best for every decision. Each team worked together only once, and redesigning a courtyard may encourage different behavior than solving a conflict or making an urgent choice. Facilitators also knew which routine each team used, though the outside architects did not. Still, the comparison suggests that changing the first few minutes can prevent an early voice from narrowing the entire discussion.\n\nPerez does not argue for silent meetings. Instead, she describes the writing period as a wider doorway into conversation. Once more ideas have entered, students still need to question, combine, and choose among them aloud.\n\nQuestion:\nWhich combination of findings most strongly supports the claim that the silent-first routine broadened participation rather than merely increasing the number of ideas?",
+    "choices": {
+      "A": "The activity involved three schools, and every team redesigned a courtyard.",
+      "B": "The architects did not know which routine each team had used, and usefulness ratings were similar.",
+      "C": "Speaking time was more evenly distributed, and students said anonymous cards helped ideas from infrequent speakers receive consideration.",
+      "D": "Some students thought the opening felt crowded, and each team worked together only once."
+    },
+    "correct": "C",
+    "explanation": "More even speaking time is direct evidence about participation, while the interviews explain how anonymity helped suggestions from less frequent speakers enter the discussion."
+  },
+  {
+    "id": "R2-018",
+    "prompt": "Passage:\nIdeas Before Voices\n\nIn many group discussions, the first confident suggestion becomes the starting point for everything that follows. Later speakers may improve that idea, yet they may also stop considering other possibilities. Social scientist Lian Perez and her team wondered whether a short period of silent idea writing could change the range of proposals a group considered.\n\nThe researchers recruited twenty-four teams of eighth- and ninth-grade students from three schools. Each team received the same challenge: recommend one redesign for an unused school courtyard. Half the teams began with twelve minutes of open discussion. The other half spent the first four minutes writing ideas individually on unmarked cards, then discussed for eight minutes. Thus, both groups had twelve minutes to generate and discuss ideas. In the silent-first teams, a facilitator shuffled the cards and read them aloud without identifying their authors.\n\nResearchers counted the number of distinct proposals each team considered. They also recorded how evenly speaking time was shared and asked three architects, who did not know which routine a team had used, to rate the final plans for usefulness and originality.\n\nThe open-discussion teams considered an average of 4.1 distinct proposals. The silent-first teams considered 6.7. Speaking time in the silent-first teams was also distributed more evenly, although it did not become perfectly equal. The architects’ ratings of usefulness were similar for both groups, but they rated the silent-first teams’ final plans slightly higher in originality.\n\nInterviews after the activity helped explain the pattern. Several students said an idea sounded more worthy of discussion when it was read from an anonymous card than when it came from someone who rarely spoke. One student explained, “We argued with the suggestion instead of deciding first whether the person usually has good suggestions.” Other students said the cards made the discussion feel crowded at the beginning because the team had more options to sort.\n\nThe study does not show that silent writing is best for every decision. Each team worked together only once, and redesigning a courtyard may encourage different behavior than solving a conflict or making an urgent choice. Facilitators also knew which routine each team used, though the outside architects did not. Still, the comparison suggests that changing the first few minutes can prevent an early voice from narrowing the entire discussion.\n\nPerez does not argue for silent meetings. Instead, she describes the writing period as a wider doorway into conversation. Once more ideas have entered, students still need to question, combine, and choose among them aloud.\n\nQuestion:\nWhich choice best describes the passage’s overall structure?",
+    "choices": {
+      "A": "It introduces a concern about group discussions, describes a comparison study, reports results and limitations, and explains a possible application.",
+      "B": "It presents a courtyard design, lists objections to it, and then supplies a corrected blueprint.",
+      "C": "It tells the history of anonymous writing before arguing that spoken discussion should end.",
+      "D": "It compares three schools in order to rank their students’ creativity."
+    },
+    "correct": "A",
+    "explanation": "The passage moves from the first-speaker problem to the two routines, then presents results, interviews, limits, and Perez’s description of writing as an entry into discussion."
+  },
+  {
+    "id": "R2-019",
+    "prompt": "Passage:\nA Seed’s Twisting Tail\n\nThe seeds of some grasses carry two thin bristles called awns. When the air becomes dry, layers within each awn shrink by different amounts, causing the bristle to twist. In damp air, it loosens again. Repeated changes in humidity can make the seed shift across the ground even though the seed has no muscles.\n\nBotanist Maren Cho wanted to learn how this motion works on different surfaces. Her team collected seeds from one grass species and divided them into two groups. The first group kept both awns. On the second group, the awns were carefully trimmed away without damaging the seed body. The trimmed seeds served as a comparison, allowing the team to separate awn-driven movement from shifts caused by air currents or handling.\n\nThe researchers prepared trays with three surfaces: smooth clay, cracked clay, and a loose layer of dry leaf pieces. They arranged equal numbers of intact and trimmed seeds on each surface, photographed their starting positions, and placed the trays in a chamber. For twenty cycles, the chamber alternated between dry and humid air. Cameras took one image each minute.\n\nOn smooth clay, intact seeds turned and traveled farther than trimmed seeds, but they often ended where they had started after reversing direction. Cracked clay produced a different result. An awn would catch on one side of a crack while the seed rotated, then hold its new position when the humidity changed. In this way, many intact seeds ratcheted forward and lodged partway into cracks. Trimmed seeds rarely did so.\n\nThe leaf layer produced mixed results. Some awns became tangled before the seeds moved far. In other cases, a leaf edge acted as an anchor, helping the twisting seed push beneath the loose material. The same structure that blocked motion in one position assisted it in another.\n\nTo test whether the movement required living cells, the team removed several awns from seeds that were no longer able to grow. The detached awns still twisted as humidity changed. This result supports a physical explanation: the arrangement of fibers in the dry tissue drives the motion, rather than an active response controlled by the living seed.\n\nCho cautioned that the chamber produced regular humidity cycles, while outdoor changes are less predictable. Wind, rain, soil animals, and steeper surfaces could strengthen or overwhelm the awns’ effects. Even so, the experiment shows how a structure no thicker than a thread can use changes in the air to move a seed toward a possible shelter.\n\nQuestion:\nWhich choice best states the central idea of the passage?",
+    "choices": {
+      "A": "Grass seeds can move only when wind carries them across smooth surfaces.",
+      "B": "Leaf litter always prevents awned seeds from reaching soil.",
+      "C": "Living cells inside a seed actively command each awn to twist.",
+      "D": "Humidity-driven twisting of awns can reposition seeds, but the outcome depends on the surface and available anchors."
+    },
+    "correct": "D",
+    "explanation": "Intact awns moved in response to humidity, while cracks and leaf edges could anchor and guide that movement or sometimes obstruct it."
+  },
+  {
+    "id": "R2-020",
+    "prompt": "Passage:\nA Seed’s Twisting Tail\n\nThe seeds of some grasses carry two thin bristles called awns. When the air becomes dry, layers within each awn shrink by different amounts, causing the bristle to twist. In damp air, it loosens again. Repeated changes in humidity can make the seed shift across the ground even though the seed has no muscles.\n\nBotanist Maren Cho wanted to learn how this motion works on different surfaces. Her team collected seeds from one grass species and divided them into two groups. The first group kept both awns. On the second group, the awns were carefully trimmed away without damaging the seed body. The trimmed seeds served as a comparison, allowing the team to separate awn-driven movement from shifts caused by air currents or handling.\n\nThe researchers prepared trays with three surfaces: smooth clay, cracked clay, and a loose layer of dry leaf pieces. They arranged equal numbers of intact and trimmed seeds on each surface, photographed their starting positions, and placed the trays in a chamber. For twenty cycles, the chamber alternated between dry and humid air. Cameras took one image each minute.\n\nOn smooth clay, intact seeds turned and traveled farther than trimmed seeds, but they often ended where they had started after reversing direction. Cracked clay produced a different result. An awn would catch on one side of a crack while the seed rotated, then hold its new position when the humidity changed. In this way, many intact seeds ratcheted forward and lodged partway into cracks. Trimmed seeds rarely did so.\n\nThe leaf layer produced mixed results. Some awns became tangled before the seeds moved far. In other cases, a leaf edge acted as an anchor, helping the twisting seed push beneath the loose material. The same structure that blocked motion in one position assisted it in another.\n\nTo test whether the movement required living cells, the team removed several awns from seeds that were no longer able to grow. The detached awns still twisted as humidity changed. This result supports a physical explanation: the arrangement of fibers in the dry tissue drives the motion, rather than an active response controlled by the living seed.\n\nCho cautioned that the chamber produced regular humidity cycles, while outdoor changes are less predictable. Wind, rain, soil animals, and steeper surfaces could strengthen or overwhelm the awns’ effects. Even so, the experiment shows how a structure no thicker than a thread can use changes in the air to move a seed toward a possible shelter.\n\nQuestion:\nWhy did the researchers include seeds whose awns had been trimmed away?",
+    "choices": {
+      "A": "To determine whether trimmed seeds could grow into a different grass species.",
+      "B": "To distinguish movement caused by awns from movement caused by handling or air currents.",
+      "C": "To keep equal numbers of seeds from touching cracked clay.",
+      "D": "To test whether leaf pieces supplied nutrients to the seed body."
+    },
+    "correct": "B",
+    "explanation": "The passage states that trimmed seeds served as a comparison for separating awn-driven motion from shifts due to air currents or handling."
+  },
+  {
+    "id": "R2-021",
+    "prompt": "Passage:\nA Seed’s Twisting Tail\n\nThe seeds of some grasses carry two thin bristles called awns. When the air becomes dry, layers within each awn shrink by different amounts, causing the bristle to twist. In damp air, it loosens again. Repeated changes in humidity can make the seed shift across the ground even though the seed has no muscles.\n\nBotanist Maren Cho wanted to learn how this motion works on different surfaces. Her team collected seeds from one grass species and divided them into two groups. The first group kept both awns. On the second group, the awns were carefully trimmed away without damaging the seed body. The trimmed seeds served as a comparison, allowing the team to separate awn-driven movement from shifts caused by air currents or handling.\n\nThe researchers prepared trays with three surfaces: smooth clay, cracked clay, and a loose layer of dry leaf pieces. They arranged equal numbers of intact and trimmed seeds on each surface, photographed their starting positions, and placed the trays in a chamber. For twenty cycles, the chamber alternated between dry and humid air. Cameras took one image each minute.\n\nOn smooth clay, intact seeds turned and traveled farther than trimmed seeds, but they often ended where they had started after reversing direction. Cracked clay produced a different result. An awn would catch on one side of a crack while the seed rotated, then hold its new position when the humidity changed. In this way, many intact seeds ratcheted forward and lodged partway into cracks. Trimmed seeds rarely did so.\n\nThe leaf layer produced mixed results. Some awns became tangled before the seeds moved far. In other cases, a leaf edge acted as an anchor, helping the twisting seed push beneath the loose material. The same structure that blocked motion in one position assisted it in another.\n\nTo test whether the movement required living cells, the team removed several awns from seeds that were no longer able to grow. The detached awns still twisted as humidity changed. This result supports a physical explanation: the arrangement of fibers in the dry tissue drives the motion, rather than an active response controlled by the living seed.\n\nCho cautioned that the chamber produced regular humidity cycles, while outdoor changes are less predictable. Wind, rain, soil animals, and steeper surfaces could strengthen or overwhelm the awns’ effects. Even so, the experiment shows how a structure no thicker than a thread can use changes in the air to move a seed toward a possible shelter.\n\nQuestion:\nAs used in the description of movement on cracked clay, “ratcheted” most nearly means:",
+    "choices": {
+      "A": "dissolved after becoming wet.",
+      "B": "returned completely to the starting point.",
+      "C": "advanced in small steps while being held from fully slipping backward.",
+      "D": "rose straight into the air without touching the surface."
+    },
+    "correct": "C",
+    "explanation": "An awn caught on a crack, the seed rotated, and the crack held the new position during the next humidity change. The seed therefore advanced step by step without fully reversing."
+  },
+  {
+    "id": "R2-022",
+    "prompt": "Passage:\nA Seed’s Twisting Tail\n\nThe seeds of some grasses carry two thin bristles called awns. When the air becomes dry, layers within each awn shrink by different amounts, causing the bristle to twist. In damp air, it loosens again. Repeated changes in humidity can make the seed shift across the ground even though the seed has no muscles.\n\nBotanist Maren Cho wanted to learn how this motion works on different surfaces. Her team collected seeds from one grass species and divided them into two groups. The first group kept both awns. On the second group, the awns were carefully trimmed away without damaging the seed body. The trimmed seeds served as a comparison, allowing the team to separate awn-driven movement from shifts caused by air currents or handling.\n\nThe researchers prepared trays with three surfaces: smooth clay, cracked clay, and a loose layer of dry leaf pieces. They arranged equal numbers of intact and trimmed seeds on each surface, photographed their starting positions, and placed the trays in a chamber. For twenty cycles, the chamber alternated between dry and humid air. Cameras took one image each minute.\n\nOn smooth clay, intact seeds turned and traveled farther than trimmed seeds, but they often ended where they had started after reversing direction. Cracked clay produced a different result. An awn would catch on one side of a crack while the seed rotated, then hold its new position when the humidity changed. In this way, many intact seeds ratcheted forward and lodged partway into cracks. Trimmed seeds rarely did so.\n\nThe leaf layer produced mixed results. Some awns became tangled before the seeds moved far. In other cases, a leaf edge acted as an anchor, helping the twisting seed push beneath the loose material. The same structure that blocked motion in one position assisted it in another.\n\nTo test whether the movement required living cells, the team removed several awns from seeds that were no longer able to grow. The detached awns still twisted as humidity changed. This result supports a physical explanation: the arrangement of fibers in the dry tissue drives the motion, rather than an active response controlled by the living seed.\n\nCho cautioned that the chamber produced regular humidity cycles, while outdoor changes are less predictable. Wind, rain, soil animals, and steeper surfaces could strengthen or overwhelm the awns’ effects. Even so, the experiment shows how a structure no thicker than a thread can use changes in the air to move a seed toward a possible shelter.\n\nQuestion:\nWhich step occurred before the trays underwent twenty humidity cycles?",
+    "choices": {
+      "A": "The researchers photographed the seeds’ starting positions on the three prepared surfaces.",
+      "B": "The researchers concluded that cracked clay prevented intact seeds from moving.",
+      "C": "The researchers exposed all trays to outdoor wind and rain.",
+      "D": "The researchers removed the leaf layer after the awns became tangled."
+    },
+    "correct": "A",
+    "explanation": "The team arranged the seeds and photographed their starting positions before placing the trays in the chamber for twenty dry-humid cycles."
+  },
+  {
+    "id": "R2-023",
+    "prompt": "Passage:\nA Seed’s Twisting Tail\n\nThe seeds of some grasses carry two thin bristles called awns. When the air becomes dry, layers within each awn shrink by different amounts, causing the bristle to twist. In damp air, it loosens again. Repeated changes in humidity can make the seed shift across the ground even though the seed has no muscles.\n\nBotanist Maren Cho wanted to learn how this motion works on different surfaces. Her team collected seeds from one grass species and divided them into two groups. The first group kept both awns. On the second group, the awns were carefully trimmed away without damaging the seed body. The trimmed seeds served as a comparison, allowing the team to separate awn-driven movement from shifts caused by air currents or handling.\n\nThe researchers prepared trays with three surfaces: smooth clay, cracked clay, and a loose layer of dry leaf pieces. They arranged equal numbers of intact and trimmed seeds on each surface, photographed their starting positions, and placed the trays in a chamber. For twenty cycles, the chamber alternated between dry and humid air. Cameras took one image each minute.\n\nOn smooth clay, intact seeds turned and traveled farther than trimmed seeds, but they often ended where they had started after reversing direction. Cracked clay produced a different result. An awn would catch on one side of a crack while the seed rotated, then hold its new position when the humidity changed. In this way, many intact seeds ratcheted forward and lodged partway into cracks. Trimmed seeds rarely did so.\n\nThe leaf layer produced mixed results. Some awns became tangled before the seeds moved far. In other cases, a leaf edge acted as an anchor, helping the twisting seed push beneath the loose material. The same structure that blocked motion in one position assisted it in another.\n\nTo test whether the movement required living cells, the team removed several awns from seeds that were no longer able to grow. The detached awns still twisted as humidity changed. This result supports a physical explanation: the arrangement of fibers in the dry tissue drives the motion, rather than an active response controlled by the living seed.\n\nCho cautioned that the chamber produced regular humidity cycles, while outdoor changes are less predictable. Wind, rain, soil animals, and steeper surfaces could strengthen or overwhelm the awns’ effects. Even so, the experiment shows how a structure no thicker than a thread can use changes in the air to move a seed toward a possible shelter.\n\nQuestion:\nWhat can reasonably be inferred from the detached awns continuing to twist?",
+    "choices": {
+      "A": "Awn movement occurs only while a seed can still grow.",
+      "B": "The chamber cameras caused the fibers to change shape.",
+      "C": "Living seed cells must send instructions to detached awns.",
+      "D": "The awns’ tissue structure can produce movement without an active response from a living seed."
+    },
+    "correct": "D",
+    "explanation": "The detached awns came from seeds unable to grow yet still responded to humidity, supporting the passage’s physical explanation based on fiber arrangement."
+  },
+  {
+    "id": "R2-024",
+    "prompt": "Passage:\nA Seed’s Twisting Tail\n\nThe seeds of some grasses carry two thin bristles called awns. When the air becomes dry, layers within each awn shrink by different amounts, causing the bristle to twist. In damp air, it loosens again. Repeated changes in humidity can make the seed shift across the ground even though the seed has no muscles.\n\nBotanist Maren Cho wanted to learn how this motion works on different surfaces. Her team collected seeds from one grass species and divided them into two groups. The first group kept both awns. On the second group, the awns were carefully trimmed away without damaging the seed body. The trimmed seeds served as a comparison, allowing the team to separate awn-driven movement from shifts caused by air currents or handling.\n\nThe researchers prepared trays with three surfaces: smooth clay, cracked clay, and a loose layer of dry leaf pieces. They arranged equal numbers of intact and trimmed seeds on each surface, photographed their starting positions, and placed the trays in a chamber. For twenty cycles, the chamber alternated between dry and humid air. Cameras took one image each minute.\n\nOn smooth clay, intact seeds turned and traveled farther than trimmed seeds, but they often ended where they had started after reversing direction. Cracked clay produced a different result. An awn would catch on one side of a crack while the seed rotated, then hold its new position when the humidity changed. In this way, many intact seeds ratcheted forward and lodged partway into cracks. Trimmed seeds rarely did so.\n\nThe leaf layer produced mixed results. Some awns became tangled before the seeds moved far. In other cases, a leaf edge acted as an anchor, helping the twisting seed push beneath the loose material. The same structure that blocked motion in one position assisted it in another.\n\nTo test whether the movement required living cells, the team removed several awns from seeds that were no longer able to grow. The detached awns still twisted as humidity changed. This result supports a physical explanation: the arrangement of fibers in the dry tissue drives the motion, rather than an active response controlled by the living seed.\n\nCho cautioned that the chamber produced regular humidity cycles, while outdoor changes are less predictable. Wind, rain, soil animals, and steeper surfaces could strengthen or overwhelm the awns’ effects. Even so, the experiment shows how a structure no thicker than a thread can use changes in the air to move a seed toward a possible shelter.\n\nQuestion:\nWhat is the main function of the final paragraph?",
+    "choices": {
+      "A": "To claim that outdoor conditions are simpler than chamber conditions.",
+      "B": "To qualify how widely the chamber results can be applied while emphasizing what the experiment demonstrates.",
+      "C": "To introduce evidence that humidity has no effect on intact awns.",
+      "D": "To argue that future studies should examine only smooth clay."
+    },
+    "correct": "B",
+    "explanation": "The paragraph contrasts regular chamber cycles with more complex outdoor conditions, limiting generalization, and then states the broader finding about using humidity changes for movement."
+  },
+  {
+    "id": "R2-025",
+    "prompt": "Passage:\nA Seed’s Twisting Tail\n\nThe seeds of some grasses carry two thin bristles called awns. When the air becomes dry, layers within each awn shrink by different amounts, causing the bristle to twist. In damp air, it loosens again. Repeated changes in humidity can make the seed shift across the ground even though the seed has no muscles.\n\nBotanist Maren Cho wanted to learn how this motion works on different surfaces. Her team collected seeds from one grass species and divided them into two groups. The first group kept both awns. On the second group, the awns were carefully trimmed away without damaging the seed body. The trimmed seeds served as a comparison, allowing the team to separate awn-driven movement from shifts caused by air currents or handling.\n\nThe researchers prepared trays with three surfaces: smooth clay, cracked clay, and a loose layer of dry leaf pieces. They arranged equal numbers of intact and trimmed seeds on each surface, photographed their starting positions, and placed the trays in a chamber. For twenty cycles, the chamber alternated between dry and humid air. Cameras took one image each minute.\n\nOn smooth clay, intact seeds turned and traveled farther than trimmed seeds, but they often ended where they had started after reversing direction. Cracked clay produced a different result. An awn would catch on one side of a crack while the seed rotated, then hold its new position when the humidity changed. In this way, many intact seeds ratcheted forward and lodged partway into cracks. Trimmed seeds rarely did so.\n\nThe leaf layer produced mixed results. Some awns became tangled before the seeds moved far. In other cases, a leaf edge acted as an anchor, helping the twisting seed push beneath the loose material. The same structure that blocked motion in one position assisted it in another.\n\nTo test whether the movement required living cells, the team removed several awns from seeds that were no longer able to grow. The detached awns still twisted as humidity changed. This result supports a physical explanation: the arrangement of fibers in the dry tissue drives the motion, rather than an active response controlled by the living seed.\n\nCho cautioned that the chamber produced regular humidity cycles, while outdoor changes are less predictable. Wind, rain, soil animals, and steeper surfaces could strengthen or overwhelm the awns’ effects. Even so, the experiment shows how a structure no thicker than a thread can use changes in the air to move a seed toward a possible shelter.\n\nQuestion:\nWhich choice best summarizes the experiment’s findings?",
+    "choices": {
+      "A": "Trimmed seeds moved farther than intact seeds on every surface because awns added weight.",
+      "B": "Intact seeds always returned to their starting places, regardless of surface.",
+      "C": "Twisting awns produced movement, and cracks or leaf edges could anchor that movement, although litter sometimes blocked it.",
+      "D": "Only living seeds moved because dead plant tissue could not respond to humidity."
+    },
+    "correct": "C",
+    "explanation": "Intact awns shifted seeds during humidity cycles; cracks and some leaf edges provided anchors, while other leaf arrangements tangled the awns and limited movement."
+  },
+  {
+    "id": "S2-001",
+    "prompt": "Researchers investigated how soil pH affected radish seeds. They placed 50 seeds in each of 4 identical trays at each pH. All trays had the same soil type, water, light, and temperature. After 7 days, the researchers calculated the percentage of seeds that germinated and measured the mean root length of the seedlings.\n\nSoil pH | Seeds germinated (%) | Mean root length (cm)\n4.0     | 38                   | 2.1\n5.5     | 72                   | 4.3\n7.0     | 92                   | 6.0\n8.5     | 76                   | 4.7\n10.0    | 41                   | 2.4\n\nQuestion:\nAt which tested soil pH was the percentage of seeds that germinated greatest?",
+    "choices": {
+      "A": "pH 4.0",
+      "B": "pH 5.5",
+      "C": "pH 7.0",
+      "D": "pH 10.0"
+    },
+    "correct": "C",
+    "explanation": "At pH 7.0, 92% of the seeds germinated, the greatest percentage in the table."
+  },
+  {
+    "id": "S2-002",
+    "prompt": "Researchers investigated how soil pH affected radish seeds. They placed 50 seeds in each of 4 identical trays at each pH. All trays had the same soil type, water, light, and temperature. After 7 days, the researchers calculated the percentage of seeds that germinated and measured the mean root length of the seedlings.\n\nSoil pH | Seeds germinated (%) | Mean root length (cm)\n4.0     | 38                   | 2.1\n5.5     | 72                   | 4.3\n7.0     | 92                   | 6.0\n8.5     | 76                   | 4.7\n10.0    | 41                   | 2.4\n\nQuestion:\nHow many percentage points greater was germination at pH 7.0 than at pH 4.0?",
+    "choices": {
+      "A": "16 percentage points",
+      "B": "38 percentage points",
+      "C": "54 percentage points",
+      "D": "130 percentage points"
+    },
+    "correct": "C",
+    "explanation": "Germination was 92% at pH 7.0 and 38% at pH 4.0, so the difference was 92 − 38 = 54 percentage points."
+  },
+  {
+    "id": "S2-003",
+    "prompt": "Researchers investigated how soil pH affected radish seeds. They placed 50 seeds in each of 4 identical trays at each pH. All trays had the same soil type, water, light, and temperature. After 7 days, the researchers calculated the percentage of seeds that germinated and measured the mean root length of the seedlings.\n\nSoil pH | Seeds germinated (%) | Mean root length (cm)\n4.0     | 38                   | 2.1\n5.5     | 72                   | 4.3\n7.0     | 92                   | 6.0\n8.5     | 76                   | 4.7\n10.0    | 41                   | 2.4\n\nQuestion:\nIf mean root length changed linearly between pH 5.5 and pH 7.0, what root length would be estimated at pH 6.25?",
+    "choices": {
+      "A": "3.00 cm",
+      "B": "4.30 cm",
+      "C": "5.15 cm",
+      "D": "6.85 cm"
+    },
+    "correct": "C",
+    "explanation": "A pH of 6.25 is halfway between 5.5 and 7.0, so the estimate is halfway between 4.3 cm and 6.0 cm, or 5.15 cm."
+  },
+  {
+    "id": "S2-004",
+    "prompt": "Researchers investigated how soil pH affected radish seeds. They placed 50 seeds in each of 4 identical trays at each pH. All trays had the same soil type, water, light, and temperature. After 7 days, the researchers calculated the percentage of seeds that germinated and measured the mean root length of the seedlings.\n\nSoil pH | Seeds germinated (%) | Mean root length (cm)\n4.0     | 38                   | 2.1\n5.5     | 72                   | 4.3\n7.0     | 92                   | 6.0\n8.5     | 76                   | 4.7\n10.0    | 41                   | 2.4\n\nQuestion:\nWhich pair identifies the dependent variables in this investigation?",
+    "choices": {
+      "A": "Soil pH and soil type",
+      "B": "Percentage germinated and mean root length",
+      "C": "Amount of water and light level",
+      "D": "Number of trays and number of starting seeds"
+    },
+    "correct": "B",
+    "explanation": "The researchers changed soil pH and measured germination percentage and mean root length as the outcomes."
+  },
+  {
+    "id": "S2-005",
+    "prompt": "Researchers investigated how soil pH affected radish seeds. They placed 50 seeds in each of 4 identical trays at each pH. All trays had the same soil type, water, light, and temperature. After 7 days, the researchers calculated the percentage of seeds that germinated and measured the mean root length of the seedlings.\n\nSoil pH | Seeds germinated (%) | Mean root length (cm)\n4.0     | 38                   | 2.1\n5.5     | 72                   | 4.3\n7.0     | 92                   | 6.0\n8.5     | 76                   | 4.7\n10.0    | 41                   | 2.4\n\nQuestion:\nWhich conclusion is best supported over the tested pH range?",
+    "choices": {
+      "A": "Both germination and root length were greatest near pH 7.0 and lower at the most acidic and most basic tested pH values.",
+      "B": "Germination increased steadily whenever soil pH increased.",
+      "C": "Root length was unrelated to soil pH.",
+      "D": "Radish seeds germinated only at pH 7.0."
+    },
+    "correct": "A",
+    "explanation": "The highest values occurred at pH 7.0, while both measurements were much lower at pH 4.0 and pH 10.0."
+  },
+  {
+    "id": "S2-006",
+    "prompt": "Students made paper rotors that spin while falling. All rotors had the same body size and were made from the same paper. They were released indoors from a height of 2.5 m. Each result is the mean of 6 trials.\n\nExperiment 1: One paper clip was attached to each rotor, and wing length was changed.\nWing length (cm) | Mean fall time (s)\n2                | 0.82\n4                | 1.05\n6                | 1.31\n8                | 1.46\n\nExperiment 2: Wing length was held at 6 cm, and the number of paper clips was changed.\nPaper clips | Mean fall time (s)\n1           | 1.31\n2           | 1.14\n3           | 1.00\n4           | 0.89\n\nQuestion:\nIn Experiment 1, by how much did mean fall time increase when wing length increased from 2 cm to 8 cm?",
+    "choices": {
+      "A": "0.41 s",
+      "B": "0.64 s",
+      "C": "0.82 s",
+      "D": "2.28 s"
+    },
+    "correct": "B",
+    "explanation": "Mean fall time increased from 0.82 s to 1.46 s, a difference of 1.46 − 0.82 = 0.64 s."
+  },
+  {
+    "id": "S2-007",
+    "prompt": "Students made paper rotors that spin while falling. All rotors had the same body size and were made from the same paper. They were released indoors from a height of 2.5 m. Each result is the mean of 6 trials.\n\nExperiment 1: One paper clip was attached to each rotor, and wing length was changed.\nWing length (cm) | Mean fall time (s)\n2                | 0.82\n4                | 1.05\n6                | 1.31\n8                | 1.46\n\nExperiment 2: Wing length was held at 6 cm, and the number of paper clips was changed.\nPaper clips | Mean fall time (s)\n1           | 1.31\n2           | 1.14\n3           | 1.00\n4           | 0.89\n\nQuestion:\nWhat mean fall time was recorded for a 6 cm wing length and 3 paper clips?",
+    "choices": {
+      "A": "0.89 s",
+      "B": "1.00 s",
+      "C": "1.14 s",
+      "D": "1.31 s"
+    },
+    "correct": "B",
+    "explanation": "Experiment 2 used 6 cm wings and lists a mean fall time of 1.00 s for 3 paper clips."
+  },
+  {
+    "id": "S2-008",
+    "prompt": "Students made paper rotors that spin while falling. All rotors had the same body size and were made from the same paper. They were released indoors from a height of 2.5 m. Each result is the mean of 6 trials.\n\nExperiment 1: One paper clip was attached to each rotor, and wing length was changed.\nWing length (cm) | Mean fall time (s)\n2                | 0.82\n4                | 1.05\n6                | 1.31\n8                | 1.46\n\nExperiment 2: Wing length was held at 6 cm, and the number of paper clips was changed.\nPaper clips | Mean fall time (s)\n1           | 1.31\n2           | 1.14\n3           | 1.00\n4           | 0.89\n\nQuestion:\nWhich variables were changed by the students in Experiments 1 and 2, respectively?",
+    "choices": {
+      "A": "Drop height, then paper type",
+      "B": "Fall time, then wing length",
+      "C": "Wing length, then number of paper clips",
+      "D": "Number of trials, then drop height"
+    },
+    "correct": "C",
+    "explanation": "Experiment 1 changed wing length, while Experiment 2 held wing length at 6 cm and changed the number of paper clips."
+  },
+  {
+    "id": "S2-009",
+    "prompt": "Students made paper rotors that spin while falling. All rotors had the same body size and were made from the same paper. They were released indoors from a height of 2.5 m. Each result is the mean of 6 trials.\n\nExperiment 1: One paper clip was attached to each rotor, and wing length was changed.\nWing length (cm) | Mean fall time (s)\n2                | 0.82\n4                | 1.05\n6                | 1.31\n8                | 1.46\n\nExperiment 2: Wing length was held at 6 cm, and the number of paper clips was changed.\nPaper clips | Mean fall time (s)\n1           | 1.31\n2           | 1.14\n3           | 1.00\n4           | 0.89\n\nQuestion:\nWhy was the 2.5 m release height kept the same for all trials?",
+    "choices": {
+      "A": "To prevent release height from affecting comparisons of fall time",
+      "B": "To make fall time the independent variable",
+      "C": "To ensure every rotor had a different mass",
+      "D": "To eliminate the need for repeated trials"
+    },
+    "correct": "A",
+    "explanation": "A constant release height makes it more likely that changes in fall time resulted from wing length or paper-clip number rather than falling distance."
+  },
+  {
+    "id": "S2-010",
+    "prompt": "Students made paper rotors that spin while falling. All rotors had the same body size and were made from the same paper. They were released indoors from a height of 2.5 m. Each result is the mean of 6 trials.\n\nExperiment 1: One paper clip was attached to each rotor, and wing length was changed.\nWing length (cm) | Mean fall time (s)\n2                | 0.82\n4                | 1.05\n6                | 1.31\n8                | 1.46\n\nExperiment 2: Wing length was held at 6 cm, and the number of paper clips was changed.\nPaper clips | Mean fall time (s)\n1           | 1.31\n2           | 1.14\n3           | 1.00\n4           | 0.89\n\nQuestion:\nA student predicted that longer wings would cause a rotor with 1 paper clip to fall more slowly. How do the Experiment 1 results evaluate this prediction?",
+    "choices": {
+      "A": "They support it because mean fall time increased as wing length increased.",
+      "B": "They support it because all rotors fell in less than 2 seconds.",
+      "C": "They contradict it because the 2 cm wings produced the longest fall time.",
+      "D": "They cannot evaluate it because wing length was held constant."
+    },
+    "correct": "A",
+    "explanation": "With 1 paper clip, mean fall time rose from 0.82 s at 2 cm to 1.46 s at 8 cm, indicating a slower fall with longer wings."
+  },
+  {
+    "id": "S2-011",
+    "prompt": "Scientists recorded seismic waves from the same controlled underground blast at 4 monitoring stations. P waves travel faster than S waves. The table gives each station's distance from the blast and the arrival time of each wave after the blast.\n\nDistance from blast (km) | P-wave arrival (s) | S-wave arrival (s) | S–P time difference (s)\n100                      | 18                 | 32                 | 14\n200                      | 36                 | 64                 | 28\n300                      | 54                 | 96                 | 42\n400                      | 72                 | 128                | 56\n\nQuestion:\nWhat was the S–P time difference at the station 300 km from the blast?",
+    "choices": {
+      "A": "32 s",
+      "B": "42 s",
+      "C": "54 s",
+      "D": "96 s"
+    },
+    "correct": "B",
+    "explanation": "The 300 km row lists an S–P time difference of 42 s."
+  },
+  {
+    "id": "S2-012",
+    "prompt": "Scientists recorded seismic waves from the same controlled underground blast at 4 monitoring stations. P waves travel faster than S waves. The table gives each station's distance from the blast and the arrival time of each wave after the blast.\n\nDistance from blast (km) | P-wave arrival (s) | S-wave arrival (s) | S–P time difference (s)\n100                      | 18                 | 32                 | 14\n200                      | 36                 | 64                 | 28\n300                      | 54                 | 96                 | 42\n400                      | 72                 | 128                | 56\n\nQuestion:\nHow much later did the S wave arrive at 400 km than at 200 km?",
+    "choices": {
+      "A": "36 s",
+      "B": "56 s",
+      "C": "64 s",
+      "D": "92 s"
+    },
+    "correct": "C",
+    "explanation": "The S-wave arrival times were 128 s at 400 km and 64 s at 200 km, a difference of 64 s."
+  },
+  {
+    "id": "S2-013",
+    "prompt": "Scientists recorded seismic waves from the same controlled underground blast at 4 monitoring stations. P waves travel faster than S waves. The table gives each station's distance from the blast and the arrival time of each wave after the blast.\n\nDistance from blast (km) | P-wave arrival (s) | S-wave arrival (s) | S–P time difference (s)\n100                      | 18                 | 32                 | 14\n200                      | 36                 | 64                 | 28\n300                      | 54                 | 96                 | 42\n400                      | 72                 | 128                | 56\n\nQuestion:\nAssuming the relationship in the table continues linearly, what distance would correspond to an S–P time difference of 49 s?",
+    "choices": {
+      "A": "325 km",
+      "B": "350 km",
+      "C": "375 km",
+      "D": "450 km"
+    },
+    "correct": "B",
+    "explanation": "A 49 s difference is halfway between 42 s at 300 km and 56 s at 400 km, so the estimated distance is 350 km."
+  },
+  {
+    "id": "S2-014",
+    "prompt": "Scientists recorded seismic waves from the same controlled underground blast at 4 monitoring stations. P waves travel faster than S waves. The table gives each station's distance from the blast and the arrival time of each wave after the blast.\n\nDistance from blast (km) | P-wave arrival (s) | S-wave arrival (s) | S–P time difference (s)\n100                      | 18                 | 32                 | 14\n200                      | 36                 | 64                 | 28\n300                      | 54                 | 96                 | 42\n400                      | 72                 | 128                | 56\n\nQuestion:\nWhich additional investigation would best test whether rock type affects seismic-wave travel time?",
+    "choices": {
+      "A": "Send waves through equal distances of different rock types and compare their travel times.",
+      "B": "Send waves through different distances of the same rock type without measuring time.",
+      "C": "Measure air temperature at one station after the waves arrive.",
+      "D": "Use only one rock type and change both distance and wave source for every trial."
+    },
+    "correct": "A",
+    "explanation": "Keeping travel distance equal while changing rock type would isolate rock type as the factor being tested."
+  },
+  {
+    "id": "S2-015",
+    "prompt": "Scientists recorded seismic waves from the same controlled underground blast at 4 monitoring stations. P waves travel faster than S waves. The table gives each station's distance from the blast and the arrival time of each wave after the blast.\n\nDistance from blast (km) | P-wave arrival (s) | S-wave arrival (s) | S–P time difference (s)\n100                      | 18                 | 32                 | 14\n200                      | 36                 | 64                 | 28\n300                      | 54                 | 96                 | 42\n400                      | 72                 | 128                | 56\n\nQuestion:\nWhich statement is supported by the measurements?",
+    "choices": {
+      "A": "For each additional 100 km, P-wave arrival time increased by 18 s and S-wave arrival time increased by 32 s.",
+      "B": "P waves and S waves arrived at the same time at every station.",
+      "C": "The S–P time difference decreased as distance increased.",
+      "D": "P-wave arrival time increased by 32 s for every additional 100 km."
+    },
+    "correct": "A",
+    "explanation": "Across consecutive rows, P-wave time rises by 18 s and S-wave time rises by 32 s for every 100 km increase."
+  },
+  {
+    "id": "S2-016",
+    "prompt": "Students placed identical celery stalks with equal leaf area into equal volumes of colored water. The starting water temperature was the same for every condition. After 60 minutes, they measured how far the dye had moved upward through each stalk. Greater dye movement indicates greater water uptake. Each result is the mean of 5 trials.\n\nCondition                                      | Mean dye distance (cm)\nStill air, light                               | 5.0\nFan blowing, light                             | 8.3\nStill air, dark                                | 2.9\nStill air, light, enclosed in a transparent bag| 1.8\n\nThe transparent bag did not block the light and kept the air around the leaves humid.\n\nQuestion:\nHow much farther did the dye move under the fan-and-light condition than under the still-air-and-light condition?",
+    "choices": {
+      "A": "1.7 cm",
+      "B": "3.3 cm",
+      "C": "5.0 cm",
+      "D": "13.3 cm"
+    },
+    "correct": "B",
+    "explanation": "The dye moved 8.3 cm with the fan and 5.0 cm in still air, a difference of 3.3 cm."
+  },
+  {
+    "id": "S2-017",
+    "prompt": "Students placed identical celery stalks with equal leaf area into equal volumes of colored water. The starting water temperature was the same for every condition. After 60 minutes, they measured how far the dye had moved upward through each stalk. Greater dye movement indicates greater water uptake. Each result is the mean of 5 trials.\n\nCondition                                      | Mean dye distance (cm)\nStill air, light                               | 5.0\nFan blowing, light                             | 8.3\nStill air, dark                                | 2.9\nStill air, light, enclosed in a transparent bag| 1.8\n\nThe transparent bag did not block the light and kept the air around the leaves humid.\n\nQuestion:\nWhat was the dependent variable in the investigation?",
+    "choices": {
+      "A": "The distance the dye moved after 60 minutes",
+      "B": "The volume of colored water at the start",
+      "C": "The leaf area of each celery stalk",
+      "D": "The duration of each trial"
+    },
+    "correct": "A",
+    "explanation": "Dye distance was the measured response to the different air, light, and humidity conditions."
+  },
+  {
+    "id": "S2-018",
+    "prompt": "Students placed identical celery stalks with equal leaf area into equal volumes of colored water. The starting water temperature was the same for every condition. After 60 minutes, they measured how far the dye had moved upward through each stalk. Greater dye movement indicates greater water uptake. Each result is the mean of 5 trials.\n\nCondition                                      | Mean dye distance (cm)\nStill air, light                               | 5.0\nFan blowing, light                             | 8.3\nStill air, dark                                | 2.9\nStill air, light, enclosed in a transparent bag| 1.8\n\nThe transparent bag did not block the light and kept the air around the leaves humid.\n\nQuestion:\nWhy did the students use celery stalks with equal leaf area?",
+    "choices": {
+      "A": "To keep leaf area from becoming an alternative explanation for differences in water uptake",
+      "B": "To make dye distance the independent variable",
+      "C": "To ensure that each condition had a different starting water volume",
+      "D": "To prevent any dye from entering the stems"
+    },
+    "correct": "A",
+    "explanation": "Holding leaf area constant helps attribute differences in dye movement to the tested environmental conditions."
+  },
+  {
+    "id": "S2-019",
+    "prompt": "Students placed identical celery stalks with equal leaf area into equal volumes of colored water. The starting water temperature was the same for every condition. After 60 minutes, they measured how far the dye had moved upward through each stalk. Greater dye movement indicates greater water uptake. Each result is the mean of 5 trials.\n\nCondition                                      | Mean dye distance (cm)\nStill air, light                               | 5.0\nFan blowing, light                             | 8.3\nStill air, dark                                | 2.9\nStill air, light, enclosed in a transparent bag| 1.8\n\nThe transparent bag did not block the light and kept the air around the leaves humid.\n\nQuestion:\nWhich conclusion about moving air is best supported by the two light conditions without bags?",
+    "choices": {
+      "A": "Moving air was associated with greater water uptake than still air.",
+      "B": "Moving air completely stopped water uptake.",
+      "C": "Moving air caused the dye to move exactly twice as far.",
+      "D": "Moving air had no measurable relationship to dye movement."
+    },
+    "correct": "A",
+    "explanation": "In light without bags, the mean dye distance was 8.3 cm with a fan and 5.0 cm in still air."
+  },
+  {
+    "id": "S2-020",
+    "prompt": "Students placed identical celery stalks with equal leaf area into equal volumes of colored water. The starting water temperature was the same for every condition. After 60 minutes, they measured how far the dye had moved upward through each stalk. Greater dye movement indicates greater water uptake. Each result is the mean of 5 trials.\n\nCondition                                      | Mean dye distance (cm)\nStill air, light                               | 5.0\nFan blowing, light                             | 8.3\nStill air, dark                                | 2.9\nStill air, light, enclosed in a transparent bag| 1.8\n\nThe transparent bag did not block the light and kept the air around the leaves humid.\n\nQuestion:\nA student claims that light level is the only environmental factor that can affect water uptake. Which result most directly challenges this claim?",
+    "choices": {
+      "A": "The two light conditions in still air produced different dye distances when humidity differed.",
+      "B": "Every condition lasted 60 minutes.",
+      "C": "All stalks began in equal volumes of colored water.",
+      "D": "The dark condition produced 2.9 cm of dye movement."
+    },
+    "correct": "A",
+    "explanation": "In still air and light, dye moved 5.0 cm without the humid bag but only 1.8 cm inside it, showing that a factor other than light was associated with uptake."
+  },
+  {
+    "id": "S2-021",
+    "prompt": "Astronomers observed a narrow dust ring form around a small asteroid within 2 days of the asteroid's closest passage by a planet. The ring contains grains with the same composition as the asteroid's surface. Images show no new impact crater, although the images do not cover the entire surface. Instruments also detected electrically charged dust near the asteroid.\n\nViewpoint 1 — Tidal-fracture model: During the close passage, the planet's gravity flexed the asteroid and opened fractures. Surface fragments loosened by the flexing escaped the asteroid's weak gravity and formed the ring. The fragments have the asteroid's surface composition because they came directly from its crust.\n\nViewpoint 2 — Electrostatic-lift model: Sunlight and the solar wind gave fine surface grains an electric charge. During the close passage, the planet's magnetic environment strengthened electric forces enough to lift charged grains from the surface and place them into orbit. No new fracture was required.\n\nQuestion:\nWhich observation indicates that at least some dust near the asteroid carried electric charge?",
+    "choices": {
+      "A": "Instruments detected electrically charged dust near the asteroid.",
+      "B": "The ring formed within 2 days of closest approach.",
+      "C": "The images did not cover the entire asteroid.",
+      "D": "The ring grains matched the surface composition."
+    },
+    "correct": "A",
+    "explanation": "The instrument detection directly identifies electric charge on dust near the asteroid."
+  },
+  {
+    "id": "S2-022",
+    "prompt": "Astronomers observed a narrow dust ring form around a small asteroid within 2 days of the asteroid's closest passage by a planet. The ring contains grains with the same composition as the asteroid's surface. Images show no new impact crater, although the images do not cover the entire surface. Instruments also detected electrically charged dust near the asteroid.\n\nViewpoint 1 — Tidal-fracture model: During the close passage, the planet's gravity flexed the asteroid and opened fractures. Surface fragments loosened by the flexing escaped the asteroid's weak gravity and formed the ring. The fragments have the asteroid's surface composition because they came directly from its crust.\n\nViewpoint 2 — Electrostatic-lift model: Sunlight and the solar wind gave fine surface grains an electric charge. During the close passage, the planet's magnetic environment strengthened electric forces enough to lift charged grains from the surface and place them into orbit. No new fracture was required.\n\nQuestion:\nWhich new observation would most directly support Viewpoint 1 over Viewpoint 2?",
+    "choices": {
+      "A": "Fresh fractures are observed opening as fragments leave them during a close passage.",
+      "B": "Some dust grains in the ring are electrically charged.",
+      "C": "The ring grains have the same composition as the asteroid's surface.",
+      "D": "The ring appears soon after closest approach."
+    },
+    "correct": "A",
+    "explanation": "Directly observing fragments escape from newly opened fractures matches the tidal-fracture mechanism and is not required by the electrostatic model."
+  },
+  {
+    "id": "S2-023",
+    "prompt": "Astronomers observed a narrow dust ring form around a small asteroid within 2 days of the asteroid's closest passage by a planet. The ring contains grains with the same composition as the asteroid's surface. Images show no new impact crater, although the images do not cover the entire surface. Instruments also detected electrically charged dust near the asteroid.\n\nViewpoint 1 — Tidal-fracture model: During the close passage, the planet's gravity flexed the asteroid and opened fractures. Surface fragments loosened by the flexing escaped the asteroid's weak gravity and formed the ring. The fragments have the asteroid's surface composition because they came directly from its crust.\n\nViewpoint 2 — Electrostatic-lift model: Sunlight and the solar wind gave fine surface grains an electric charge. During the close passage, the planet's magnetic environment strengthened electric forces enough to lift charged grains from the surface and place them into orbit. No new fracture was required.\n\nQuestion:\nWhich laboratory result would most directly support the mechanism in Viewpoint 2?",
+    "choices": {
+      "A": "An electric field lifts charged surface grains without cracking the test rock.",
+      "B": "A rock bends and cracks when squeezed mechanically.",
+      "C": "A dust sample has the same composition as its source rock.",
+      "D": "A crater forms when a fast object strikes a rock."
+    },
+    "correct": "A",
+    "explanation": "This result demonstrates the electric, fracture-free lifting process proposed by the electrostatic-lift model."
+  },
+  {
+    "id": "S2-024",
+    "prompt": "Astronomers observed a narrow dust ring form around a small asteroid within 2 days of the asteroid's closest passage by a planet. The ring contains grains with the same composition as the asteroid's surface. Images show no new impact crater, although the images do not cover the entire surface. Instruments also detected electrically charged dust near the asteroid.\n\nViewpoint 1 — Tidal-fracture model: During the close passage, the planet's gravity flexed the asteroid and opened fractures. Surface fragments loosened by the flexing escaped the asteroid's weak gravity and formed the ring. The fragments have the asteroid's surface composition because they came directly from its crust.\n\nViewpoint 2 — Electrostatic-lift model: Sunlight and the solar wind gave fine surface grains an electric charge. During the close passage, the planet's magnetic environment strengthened electric forces enough to lift charged grains from the surface and place them into orbit. No new fracture was required.\n\nQuestion:\nThe viewpoints disagree most directly about which aspect of ring formation?",
+    "choices": {
+      "A": "Whether the ring contains material from the asteroid's surface",
+      "B": "Whether the ring formed near the time of closest approach",
+      "C": "Whether gravity-driven fracturing or electric forces released the grains",
+      "D": "Whether astronomers observed a ring around the asteroid"
+    },
+    "correct": "C",
+    "explanation": "Viewpoint 1 requires gravitational flexing and fractures, while Viewpoint 2 uses electric forces and requires no new fracture."
+  },
+  {
+    "id": "S2-025",
+    "prompt": "Astronomers observed a narrow dust ring form around a small asteroid within 2 days of the asteroid's closest passage by a planet. The ring contains grains with the same composition as the asteroid's surface. Images show no new impact crater, although the images do not cover the entire surface. Instruments also detected electrically charged dust near the asteroid.\n\nViewpoint 1 — Tidal-fracture model: During the close passage, the planet's gravity flexed the asteroid and opened fractures. Surface fragments loosened by the flexing escaped the asteroid's weak gravity and formed the ring. The fragments have the asteroid's surface composition because they came directly from its crust.\n\nViewpoint 2 — Electrostatic-lift model: Sunlight and the solar wind gave fine surface grains an electric charge. During the close passage, the planet's magnetic environment strengthened electric forces enough to lift charged grains from the surface and place them into orbit. No new fracture was required.\n\nQuestion:\nSuppose later measurements show that most ring material consists of large, uncharged blocks traced to newly opened fractures. This evidence would most likely:",
+    "choices": {
+      "A": "support Viewpoint 1 because it connects ring material to fresh fractures.",
+      "B": "support Viewpoint 2 because it shows that electric charge lifted fine grains.",
+      "C": "support both viewpoints equally because both require large uncharged blocks.",
+      "D": "contradict both viewpoints because neither uses asteroid material."
+    },
+    "correct": "A",
+    "explanation": "Large uncharged blocks coming from new fractures match the tidal-fracture model and do not match the charged fine grains proposed by Viewpoint 2."
+  },
+  {
+    "id": "S2-026",
+    "prompt": "Students measured how long 12 g of solid sugar took to dissolve in 200 mL of water. The water was stirred at 2 revolutions per second until no solid was visible. Each result is the mean of 4 trials.\n\nExperiment 1: A single sugar cube was used while water temperature was changed.\nWater temperature (°C) | Mean dissolving time (s)\n10                     | 315\n25                     | 190\n40                     | 108\n60                     | 64\n\nExperiment 2: Water temperature was held at 25°C while the form of the sugar was changed.\nSugar form      | Mean dissolving time (s)\nSingle cube     | 190\nCoarse crystals | 94\nFine powder     | 41\n\nQuestion:\nIn Experiment 1, what mean dissolving time was measured at 40°C?",
+    "choices": {
+      "A": "41 s",
+      "B": "64 s",
+      "C": "108 s",
+      "D": "190 s"
+    },
+    "correct": "C",
+    "explanation": "The Experiment 1 row for 40°C lists a mean dissolving time of 108 s."
+  },
+  {
+    "id": "S2-027",
+    "prompt": "Students measured how long 12 g of solid sugar took to dissolve in 200 mL of water. The water was stirred at 2 revolutions per second until no solid was visible. Each result is the mean of 4 trials.\n\nExperiment 1: A single sugar cube was used while water temperature was changed.\nWater temperature (°C) | Mean dissolving time (s)\n10                     | 315\n25                     | 190\n40                     | 108\n60                     | 64\n\nExperiment 2: Water temperature was held at 25°C while the form of the sugar was changed.\nSugar form      | Mean dissolving time (s)\nSingle cube     | 190\nCoarse crystals | 94\nFine powder     | 41\n\nQuestion:\nBy how much did mean dissolving time decrease when water temperature increased from 10°C to 60°C?",
+    "choices": {
+      "A": "44 s",
+      "B": "125 s",
+      "C": "251 s",
+      "D": "379 s"
+    },
+    "correct": "C",
+    "explanation": "The mean time decreased from 315 s at 10°C to 64 s at 60°C, so the decrease was 315 − 64 = 251 s."
+  },
+  {
+    "id": "S2-028",
+    "prompt": "Students measured how long 12 g of solid sugar took to dissolve in 200 mL of water. The water was stirred at 2 revolutions per second until no solid was visible. Each result is the mean of 4 trials.\n\nExperiment 1: A single sugar cube was used while water temperature was changed.\nWater temperature (°C) | Mean dissolving time (s)\n10                     | 315\n25                     | 190\n40                     | 108\n60                     | 64\n\nExperiment 2: Water temperature was held at 25°C while the form of the sugar was changed.\nSugar form      | Mean dissolving time (s)\nSingle cube     | 190\nCoarse crystals | 94\nFine powder     | 41\n\nQuestion:\nWhat was the independent variable in Experiment 1?",
+    "choices": {
+      "A": "Water temperature",
+      "B": "Mass of sugar",
+      "C": "Volume of water",
+      "D": "Mean dissolving time"
+    },
+    "correct": "A",
+    "explanation": "Experiment 1 changed water temperature while using a single sugar cube in every condition."
+  },
+  {
+    "id": "S2-029",
+    "prompt": "Students measured how long 12 g of solid sugar took to dissolve in 200 mL of water. The water was stirred at 2 revolutions per second until no solid was visible. Each result is the mean of 4 trials.\n\nExperiment 1: A single sugar cube was used while water temperature was changed.\nWater temperature (°C) | Mean dissolving time (s)\n10                     | 315\n25                     | 190\n40                     | 108\n60                     | 64\n\nExperiment 2: Water temperature was held at 25°C while the form of the sugar was changed.\nSugar form      | Mean dissolving time (s)\nSingle cube     | 190\nCoarse crystals | 94\nFine powder     | 41\n\nQuestion:\nWhy were water volume and stirring rate kept the same in all trials?",
+    "choices": {
+      "A": "To prevent them from affecting comparisons of dissolving time",
+      "B": "To make them both dependent variables",
+      "C": "To ensure each trial used a different mass of sugar",
+      "D": "To prove that neither can ever affect dissolving"
+    },
+    "correct": "A",
+    "explanation": "Holding water volume and stirring rate constant helps isolate temperature or sugar form as the tested factor."
+  },
+  {
+    "id": "S2-030",
+    "prompt": "Students measured how long 12 g of solid sugar took to dissolve in 200 mL of water. The water was stirred at 2 revolutions per second until no solid was visible. Each result is the mean of 4 trials.\n\nExperiment 1: A single sugar cube was used while water temperature was changed.\nWater temperature (°C) | Mean dissolving time (s)\n10                     | 315\n25                     | 190\n40                     | 108\n60                     | 64\n\nExperiment 2: Water temperature was held at 25°C while the form of the sugar was changed.\nSugar form      | Mean dissolving time (s)\nSingle cube     | 190\nCoarse crystals | 94\nFine powder     | 41\n\nQuestion:\nA student claims that only water temperature can change how long the sugar takes to dissolve. How do the Experiment 2 results evaluate this claim?",
+    "choices": {
+      "A": "They support it because every trial used water at 25°C.",
+      "B": "They support it because the cube took 190 s to dissolve.",
+      "C": "They contradict it because dissolving time changed with sugar form while temperature remained 25°C.",
+      "D": "They cannot evaluate it because stirring rate was not controlled."
+    },
+    "correct": "C",
+    "explanation": "At the same 25°C temperature, mean dissolving time ranged from 190 s for a cube to 41 s for fine powder, showing that sugar form also mattered."
+  }
+]

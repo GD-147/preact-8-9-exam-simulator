@@ -270,7 +270,7 @@ if (metaEl) metaEl.textContent = metaText;
 
   // UI state
   let idx = 0;
-  const answers = {}; // q.id -> "A"/"B"/"C"/"D"
+  const answers = {}; // q.id -> selected choice label
   const startTime = Date.now();
 
   // Timer (solo Exam Mode)
@@ -291,7 +291,7 @@ if (metaEl) metaEl.textContent = metaText;
 
     const box = qs("choices");
     box.innerHTML = "";
-    ["A","B","C","D"].forEach(letter => {
+    Object.keys(q.choices || {}).forEach(letter => {
       const row = document.createElement("label");
       row.className = "choice";
 

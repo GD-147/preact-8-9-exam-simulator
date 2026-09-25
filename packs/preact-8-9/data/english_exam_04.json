@@ -1,0 +1,482 @@
+[
+  {
+    "id": "EN4-001",
+    "prompt": "In a passage about students running a school repair workshop, Priya recalls opening day: “Before the first customer <u>arrived we sorted thread, buckles, and tools into labeled bins</u>.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "arrived, we sorted thread, buckles, and tools into labeled bins",
+      "C": "arrived; we sorted thread, buckles, and tools into labeled bins",
+      "D": "arrived we sorted, thread, buckles, and tools into labeled bins"
+    },
+    "correct": "B",
+    "explanation": "A comma should follow the introductory dependent clause “Before the first customer arrived.” A semicolon cannot separate that dependent clause from the main clause."
+  },
+  {
+    "id": "EN4-002",
+    "prompt": "The passage describes supplies at the repair table: “A basket of spare buckles and zippers <u>sit</u> beside the sewing kit.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have sat",
+      "C": "sits",
+      "D": "are sitting"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “basket” requires the singular verb “sits.” The plural nouns in the prepositional phrase do not control the verb."
+  },
+  {
+    "id": "EN4-003",
+    "prompt": "Priya explains why one repair required extra time: “<u>We set aside a torn backpack because its fabric needed a patch beneath the damaged area.</u>” Which choice is a complete sentence that clearly expresses the cause-and-effect relationship?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "Setting aside a torn backpack. Because its fabric needed a patch beneath the damaged area.",
+      "C": "Because its fabric needed a patch beneath the damaged area.",
+      "D": "A torn backpack, needing a patch beneath the damaged area."
+    },
+    "correct": "A",
+    "explanation": "The original is a complete sentence that clearly connects the decision to its reason. Each other choice contains at least one fragment."
+  },
+  {
+    "id": "EN4-004",
+    "prompt": "The passage states, “When Priya handed Marisol the curved needle, <u>she</u> stitched the loose strap back into place.” The writer wants to make clear that Marisol did the stitching. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "the student",
+      "C": "Priya",
+      "D": "Marisol"
+    },
+    "correct": "D",
+    "explanation": "Naming Marisol makes it clear who stitched the strap. The pronoun and the vague phrase “the student” could refer to either person."
+  },
+  {
+    "id": "EN4-005",
+    "prompt": "The passage describes an important tool: “The workshop's only sewing machine <u>which was borrowed from the costume department</u> stood near the window.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "which was borrowed from the costume department,",
+      "C": ", which was borrowed from the costume department,",
+      "D": ", which was borrowed from the costume department"
+    },
+    "correct": "C",
+    "explanation": "Because “only sewing machine” fully identifies the tool, the added description is nonessential and must be enclosed by commas. One comma alone marks only one boundary."
+  },
+  {
+    "id": "EN4-006",
+    "prompt": "Priya narrates work completed during the workshop: “Marisol aligned the zipper while I <u>fasten</u> the fabric with clips.” Which choice best maintains the sentence's verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "fastened",
+      "C": "will fasten",
+      "D": "am fastening"
+    },
+    "correct": "B",
+    "explanation": "“Fastened” matches the past-tense verb “aligned.” The present and future forms create an unnecessary tense shift."
+  },
+  {
+    "id": "EN4-007",
+    "prompt": "The passage describes Priya repairing a chair: “<u>After tightening the screw, the loose chair leg no longer wobbled for Priya.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "After tightening the screw, Priya found that the chair leg no longer wobbled.",
+      "C": "After tightening the screw, the chair leg became less loose for Priya.",
+      "D": "The loose chair leg, after tightening the screw, no longer wobbled for Priya."
+    },
+    "correct": "B",
+    "explanation": "Priya is the person who tightened the screw, so her name must follow the introductory phrase. The original illogically suggests that the chair leg tightened the screw."
+  },
+  {
+    "id": "EN4-008",
+    "prompt": "Priya explains the workshop's policy: “Every repair was <u>free of cost, and the workshop did not charge any money</u>.” Which choice is most concise while preserving the meaning?",
+    "choices": {
+      "A": "free",
+      "B": "free of any cost whatsoever",
+      "C": "without a charge of money",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Free” fully conveys that no money was charged. The other choices repeat or lengthen the same idea."
+  },
+  {
+    "id": "EN4-009",
+    "prompt": "In a passage with a warm, reflective tone, Priya describes an early mistake: “We sewed a pocket slightly crooked and had to remove every stitch. <u>It was the most horrible failure imaginable.</u>” Which choice best matches the passage's tone?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The setback taught us to pin each piece before sewing it.",
+      "C": "Our sewing skills were obviously a complete joke.",
+      "D": "Whatever—we just ripped it apart and moved on."
+    },
+    "correct": "B",
+    "explanation": "This choice acknowledges the problem and explains what the students learned. The other options are exaggerated, mocking, or dismissive."
+  },
+  {
+    "id": "EN4-010",
+    "prompt": "A passage about a school repair workshop begins, “On one table lay a backpack with a torn strap. On another sat a desk lamp that flickered whenever its cord moved.” Which choice would most effectively introduce the passage's focus on students learning to repair useful objects?",
+    "choices": {
+      "A": "Backpacks are available in many colors and sizes.",
+      "B": "The tables had been moved from a science classroom.",
+      "C": "Instead of throwing these objects away, our student team planned to diagnose each problem and attempt a careful repair.",
+      "D": "Desk lamps can provide light for reading or writing."
+    },
+    "correct": "C",
+    "explanation": "This sentence connects the damaged objects to the team's purpose and process. The other choices offer side facts rather than introducing the main focus."
+  },
+  {
+    "id": "EN4-011",
+    "prompt": "In a paragraph about repairing a backpack, Priya writes: “First, we removed the broken buckle from the strap. Next, we measured the strap's width and selected a matching replacement. _____, we threaded the strap through the new buckle and tested it.” Which choice provides the most logical transition?",
+    "choices": {
+      "A": "In contrast",
+      "B": "Finally",
+      "C": "For example",
+      "D": "Nevertheless"
+    },
+    "correct": "B",
+    "explanation": "“Finally” completes the chronological sequence begun by “First” and “Next.” The other transitions signal contrast or an example."
+  },
+  {
+    "id": "EN4-012",
+    "prompt": "A paragraph explains that the repair team photographed each damaged item, wrote a short repair plan, and tested the object before returning it. The writer is considering adding this sentence: “The gym floor was polished during summer break.” Should the writer add the sentence?",
+    "choices": {
+      "A": "Yes, because the gym is part of the same school.",
+      "B": "Yes, because polished floors are examples of well-maintained objects.",
+      "C": "No, because summer break should not be mentioned in a school passage.",
+      "D": "No, because the detail distracts from the paragraph's focus on the team's repair process."
+    },
+    "correct": "D",
+    "explanation": "The condition of the gym floor does not explain any step in the repair process. Sharing a school setting does not make the detail relevant."
+  },
+  {
+    "id": "EN4-013",
+    "prompt": "A paragraph about the repair workshop contains these sentences:\n[1] A desk lamp flickered whenever its cord bent near the plug. [2] The students discovered a loose wire inside the plug casing. [3] With a teacher supervising, they secured the wire and closed the casing. [4] The lamp then stayed on as the cord moved.\nThe writer wants to add this sentence: “The loose connection had interrupted the flow of electricity.” Where should the sentence be placed?",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 2",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains how the loose wire identified in sentence 2 caused the flickering. It should appear before sentence 3 describes the repair."
+  },
+  {
+    "id": "EN4-014",
+    "prompt": "At the end of a passage about a school repair workshop, Priya describes students carrying home objects that work again. Which concluding sentence best emphasizes the value of the experience?",
+    "choices": {
+      "A": "Our repairs were small, but each one showed us that patience and practical skills can keep a useful object in service.",
+      "B": "The workshop tables were folded and stored after the event.",
+      "C": "Many stores sell new backpacks, lamps, and chairs.",
+      "D": "The school building has several storage closets."
+    },
+    "correct": "A",
+    "explanation": "This conclusion connects the repaired objects to the students' broader lesson about skill and reuse. The other choices end with unrelated details."
+  },
+  {
+    "id": "EN4-015",
+    "prompt": "In a passage about students reconstructing a community dance, the writer describes their sources: “They studied several former <u>dancers notebooks</u> from the town archive.” Which choice correctly forms the plural possessive?",
+    "choices": {
+      "A": "dancers notebooks",
+      "B": "dancer's notebooks",
+      "C": "dancers' notebooks",
+      "D": "dancers notebook's"
+    },
+    "correct": "C",
+    "explanation": "The notebooks belonged to several dancers, so the apostrophe follows the plural noun “dancers.” “Dancer's” would indicate one dancer."
+  },
+  {
+    "id": "EN4-016",
+    "prompt": "The passage explains what one notebook contained: “A page showed four numbered <u>steps the students practiced them in the same order.</u>” Which choice best corrects the run-on sentence?",
+    "choices": {
+      "A": "steps, the students practiced them in the same order.",
+      "B": "steps; the students practiced them in the same order.",
+      "C": "steps the students practiced them, in the same order.",
+      "D": "steps being practiced by the students in the same order."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly joins the two related independent clauses. A comma alone would create a comma splice."
+  },
+  {
+    "id": "EN4-017",
+    "prompt": "The writer lists the students' research methods: “They reconstructed the dance by <u>watching old films, interviewing former dancers, and to practice the recorded steps</u>.” Which choice makes the list parallel?",
+    "choices": {
+      "A": "watching old films, interviewing former dancers, and practicing the recorded steps",
+      "B": "to watch old films, interviewing former dancers, and practicing the recorded steps",
+      "C": "watching old films, former dancers were interviewed, and practicing the recorded steps",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "The three gerunds “watching,” “interviewing,” and “practicing” create a parallel list. The other choices mix grammatical forms."
+  },
+  {
+    "id": "EN4-018",
+    "prompt": "The passage introduces the dance's three main sections: “The reconstructed dance follows a clear pattern <u>a walking circle, a partner turn, and a final clap sequence.</u>” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": ", a walking circle, a partner turn, and a final clap sequence.",
+      "B": "; a walking circle, a partner turn, and a final clap sequence.",
+      "C": ": a walking circle, a partner turn, and a final clap sequence.",
+      "D": "a walking circle, a partner turn, and a final clap sequence."
+    },
+    "correct": "C",
+    "explanation": "A colon properly introduces the list after the complete clause. A comma or semicolon does not correctly introduce this list."
+  },
+  {
+    "id": "EN4-019",
+    "prompt": "The writer describes a rehearsal group: “The four dancers checked <u>his or her</u> position before the music began.” Which choice makes the pronoun agree with its plural antecedent?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "their",
+      "C": "its",
+      "D": "your"
+    },
+    "correct": "B",
+    "explanation": "The plural pronoun “their” agrees with the plural antecedent “dancers.” “His or her” is singular."
+  },
+  {
+    "id": "EN4-020",
+    "prompt": "The passage reports advice from a former dancer: “Ms. Vega suggested <u>to repeat</u> the partner turn slowly before adding music.” Which choice uses the standard verb form?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "repeat",
+      "C": "having repeated",
+      "D": "repeating"
+    },
+    "correct": "D",
+    "explanation": "The standard construction is “suggested repeating.” “Suggested to repeat” is not the accepted form in this sentence."
+  },
+  {
+    "id": "EN4-021",
+    "prompt": "The passage describes the dance: “A sequence of six quick steps <u>lead</u> into the partner turn.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "leads",
+      "C": "have led",
+      "D": "are leading"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “sequence” requires the singular verb “leads.” The plural noun “steps” is part of a prepositional phrase."
+  },
+  {
+    "id": "EN4-022",
+    "prompt": "The passage quotes Ms. Vega during rehearsal: “<u>Keep your shoulders relaxed she advised and listen for the drum.</u>” Which choice correctly punctuates the quotation and the interrupting dialogue tag?",
+    "choices": {
+      "A": "“Keep your shoulders relaxed,” she advised, “and listen for the drum.”",
+      "B": "“Keep your shoulders relaxed” she advised, “and listen for the drum.”",
+      "C": "“Keep your shoulders relaxed,” she advised “and listen for the drum.”",
+      "D": "“Keep your shoulders relaxed” she advised “and listen for the drum.”"
+    },
+    "correct": "A",
+    "explanation": "Commas set off the interrupting dialogue tag “she advised.” The other choices omit one or both required commas."
+  },
+  {
+    "id": "EN4-023",
+    "prompt": "The writer describes the final beat of the dance: “At the drum's last note, each pair <u>did a movement around</u> to face the center.” Which choice is most precise and concise?",
+    "choices": {
+      "A": "moved themselves around",
+      "B": "pivoted",
+      "C": "did a turning motion",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "“Pivoted” precisely describes a turn made in place. The other choices are vague or unnecessarily wordy."
+  },
+  {
+    "id": "EN4-024",
+    "prompt": "The dance passage states, “After the partner turn, the dancers <u>returned back</u> to the circle.” Which choice is the most concise without changing the meaning?",
+    "choices": {
+      "A": "returned",
+      "B": "went returning back",
+      "C": "returned back again",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Returned” already means went back, so “back” is redundant. The other choices repeat or complicate the same idea."
+  },
+  {
+    "id": "EN4-025",
+    "prompt": "A paragraph about reconstructing the dance contains these sentences:\n[1] One notebook labeled a movement only as “the window.” [2] The phrase did not explain what the dancers' arms or feet should do. [3] _____ [4] Her demonstration showed that partners raised their joined hands while turning beneath them.\nWhich choice provides the most logical sentence for the blank?",
+    "choices": {
+      "A": "The archive stores notebooks in acid-free boxes.",
+      "B": "Ms. Vega remembered the nickname and demonstrated the movement during an interview.",
+      "C": "Windows admit light and air into many buildings.",
+      "D": "The students wore comfortable shoes to every rehearsal."
+    },
+    "correct": "B",
+    "explanation": "This sentence explains how the students resolved the unclear phrase and leads directly to the demonstration in sentence 4. The other details do not clarify the movement."
+  },
+  {
+    "id": "EN4-026",
+    "prompt": "In a passage about reconstructing a community dance, the writer wants to support the claim that combining sources produced a more accurate result. Which choice provides the most relevant supporting detail?",
+    "choices": {
+      "A": "A notebook supplied the order of the steps, while an old film and Ms. Vega's demonstration clarified how the turns were performed.",
+      "B": "The rehearsal room had mirrors along one wall.",
+      "C": "Several students brought water bottles to practice.",
+      "D": "The archive opened at nine o'clock each morning."
+    },
+    "correct": "A",
+    "explanation": "This detail shows that different sources contributed complementary information. The other choices do not address the accuracy of the reconstruction."
+  },
+  {
+    "id": "EN4-027",
+    "prompt": "A passage about a community dance first describes incomplete clues in an archive, then follows students as they interview former dancers and rehearse, and finally depicts a public performance. Which choice best explains why this organization is effective?",
+    "choices": {
+      "A": "It compares the dance with several unrelated traditions.",
+      "B": "It presents the performance before explaining how the steps were found.",
+      "C": "It moves from a research problem through the reconstruction process to the completed dance.",
+      "D": "It ranks the dancers according to their skill."
+    },
+    "correct": "C",
+    "explanation": "The passage follows a clear problem-process-result structure. The other choices misdescribe its content or sequence."
+  },
+  {
+    "id": "EN4-028",
+    "prompt": "In a passage about students testing model rain gardens, the writer states, “Water flowed through the gravel tray <u>and Noor measured the amount collected below.</u>” Which choice correctly punctuates the two independent clauses?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", and Noor measured the amount collected below.",
+      "C": "and, Noor measured the amount collected below.",
+      "D": "; and Noor measured the amount collected below."
+    },
+    "correct": "B",
+    "explanation": "A comma before the coordinating conjunction “and” correctly joins the two independent clauses. A semicolon should not be combined with “and” in this construction."
+  },
+  {
+    "id": "EN4-029",
+    "prompt": "The passage describes one model: “The row of drainage holes along the tray's edge <u>allow</u> extra water to escape.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have allowed",
+      "C": "allows",
+      "D": "are allowing"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “row” requires the singular verb “allows.” The plural noun “holes” is inside a prepositional phrase."
+  },
+  {
+    "id": "EN4-030",
+    "prompt": "The writer states, “Noor placed the clay tray beside the gravel tray before <u>it</u> was weighed.” The writer wants to make clear that the clay tray was weighed. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "that object",
+      "C": "the clay tray",
+      "D": "the gravel tray"
+    },
+    "correct": "C",
+    "explanation": "Replacing “it” with “the clay tray” clearly identifies what was weighed. The original pronoun could refer to either tray."
+  },
+  {
+    "id": "EN4-031",
+    "prompt": "The passage describes a test conducted last Friday: “The students poured one cup of water into each model and <u>record</u> the drainage time.” Which choice best maintains consistent verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "will record",
+      "C": "are recording",
+      "D": "recorded"
+    },
+    "correct": "D",
+    "explanation": "“Recorded” matches the past-tense verb “poured” and the completed time marker “last Friday.” The other choices shift to present or future time."
+  },
+  {
+    "id": "EN4-032",
+    "prompt": "The writer describes Eli observing a test: “<u>Watching the timer, the water seemed to drain slowly to Eli.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "Watching the timer, Eli noticed that the water drained slowly.",
+      "B": "Watching the timer, the slowly draining water was noticed by Eli.",
+      "C": "The water, watching the timer, seemed to drain slowly to Eli.",
+      "D": "Eli, the water seemed slow while watching the timer."
+    },
+    "correct": "A",
+    "explanation": "Eli is the person watching the timer, so his name must follow the introductory phrase. The original illogically suggests that the water was watching."
+  },
+  {
+    "id": "EN4-033",
+    "prompt": "The passage contrasts two model soils: “The packed clay drained <u>slowly however, the loose mixture released water at a steady rate.</u>” Which choice correctly joins the independent clauses?",
+    "choices": {
+      "A": "slowly, however, the loose mixture released water at a steady rate.",
+      "B": "slowly; however, the loose mixture released water at a steady rate.",
+      "C": "slowly however; the loose mixture released water at a steady rate.",
+      "D": "slowly however the loose mixture released water at a steady rate."
+    },
+    "correct": "B",
+    "explanation": "A semicolon separates the independent clauses, and a comma follows the conjunctive adverb “however.” A comma before “however” alone would create a comma splice."
+  },
+  {
+    "id": "EN4-034",
+    "prompt": "The passage describes a feature of one tray: “The <u>models outlet</u> directed water into a measuring cup.” Which choice correctly forms the singular possessive?",
+    "choices": {
+      "A": "models outlet",
+      "B": "models' outlet",
+      "C": "model's outlet",
+      "D": "model outlet's"
+    },
+    "correct": "C",
+    "explanation": "The outlet belongs to one model, so the singular possessive “model's” is correct. “Models'” would refer to multiple models."
+  },
+  {
+    "id": "EN4-035",
+    "prompt": "The writer compares drainage speeds: “Water moved through the gravel mixture <u>in a way that was more rapid</u> than through the packed clay.” Which choice is clearest and most concise?",
+    "choices": {
+      "A": "with more rapid speed",
+      "B": "more rapidly",
+      "C": "in a more rapidly moving way",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "“More rapidly” expresses the comparison directly and correctly modifies “moved.” The other choices are wordy or awkward."
+  },
+  {
+    "id": "EN4-036",
+    "prompt": "The passage uses a clear, explanatory style. It states, “Spaces between pieces of gravel allow water to pass through. <u>The gravel basically lets the water zoom on by.</u>” Which choice best matches the passage's style?",
+    "choices": {
+      "A": "As a result, water drains readily through the gravel layer.",
+      "B": "The gravel gives water a speedy little highway.",
+      "C": "So the water just shoots through, no problem.",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "This choice states the result precisely and maintains an informative tone. The other options are slangy or overly figurative."
+  },
+  {
+    "id": "EN4-037",
+    "prompt": "A passage about model rain gardens begins, “Noor poured a cup of water onto two trays at the same moment. Water pooled on the packed clay, but it quickly disappeared into a tray filled with soil and gravel.” Which choice would most effectively introduce the passage's focus on testing how rain-garden materials affect drainage?",
+    "choices": {
+      "A": "The cups used in the test were made from clear plastic.",
+      "B": "Clay is used to make bricks, tiles, and pottery.",
+      "C": "The class wanted to measure which mixtures slowed runoff while still allowing water to soak through.",
+      "D": "Rain may fall as a drizzle or a heavy storm."
+    },
+    "correct": "C",
+    "explanation": "This sentence turns the opening observation into the question the class investigates. The other choices provide side facts rather than the main focus."
+  },
+  {
+    "id": "EN4-038",
+    "prompt": "In a paragraph about testing model rain gardens, the writer explains that students ran each drainage test three times. The writer wants to emphasize why repeated trials were useful. Which sentence would best accomplish this purpose?",
+    "choices": {
+      "A": "The students rinsed the measuring cups after each test.",
+      "B": "Repeated trials helped the class identify unusual results and calculate a more dependable average drainage time.",
+      "C": "Each tray was labeled with a letter.",
+      "D": "The classroom had a large sink near the door."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly explains how repeated trials improved the reliability of the results. The other choices describe equipment or procedures without explaining the value of repetition."
+  },
+  {
+    "id": "EN4-039",
+    "prompt": "A passage about model rain gardens includes the following paragraph:\n[1] Water remained on the packed clay for several minutes. [2] The gravel-only tray drained almost immediately. [3] _____ [4] The class concluded that the mixed material balanced drainage with temporary water storage.\nWhich choice provides the most logical transition for sentence 3?",
+    "choices": {
+      "A": "For example, gravel is sold in bags at garden centers.",
+      "B": "Meanwhile, several students dried the table with towels.",
+      "C": "In contrast, the soil-and-gravel mixture held some water briefly before releasing it at a steady rate.",
+      "D": "Similarly, every tray was the same shade of blue."
+    },
+    "correct": "C",
+    "explanation": "“In contrast” introduces the mixed tray's middle result between the two extremes. That evidence directly supports the conclusion in sentence 4."
+  },
+  {
+    "id": "EN4-040",
+    "prompt": "At the end of a passage about model rain gardens, the writer explains that the class shared its findings with a group planning a garden beside the school parking lot. Which concluding sentence best reinforces the passage's main idea without exaggerating the results?",
+    "choices": {
+      "A": "The small models proved that one soil mixture will prevent every flood.",
+      "B": "Clearly, all parking lots should be replaced by gardens.",
+      "C": "Gardens may contain flowers in many colors.",
+      "D": "Although the models could not predict every storm, their measurements gave the planners useful evidence for choosing materials."
+    },
+    "correct": "D",
+    "explanation": "This conclusion recognizes the study's limits while explaining its practical value. The other choices exaggerate the findings or shift away from the main idea."
+  }
+]

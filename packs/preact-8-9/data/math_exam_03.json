@@ -1,0 +1,457 @@
+[
+  {
+    "id": "M3-001",
+    "prompt": "What is the value of 3² − |−5|?",
+    "choices": {
+      "A": "−14",
+      "B": "−4",
+      "C": "4",
+      "D": "14",
+      "E": "86"
+    },
+    "correct": "C",
+    "explanation": "3² = 9 and |−5| = 5, so 3² − |−5| = 9 − 5 = 4."
+  },
+  {
+    "id": "M3-002",
+    "prompt": "What value of x satisfies 6x − 5 = 37?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "9"
+    },
+    "correct": "C",
+    "explanation": "Add 5 to both sides to get 6x = 42, and then divide by 6 to get x = 7."
+  },
+  {
+    "id": "M3-003",
+    "prompt": "An isosceles triangle has a vertex angle measuring 44°. What is the measure of each of the two congruent base angles?",
+    "choices": {
+      "A": "44°",
+      "B": "56°",
+      "C": "68°",
+      "D": "72°",
+      "E": "136°"
+    },
+    "correct": "C",
+    "explanation": "The two base angles are congruent and together measure 180° − 44° = 136°. Each base angle is 136° ÷ 2 = 68°."
+  },
+  {
+    "id": "M3-004",
+    "prompt": "A candle is 30 centimeters tall when it is lit. It burns at a constant rate, as shown in the table.\n\nt (hours) | 0 | 2 | 5 | 8\nh (centimeters) | 30 | 26 | 20 | 14\n\nWhich equation gives the candle's height h after t hours?",
+    "choices": {
+      "A": "h = 30 − 2t",
+      "B": "h = 30 − 4t",
+      "C": "h = 30 + 2t",
+      "D": "h = 15 − 2t",
+      "E": "h = 2t"
+    },
+    "correct": "A",
+    "explanation": "The candle begins at 30 centimeters and loses 4 centimeters every 2 hours, so its rate is −2 centimeters per hour. Therefore, h = 30 − 2t."
+  },
+  {
+    "id": "M3-005",
+    "prompt": "What is the mean of the data set 12, 14, 15, 15, 19?",
+    "choices": {
+      "A": "14",
+      "B": "15",
+      "C": "15.5",
+      "D": "16",
+      "E": "19"
+    },
+    "correct": "B",
+    "explanation": "The sum of the 5 values is 75, so the mean is 75 ÷ 5 = 15."
+  },
+  {
+    "id": "M3-006",
+    "prompt": "What is (8.4 × 10⁶) + (6 × 10⁵) written in scientific notation?",
+    "choices": {
+      "A": "1.44 × 10⁶",
+      "B": "8.46 × 10⁶",
+      "C": "9 × 10⁶",
+      "D": "9 × 10⁷",
+      "E": "1.44 × 10⁸"
+    },
+    "correct": "C",
+    "explanation": "Rewrite 6 × 10⁵ as 0.6 × 10⁶. Then 8.4 × 10⁶ + 0.6 × 10⁶ = 9 × 10⁶."
+  },
+  {
+    "id": "M3-007",
+    "prompt": "A store increases the price of a $50 item by 20%. A customer then uses a coupon for 10% off the increased price. What price does the customer pay before tax?",
+    "choices": {
+      "A": "$50",
+      "B": "$53",
+      "C": "$54",
+      "D": "$55",
+      "E": "$60"
+    },
+    "correct": "C",
+    "explanation": "A 20% increase changes the price to $50 × 1.20 = $60. The coupon reduces that price to $60 × 0.90 = $54."
+  },
+  {
+    "id": "M3-008",
+    "prompt": "A paint mixture uses blue and white paint in the ratio 3:5. If 32 cups of the mixture are made, how many cups are blue paint?",
+    "choices": {
+      "A": "8 cups",
+      "B": "12 cups",
+      "C": "15 cups",
+      "D": "20 cups",
+      "E": "24 cups"
+    },
+    "correct": "B",
+    "explanation": "The ratio has 3 + 5 = 8 total parts. Each part is 32 ÷ 8 = 4 cups, so the blue paint amount is 3 × 4 = 12 cups."
+  },
+  {
+    "id": "M3-009",
+    "prompt": "A vertical pole is supported by a wire attached to the top of the pole and anchored to the ground. The pole is 9 meters tall, and the anchor is 12 meters from the base of the pole. How long is the wire?",
+    "choices": {
+      "A": "13 meters",
+      "B": "15 meters",
+      "C": "18 meters",
+      "D": "21 meters",
+      "E": "108 meters"
+    },
+    "correct": "B",
+    "explanation": "The pole, ground, and wire form a right triangle. The wire length is √(9² + 12²) = √225 = 15 meters."
+  },
+  {
+    "id": "M3-010",
+    "prompt": "A fair number cube has faces numbered 1 through 6. What is the probability of rolling a number greater than 2?",
+    "choices": {
+      "A": "1/3",
+      "B": "1/2",
+      "C": "2/3",
+      "D": "3/4",
+      "E": "5/6"
+    },
+    "correct": "C",
+    "explanation": "Four outcomes, 3, 4, 5, and 6, are greater than 2. The probability is 4/6 = 2/3."
+  },
+  {
+    "id": "M3-011",
+    "prompt": "What is the value of √196 ÷ 2 + ∛27?",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "17"
+    },
+    "correct": "C",
+    "explanation": "√196 = 14 and ∛27 = 3. Therefore, 14 ÷ 2 + 3 = 7 + 3 = 10."
+  },
+  {
+    "id": "M3-012",
+    "prompt": "The first three terms of an arithmetic sequence are 12, 17, and 22. What is the tenth term?",
+    "choices": {
+      "A": "45",
+      "B": "52",
+      "C": "55",
+      "D": "57",
+      "E": "62"
+    },
+    "correct": "D",
+    "explanation": "The common difference is 5. From the first term to the tenth term there are 9 increases, so the tenth term is 12 + 9 × 5 = 57."
+  },
+  {
+    "id": "M3-013",
+    "prompt": "A bus can hold at most 48 people. Five chaperones will ride the bus, and each student group contains 4 students. What is the greatest number of complete student groups that can ride with the chaperones?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12",
+      "E": "43"
+    },
+    "correct": "B",
+    "explanation": "After seating 5 chaperones, 43 seats remain. Since each group has 4 students, 43 ÷ 4 = 10 remainder 3, so at most 10 complete groups can ride."
+  },
+  {
+    "id": "M3-014",
+    "prompt": "Point S has coordinates (−2, 5). It is reflected across the line y = x. What are the coordinates of the image of S?",
+    "choices": {
+      "A": "(−5, 2)",
+      "B": "(−2, −5)",
+      "C": "(2, −5)",
+      "D": "(5, −2)",
+      "E": "(5, 2)"
+    },
+    "correct": "D",
+    "explanation": "Reflection across y = x exchanges the coordinates, so (−2, 5) maps to (5, −2)."
+  },
+  {
+    "id": "M3-015",
+    "prompt": "The table shows whether 100 students read fiction regularly.\n\n          | Reads fiction | Does not read fiction | Total\nGrade 8   | 28            | 22                    | 50\nGrade 9   | 36            | 14                    | 50\nTotal     | 64            | 36                    | 100\n\nOne student is selected at random from the students who read fiction regularly. What is the probability that the selected student is in Grade 8?",
+    "choices": {
+      "A": "7/25",
+      "B": "9/25",
+      "C": "7/16",
+      "D": "9/16",
+      "E": "16/25"
+    },
+    "correct": "C",
+    "explanation": "Of the 64 students who read fiction regularly, 28 are in Grade 8. The probability is 28/64 = 7/16."
+  },
+  {
+    "id": "M3-016",
+    "prompt": "A cyclist travels 24 kilometers in 80 minutes at a constant speed. What is the cyclist's speed in meters per second?",
+    "choices": {
+      "A": "0.3 meters per second",
+      "B": "3 meters per second",
+      "C": "5 meters per second",
+      "D": "18 meters per second",
+      "E": "300 meters per second"
+    },
+    "correct": "C",
+    "explanation": "Convert 24 kilometers to 24,000 meters and 80 minutes to 4,800 seconds. The speed is 24,000 ÷ 4,800 = 5 meters per second."
+  },
+  {
+    "id": "M3-017",
+    "prompt": "A jar contains 26 coins consisting only of nickels and dimes. The coins have a total value of $2.05. How many dimes are in the jar?",
+    "choices": {
+      "A": "9",
+      "B": "11",
+      "C": "13",
+      "D": "15",
+      "E": "17"
+    },
+    "correct": "D",
+    "explanation": "Let n be nickels and d be dimes. Then n + d = 26 and 5n + 10d = 205. Substituting n = 26 − d gives 130 + 5d = 205, so d = 15."
+  },
+  {
+    "id": "M3-018",
+    "prompt": "An account begins with $200 and grows by 5% each year. No money is added or withdrawn. What is the account balance after 2 years?",
+    "choices": {
+      "A": "$210.00",
+      "B": "$215.00",
+      "C": "$220.00",
+      "D": "$220.50",
+      "E": "$225.00"
+    },
+    "correct": "D",
+    "explanation": "Apply the 5% growth factor twice: $200 × 1.05² = $200 × 1.1025 = $220.50."
+  },
+  {
+    "id": "M3-019",
+    "prompt": "A closed cylinder has a radius of 3 centimeters and a height of 7 centimeters. What is the total surface area of the cylinder?",
+    "choices": {
+      "A": "21π square centimeters",
+      "B": "42π square centimeters",
+      "C": "51π square centimeters",
+      "D": "60π square centimeters",
+      "E": "63π square centimeters"
+    },
+    "correct": "D",
+    "explanation": "The total surface area is 2πr² + 2πrh. With r = 3 and h = 7, this is 2π(3²) + 2π(3)(7) = 18π + 42π = 60π square centimeters."
+  },
+  {
+    "id": "M3-020",
+    "prompt": "The table shows the number of minutes 5 students practiced a skill and the number of errors each student made afterward.\n\nPractice time (minutes) | 10 | 20 | 30 | 40 | 50\nNumber of errors        | 18 | 15 | 11 | 8  | 5\n\nWhich statement best describes the association between practice time and number of errors?",
+    "choices": {
+      "A": "There is a positive association because errors generally increase as practice time increases.",
+      "B": "There is a negative association because errors generally decrease as practice time increases.",
+      "C": "There is no association because the practice times are different.",
+      "D": "There is no association because the number of errors is not constant.",
+      "E": "There is a positive association because all values are positive."
+    },
+    "correct": "B",
+    "explanation": "As practice time increases from 10 to 50 minutes, the number of errors decreases from 18 to 5, indicating a negative association."
+  },
+  {
+    "id": "M3-021",
+    "prompt": "What is the value of (3⁴ × 3²) ÷ 3³?",
+    "choices": {
+      "A": "3",
+      "B": "9",
+      "C": "18",
+      "D": "27",
+      "E": "729"
+    },
+    "correct": "D",
+    "explanation": "Combine the powers with base 3: (3⁴ × 3²) ÷ 3³ = 3³ = 27."
+  },
+  {
+    "id": "M3-022",
+    "prompt": "The equation x² + 2x − 15 = 0 has one positive solution. What is that solution?",
+    "choices": {
+      "A": "−5",
+      "B": "−3",
+      "C": "3",
+      "D": "5",
+      "E": "15"
+    },
+    "correct": "C",
+    "explanation": "Factoring gives x² + 2x − 15 = (x + 5)(x − 3), so the solutions are −5 and 3. The positive solution is 3."
+  },
+  {
+    "id": "M3-023",
+    "prompt": "A delivery service charges $5.20 plus $1.80 for each mile traveled. If one delivery costs $19.60, how many miles were traveled?",
+    "choices": {
+      "A": "6 miles",
+      "B": "7 miles",
+      "C": "8 miles",
+      "D": "9 miles",
+      "E": "11 miles"
+    },
+    "correct": "C",
+    "explanation": "Subtract the fixed charge: $19.60 − $5.20 = $14.40. Then $14.40 ÷ $1.80 = 8 miles."
+  },
+  {
+    "id": "M3-024",
+    "prompt": "Two rectangles are similar. The smaller rectangle measures 8 centimeters by 12 centimeters. The 12-centimeter side corresponds to an 18-centimeter side of the larger rectangle. What is the area of the larger rectangle?",
+    "choices": {
+      "A": "144 square centimeters",
+      "B": "180 square centimeters",
+      "C": "192 square centimeters",
+      "D": "216 square centimeters",
+      "E": "324 square centimeters"
+    },
+    "correct": "D",
+    "explanation": "The scale factor is 18/12 = 1.5, so the other side is 8 × 1.5 = 12 centimeters. The larger rectangle's area is 12 × 18 = 216 square centimeters."
+  },
+  {
+    "id": "M3-025",
+    "prompt": "Plan A's savings increase at a constant rate, as shown in the table. Plan B's savings after w weeks are given by B = 8w + 10 dollars.\n\nw (weeks) | 0 | 3 | 6\nPlan A savings (dollars) | 25 | 43 | 61\n\nAfter 9 weeks, how do the savings under the two plans compare?",
+    "choices": {
+      "A": "Plan A has $3 more than Plan B.",
+      "B": "Plan B has $3 more than Plan A.",
+      "C": "Plan A has $7 more than Plan B.",
+      "D": "Plan B has $7 more than Plan A.",
+      "E": "The two plans have the same amount."
+    },
+    "correct": "B",
+    "explanation": "Plan A increases by $18 every 3 weeks, or $6 per week, so after 9 weeks it has $25 + 9($6) = $79. Plan B has 8(9) + 10 = $82, which is $3 more."
+  },
+  {
+    "id": "M3-026",
+    "prompt": "A square garden has side length 10 meters. Each side length is increased by 20%. By how many square meters does the garden's area increase?",
+    "choices": {
+      "A": "20 square meters",
+      "B": "24 square meters",
+      "C": "40 square meters",
+      "D": "44 square meters",
+      "E": "144 square meters"
+    },
+    "correct": "D",
+    "explanation": "The original area is 10² = 100 square meters. Increasing each side by 20% gives side length 12 meters and area 12² = 144 square meters. The increase is 144 − 100 = 44 square meters."
+  },
+  {
+    "id": "M3-027",
+    "prompt": "What value of x satisfies (x − 3)/4 = (x + 5)/6?",
+    "choices": {
+      "A": "4",
+      "B": "9",
+      "C": "11",
+      "D": "16",
+      "E": "19"
+    },
+    "correct": "E",
+    "explanation": "Cross-multiplying gives 6(x − 3) = 4(x + 5). Thus, 6x − 18 = 4x + 20, so 2x = 38 and x = 19."
+  },
+  {
+    "id": "M3-028",
+    "prompt": "Which of the following numbers is rational?",
+    "choices": {
+      "A": "√2",
+      "B": "√7",
+      "C": "√30",
+      "D": "√81",
+      "E": "∛10"
+    },
+    "correct": "D",
+    "explanation": "√81 = 9, which is an integer and therefore rational. The other choices are roots of numbers that are not perfect squares or perfect cubes, so they are irrational."
+  },
+  {
+    "id": "M3-029",
+    "prompt": "A triangle in the coordinate plane has vertices (0, 0), (6, 0), and (6, 4). What is the area of the triangle?",
+    "choices": {
+      "A": "10 square units",
+      "B": "12 square units",
+      "C": "20 square units",
+      "D": "24 square units",
+      "E": "48 square units"
+    },
+    "correct": "B",
+    "explanation": "The triangle is right with base 6 and height 4. Its area is (1/2) × 6 × 4 = 12 square units."
+  },
+  {
+    "id": "M3-030",
+    "prompt": "Functions f and g are defined by f(x) = 3x − 2 and g(x) = x². What is f(g(−2))?",
+    "choices": {
+      "A": "−14",
+      "B": "−10",
+      "C": "4",
+      "D": "10",
+      "E": "14"
+    },
+    "correct": "D",
+    "explanation": "First, g(−2) = (−2)² = 4. Then f(4) = 3(4) − 2 = 10."
+  },
+  {
+    "id": "M3-031",
+    "prompt": "A box contains 3 red markers and 2 blue markers. Two markers are selected at random without replacement. What is the probability that both markers are blue?",
+    "choices": {
+      "A": "1/10",
+      "B": "1/5",
+      "C": "1/4",
+      "D": "2/5",
+      "E": "1/2"
+    },
+    "correct": "A",
+    "explanation": "The probability of selecting a blue marker first is 2/5. Without replacement, the probability of another blue marker is then 1/4. The product is (2/5)(1/4) = 2/20 = 1/10."
+  },
+  {
+    "id": "M3-032",
+    "prompt": "A recipe uses 4.5 cups of flour to make 18 servings. A baker needs enough flour to make 50 servings at the same rate. Flour is sold in bags containing 2.5 cups each. What is the least number of bags needed?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "10",
+      "E": "13"
+    },
+    "correct": "B",
+    "explanation": "The recipe uses 4.5 ÷ 18 = 0.25 cup per serving. For 50 servings, 50 × 0.25 = 12.5 cups are needed. Since each bag contains 2.5 cups, 12.5 ÷ 2.5 = 5 bags are needed."
+  },
+  {
+    "id": "M3-033",
+    "prompt": "A rectangle has a perimeter of 54 centimeters. Its length is 3 centimeters more than twice its width. What is the width of the rectangle?",
+    "choices": {
+      "A": "6 centimeters",
+      "B": "8 centimeters",
+      "C": "9 centimeters",
+      "D": "12 centimeters",
+      "E": "19 centimeters"
+    },
+    "correct": "B",
+    "explanation": "Let w be the width, so the length is 2w + 3. The perimeter equation is 2(w + 2w + 3) = 54. This gives 6w + 6 = 54, so w = 8 centimeters."
+  },
+  {
+    "id": "M3-034",
+    "prompt": "A closed rectangular storage box is 10 centimeters long, 6 centimeters wide, and 4 centimeters high. Every outside face except the bottom is painted. What total area is painted?",
+    "choices": {
+      "A": "128 square centimeters",
+      "B": "152 square centimeters",
+      "C": "160 square centimeters",
+      "D": "188 square centimeters",
+      "E": "248 square centimeters"
+    },
+    "correct": "D",
+    "explanation": "The painted top has area 10 × 6 = 60. The four painted side faces have total area 2(10 × 4) + 2(6 × 4) = 80 + 48 = 128. The total painted area is 60 + 128 = 188 square centimeters."
+  },
+  {
+    "id": "M3-035",
+    "prompt": "One class of 12 students has a mean test score of 72. Another class of 8 students has a mean test score of 84. What is the mean test score of all 20 students combined?",
+    "choices": {
+      "A": "76.0",
+      "B": "76.8",
+      "C": "77.5",
+      "D": "78.0",
+      "E": "78.4"
+    },
+    "correct": "B",
+    "explanation": "The first class has 12 × 72 = 864 total score points, and the second has 8 × 84 = 672. The combined mean is (864 + 672) ÷ 20 = 1,536 ÷ 20 = 76.8."
+  }
+]

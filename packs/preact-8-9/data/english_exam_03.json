@@ -1,0 +1,482 @@
+[
+  {
+    "id": "EN3-001",
+    "prompt": "In a passage about a student stage crew building movable scenery, Ava recalls an evening rehearsal: “When rehearsal <u>ended we rolled the painted trees to the back wall</u>.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "ended, we rolled the painted trees to the back wall",
+      "C": "ended; we rolled the painted trees to the back wall",
+      "D": "ended we rolled, the painted trees to the back wall"
+    },
+    "correct": "B",
+    "explanation": "A comma should follow the introductory dependent clause “When rehearsal ended.” A semicolon cannot separate that dependent clause from the main clause."
+  },
+  {
+    "id": "EN3-002",
+    "prompt": "The passage describes scenery waiting beside the stage: “A stack of painted tree panels <u>stand</u> near the curtain.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have stood",
+      "C": "stands",
+      "D": "are standing"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “stack” requires the singular verb “stands.” The plural noun “panels” is part of a prepositional phrase and does not control the verb."
+  },
+  {
+    "id": "EN3-003",
+    "prompt": "Ava explains why the crew changed its construction schedule: “<u>We moved the painting session to Friday because the primer needed another day to dry.</u>” Which choice is a complete sentence that clearly expresses the cause-and-effect relationship?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "Moving the painting session to Friday. Because the primer needed another day to dry.",
+      "C": "Because the primer needed another day to dry.",
+      "D": "The primer needing another day to dry, the painting session on Friday."
+    },
+    "correct": "A",
+    "explanation": "The original is a complete sentence that connects the schedule change to its cause. Each other choice contains at least one fragment."
+  },
+  {
+    "id": "EN3-004",
+    "prompt": "The passage states, “When Mina handed Zoë the caster wheel, <u>she</u> spun it to check that it moved freely.” The writer wants to make clear that Zoë spun the wheel. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "the crew member",
+      "C": "Mina",
+      "D": "Zoë"
+    },
+    "correct": "D",
+    "explanation": "Naming Zoë makes it unmistakable that she spun the wheel. The pronoun and the vague phrase “the crew member” could refer to either student."
+  },
+  {
+    "id": "EN3-005",
+    "prompt": "The passage describes the main piece of scenery: “The production's only oak tree <u>which rotates on hidden wheels</u> appears in three scenes.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "which rotates on hidden wheels,",
+      "C": ", which rotates on hidden wheels,",
+      "D": ", which rotates on hidden wheels"
+    },
+    "correct": "C",
+    "explanation": "Because “only oak tree” fully identifies the object, the added description is nonessential and must be enclosed by commas. One comma alone does not mark both boundaries."
+  },
+  {
+    "id": "EN3-006",
+    "prompt": "Ava narrates work completed during one afternoon: “Mina secured the wheels while I <u>check</u> each wooden brace.” Which choice best maintains the sentence's verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "checked",
+      "C": "will check",
+      "D": "am checking"
+    },
+    "correct": "B",
+    "explanation": "“Checked” matches the past-tense verb “secured.” The present and future forms create an unnecessary shift in time."
+  },
+  {
+    "id": "EN3-007",
+    "prompt": "The passage describes a newly painted piece of scenery: “<u>Covered in fresh green paint, Ava pushed the tree panel into the drying area.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "Covered in fresh green paint, the drying area received the tree panel from Ava.",
+      "C": "Ava, covered in fresh green paint, pushed the tree panel into the drying area.",
+      "D": "Ava pushed the tree panel, which was covered in fresh green paint, into the drying area."
+    },
+    "correct": "D",
+    "explanation": "The revised sentence makes clear that the tree panel, not Ava, was covered in paint. The original places Ava directly after the modifier and changes the intended meaning."
+  },
+  {
+    "id": "EN3-008",
+    "prompt": "Ava describes the crowded work area: “Before we reorganized, the scenery <u>completely filled every part of the entire backstage area</u>.” Which choice is most concise while preserving the meaning?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "filled the backstage area",
+      "C": "completely filled all of the entire backstage area",
+      "D": "was filling every complete part backstage"
+    },
+    "correct": "B",
+    "explanation": "“Filled the backstage area” conveys the idea without repeating “completely,” “every part,” and “entire.” The other choices remain redundant or awkward."
+  },
+  {
+    "id": "EN3-009",
+    "prompt": "In a passage with an energetic but reflective tone, Ava describes the first movement test: “The tree wobbled, and three crew members grabbed it before it tipped. <u>Our scenery was a hopeless disaster.</u>” Which choice best matches the passage's tone?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The near fall revealed exactly where the base needed stronger braces.",
+      "C": "Our tragic failure proved that movable scenery should never exist.",
+      "D": "The tree did a goofy dance, which was totally hilarious."
+    },
+    "correct": "B",
+    "explanation": "This choice acknowledges the problem while showing how the crew learned from it. The other options are overly negative, exaggerated, or too casual for the passage's tone."
+  },
+  {
+    "id": "EN3-010",
+    "prompt": "A passage about a stage crew begins, “A painted forest stood in the school workshop, but none of its trees had roots. Each wooden trunk rested on a low platform fitted with four small wheels.” Which choice would most effectively introduce the passage's focus on designing scenery that could move safely and quickly?",
+    "choices": {
+      "A": "Many real forests contain several kinds of trees.",
+      "B": "The workshop also stored costumes in tall metal cabinets.",
+      "C": "Our challenge was to make the forest roll smoothly between scenes without wobbling under the stage lights.",
+      "D": "Wheels are used on carts, bicycles, and many other objects."
+    },
+    "correct": "C",
+    "explanation": "This sentence identifies both goals of the project: easy movement and safety. The other choices introduce background facts that do not establish the passage's central focus."
+  },
+  {
+    "id": "EN3-011",
+    "prompt": "In a paragraph about constructing movable scenery, Ava writes: “First, we built a wide wooden base for each tree. Next, we attached four caster wheels beneath every base. _____, we tested the trees by rolling them across the empty stage.” Which choice provides the most logical transition?",
+    "choices": {
+      "A": "However",
+      "B": "Finally",
+      "C": "For instance",
+      "D": "On the other hand"
+    },
+    "correct": "B",
+    "explanation": "“Finally” completes the chronological sequence begun by “First” and “Next.” The other transitions signal contrast or an example rather than the last step."
+  },
+  {
+    "id": "EN3-012",
+    "prompt": "A paragraph explains that the stage crew widened the tree bases, tightened loose wheels, and added handles behind the scenery. The writer is considering adding this sentence: “The cafeteria clock is visible from several tables.” Should the writer add the sentence?",
+    "choices": {
+      "A": "Yes, because clocks help students arrive at rehearsal on time.",
+      "B": "Yes, because every school building contains several useful objects.",
+      "C": "No, because the detail distracts from the paragraph's focus on improving the movable scenery.",
+      "D": "No, because cafeteria clocks should never be discussed in a passage about school."
+    },
+    "correct": "C",
+    "explanation": "The clock does not explain any improvement to the scenery and would interrupt the paragraph's unity. Its location in the same school does not make it relevant."
+  },
+  {
+    "id": "EN3-013",
+    "prompt": "A paragraph about the stage scenery contains these sentences:\n[1] During the first test, one tree leaned whenever the crew turned it. [2] Ava discovered that two wheels were closer together than the other pair. [3] The crew moved the wheels so that all four corners of the base were supported. [4] During the next test, the tree remained upright through every turn.\nThe writer wants to add this sentence: “The uneven spacing had placed too much of the tree's weight on one side.” Where should the sentence be placed?",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 2",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains why the wheel arrangement identified in sentence 2 caused the tree to lean. It should appear before sentence 3 presents the solution."
+  },
+  {
+    "id": "EN3-014",
+    "prompt": "At the end of a passage about building movable stage scenery, Ava describes the crew rolling the forest into place just before the curtain rises. Which concluding sentence best emphasizes the crew's growth?",
+    "choices": {
+      "A": "The stage curtain is made from a heavy red fabric.",
+      "B": "Some forests receive more rain than others.",
+      "C": "The audience never saw our weeks of measuring and testing, but those careful steps made the smooth scene change possible.",
+      "D": "The play included two acts and an intermission."
+    },
+    "correct": "C",
+    "explanation": "This conclusion connects the successful performance to the crew's planning and practice. The other choices end with facts unrelated to the team's growth."
+  },
+  {
+    "id": "EN3-015",
+    "prompt": "In a passage about students creating a historical postcard exhibit, the writer describes their research: “They compared the two <u>photographers notes</u> with dates printed on the postcards.” Which choice correctly forms the plural possessive?",
+    "choices": {
+      "A": "photographers notes",
+      "B": "photographer's notes",
+      "C": "photographers' notes",
+      "D": "photographers note's"
+    },
+    "correct": "C",
+    "explanation": "The notes belong to two photographers, so the apostrophe follows the plural noun “photographers.” “Photographer's” would indicate only one photographer."
+  },
+  {
+    "id": "EN3-016",
+    "prompt": "The passage explains how the exhibit is organized: “The postcards are arranged by <u>date visitors can compare the street across several decades.</u>” Which choice best corrects the run-on sentence?",
+    "choices": {
+      "A": "date, visitors can compare the street across several decades.",
+      "B": "date; visitors can compare the street across several decades.",
+      "C": "date visitors can compare the street, across several decades.",
+      "D": "date being how visitors can compare the street across several decades."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly joins the two related independent clauses. A comma alone would create a comma splice."
+  },
+  {
+    "id": "EN3-017",
+    "prompt": "The writer lists the students' exhibit tasks: “Their work included <u>scanning postcards, writing captions, and to design a timeline</u>.” Which choice makes the list parallel?",
+    "choices": {
+      "A": "scanning postcards, writing captions, and designing a timeline",
+      "B": "to scan postcards, writing captions, and designing a timeline",
+      "C": "scanning postcards, captions were written, and designing a timeline",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "All three items use parallel gerund forms: “scanning,” “writing,” and “designing.” The other choices mix grammatical structures."
+  },
+  {
+    "id": "EN3-018",
+    "prompt": "The passage introduces several details visible in an old postcard: “The image captures three features that have disappeared <u>streetcar tracks, a water pump, and a wooden newsstand.</u>” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": ", streetcar tracks, a water pump, and a wooden newsstand.",
+      "B": "; streetcar tracks, a water pump, and a wooden newsstand.",
+      "C": ": streetcar tracks, a water pump, and a wooden newsstand.",
+      "D": "streetcar tracks, a water pump, and a wooden newsstand."
+    },
+    "correct": "C",
+    "explanation": "A colon properly introduces the list after the complete clause. A comma or semicolon is not appropriate for introducing this list."
+  },
+  {
+    "id": "EN3-019",
+    "prompt": "The writer describes two student curators: “Both curators checked <u>his or her</u> captions against the library records.” Which choice makes the pronoun agree with its plural antecedent?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "its",
+      "C": "your",
+      "D": "their"
+    },
+    "correct": "D",
+    "explanation": "The plural pronoun “their” agrees with the plural antecedent “curators.” “His or her” is singular."
+  },
+  {
+    "id": "EN3-020",
+    "prompt": "The passage explains one choice the students made: “The group agreed <u>displaying</u> a modern photograph beside each historical postcard.” Which choice uses the standard verb form?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "to display",
+      "C": "displayed",
+      "D": "having displayed"
+    },
+    "correct": "B",
+    "explanation": "The standard construction is “agreed to display.” “Agreed displaying” does not use the accepted verb form after “agreed.”"
+  },
+  {
+    "id": "EN3-021",
+    "prompt": "The passage describes what the exhibit shows: “A collection of twelve postcards <u>reveal</u> how the town square changed over time.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "reveal themselves",
+      "C": "reveals",
+      "D": "have revealed"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “collection” requires the singular verb “reveals.” The plural noun “postcards” is part of a prepositional phrase."
+  },
+  {
+    "id": "EN3-022",
+    "prompt": "The passage quotes a librarian who helped date a postcard: “<u>Notice the clock tower she said it was completed in 1924.</u>” Which choice correctly punctuates the quotation and the interrupting dialogue tag?",
+    "choices": {
+      "A": "“Notice the clock tower,” she said. “It was completed in 1924.”",
+      "B": "“Notice the clock tower” she said. “It was completed in 1924.”",
+      "C": "“Notice the clock tower,” she said “it was completed in 1924.”",
+      "D": "“Notice the clock tower” she said, “it was completed in 1924.”"
+    },
+    "correct": "A",
+    "explanation": "A comma separates the spoken command from the dialogue tag, and a period ends the first complete sentence. The other choices omit needed punctuation around the tag."
+  },
+  {
+    "id": "EN3-023",
+    "prompt": "The writer describes a postcard from 1931: “The town square <u>had a lot of stuff going on</u>, including streetcars, produce carts, and crowds of shoppers.” Which choice is most precise and appropriate for an informational passage?",
+    "choices": {
+      "A": "was doing things",
+      "B": "bustled with activity",
+      "C": "was pretty wild",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "“Bustled with activity” precisely conveys that the square was busy. The other choices are vague or too informal for an informational passage."
+  },
+  {
+    "id": "EN3-024",
+    "prompt": "The postcard passage states, “The <u>final outcome</u> was an exhibit containing twenty-four matched pairs of old and new images.” Which choice is the most concise without changing the meaning?",
+    "choices": {
+      "A": "last final outcome",
+      "B": "outcome",
+      "C": "outcome at the end",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "“Outcome” already means a final result, so “final” is redundant. The other alternatives repeat the same idea."
+  },
+  {
+    "id": "EN3-025",
+    "prompt": "A paragraph about the postcard exhibit contains these sentences:\n[1] Some postcards had no printed date. [2] Students searched old newspapers for advertisements showing the same stores and signs. [3] _____ [4] With this evidence, the students could place most of the undated postcards within a five-year period.\nWhich choice provides the most logical sentence for the blank?",
+    "choices": {
+      "A": "The library's newspaper room has six wooden tables.",
+      "B": "Postcards can be mailed with stamps purchased at a post office.",
+      "C": "They also compared clothing, vehicles, and construction projects visible in the images.",
+      "D": "Several students preferred color photographs to black-and-white ones."
+    },
+    "correct": "C",
+    "explanation": "This sentence adds another relevant method for estimating the postcards' dates and leads to the result in sentence 4. The other details do not explain how the students dated the images."
+  },
+  {
+    "id": "EN3-026",
+    "prompt": "In a passage about a historical postcard exhibit, the writer wants to support the claim that the town square's purpose changed over time. Which choice provides the most relevant supporting detail?",
+    "choices": {
+      "A": "Older images show produce carts filling the square, while recent photographs show outdoor concerts in the same space.",
+      "B": "Several postcards have handwritten messages on the back.",
+      "C": "The exhibit labels were printed on cream-colored paper.",
+      "D": "The library closes earlier on Sundays than on weekdays."
+    },
+    "correct": "A",
+    "explanation": "The contrasting uses of the same space directly demonstrate that the square's purpose changed. The other choices do not address how people used the square."
+  },
+  {
+    "id": "EN3-027",
+    "prompt": "A passage about a postcard exhibit first examines clues in several old images, then compares those images with present-day photographs, and finally describes visitors responding to the completed display. Which choice best explains why this organization is effective?",
+    "choices": {
+      "A": "It ranks the postcards from most valuable to least valuable.",
+      "B": "It moves from investigating the past to comparing past and present to sharing the results.",
+      "C": "It delays explaining the exhibit until readers have forgotten the postcards.",
+      "D": "It presents every event in the exact order that it occurred in town history."
+    },
+    "correct": "B",
+    "explanation": "The sequence follows the students' inquiry from research through comparison to public presentation. The other choices misdescribe the passage's purpose or order."
+  },
+  {
+    "id": "EN3-028",
+    "prompt": "In a passage about testing sound-absorbing materials, the writer states, “Leo clapped two wooden blocks together <u>and Amari timed the returning echo.</u>” Which choice correctly punctuates the two independent clauses?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", and Amari timed the returning echo.",
+      "C": "and, Amari timed the returning echo.",
+      "D": "; and Amari timed the returning echo."
+    },
+    "correct": "B",
+    "explanation": "A comma before the coordinating conjunction “and” correctly joins the two independent clauses. A semicolon should not be combined with “and” in this construction."
+  },
+  {
+    "id": "EN3-029",
+    "prompt": "The passage describes one test panel: “The layer of felt squares on the cardboard <u>reduce</u> the strength of the echo.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have reduced",
+      "C": "reduces",
+      "D": "are reducing"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “layer” requires the singular verb “reduces.” The plural noun “squares” is inside a prepositional phrase."
+  },
+  {
+    "id": "EN3-030",
+    "prompt": "The writer states, “Amari placed the foam panel beside the cork panel before <u>it</u> was tested.” The writer wants to make clear that the cork panel was tested. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "that object",
+      "C": "the foam panel",
+      "D": "the cork panel"
+    },
+    "correct": "D",
+    "explanation": "Replacing “it” with “the cork panel” clearly identifies what was tested. The original pronoun could refer to either panel."
+  },
+  {
+    "id": "EN3-031",
+    "prompt": "The passage describes a test conducted last Wednesday: “The group measured each echo three times and <u>records</u> the results in a chart.” Which choice best maintains consistent verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "will record",
+      "C": "recorded",
+      "D": "is recording"
+    },
+    "correct": "C",
+    "explanation": "“Recorded” matches the past-tense verb “measured” and the completed time marker “last Wednesday.” The other choices shift to present or future time."
+  },
+  {
+    "id": "EN3-032",
+    "prompt": "The writer describes Leo evaluating a sound test: “<u>Listening from the back of the room, the echo sounded weaker to Leo.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "Listening from the back of the room, Leo heard a weaker echo.",
+      "B": "Listening from the back of the room, the weaker echo reached Leo.",
+      "C": "The echo, listening from the back of the room, sounded weaker to Leo.",
+      "D": "Leo, the echo sounded weaker while listening from the back of the room."
+    },
+    "correct": "A",
+    "explanation": "Leo is the person listening, so his name must follow the introductory phrase. The original illogically suggests that the echo was listening."
+  },
+  {
+    "id": "EN3-033",
+    "prompt": "The passage compares two materials: “The foam panel was <u>light however, the thick curtain absorbed more sound.</u>” Which choice correctly joins the independent clauses?",
+    "choices": {
+      "A": "light, however, the thick curtain absorbed more sound.",
+      "B": "light; however, the thick curtain absorbed more sound.",
+      "C": "light however; the thick curtain absorbed more sound.",
+      "D": "light however the thick curtain absorbed more sound."
+    },
+    "correct": "B",
+    "explanation": "A semicolon separates the independent clauses, and a comma follows the conjunctive adverb “however.” A comma before “however” alone would create a comma splice."
+  },
+  {
+    "id": "EN3-034",
+    "prompt": "The passage describes the test space: “The <u>rooms echo</u> lasted longer before the curtains were hung.” Which choice correctly forms the singular possessive?",
+    "choices": {
+      "A": "rooms echo",
+      "B": "rooms' echo",
+      "C": "room's echo",
+      "D": "room echo's"
+    },
+    "correct": "C",
+    "explanation": "The echo belongs to one room, so the singular possessive “room's” is correct. “Rooms'” would refer to multiple rooms."
+  },
+  {
+    "id": "EN3-035",
+    "prompt": "The writer describes the effect of adding a felt panel: “After the panel was installed, the returning clap sounded <u>quieter in volume</u>.” Which choice is clearest and most concise?",
+    "choices": {
+      "A": "more quiet in its volume",
+      "B": "quieter",
+      "C": "quieter as measured in volume",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "“Quieter” already refers to lower sound volume, so the phrase “in volume” is unnecessary. The other alternatives are also wordy."
+  },
+  {
+    "id": "EN3-036",
+    "prompt": "The passage uses a clear, explanatory style. It states, “Soft, porous materials trap some of the energy carried by sound waves. <u>Basically, they tell echoes to chill out.</u>” Which choice best matches the passage's style?",
+    "choices": {
+      "A": "In other words, these materials reduce the amount of sound reflected into the room.",
+      "B": "They are like tiny superheroes battling noisy echoes.",
+      "C": "So, yeah, the sound does not bounce around as much.",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "This choice explains the effect precisely and maintains an informative tone. The other options are slangy or overly figurative."
+  },
+  {
+    "id": "EN3-037",
+    "prompt": "A passage about sound absorption begins, “One handclap in the empty music room produced an echo that seemed to hang in the air. After Leo hung a thick curtain along one wall, the same clap faded much sooner.” Which choice would most effectively introduce the passage's focus on comparing materials that reduce echoes?",
+    "choices": {
+      "A": "The music room contains a piano and several metal chairs.",
+      "B": "Leo and his classmates decided to measure how well several common materials absorbed sound.",
+      "C": "Curtains are sold in many lengths, colors, and patterns.",
+      "D": "A handclap is produced when two hands strike each other."
+    },
+    "correct": "B",
+    "explanation": "This sentence turns the opening observation into the investigation described in the passage. The other choices introduce side facts rather than the central focus."
+  },
+  {
+    "id": "EN3-038",
+    "prompt": "In a paragraph about testing sound-absorbing panels, the writer explains that students repeated each sound test three times. The writer wants to emphasize why repeating the test was useful. Which sentence would best accomplish this purpose?",
+    "choices": {
+      "A": "The students took turns holding the wooden blocks.",
+      "B": "Each panel was labeled with a different color.",
+      "C": "Three trials helped the students identify any unusual result and calculate a more dependable average.",
+      "D": "The test chart contained several straight lines."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly explains how repeated trials improved the reliability of the results. The other choices concern procedures or materials without explaining the value of repetition."
+  },
+  {
+    "id": "EN3-039",
+    "prompt": "A passage about sound absorption includes the following paragraph:\n[1] The uncovered wall produced the longest echo in the group's first test. [2] A thin sheet of paper made almost no difference. [3] _____ [4] These results suggested that thicker, softer materials absorbed more sound.\nWhich choice provides the most logical transition for sentence 3?",
+    "choices": {
+      "A": "For example, paper can be folded into many shapes.",
+      "B": "In contrast, the felt panel and heavy curtain shortened the echo noticeably.",
+      "C": "Meanwhile, the music teacher arranged chairs for rehearsal.",
+      "D": "Similarly, the group wrote each material's name on a label."
+    },
+    "correct": "B",
+    "explanation": "“In contrast” introduces results that differ from those for the uncovered wall and thin paper. The evidence also supports the conclusion in sentence 4."
+  },
+  {
+    "id": "EN3-040",
+    "prompt": "At the end of a passage about testing sound-absorbing materials, the writer explains that the music teacher used the results to choose curtains for a practice corner. Which concluding sentence best reinforces the passage's main idea without exaggerating the findings?",
+    "choices": {
+      "A": "The short investigation showed how measured comparisons could guide one practical improvement to the room.",
+      "B": "The tests proved that thick curtains can eliminate every unwanted sound.",
+      "C": "Clearly, all classrooms should cover every wall with felt.",
+      "D": "Music rooms may contain instruments from many different families."
+    },
+    "correct": "A",
+    "explanation": "This conclusion accurately states the limited investigation's practical value. The other choices exaggerate the findings or shift away from the main idea."
+  }
+]

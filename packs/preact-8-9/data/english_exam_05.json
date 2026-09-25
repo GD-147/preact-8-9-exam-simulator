@@ -1,0 +1,482 @@
+[
+  {
+    "id": "EN5-001",
+    "prompt": "In a passage about students building a mobile classroom library, Maya recalls the first work session: “After the final class <u>ended we wheeled an unused audiovisual cart into the library</u>.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "ended, we wheeled an unused audiovisual cart into the library",
+      "C": "ended; we wheeled an unused audiovisual cart into the library",
+      "D": "ended we wheeled, an unused audiovisual cart into the library"
+    },
+    "correct": "B",
+    "explanation": "A comma should follow the introductory dependent clause “After the final class ended.” A semicolon cannot separate that dependent clause from the main clause."
+  },
+  {
+    "id": "EN5-002",
+    "prompt": "The passage describes books waiting to be loaded: “A box of mysteries and graphic novels <u>rest</u> beside the cart.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have rested",
+      "C": "rests",
+      "D": "are resting"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “box” requires the singular verb “rests.” The plural book categories in the prepositional phrase do not control the verb."
+  },
+  {
+    "id": "EN5-003",
+    "prompt": "Maya explains why the team added a lower shelf: “<u>The cart needed a lower shelf because several picture books were too tall for the upper shelves.</u>” Which choice is a complete sentence that clearly expresses the cause-and-effect relationship?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The cart needing a lower shelf. Because several picture books were too tall.",
+      "C": "Because several picture books were too tall for the upper shelves.",
+      "D": "A lower shelf, several picture books being too tall for the upper shelves."
+    },
+    "correct": "A",
+    "explanation": "The original is a complete sentence that connects the needed change to its reason. Each other choice contains a fragment or lacks a complete main clause."
+  },
+  {
+    "id": "EN5-004",
+    "prompt": "The passage states, “When Maya handed Keira the label maker, <u>she</u> printed signs for each shelf.” The writer wants to make clear that Keira printed the signs. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "the student",
+      "C": "Maya",
+      "D": "Keira"
+    },
+    "correct": "D",
+    "explanation": "Naming Keira clearly identifies who printed the signs. The pronoun and the vague phrase “the student” could refer to either person."
+  },
+  {
+    "id": "EN5-005",
+    "prompt": "The passage introduces the team's starting material: “The cart <u>a retired audiovisual stand</u> had three metal shelves and four sturdy wheels.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", a retired audiovisual stand,",
+      "C": "; a retired audiovisual stand;",
+      "D": "a retired audiovisual stand,"
+    },
+    "correct": "B",
+    "explanation": "The appositive “a retired audiovisual stand” renames the cart and must be enclosed by commas. A semicolon cannot set off this phrase."
+  },
+  {
+    "id": "EN5-006",
+    "prompt": "Maya narrates work completed one afternoon: “Keira measured the shelves while I <u>sort</u> the donated books by reading level.” Which choice best maintains the sentence's verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "sorted",
+      "C": "will sort",
+      "D": "am sorting"
+    },
+    "correct": "B",
+    "explanation": "“Sorted” matches the past-tense verb “measured.” The present and future forms create an unnecessary tense shift."
+  },
+  {
+    "id": "EN5-007",
+    "prompt": "The passage describes the completed book cart: “<u>Loaded with novels and picture books, Maya pushed the cart toward the sixth-grade hallway.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "Loaded with novels and picture books, the sixth-grade hallway received the cart from Maya.",
+      "C": "Maya, loaded with novels and picture books, pushed the cart toward the sixth-grade hallway.",
+      "D": "Maya pushed the cart, which was loaded with novels and picture books, toward the sixth-grade hallway."
+    },
+    "correct": "D",
+    "explanation": "The revised sentence makes clear that the cart, not Maya, was loaded with books. The original places Maya directly after the modifier and changes the intended meaning."
+  },
+  {
+    "id": "EN5-008",
+    "prompt": "Maya describes the cart's new side pockets: “The pockets were <u>small in size and light in weight</u>, but each could hold twenty bookmarks.” Which choice is most concise while preserving the meaning?",
+    "choices": {
+      "A": "small and light",
+      "B": "small-sized and light-weighted",
+      "C": "small in their size and light",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Small and light” conveys both qualities without the unnecessary phrases “in size” and “in weight.” The other choices are wordier or awkward."
+  },
+  {
+    "id": "EN5-009",
+    "prompt": "In a passage with an upbeat, reflective tone, Maya describes the cart's first trip: “One wheel squeaked so loudly that students turned to look. <u>Our project was an embarrassing catastrophe.</u>” Which choice best matches the passage's tone?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The noisy wheel reminded us to add regular maintenance to our plan.",
+      "C": "The cart had betrayed us in the worst possible way.",
+      "D": "We just laughed because planning ahead was apparently pointless."
+    },
+    "correct": "B",
+    "explanation": "This choice treats the problem as a useful lesson and maintains the passage's constructive tone. The other options are exaggerated, dramatic, or dismissive."
+  },
+  {
+    "id": "EN5-010",
+    "prompt": "A passage about a mobile school library begins, “At the far end of the school stood a classroom nearly five minutes from the main library. Between classes, few students there had enough time to visit the shelves.” Which choice would most effectively introduce the passage's focus on bringing books closer to students?",
+    "choices": {
+      "A": "The main library has windows facing the courtyard.",
+      "B": "Our team decided to turn an unused rolling cart into a small library that could visit distant classrooms.",
+      "C": "Five minutes can feel different depending on how quickly a person walks.",
+      "D": "Many classrooms contain desks, chairs, and whiteboards."
+    },
+    "correct": "B",
+    "explanation": "This sentence presents the mobile cart as a direct response to the access problem. The other choices provide side facts rather than the passage's main focus."
+  },
+  {
+    "id": "EN5-011",
+    "prompt": "In a paragraph about preparing the book cart, Maya writes: “First, we cleaned the metal shelves and tightened the wheels. Next, we sorted donated books by reading level and topic. _____, we labeled each shelf and planned the cart's weekly route.” Which choice provides the most logical transition?",
+    "choices": {
+      "A": "However",
+      "B": "For example",
+      "C": "Finally",
+      "D": "On the contrary"
+    },
+    "correct": "C",
+    "explanation": "“Finally” completes the chronological sequence begun by “First” and “Next.” The other transitions signal contrast or an example."
+  },
+  {
+    "id": "EN5-012",
+    "prompt": "A paragraph explains that the team surveyed students, adjusted the mixture of book genres, and changed the cart's route based on requests. The writer is considering adding this sentence: “The auditorium seats are covered in dark blue fabric.” Should the writer add the sentence?",
+    "choices": {
+      "A": "Yes, because the auditorium and book cart are in the same school.",
+      "B": "Yes, because the sentence includes a specific visual detail.",
+      "C": "No, because the detail distracts from the paragraph's focus on responding to student feedback.",
+      "D": "No, because colors should not be mentioned in an informational passage."
+    },
+    "correct": "C",
+    "explanation": "The auditorium seats do not explain how the team responded to feedback. Sharing a school setting does not make the detail relevant."
+  },
+  {
+    "id": "EN5-013",
+    "prompt": "A paragraph about the mobile library contains these sentences:\n[1] During the first week, the top shelf held mostly long novels. [2] Younger students often passed the cart without choosing a book. [3] The team added short mysteries, comics, and illustrated nonfiction to the top shelf. [4] The following week, twice as many younger students borrowed books.\nThe writer wants to add this sentence: “Those students had found few quick or highly visual choices in the original selection.” Where should the sentence be placed?",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 2",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The phrase “Those students” refers directly to the younger students in sentence 2, and the sentence explains their behavior before sentence 3 presents a response. Other placements would weaken the reference or the cause-and-effect sequence."
+  },
+  {
+    "id": "EN5-014",
+    "prompt": "At the end of a passage about a mobile school library, Maya describes a student returning one book and immediately borrowing another. Which concluding sentence best emphasizes the project's success?",
+    "choices": {
+      "A": "The cart's bright wheels are visible from the end of the hallway.",
+      "B": "A single cart could not replace the library, but it had turned an inconvenient distance into a regular chance to discover a book.",
+      "C": "Some books are longer than others.",
+      "D": "The school hallway is busiest just before lunch."
+    },
+    "correct": "B",
+    "explanation": "This conclusion acknowledges the cart's limits while showing how it improved access to books. The other choices end with unrelated details."
+  },
+  {
+    "id": "EN5-015",
+    "prompt": "In a passage about students creating live music for a silent film, the writer describes their planning materials: “The two <u>composers notes</u> filled the margins of the printed scene list.” Which choice correctly forms the plural possessive?",
+    "choices": {
+      "A": "composers notes",
+      "B": "composer's notes",
+      "C": "composers' notes",
+      "D": "composers note's"
+    },
+    "correct": "C",
+    "explanation": "The notes belong to two composers, so the apostrophe follows the plural noun “composers.” “Composer's” would indicate one composer."
+  },
+  {
+    "id": "EN5-016",
+    "prompt": "The passage describes the students' preparation: “The musicians watched the film <u>twice the second viewing helped them mark every major action.</u>” Which choice best corrects the run-on sentence?",
+    "choices": {
+      "A": "twice, the second viewing helped them mark every major action.",
+      "B": "twice; the second viewing helped them mark every major action.",
+      "C": "twice the second viewing helped them, mark every major action.",
+      "D": "twice being how the second viewing helped them mark every major action."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly joins the two closely related independent clauses. A comma alone would create a comma splice."
+  },
+  {
+    "id": "EN5-017",
+    "prompt": "The writer lists the ensemble's tasks: “Their preparation included <u>timing each scene, choosing instruments, and to rehearse the musical cues</u>.” Which choice makes the list parallel?",
+    "choices": {
+      "A": "timing each scene, choosing instruments, and rehearsing the musical cues",
+      "B": "to time each scene, choosing instruments, and rehearsing the musical cues",
+      "C": "timing each scene, instruments were chosen, and rehearsing the musical cues",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "All three items use parallel gerund forms: “timing,” “choosing,” and “rehearsing.” The other choices mix grammatical structures."
+  },
+  {
+    "id": "EN5-018",
+    "prompt": "The passage introduces the ensemble's main instruments: “Four sounds formed the core of the score <u>piano, violin, hand drum, and woodblock.</u>” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": ", piano, violin, hand drum, and woodblock.",
+      "B": "; piano, violin, hand drum, and woodblock.",
+      "C": ": piano, violin, hand drum, and woodblock.",
+      "D": "piano, violin, hand drum, and woodblock."
+    },
+    "correct": "C",
+    "explanation": "A colon properly introduces the list after the complete clause. A comma or semicolon does not correctly introduce this list."
+  },
+  {
+    "id": "EN5-019",
+    "prompt": "The writer describes two percussionists: “Both percussionists placed <u>his or her</u> mallets beside the music stand.” Which choice makes the pronoun agree with its plural antecedent?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "their",
+      "C": "its",
+      "D": "your"
+    },
+    "correct": "B",
+    "explanation": "The plural pronoun “their” agrees with the plural antecedent “percussionists.” “His or her” is singular."
+  },
+  {
+    "id": "EN5-020",
+    "prompt": "The passage reports advice from the music teacher: “Mr. Bell recommended <u>to use</u> a soft drum roll during the storm scene.” Which choice uses the standard verb form?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "use",
+      "C": "having used",
+      "D": "using"
+    },
+    "correct": "D",
+    "explanation": "The standard construction is “recommended using.” “Recommended to use” is not the accepted form in this sentence."
+  },
+  {
+    "id": "EN5-021",
+    "prompt": "The passage describes a musical cue: “A rapid series of woodblock taps <u>mark</u> the moment when the character begins to run.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "marks",
+      "C": "have marked",
+      "D": "are marking"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “series” requires the singular verb “marks.” The plural noun “taps” is part of a prepositional phrase."
+  },
+  {
+    "id": "EN5-022",
+    "prompt": "The passage quotes the film-club adviser during rehearsal: “<u>Watch the actor's feet she said and begin the rhythm when he starts running.</u>” Which choice correctly punctuates the quotation and the interrupting dialogue tag?",
+    "choices": {
+      "A": "“Watch the actor's feet,” she said, “and begin the rhythm when he starts running.”",
+      "B": "“Watch the actor's feet” she said, “and begin the rhythm when he starts running.”",
+      "C": "“Watch the actor's feet,” she said “and begin the rhythm when he starts running.”",
+      "D": "“Watch the actor's feet” she said “and begin the rhythm when he starts running.”"
+    },
+    "correct": "A",
+    "explanation": "Commas set off the interrupting dialogue tag “she said.” The other choices omit one or both required commas."
+  },
+  {
+    "id": "EN5-023",
+    "prompt": "The writer describes music for a chase scene: “As the character ran faster, the violin's sound <u>grew in its level of intensity</u>.” Which choice is most precise and concise?",
+    "choices": {
+      "A": "intensified",
+      "B": "did a more intense sound",
+      "C": "made intensity happen",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Intensified” precisely and concisely describes the sound becoming stronger. The other choices are vague, awkward, or wordy."
+  },
+  {
+    "id": "EN5-024",
+    "prompt": "The silent-film passage states, “For the final rehearsal, the musicians <u>joined together</u> with the projection team.” Which choice is the most concise without changing the meaning?",
+    "choices": {
+      "A": "joined",
+      "B": "joined together collectively",
+      "C": "came and joined together",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Joined” already means came together, so the added word is redundant. The other alternatives repeat the same idea."
+  },
+  {
+    "id": "EN5-025",
+    "prompt": "A paragraph about scoring the silent film contains these sentences:\n[1] In one scene, a character quietly opens a door and discovers a crowded party. [2] The students first used soft piano music for the entire scene. [3] _____ [4] They revised the cue so that a bright violin chord sounded the instant the door opened.\nWhich choice provides the most logical sentence for the blank?",
+    "choices": {
+      "A": "The theater's piano had been tuned earlier that month.",
+      "B": "During rehearsal, however, the discovery felt less surprising because the music did not change.",
+      "C": "Some doors open inward, while others open outward.",
+      "D": "The violinist stored extra strings inside the instrument case."
+    },
+    "correct": "B",
+    "explanation": "This sentence identifies the problem with the original cue and leads directly to the revision in sentence 4. The other details do not explain the musical change."
+  },
+  {
+    "id": "EN5-026",
+    "prompt": "In a passage about a live score for a silent film, the writer wants to support the claim that music can change how viewers interpret a scene. Which choice provides the most relevant supporting detail?",
+    "choices": {
+      "A": "When the students paired the same image with gentle piano notes, viewers described it as peaceful; with low drumbeats, they called it threatening.",
+      "B": "The piano stood on the left side of the stage.",
+      "C": "The film lasted forty-two minutes.",
+      "D": "Several musicians wore black shirts during the performance."
+    },
+    "correct": "A",
+    "explanation": "The contrasting audience reactions directly show that different music changed the scene's perceived mood. The other details do not address interpretation."
+  },
+  {
+    "id": "EN5-027",
+    "prompt": "A passage about scoring a silent film first explains how students identified important moments, then follows them as they composed and revised cues, and finally describes the public performance. Which choice best explains why this organization is effective?",
+    "choices": {
+      "A": "It ranks the instruments from loudest to softest.",
+      "B": "It moves from analyzing the film through creating the score to presenting the finished work.",
+      "C": "It delays naming the film until after the performance.",
+      "D": "It compares the project with several unrelated concerts."
+    },
+    "correct": "B",
+    "explanation": "The sequence follows the project from analysis through creation to performance. The other choices misdescribe the passage's organization."
+  },
+  {
+    "id": "EN5-028",
+    "prompt": "In a passage about testing paper bridge designs, the writer states, “Lena folded a paper beam into a triangle <u>and Inez placed it between two blocks.</u>” Which choice correctly punctuates the two independent clauses?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", and Inez placed it between two blocks.",
+      "C": "and, Inez placed it between two blocks.",
+      "D": "; and Inez placed it between two blocks."
+    },
+    "correct": "B",
+    "explanation": "A comma before the coordinating conjunction “and” correctly joins the two independent clauses. A semicolon should not be combined with “and” in this construction."
+  },
+  {
+    "id": "EN5-029",
+    "prompt": "The passage describes one bridge: “The row of triangular supports beneath the deck <u>keep</u> the paper from bending.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have kept",
+      "C": "keeps",
+      "D": "are keeping"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “row” requires the singular verb “keeps.” The plural noun “supports” is inside a prepositional phrase."
+  },
+  {
+    "id": "EN5-030",
+    "prompt": "The writer states, “Inez placed the wax-paper bridge beside the cardstock bridge before <u>it</u> was tested.” The writer wants to make clear that the wax-paper bridge was tested. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "that object",
+      "C": "the wax-paper bridge",
+      "D": "the cardstock bridge"
+    },
+    "correct": "C",
+    "explanation": "Replacing “it” with “the wax-paper bridge” clearly identifies what was tested. The original pronoun could refer to either bridge."
+  },
+  {
+    "id": "EN5-031",
+    "prompt": "The passage describes a test completed last Thursday: “The team added metal washers one at a time and <u>records</u> the total when the bridge bent.” Which choice best maintains consistent verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "will record",
+      "C": "is recording",
+      "D": "recorded"
+    },
+    "correct": "D",
+    "explanation": "“Recorded” matches the past-tense verb “added” and the completed time marker “last Thursday.” The other choices shift to present or future time."
+  },
+  {
+    "id": "EN5-032",
+    "prompt": "The writer describes Lena watching a load test: “<u>Looking at the scale, the rising numbers excited Lena.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "Looking at the scale, Lena was excited by the rising numbers.",
+      "B": "Looking at the scale, the rising numbers were exciting.",
+      "C": "The rising numbers, looking at the scale, excited Lena.",
+      "D": "Lena, the numbers excited her while looking at the scale."
+    },
+    "correct": "A",
+    "explanation": "Lena is the person looking at the scale, so her name must follow the introductory phrase. The original illogically suggests that the numbers were looking."
+  },
+  {
+    "id": "EN5-033",
+    "prompt": "The passage contrasts two bridge designs: “The flat strip held <u>little weight however, the folded beam supported twelve washers.</u>” Which choice correctly joins the independent clauses?",
+    "choices": {
+      "A": "little weight, however, the folded beam supported twelve washers.",
+      "B": "little weight; however, the folded beam supported twelve washers.",
+      "C": "little weight however; the folded beam supported twelve washers.",
+      "D": "little weight however the folded beam supported twelve washers."
+    },
+    "correct": "B",
+    "explanation": "A semicolon separates the independent clauses, and a comma follows the conjunctive adverb “however.” A comma before “however” alone would create a comma splice."
+  },
+  {
+    "id": "EN5-034",
+    "prompt": "The passage describes where one bridge failed: “The <u>bridges center</u> sagged before either end moved.” Which choice correctly forms the singular possessive?",
+    "choices": {
+      "A": "bridges center",
+      "B": "bridges' center",
+      "C": "bridge's center",
+      "D": "bridge center's"
+    },
+    "correct": "C",
+    "explanation": "The center belongs to one bridge, so the singular possessive “bridge's” is correct. “Bridges'” would refer to multiple bridges."
+  },
+  {
+    "id": "EN5-035",
+    "prompt": "The writer compares two designs: “The triangular beam supported <u>a greater amount of weight</u> than the flat strip.” Which choice is clearest and most concise?",
+    "choices": {
+      "A": "a more greater amount of weight",
+      "B": "more weight",
+      "C": "weight in a greater amount",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "“More weight” states the comparison directly and concisely. The other choices are wordy or ungrammatical."
+  },
+  {
+    "id": "EN5-036",
+    "prompt": "The passage uses a clear, explanatory style. It states, “Folding the paper created angled surfaces that resisted bending. <u>Basically, the triangles made the paper way tougher.</u>” Which choice best matches the passage's style?",
+    "choices": {
+      "A": "The triangular folds therefore increased the beam's strength.",
+      "B": "The triangles gave the paper superhero-level power.",
+      "C": "So, yeah, the paper became really hard to bend.",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "This choice explains the result precisely and maintains an informative tone. The other options are slangy or overly figurative."
+  },
+  {
+    "id": "EN5-037",
+    "prompt": "A passage about paper bridges begins, “A flat strip of paper sagged under three metal washers. Folded into a triangular beam, an identical strip held four times as many.” Which choice would most effectively introduce the passage's focus on testing how shape affects strength?",
+    "choices": {
+      "A": "The students decided to compare several folds while keeping the paper size and test distance the same.",
+      "B": "Paper is produced in many colors and thicknesses.",
+      "C": "Metal washers are often used with bolts.",
+      "D": "The classroom tables had smooth black tops."
+    },
+    "correct": "A",
+    "explanation": "This sentence introduces the variable being tested and the conditions being controlled. The other choices offer side facts rather than the investigation's focus."
+  },
+  {
+    "id": "EN5-038",
+    "prompt": "In a paragraph about testing paper bridges, the writer explains that students tested each design three times. The writer wants to emphasize why repeated trials were useful. Which sentence would best accomplish this purpose?",
+    "choices": {
+      "A": "The washers were stored in a plastic cup between tests.",
+      "B": "Each bridge was made from white paper.",
+      "C": "Multiple trials helped the team spot unusual results and calculate a more dependable average load.",
+      "D": "The students wrote their names at the top of the data sheet."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly explains how repeated trials improved the reliability of the results. The other choices concern materials or recordkeeping rather than the purpose of repetition."
+  },
+  {
+    "id": "EN5-039",
+    "prompt": "A passage about paper bridges includes the following paragraph:\n[1] The flat strip bent after only three washers were added. [2] A strip folded into a shallow U-shape held seven. [3] _____ [4] The results showed that folds creating deeper sides provided greater resistance to bending.\nWhich choice provides the most logical transition for sentence 3?",
+    "choices": {
+      "A": "For example, paper can also be folded into animals and flowers.",
+      "B": "Meanwhile, the teacher collected notebooks from another class.",
+      "C": "In comparison, the triangular beam supported twelve washers before sagging.",
+      "D": "Similarly, all washers had a hole in the center."
+    },
+    "correct": "C",
+    "explanation": "“In comparison” introduces the strongest result in the design sequence and supports the conclusion about deeper folds. The other details are unrelated to structural performance."
+  },
+  {
+    "id": "EN5-040",
+    "prompt": "At the end of a passage about testing paper bridges, the writer explains that the class used its data to design a final bridge for a display. Which concluding sentence best reinforces the passage's main idea without exaggerating the findings?",
+    "choices": {
+      "A": "The trial showed that a simple change in shape could strengthen one material under the conditions the class tested.",
+      "B": "The project proved that paper bridges are stronger than all bridges made from other materials.",
+      "C": "Clearly, triangular beams can never bend or fail.",
+      "D": "Paper is also useful for drawing, printing, and wrapping objects."
+    },
+    "correct": "A",
+    "explanation": "This conclusion accurately summarizes the investigation while limiting the claim to the tested conditions. The other choices exaggerate or shift away from the main idea."
+  }
+]

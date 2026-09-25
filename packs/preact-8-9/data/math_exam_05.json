@@ -1,0 +1,457 @@
+[
+  {
+    "id": "M5-001",
+    "prompt": "What is the value of |−12| ÷ 3 + 2?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "10",
+      "E": "14"
+    },
+    "correct": "C",
+    "explanation": "|−12| = 12. Then 12 ÷ 3 + 2 = 4 + 2 = 6."
+  },
+  {
+    "id": "M5-002",
+    "prompt": "What value of x satisfies 8 − 2x = −10?",
+    "choices": {
+      "A": "−9",
+      "B": "−1",
+      "C": "1",
+      "D": "9",
+      "E": "18"
+    },
+    "correct": "D",
+    "explanation": "Subtract 8 from both sides to get −2x = −18, and then divide by −2 to get x = 9."
+  },
+  {
+    "id": "M5-003",
+    "prompt": "Three interior angles of a quadrilateral measure 85°, 95°, and 110°. What is the measure of the fourth interior angle?",
+    "choices": {
+      "A": "60°",
+      "B": "70°",
+      "C": "80°",
+      "D": "90°",
+      "E": "110°"
+    },
+    "correct": "B",
+    "explanation": "The interior angles of a quadrilateral sum to 360°. The fourth angle is 360° − 85° − 95° − 110° = 70°."
+  },
+  {
+    "id": "M5-004",
+    "prompt": "An elevator is 120 meters above the ground when it begins descending at a constant rate. Its height is shown in the table.\n\nt (seconds) | 0 | 3 | 6 | 9\nh (meters)  | 120 | 105 | 90 | 75\n\nWhich equation gives the elevator's height h after t seconds?",
+    "choices": {
+      "A": "h = 120 − 5t",
+      "B": "h = 120 − 15t",
+      "C": "h = 120 + 5t",
+      "D": "h = 40 − 5t",
+      "E": "h = 5t"
+    },
+    "correct": "A",
+    "explanation": "The elevator begins at 120 meters and descends 15 meters every 3 seconds, a rate of −5 meters per second. Therefore, h = 120 − 5t."
+  },
+  {
+    "id": "M5-005",
+    "prompt": "What is the range of the data set 4, 9, 11, 11, 18?",
+    "choices": {
+      "A": "7",
+      "B": "9",
+      "C": "11",
+      "D": "14",
+      "E": "18"
+    },
+    "correct": "D",
+    "explanation": "The range is the greatest value minus the least value: 18 − 4 = 14."
+  },
+  {
+    "id": "M5-006",
+    "prompt": "What is (4.5 × 10⁻³)(2 × 10⁴) written in scientific notation?",
+    "choices": {
+      "A": "9 × 10⁻⁷",
+      "B": "9 × 10⁻¹",
+      "C": "9 × 10¹",
+      "D": "9 × 10⁷",
+      "E": "90 × 10¹"
+    },
+    "correct": "C",
+    "explanation": "Multiply the coefficients and add the exponents: 4.5 × 2 = 9 and 10⁻³ × 10⁴ = 10¹. Therefore, the product is 9 × 10¹."
+  },
+  {
+    "id": "M5-007",
+    "prompt": "An online store discounts a $120 item by 15% and then adds an $8 shipping charge. What is the final cost before tax?",
+    "choices": {
+      "A": "$94",
+      "B": "$102",
+      "C": "$110",
+      "D": "$112",
+      "E": "$128"
+    },
+    "correct": "C",
+    "explanation": "The discounted price is $120 × 0.85 = $102. Adding $8 shipping gives $102 + $8 = $110."
+  },
+  {
+    "id": "M5-008",
+    "prompt": "A tailor uses 7 meters of fabric to make 4 identical costumes. At the same rate, how many meters of fabric are needed to make 10 costumes?",
+    "choices": {
+      "A": "13 meters",
+      "B": "14 meters",
+      "C": "17 meters",
+      "D": "17.5 meters",
+      "E": "28 meters"
+    },
+    "correct": "D",
+    "explanation": "The fabric rate is 7 ÷ 4 = 1.75 meters per costume. For 10 costumes, 10 × 1.75 = 17.5 meters."
+  },
+  {
+    "id": "M5-009",
+    "prompt": "A parallelogram has a base of 11 centimeters and a perpendicular height of 6 centimeters. What is its area?",
+    "choices": {
+      "A": "17 square centimeters",
+      "B": "33 square centimeters",
+      "C": "66 square centimeters",
+      "D": "72 square centimeters",
+      "E": "121 square centimeters"
+    },
+    "correct": "C",
+    "explanation": "A parallelogram's area is base × perpendicular height, so the area is 11 × 6 = 66 square centimeters."
+  },
+  {
+    "id": "M5-010",
+    "prompt": "One letter is selected at random from the 7 letters in the word ALGEBRA. What is the probability that the selected letter is A?",
+    "choices": {
+      "A": "1/7",
+      "B": "2/7",
+      "C": "1/3",
+      "D": "2/5",
+      "E": "1/2"
+    },
+    "correct": "B",
+    "explanation": "The word ALGEBRA has 7 letters, and 2 of them are A. The probability is 2/7."
+  },
+  {
+    "id": "M5-011",
+    "prompt": "What is the value of ∛216 + √49?",
+    "choices": {
+      "A": "11",
+      "B": "12",
+      "C": "13",
+      "D": "14",
+      "E": "19"
+    },
+    "correct": "C",
+    "explanation": "∛216 = 6 and √49 = 7, so ∛216 + √49 = 6 + 7 = 13."
+  },
+  {
+    "id": "M5-012",
+    "prompt": "The first three terms of an arithmetic sequence are −4, 2, and 8. What is the twelfth term?",
+    "choices": {
+      "A": "56",
+      "B": "60",
+      "C": "62",
+      "D": "66",
+      "E": "68"
+    },
+    "correct": "C",
+    "explanation": "The common difference is 6. There are 11 increases from the first term to the twelfth, so the twelfth term is −4 + 11 × 6 = 62."
+  },
+  {
+    "id": "M5-013",
+    "prompt": "An auditorium has 180 seats. Twenty-four seats are reserved for staff, and each visiting student group has 13 students. What is the greatest number of complete student groups that can be seated?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "14"
+    },
+    "correct": "C",
+    "explanation": "After reserving 24 seats, 180 − 24 = 156 seats remain. Since 156 ÷ 13 = 12, at most 12 complete groups can be seated."
+  },
+  {
+    "id": "M5-014",
+    "prompt": "Point V has coordinates (−3, 4). A dilation centered at the origin with scale factor 2 is applied to V. What are the coordinates of the image of V?",
+    "choices": {
+      "A": "(−6, 8)",
+      "B": "(−5, 6)",
+      "C": "(−1.5, 2)",
+      "D": "(3, −4)",
+      "E": "(6, −8)"
+    },
+    "correct": "A",
+    "explanation": "A dilation centered at the origin with scale factor 2 multiplies both coordinates by 2, so (−3, 4) maps to (−6, 8)."
+  },
+  {
+    "id": "M5-015",
+    "prompt": "The table shows whether 100 students buy lunch at school.\n\n          | Buys lunch | Does not buy lunch | Total\nGrade 8   | 35         | 15                 | 50\nGrade 9   | 30         | 20                 | 50\nTotal     | 65         | 35                 | 100\n\nOne student is selected at random from the students who buy lunch. What is the probability that the selected student is in Grade 8?",
+    "choices": {
+      "A": "7/20",
+      "B": "6/13",
+      "C": "7/13",
+      "D": "13/20",
+      "E": "7/10"
+    },
+    "correct": "C",
+    "explanation": "Of the 65 students who buy lunch, 35 are in Grade 8. The probability is 35/65 = 7/13."
+  },
+  {
+    "id": "M5-016",
+    "prompt": "A machine processes 450 grams of material in 3 minutes at a constant rate. How many kilograms of material does it process in 20 minutes?",
+    "choices": {
+      "A": "0.3 kilograms",
+      "B": "1.5 kilograms",
+      "C": "3 kilograms",
+      "D": "9 kilograms",
+      "E": "30 kilograms"
+    },
+    "correct": "C",
+    "explanation": "The machine processes 450 ÷ 3 = 150 grams per minute. In 20 minutes it processes 150 × 20 = 3,000 grams, or 3 kilograms."
+  },
+  {
+    "id": "M5-017",
+    "prompt": "A movie theater sells 28 tickets consisting only of adult and child tickets. Adult tickets cost $9, child tickets cost $6, and the total revenue is $225. How many adult tickets are sold?",
+    "choices": {
+      "A": "9",
+      "B": "13",
+      "C": "15",
+      "D": "19",
+      "E": "21"
+    },
+    "correct": "D",
+    "explanation": "Let a be adult tickets and c be child tickets. Then a + c = 28 and 9a + 6c = 225. Substituting c = 28 − a gives 3a + 168 = 225, so a = 19."
+  },
+  {
+    "id": "M5-018",
+    "prompt": "A bicycle costs $800 when new and loses 25% of its value each year. If this pattern continues, what is the bicycle's value after 2 years?",
+    "choices": {
+      "A": "$400",
+      "B": "$450",
+      "C": "$500",
+      "D": "$550",
+      "E": "$600"
+    },
+    "correct": "B",
+    "explanation": "Losing 25% leaves 75% of the value each year. After 2 years, the value is $800 × 0.75² = $800 × 0.5625 = $450."
+  },
+  {
+    "id": "M5-019",
+    "prompt": "A cylindrical label covers only the curved side of a can with radius 4 centimeters and height 10 centimeters. What is the area of the label?",
+    "choices": {
+      "A": "40π square centimeters",
+      "B": "56π square centimeters",
+      "C": "80π square centimeters",
+      "D": "100π square centimeters",
+      "E": "160π square centimeters"
+    },
+    "correct": "C",
+    "explanation": "The curved side area of a cylinder is 2πrh. With r = 4 and h = 10, the area is 2 × π × 4 × 10 = 80π square centimeters."
+  },
+  {
+    "id": "M5-020",
+    "prompt": "The table shows the number of books read by 10 students during one month.\n\nBooks read | 0 | 1 | 2 | 3\nStudents   | 2 | 4 | 3 | 1\n\nWhat is the mean number of books read per student?",
+    "choices": {
+      "A": "1.0",
+      "B": "1.2",
+      "C": "1.3",
+      "D": "1.5",
+      "E": "2.0"
+    },
+    "correct": "C",
+    "explanation": "The total books read is 0(2) + 1(4) + 2(3) + 3(1) = 13. Dividing by 10 students gives a mean of 13/10 = 1.3."
+  },
+  {
+    "id": "M5-021",
+    "prompt": "What is the value of (4³)(4⁻¹)?",
+    "choices": {
+      "A": "1/16",
+      "B": "4",
+      "C": "8",
+      "D": "16",
+      "E": "64"
+    },
+    "correct": "D",
+    "explanation": "Multiply powers with the same base by adding exponents: (4³)(4⁻¹) = 4² = 16."
+  },
+  {
+    "id": "M5-022",
+    "prompt": "The equation x² − 2x − 24 = 0 has two solutions. What is the greater solution?",
+    "choices": {
+      "A": "−6",
+      "B": "−4",
+      "C": "4",
+      "D": "6",
+      "E": "24"
+    },
+    "correct": "D",
+    "explanation": "Factoring gives x² − 2x − 24 = (x − 6)(x + 4), so the solutions are 6 and −4. The greater solution is 6."
+  },
+  {
+    "id": "M5-023",
+    "prompt": "The distance D, in kilometers, remaining on a trip after t hours is modeled by D(t) = 150 − 12t. After how many hours will 78 kilometers remain?",
+    "choices": {
+      "A": "4 hours",
+      "B": "5 hours",
+      "C": "6 hours",
+      "D": "7 hours",
+      "E": "8 hours"
+    },
+    "correct": "C",
+    "explanation": "Set 150 − 12t = 78. Then −12t = −72, so t = 6 hours."
+  },
+  {
+    "id": "M5-024",
+    "prompt": "At the same time of day, a 1.5-meter post casts a 2-meter shadow and a tree casts a 14-meter shadow. Assuming the post and tree are vertical, how tall is the tree?",
+    "choices": {
+      "A": "9.3 meters",
+      "B": "10.5 meters",
+      "C": "12 meters",
+      "D": "15.5 meters",
+      "E": "21 meters"
+    },
+    "correct": "B",
+    "explanation": "The post and tree form similar triangles with their shadows. The height-to-shadow ratio is 1.5/2, so the tree's height is 14 × (1.5/2) = 10.5 meters."
+  },
+  {
+    "id": "M5-025",
+    "prompt": "Service A charges C = 12 + 3.5h dollars for h hours. Service B charges a starting fee plus a constant hourly amount, as shown in the table.\n\nh (hours) | 0 | 2 | 4\nService B cost (dollars) | 20 | 26 | 32\n\nFor 8 hours, how does the cost of Service A compare with the cost of Service B?",
+    "choices": {
+      "A": "Service A costs $4 less.",
+      "B": "Service A costs $4 more.",
+      "C": "Service A costs $8 less.",
+      "D": "Service A costs $8 more.",
+      "E": "The two services cost the same amount."
+    },
+    "correct": "A",
+    "explanation": "For 8 hours, Service A costs 12 + 3.5(8) = $40. Service B has a rate of $3 per hour and a starting fee of $20, so it costs 20 + 3(8) = $44. Service A costs $4 less."
+  },
+  {
+    "id": "M5-026",
+    "prompt": "A rectangular photograph is 8 inches wide and 10 inches long. Both dimensions are increased by 25%. What is the perimeter of the enlarged photograph?",
+    "choices": {
+      "A": "36 inches",
+      "B": "40 inches",
+      "C": "45 inches",
+      "D": "50 inches",
+      "E": "56.25 inches"
+    },
+    "correct": "C",
+    "explanation": "Increasing both dimensions by 25% gives dimensions 8 × 1.25 = 10 inches and 10 × 1.25 = 12.5 inches. The perimeter is 2(10 + 12.5) = 45 inches."
+  },
+  {
+    "id": "M5-027",
+    "prompt": "What value of x satisfies 2(3x − 4) + 5 = 4x + 15?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "9",
+      "E": "11"
+    },
+    "correct": "D",
+    "explanation": "Expanding gives 6x − 8 + 5 = 4x + 15. Thus, 6x − 3 = 4x + 15, so 2x = 18 and x = 9."
+  },
+  {
+    "id": "M5-028",
+    "prompt": "Which of the following numbers is irrational?",
+    "choices": {
+      "A": "∛64",
+      "B": "√121",
+      "C": "−7/8",
+      "D": "0.333…",
+      "E": "√45"
+    },
+    "correct": "E",
+    "explanation": "∛64 = 4, √121 = 11, −7/8 is a ratio of integers, and 0.333… is a repeating decimal, so those four numbers are rational. Since 45 is not a perfect square, √45 is irrational."
+  },
+  {
+    "id": "M5-029",
+    "prompt": "What is the distance between the points (1, −2) and (7, 6) in the coordinate plane?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14",
+      "E": "100"
+    },
+    "correct": "B",
+    "explanation": "The horizontal change is 7 − 1 = 6, and the vertical change is 6 − (−2) = 8. The distance is √(6² + 8²) = √100 = 10."
+  },
+  {
+    "id": "M5-030",
+    "prompt": "A linear function f satisfies f(−2) = 10 and f(4) = −2. What is f(1)?",
+    "choices": {
+      "A": "−4",
+      "B": "0",
+      "C": "2",
+      "D": "4",
+      "E": "6"
+    },
+    "correct": "D",
+    "explanation": "The slope is (−2 − 10)/(4 − (−2)) = −12/6 = −2. The function is f(x) = −2x + 6, so f(1) = 4."
+  },
+  {
+    "id": "M5-031",
+    "prompt": "Two fair number cubes, each with faces numbered 1 through 6, are rolled. What is the probability that the sum of the two results is 7?",
+    "choices": {
+      "A": "1/12",
+      "B": "1/6",
+      "C": "1/4",
+      "D": "1/3",
+      "E": "7/12"
+    },
+    "correct": "B",
+    "explanation": "There are 36 equally likely ordered outcomes. The 6 outcomes with sum 7 are (1, 6), (2, 5), (3, 4), (4, 3), (5, 2), and (6, 1), so the probability is 6/36 = 1/6."
+  },
+  {
+    "id": "M5-032",
+    "prompt": "A rectangular sandbox is 2.4 meters long and 1.5 meters wide. It is filled with sand to a uniform depth of 0.25 meter. Each delivery contains 0.15 cubic meter of sand. What is the least number of deliveries needed to fill the sandbox?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8",
+      "E": "9"
+    },
+    "correct": "C",
+    "explanation": "The sandbox volume is 2.4 × 1.5 × 0.25 = 0.9 cubic meter. Each delivery contains 0.15 cubic meter, so 0.9 ÷ 0.15 = 6 deliveries are needed."
+  },
+  {
+    "id": "M5-033",
+    "prompt": "Rental Plan A costs $28 plus $6 per hour. Rental Plan B costs $52 plus $3 per hour. For how many hours do the two plans cost the same amount?",
+    "choices": {
+      "A": "4 hours",
+      "B": "6 hours",
+      "C": "8 hours",
+      "D": "10 hours",
+      "E": "12 hours"
+    },
+    "correct": "C",
+    "explanation": "Set the plan costs equal: 28 + 6h = 52 + 3h. Then 3h = 24, so h = 8 hours."
+  },
+  {
+    "id": "M5-034",
+    "prompt": "A rectangular sheet of cardboard measures 18 centimeters by 14 centimeters. Squares with side length 2 centimeters are cut from all four corners, and the remaining cardboard is folded to form an open box. What is the volume of the box?",
+    "choices": {
+      "A": "140 cubic centimeters",
+      "B": "196 cubic centimeters",
+      "C": "252 cubic centimeters",
+      "D": "280 cubic centimeters",
+      "E": "504 cubic centimeters"
+    },
+    "correct": "D",
+    "explanation": "After the corner squares are removed, the box base is (18 − 4) by (14 − 4), or 14 centimeters by 10 centimeters, and its height is 2 centimeters. The volume is 14 × 10 × 2 = 280 cubic centimeters."
+  },
+  {
+    "id": "M5-035",
+    "prompt": "The mean of 6 daily measurements is 14. One measurement, 20, is removed. What is the mean of the remaining 5 measurements?",
+    "choices": {
+      "A": "10.8",
+      "B": "12.0",
+      "C": "12.8",
+      "D": "13.2",
+      "E": "16.8"
+    },
+    "correct": "C",
+    "explanation": "The total of the 6 measurements is 6 × 14 = 84. Removing 20 leaves 64, and 64 ÷ 5 = 12.8."
+  }
+]

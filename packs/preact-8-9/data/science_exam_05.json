@@ -1,0 +1,362 @@
+[
+  {
+    "id": "S5-001",
+    "prompt": "Ecologists studied equal-area plots in one forest. For each plot, they measured the percentage of sky blocked by leaves, called canopy cover, the soil moisture, and the number of fern plants. The table gives mean values for groups of plots with similar canopy cover.\n\nCanopy cover (%) | Soil moisture (%) | Mean ferns per plot\n10               | 11                | 4\n30               | 15                | 11\n50               | 20                | 22\n70               | 24                | 30\n90               | 27                | 26\n\nQuestion:\nWhat was the mean number of ferns in plots with 70% canopy cover?",
+    "choices": {
+      "A": "11",
+      "B": "22",
+      "C": "26",
+      "D": "30"
+    },
+    "correct": "D",
+    "explanation": "Plots with 70% canopy cover had a mean of 30 ferns."
+  },
+  {
+    "id": "S5-002",
+    "prompt": "Ecologists studied equal-area plots in one forest. For each plot, they measured the percentage of sky blocked by leaves, called canopy cover, the soil moisture, and the number of fern plants. The table gives mean values for groups of plots with similar canopy cover.\n\nCanopy cover (%) | Soil moisture (%) | Mean ferns per plot\n10               | 11                | 4\n30               | 15                | 11\n50               | 20                | 22\n70               | 24                | 30\n90               | 27                | 26\n\nQuestion:\nHow many percentage points greater was soil moisture at 90% canopy cover than at 10% canopy cover?",
+    "choices": {
+      "A": "10 percentage points",
+      "B": "16 percentage points",
+      "C": "27 percentage points",
+      "D": "38 percentage points"
+    },
+    "correct": "B",
+    "explanation": "Soil moisture was 27% at 90% canopy cover and 11% at 10% canopy cover, a difference of 16 percentage points."
+  },
+  {
+    "id": "S5-003",
+    "prompt": "Ecologists studied equal-area plots in one forest. For each plot, they measured the percentage of sky blocked by leaves, called canopy cover, the soil moisture, and the number of fern plants. The table gives mean values for groups of plots with similar canopy cover.\n\nCanopy cover (%) | Soil moisture (%) | Mean ferns per plot\n10               | 11                | 4\n30               | 15                | 11\n50               | 20                | 22\n70               | 24                | 30\n90               | 27                | 26\n\nQuestion:\nIf fern abundance changed linearly between 50% and 70% canopy cover, what mean number of ferns would be estimated at 60% canopy cover?",
+    "choices": {
+      "A": "24",
+      "B": "26",
+      "C": "28",
+      "D": "52"
+    },
+    "correct": "B",
+    "explanation": "A canopy cover of 60% is halfway between 50% and 70%, so the estimate is halfway between 22 and 30 ferns, or 26."
+  },
+  {
+    "id": "S5-004",
+    "prompt": "Ecologists studied equal-area plots in one forest. For each plot, they measured the percentage of sky blocked by leaves, called canopy cover, the soil moisture, and the number of fern plants. The table gives mean values for groups of plots with similar canopy cover.\n\nCanopy cover (%) | Soil moisture (%) | Mean ferns per plot\n10               | 11                | 4\n30               | 15                | 11\n50               | 20                | 22\n70               | 24                | 30\n90               | 27                | 26\n\nQuestion:\nWhich investigation would best test the effect of canopy shade on fern growth while controlling water availability?",
+    "choices": {
+      "A": "Grow identical ferns with equal water and soil under several controlled shade levels.",
+      "B": "Grow different plant species in different soils and give each a different amount of water.",
+      "C": "Count trees in several forests without measuring shade or ferns.",
+      "D": "Compare ferns at one shade level while changing both water and soil type."
+    },
+    "correct": "A",
+    "explanation": "Holding water and soil constant while changing shade isolates shade as the tested factor."
+  },
+  {
+    "id": "S5-005",
+    "prompt": "Ecologists studied equal-area plots in one forest. For each plot, they measured the percentage of sky blocked by leaves, called canopy cover, the soil moisture, and the number of fern plants. The table gives mean values for groups of plots with similar canopy cover.\n\nCanopy cover (%) | Soil moisture (%) | Mean ferns per plot\n10               | 11                | 4\n30               | 15                | 11\n50               | 20                | 22\n70               | 24                | 30\n90               | 27                | 26\n\nQuestion:\nWhich conclusion is supported across the measured plots?",
+    "choices": {
+      "A": "Soil moisture increased throughout the canopy range, while fern abundance peaked at 70% canopy cover.",
+      "B": "Both soil moisture and fern abundance were lowest at 70% canopy cover.",
+      "C": "Fern abundance increased at every step through 90% canopy cover.",
+      "D": "Canopy cover had no association with either measured variable."
+    },
+    "correct": "A",
+    "explanation": "Moisture rose from 11% to 27%, while fern abundance rose to 30 at 70% canopy cover and then fell to 26 at 90%."
+  },
+  {
+    "id": "S5-006",
+    "prompt": "Students dropped the same rubber ball onto the same hard floor and measured its maximum rebound height. The ball was released without being pushed. Each result is the mean of 6 trials.\n\nExperiment 1: Ball temperature was held at 20°C while drop height was changed.\nDrop height (cm) | Mean rebound height (cm)\n50               | 31\n100              | 61\n150              | 88\n200              | 112\n\nExperiment 2: Drop height was held at 100 cm while ball temperature was changed. Before each trial, the ball was kept at the listed temperature long enough to reach that temperature.\nBall temperature (°C) | Mean rebound height (cm)\n5                     | 46\n20                    | 61\n35                    | 70\n50                    | 67\n\nQuestion:\nIn Experiment 1, how much greater was the mean rebound height from a 200 cm drop than from a 50 cm drop?",
+    "choices": {
+      "A": "62 cm",
+      "B": "81 cm",
+      "C": "112 cm",
+      "D": "143 cm"
+    },
+    "correct": "B",
+    "explanation": "Mean rebound height increased from 31 cm to 112 cm, a difference of 81 cm."
+  },
+  {
+    "id": "S5-007",
+    "prompt": "Students dropped the same rubber ball onto the same hard floor and measured its maximum rebound height. The ball was released without being pushed. Each result is the mean of 6 trials.\n\nExperiment 1: Ball temperature was held at 20°C while drop height was changed.\nDrop height (cm) | Mean rebound height (cm)\n50               | 31\n100              | 61\n150              | 88\n200              | 112\n\nExperiment 2: Drop height was held at 100 cm while ball temperature was changed. Before each trial, the ball was kept at the listed temperature long enough to reach that temperature.\nBall temperature (°C) | Mean rebound height (cm)\n5                     | 46\n20                    | 61\n35                    | 70\n50                    | 67\n\nQuestion:\nWhat mean rebound height was measured for a ball temperature of 35°C?",
+    "choices": {
+      "A": "46 cm",
+      "B": "61 cm",
+      "C": "67 cm",
+      "D": "70 cm"
+    },
+    "correct": "D",
+    "explanation": "Experiment 2 lists a mean rebound height of 70 cm at 35°C."
+  },
+  {
+    "id": "S5-008",
+    "prompt": "Students dropped the same rubber ball onto the same hard floor and measured its maximum rebound height. The ball was released without being pushed. Each result is the mean of 6 trials.\n\nExperiment 1: Ball temperature was held at 20°C while drop height was changed.\nDrop height (cm) | Mean rebound height (cm)\n50               | 31\n100              | 61\n150              | 88\n200              | 112\n\nExperiment 2: Drop height was held at 100 cm while ball temperature was changed. Before each trial, the ball was kept at the listed temperature long enough to reach that temperature.\nBall temperature (°C) | Mean rebound height (cm)\n5                     | 46\n20                    | 61\n35                    | 70\n50                    | 67\n\nQuestion:\nWhich factor was intentionally varied in Experiment 2?",
+    "choices": {
+      "A": "Ball temperature",
+      "B": "Drop height",
+      "C": "Floor material",
+      "D": "Rebound height"
+    },
+    "correct": "A",
+    "explanation": "Experiment 2 changed ball temperature while keeping drop height at 100 cm."
+  },
+  {
+    "id": "S5-009",
+    "prompt": "Students dropped the same rubber ball onto the same hard floor and measured its maximum rebound height. The ball was released without being pushed. Each result is the mean of 6 trials.\n\nExperiment 1: Ball temperature was held at 20°C while drop height was changed.\nDrop height (cm) | Mean rebound height (cm)\n50               | 31\n100              | 61\n150              | 88\n200              | 112\n\nExperiment 2: Drop height was held at 100 cm while ball temperature was changed. Before each trial, the ball was kept at the listed temperature long enough to reach that temperature.\nBall temperature (°C) | Mean rebound height (cm)\n5                     | 46\n20                    | 61\n35                    | 70\n50                    | 67\n\nQuestion:\nWhy did the students use the same hard floor for every drop?",
+    "choices": {
+      "A": "To keep differences in the collision surface from affecting rebound comparisons",
+      "B": "To make floor material the measured response",
+      "C": "To ensure rebound height always equaled drop height",
+      "D": "To cause ball temperature to change during each bounce"
+    },
+    "correct": "A",
+    "explanation": "A constant floor surface helps isolate drop height or ball temperature as the tested factor."
+  },
+  {
+    "id": "S5-010",
+    "prompt": "Students dropped the same rubber ball onto the same hard floor and measured its maximum rebound height. The ball was released without being pushed. Each result is the mean of 6 trials.\n\nExperiment 1: Ball temperature was held at 20°C while drop height was changed.\nDrop height (cm) | Mean rebound height (cm)\n50               | 31\n100              | 61\n150              | 88\n200              | 112\n\nExperiment 2: Drop height was held at 100 cm while ball temperature was changed. Before each trial, the ball was kept at the listed temperature long enough to reach that temperature.\nBall temperature (°C) | Mean rebound height (cm)\n5                     | 46\n20                    | 61\n35                    | 70\n50                    | 67\n\nQuestion:\nWhich statement best describes the Experiment 2 results?",
+    "choices": {
+      "A": "Rebound height increased from 5°C to 35°C, then decreased slightly at 50°C.",
+      "B": "Rebound height decreased at every higher temperature.",
+      "C": "Temperature had no relationship to rebound height because all values were equal.",
+      "D": "The greatest rebound height occurred at 5°C."
+    },
+    "correct": "A",
+    "explanation": "The mean rose from 46 cm to 70 cm between 5°C and 35°C, then fell to 67 cm at 50°C."
+  },
+  {
+    "id": "S5-011",
+    "prompt": "An ocean buoy recorded wind speed and wave height during a coastal storm. Time 0 was when the storm began at the buoy.\n\nHours after storm began | Wind speed (m/s) | Mean wave height (m)\n0                       | 3                | 0.4\n2                       | 8                | 0.7\n4                       | 13               | 1.3\n6                       | 15               | 2.2\n8                       | 10               | 1.9\n\nQuestion:\nWhen was the greatest wind speed recorded?",
+    "choices": {
+      "A": "At 0 hours",
+      "B": "At 2 hours",
+      "C": "At 6 hours",
+      "D": "At 8 hours"
+    },
+    "correct": "C",
+    "explanation": "The greatest wind speed, 15 m/s, was recorded 6 hours after the storm began."
+  },
+  {
+    "id": "S5-012",
+    "prompt": "An ocean buoy recorded wind speed and wave height during a coastal storm. Time 0 was when the storm began at the buoy.\n\nHours after storm began | Wind speed (m/s) | Mean wave height (m)\n0                       | 3                | 0.4\n2                       | 8                | 0.7\n4                       | 13               | 1.3\n6                       | 15               | 2.2\n8                       | 10               | 1.9\n\nQuestion:\nBy how much did mean wave height increase from 0 hours to 6 hours?",
+    "choices": {
+      "A": "1.3 m",
+      "B": "1.8 m",
+      "C": "2.2 m",
+      "D": "2.6 m"
+    },
+    "correct": "B",
+    "explanation": "Mean wave height increased from 0.4 m to 2.2 m, a difference of 1.8 m."
+  },
+  {
+    "id": "S5-013",
+    "prompt": "An ocean buoy recorded wind speed and wave height during a coastal storm. Time 0 was when the storm began at the buoy.\n\nHours after storm began | Wind speed (m/s) | Mean wave height (m)\n0                       | 3                | 0.4\n2                       | 8                | 0.7\n4                       | 13               | 1.3\n6                       | 15               | 2.2\n8                       | 10               | 1.9\n\nQuestion:\nAssuming a linear change between 4 hours and 6 hours, what mean wave height would be estimated at 5 hours?",
+    "choices": {
+      "A": "1.45 m",
+      "B": "1.75 m",
+      "C": "2.20 m",
+      "D": "3.50 m"
+    },
+    "correct": "B",
+    "explanation": "Five hours is halfway between 4 and 6 hours, so the estimate is halfway between 1.3 m and 2.2 m, or 1.75 m."
+  },
+  {
+    "id": "S5-014",
+    "prompt": "An ocean buoy recorded wind speed and wave height during a coastal storm. Time 0 was when the storm began at the buoy.\n\nHours after storm began | Wind speed (m/s) | Mean wave height (m)\n0                       | 3                | 0.4\n2                       | 8                | 0.7\n4                       | 13               | 1.3\n6                       | 15               | 2.2\n8                       | 10               | 1.9\n\nQuestion:\nWhich change would best determine whether the buoy's measurements represented a larger coastal region?",
+    "choices": {
+      "A": "Place additional calibrated buoys at several locations in the region.",
+      "B": "Measure only wind speed and stop measuring waves.",
+      "C": "Move the same buoy to a new location after the storm ends.",
+      "D": "Record one measurement instead of measurements over 8 hours."
+    },
+    "correct": "A",
+    "explanation": "Simultaneous measurements from several locations would show whether the same pattern occurred across the region."
+  },
+  {
+    "id": "S5-015",
+    "prompt": "An ocean buoy recorded wind speed and wave height during a coastal storm. Time 0 was when the storm began at the buoy.\n\nHours after storm began | Wind speed (m/s) | Mean wave height (m)\n0                       | 3                | 0.4\n2                       | 8                | 0.7\n4                       | 13               | 1.3\n6                       | 15               | 2.2\n8                       | 10               | 1.9\n\nQuestion:\nWhich summary is supported by the buoy data?",
+    "choices": {
+      "A": "Wind speed and wave height both reached their greatest measured values at 6 hours and were lower at 8 hours.",
+      "B": "Wave height was greatest before the storm began.",
+      "C": "Wind speed decreased continuously from 0 hours to 8 hours.",
+      "D": "Wave height remained at 0.4 m throughout the storm."
+    },
+    "correct": "A",
+    "explanation": "Wind speed peaked at 15 m/s and wave height at 2.2 m at 6 hours; both values were lower at 8 hours."
+  },
+  {
+    "id": "S5-016",
+    "prompt": "Students coated identical plastic tiles with equal amounts of a harmless bacterial culture. Each tile then received one cleaning treatment. The tiles were swabbed, and the swabs were used to inoculate sealed nutrient plates. After the same incubation time, the students counted bacterial colonies. Fewer colonies indicate that fewer bacteria remained on a tile. Each value is the mean of 5 trials.\n\nCleaning treatment          | Mean colonies\nNo cleaning                 | 94\nRinse with water for 20 s   | 68\nSoap and water for 10 s     | 37\nSoap and water for 20 s     | 16\nAlcohol gel for 20 s        | 18\n\nQuestion:\nWhich treatment produced the fewest mean colonies?",
+    "choices": {
+      "A": "No cleaning",
+      "B": "Rinse with water for 20 s",
+      "C": "Soap and water for 20 s",
+      "D": "Alcohol gel for 20 s"
+    },
+    "correct": "C",
+    "explanation": "Soap and water for 20 seconds produced 16 mean colonies, the fewest among the treatments."
+  },
+  {
+    "id": "S5-017",
+    "prompt": "Students coated identical plastic tiles with equal amounts of a harmless bacterial culture. Each tile then received one cleaning treatment. The tiles were swabbed, and the swabs were used to inoculate sealed nutrient plates. After the same incubation time, the students counted bacterial colonies. Fewer colonies indicate that fewer bacteria remained on a tile. Each value is the mean of 5 trials.\n\nCleaning treatment          | Mean colonies\nNo cleaning                 | 94\nRinse with water for 20 s   | 68\nSoap and water for 10 s     | 37\nSoap and water for 20 s     | 16\nAlcohol gel for 20 s        | 18\n\nQuestion:\nWhat was the dependent variable in this investigation?",
+    "choices": {
+      "A": "Mean number of bacterial colonies",
+      "B": "Type of cleaning treatment",
+      "C": "Incubation time",
+      "D": "Starting amount of bacterial culture"
+    },
+    "correct": "A",
+    "explanation": "The students measured colony number after applying different cleaning treatments."
+  },
+  {
+    "id": "S5-018",
+    "prompt": "Students coated identical plastic tiles with equal amounts of a harmless bacterial culture. Each tile then received one cleaning treatment. The tiles were swabbed, and the swabs were used to inoculate sealed nutrient plates. After the same incubation time, the students counted bacterial colonies. Fewer colonies indicate that fewer bacteria remained on a tile. Each value is the mean of 5 trials.\n\nCleaning treatment          | Mean colonies\nNo cleaning                 | 94\nRinse with water for 20 s   | 68\nSoap and water for 10 s     | 37\nSoap and water for 20 s     | 16\nAlcohol gel for 20 s        | 18\n\nQuestion:\nWhat was the main purpose of the no-cleaning condition?",
+    "choices": {
+      "A": "To provide a comparison showing colony growth without a cleaning treatment",
+      "B": "To make incubation time the independent variable",
+      "C": "To guarantee that every treatment produced 94 colonies",
+      "D": "To determine the temperature of the plastic tiles"
+    },
+    "correct": "A",
+    "explanation": "The no-cleaning condition gives a baseline for comparing how much each treatment reduced the remaining bacteria."
+  },
+  {
+    "id": "S5-019",
+    "prompt": "Students coated identical plastic tiles with equal amounts of a harmless bacterial culture. Each tile then received one cleaning treatment. The tiles were swabbed, and the swabs were used to inoculate sealed nutrient plates. After the same incubation time, the students counted bacterial colonies. Fewer colonies indicate that fewer bacteria remained on a tile. Each value is the mean of 5 trials.\n\nCleaning treatment          | Mean colonies\nNo cleaning                 | 94\nRinse with water for 20 s   | 68\nSoap and water for 10 s     | 37\nSoap and water for 20 s     | 16\nAlcohol gel for 20 s        | 18\n\nQuestion:\nWhich conclusion is best supported by the treatment results?",
+    "choices": {
+      "A": "All cleaning treatments reduced mean colony number compared with no cleaning.",
+      "B": "Rinsing with water eliminated all bacteria from the tiles.",
+      "C": "Alcohol gel produced more colonies than no cleaning.",
+      "D": "Soap for 10 seconds and soap for 20 seconds produced identical results."
+    },
+    "correct": "A",
+    "explanation": "Every cleaning treatment produced fewer than the 94 mean colonies found after no cleaning."
+  },
+  {
+    "id": "S5-020",
+    "prompt": "Students coated identical plastic tiles with equal amounts of a harmless bacterial culture. Each tile then received one cleaning treatment. The tiles were swabbed, and the swabs were used to inoculate sealed nutrient plates. After the same incubation time, the students counted bacterial colonies. Fewer colonies indicate that fewer bacteria remained on a tile. Each value is the mean of 5 trials.\n\nCleaning treatment          | Mean colonies\nNo cleaning                 | 94\nRinse with water for 20 s   | 68\nSoap and water for 10 s     | 37\nSoap and water for 20 s     | 16\nAlcohol gel for 20 s        | 18\n\nQuestion:\nA new soap-and-water treatment lasting 30 seconds produces a mean of 15 colonies. Which inference is best supported when this result is compared with the 20-second soap treatment?",
+    "choices": {
+      "A": "Increasing washing time from 20 to 30 seconds produced little additional reduction under these conditions.",
+      "B": "The 30-second treatment produced 15 more colonies than the 20-second treatment.",
+      "C": "Longer washing always increases colony number.",
+      "D": "The 20-second treatment removed no bacteria."
+    },
+    "correct": "A",
+    "explanation": "The mean changed only from 16 colonies at 20 seconds to 15 colonies at 30 seconds."
+  },
+  {
+    "id": "S5-021",
+    "prompt": "Geologists are studying a mountain valley containing large rounded boulders whose rock type matches bedrock 20 km upstream. The valley floor has parallel scratches, and a thick deposit contains mixed grain sizes from clay to boulders with little sorting. Terraces along the valley walls show that a large lake once occupied the valley.\n\nViewpoint 1 — Glacier model: A glacier flowed down the valley, dragging rocks that scratched the valley floor. Ice carried boulders from upstream and deposited the poorly sorted mixture when the glacier melted. The lake formed later behind leftover glacial sediment.\n\nViewpoint 2 — Outburst-flood model: A natural dam holding the ancient lake broke suddenly. Fast floodwater carried boulders downstream, and rock debris in the flow scratched the valley floor. The rapidly slowing flood deposited grains of many sizes together. No glacier was required.\n\nQuestion:\nHow far upstream is the matching source bedrock from the valley boulders?",
+    "choices": {
+      "A": "2 km",
+      "B": "10 km",
+      "C": "20 km",
+      "D": "200 km"
+    },
+    "correct": "C",
+    "explanation": "The prompt states that the boulders match bedrock located 20 km upstream."
+  },
+  {
+    "id": "S5-022",
+    "prompt": "Geologists are studying a mountain valley containing large rounded boulders whose rock type matches bedrock 20 km upstream. The valley floor has parallel scratches, and a thick deposit contains mixed grain sizes from clay to boulders with little sorting. Terraces along the valley walls show that a large lake once occupied the valley.\n\nViewpoint 1 — Glacier model: A glacier flowed down the valley, dragging rocks that scratched the valley floor. Ice carried boulders from upstream and deposited the poorly sorted mixture when the glacier melted. The lake formed later behind leftover glacial sediment.\n\nViewpoint 2 — Outburst-flood model: A natural dam holding the ancient lake broke suddenly. Fast floodwater carried boulders downstream, and rock debris in the flow scratched the valley floor. The rapidly slowing flood deposited grains of many sizes together. No glacier was required.\n\nQuestion:\nWhich new evidence would most directly support Viewpoint 1 over Viewpoint 2?",
+    "choices": {
+      "A": "A dated ridge of glacial sediment crosses the valley and contains preserved ice of the same age as the boulder deposit.",
+      "B": "Ancient lake terraces occur along the valley walls.",
+      "C": "The valley deposit contains both clay and boulders.",
+      "D": "Rounded boulders match rock found upstream."
+    },
+    "correct": "A",
+    "explanation": "Preserved ice and a same-age glacial ridge would directly connect the deposit to a glacier."
+  },
+  {
+    "id": "S5-023",
+    "prompt": "Geologists are studying a mountain valley containing large rounded boulders whose rock type matches bedrock 20 km upstream. The valley floor has parallel scratches, and a thick deposit contains mixed grain sizes from clay to boulders with little sorting. Terraces along the valley walls show that a large lake once occupied the valley.\n\nViewpoint 1 — Glacier model: A glacier flowed down the valley, dragging rocks that scratched the valley floor. Ice carried boulders from upstream and deposited the poorly sorted mixture when the glacier melted. The lake formed later behind leftover glacial sediment.\n\nViewpoint 2 — Outburst-flood model: A natural dam holding the ancient lake broke suddenly. Fast floodwater carried boulders downstream, and rock debris in the flow scratched the valley floor. The rapidly slowing flood deposited grains of many sizes together. No glacier was required.\n\nQuestion:\nWhich new observation would give the strongest direct support to the outburst-flood mechanism?",
+    "choices": {
+      "A": "Sediment structures record a sudden high-speed flow immediately after the ancient lake level dropped.",
+      "B": "Ice currently covers a mountain on another continent.",
+      "C": "Small scratches can be made by dragging rocks across a surface.",
+      "D": "The upstream bedrock has the same composition as some boulders."
+    },
+    "correct": "A",
+    "explanation": "A sudden flow tied to rapid lake drainage is the event proposed by the outburst-flood model."
+  },
+  {
+    "id": "S5-024",
+    "prompt": "Geologists are studying a mountain valley containing large rounded boulders whose rock type matches bedrock 20 km upstream. The valley floor has parallel scratches, and a thick deposit contains mixed grain sizes from clay to boulders with little sorting. Terraces along the valley walls show that a large lake once occupied the valley.\n\nViewpoint 1 — Glacier model: A glacier flowed down the valley, dragging rocks that scratched the valley floor. Ice carried boulders from upstream and deposited the poorly sorted mixture when the glacier melted. The lake formed later behind leftover glacial sediment.\n\nViewpoint 2 — Outburst-flood model: A natural dam holding the ancient lake broke suddenly. Fast floodwater carried boulders downstream, and rock debris in the flow scratched the valley floor. The rapidly slowing flood deposited grains of many sizes together. No glacier was required.\n\nQuestion:\nThe viewpoints disagree most directly about whether the boulders were transported by:",
+    "choices": {
+      "A": "moving glacier ice or floodwater.",
+      "B": "wind or volcanic ash.",
+      "C": "animals or plant roots.",
+      "D": "ocean tides or coastal currents."
+    },
+    "correct": "A",
+    "explanation": "Viewpoint 1 proposes transport by ice, while Viewpoint 2 proposes transport by a sudden flood."
+  },
+  {
+    "id": "S5-025",
+    "prompt": "Geologists are studying a mountain valley containing large rounded boulders whose rock type matches bedrock 20 km upstream. The valley floor has parallel scratches, and a thick deposit contains mixed grain sizes from clay to boulders with little sorting. Terraces along the valley walls show that a large lake once occupied the valley.\n\nViewpoint 1 — Glacier model: A glacier flowed down the valley, dragging rocks that scratched the valley floor. Ice carried boulders from upstream and deposited the poorly sorted mixture when the glacier melted. The lake formed later behind leftover glacial sediment.\n\nViewpoint 2 — Outburst-flood model: A natural dam holding the ancient lake broke suddenly. Fast floodwater carried boulders downstream, and rock debris in the flow scratched the valley floor. The rapidly slowing flood deposited grains of many sizes together. No glacier was required.\n\nQuestion:\nSuppose dating shows that the boulder deposit formed after all glaciers had disappeared from the valley but at the same time the ancient lake drained rapidly. This evidence would most likely:",
+    "choices": {
+      "A": "support Viewpoint 2 because the timing matches an outburst flood rather than glacial transport.",
+      "B": "support Viewpoint 1 because glaciers must be absent when they deposit boulders.",
+      "C": "support both viewpoints equally because neither involves the lake.",
+      "D": "contradict Viewpoint 2 because floods cannot move sediment."
+    },
+    "correct": "A",
+    "explanation": "A deposit formed after glacier disappearance but during rapid lake drainage fits the outburst-flood model."
+  },
+  {
+    "id": "S5-026",
+    "prompt": "Students built simple circuits and measured electric current with an ammeter. Each result is the mean of 4 trials.\n\nExperiment 1: The same 10 Ω resistor was used while identical 1.5 V cells connected in series were added.\nCells | Total voltage (V) | Mean current (A)\n1     | 1.5               | 0.15\n2     | 3.0               | 0.30\n3     | 4.5               | 0.45\n4     | 6.0               | 0.60\n\nExperiment 2: Total voltage was held at 3.0 V while resistance was changed.\nResistance (Ω) | Mean current (A)\n5              | 0.60\n10             | 0.30\n15             | 0.20\n20             | 0.15\n\nQuestion:\nIn Experiment 1, what mean current was measured with 3 cells?",
+    "choices": {
+      "A": "0.20 A",
+      "B": "0.30 A",
+      "C": "0.45 A",
+      "D": "0.60 A"
+    },
+    "correct": "C",
+    "explanation": "The Experiment 1 row for 3 cells lists a mean current of 0.45 A."
+  },
+  {
+    "id": "S5-027",
+    "prompt": "Students built simple circuits and measured electric current with an ammeter. Each result is the mean of 4 trials.\n\nExperiment 1: The same 10 Ω resistor was used while identical 1.5 V cells connected in series were added.\nCells | Total voltage (V) | Mean current (A)\n1     | 1.5               | 0.15\n2     | 3.0               | 0.30\n3     | 4.5               | 0.45\n4     | 6.0               | 0.60\n\nExperiment 2: Total voltage was held at 3.0 V while resistance was changed.\nResistance (Ω) | Mean current (A)\n5              | 0.60\n10             | 0.30\n15             | 0.20\n20             | 0.15\n\nQuestion:\nAt 3.0 V, how much greater was the mean current through 5 Ω than through 20 Ω?",
+    "choices": {
+      "A": "0.15 A",
+      "B": "0.30 A",
+      "C": "0.45 A",
+      "D": "0.75 A"
+    },
+    "correct": "C",
+    "explanation": "The currents were 0.60 A and 0.15 A, a difference of 0.45 A."
+  },
+  {
+    "id": "S5-028",
+    "prompt": "Students built simple circuits and measured electric current with an ammeter. Each result is the mean of 4 trials.\n\nExperiment 1: The same 10 Ω resistor was used while identical 1.5 V cells connected in series were added.\nCells | Total voltage (V) | Mean current (A)\n1     | 1.5               | 0.15\n2     | 3.0               | 0.30\n3     | 4.5               | 0.45\n4     | 6.0               | 0.60\n\nExperiment 2: Total voltage was held at 3.0 V while resistance was changed.\nResistance (Ω) | Mean current (A)\n5              | 0.60\n10             | 0.30\n15             | 0.20\n20             | 0.15\n\nQuestion:\nWhich quantity was deliberately changed in Experiment 1?",
+    "choices": {
+      "A": "Total voltage",
+      "B": "Resistance",
+      "C": "Mean current",
+      "D": "Ammeter type"
+    },
+    "correct": "A",
+    "explanation": "Adding cells changed total voltage while the same 10 Ω resistor was used."
+  },
+  {
+    "id": "S5-029",
+    "prompt": "Students built simple circuits and measured electric current with an ammeter. Each result is the mean of 4 trials.\n\nExperiment 1: The same 10 Ω resistor was used while identical 1.5 V cells connected in series were added.\nCells | Total voltage (V) | Mean current (A)\n1     | 1.5               | 0.15\n2     | 3.0               | 0.30\n3     | 4.5               | 0.45\n4     | 6.0               | 0.60\n\nExperiment 2: Total voltage was held at 3.0 V while resistance was changed.\nResistance (Ω) | Mean current (A)\n5              | 0.60\n10             | 0.30\n15             | 0.20\n20             | 0.15\n\nQuestion:\nWhy was total voltage held at 3.0 V throughout Experiment 2?",
+    "choices": {
+      "A": "To isolate resistance as the tested factor affecting current",
+      "B": "To make voltage the measured response",
+      "C": "To ensure resistance and voltage increased together",
+      "D": "To prove that voltage can never affect current"
+    },
+    "correct": "A",
+    "explanation": "Keeping voltage constant allowed current to be compared while resistance alone was changed."
+  },
+  {
+    "id": "S5-030",
+    "prompt": "Students built simple circuits and measured electric current with an ammeter. Each result is the mean of 4 trials.\n\nExperiment 1: The same 10 Ω resistor was used while identical 1.5 V cells connected in series were added.\nCells | Total voltage (V) | Mean current (A)\n1     | 1.5               | 0.15\n2     | 3.0               | 0.30\n3     | 4.5               | 0.45\n4     | 6.0               | 0.60\n\nExperiment 2: Total voltage was held at 3.0 V while resistance was changed.\nResistance (Ω) | Mean current (A)\n5              | 0.60\n10             | 0.30\n15             | 0.20\n20             | 0.15\n\nQuestion:\nA student claims that, at constant voltage, increasing resistance increases current. How do the Experiment 2 results evaluate this claim?",
+    "choices": {
+      "A": "They support it because current rose from 0.15 A to 0.60 A as resistance increased.",
+      "B": "They support it because voltage remained at 3.0 V.",
+      "C": "They contradict it because current decreased from 0.60 A to 0.15 A as resistance increased.",
+      "D": "They cannot evaluate it because resistance was held constant."
+    },
+    "correct": "C",
+    "explanation": "At 3.0 V, increasing resistance from 5 Ω to 20 Ω corresponded to a decrease in current from 0.60 A to 0.15 A."
+  }
+]

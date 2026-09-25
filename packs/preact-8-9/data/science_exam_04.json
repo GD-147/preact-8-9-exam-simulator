@@ -1,0 +1,362 @@
+[
+  {
+    "id": "S4-001",
+    "prompt": "Biologists sampled a clear lake at 5 depths on the same afternoon. At each depth, they measured the percentage of surface light remaining and counted algae cells in equal-volume water samples. Algae use light for photosynthesis.\n\nDepth (m) | Surface light remaining (%) | Mean algae cells (thousands/mL)\n0         | 100                         | 120\n2         | 72                          | 190\n4         | 41                          | 230\n6         | 18                          | 140\n8         | 5                           | 40\n\nQuestion:\nAt what depth was the mean algae concentration greatest?",
+    "choices": {
+      "A": "0 m",
+      "B": "2 m",
+      "C": "4 m",
+      "D": "8 m"
+    },
+    "correct": "C",
+    "explanation": "The greatest mean concentration was 230 thousand cells/mL at a depth of 4 m."
+  },
+  {
+    "id": "S4-002",
+    "prompt": "Biologists sampled a clear lake at 5 depths on the same afternoon. At each depth, they measured the percentage of surface light remaining and counted algae cells in equal-volume water samples. Algae use light for photosynthesis.\n\nDepth (m) | Surface light remaining (%) | Mean algae cells (thousands/mL)\n0         | 100                         | 120\n2         | 72                          | 190\n4         | 41                          | 230\n6         | 18                          | 140\n8         | 5                           | 40\n\nQuestion:\nHow many more thousand algae cells per milliliter were measured at 4 m than at 8 m?",
+    "choices": {
+      "A": "41",
+      "B": "90",
+      "C": "190",
+      "D": "270"
+    },
+    "correct": "C",
+    "explanation": "The difference was 230 − 40 = 190 thousand cells/mL."
+  },
+  {
+    "id": "S4-003",
+    "prompt": "Biologists sampled a clear lake at 5 depths on the same afternoon. At each depth, they measured the percentage of surface light remaining and counted algae cells in equal-volume water samples. Algae use light for photosynthesis.\n\nDepth (m) | Surface light remaining (%) | Mean algae cells (thousands/mL)\n0         | 100                         | 120\n2         | 72                          | 190\n4         | 41                          | 230\n6         | 18                          | 140\n8         | 5                           | 40\n\nQuestion:\nIf the percentage of surface light changed linearly between 4 m and 6 m, what percentage would be estimated at 5 m?",
+    "choices": {
+      "A": "23.0%",
+      "B": "29.5%",
+      "C": "41.0%",
+      "D": "59.0%"
+    },
+    "correct": "B",
+    "explanation": "A depth of 5 m is halfway between 4 m and 6 m, so the estimate is halfway between 41% and 18%, or 29.5%."
+  },
+  {
+    "id": "S4-004",
+    "prompt": "Biologists sampled a clear lake at 5 depths on the same afternoon. At each depth, they measured the percentage of surface light remaining and counted algae cells in equal-volume water samples. Algae use light for photosynthesis.\n\nDepth (m) | Surface light remaining (%) | Mean algae cells (thousands/mL)\n0         | 100                         | 120\n2         | 72                          | 190\n4         | 41                          | 230\n6         | 18                          | 140\n8         | 5                           | 40\n\nQuestion:\nWhich investigation would best test the effect of light level on algae growth independently of lake depth?",
+    "choices": {
+      "A": "Grow equal starting amounts of algae in identical containers under different light levels while keeping other conditions constant.",
+      "B": "Collect different algae species from different depths and give each a different nutrient level.",
+      "C": "Measure only lake depth at several locations without counting algae.",
+      "D": "Place unequal amounts of algae in containers with different temperatures and light levels."
+    },
+    "correct": "A",
+    "explanation": "Changing only light level would isolate it as the tested factor affecting algae growth."
+  },
+  {
+    "id": "S4-005",
+    "prompt": "Biologists sampled a clear lake at 5 depths on the same afternoon. At each depth, they measured the percentage of surface light remaining and counted algae cells in equal-volume water samples. Algae use light for photosynthesis.\n\nDepth (m) | Surface light remaining (%) | Mean algae cells (thousands/mL)\n0         | 100                         | 120\n2         | 72                          | 190\n4         | 41                          | 230\n6         | 18                          | 140\n8         | 5                           | 40\n\nQuestion:\nWhich conclusion is best supported by the measurements?",
+    "choices": {
+      "A": "Algae concentration was greatest at an intermediate depth rather than where light was highest or lowest.",
+      "B": "Algae concentration increased continuously as depth increased.",
+      "C": "No algae were present below 6 m.",
+      "D": "The percentage of surface light increased with depth."
+    },
+    "correct": "A",
+    "explanation": "Algae concentration peaked at 230 thousand cells/mL at 4 m, while it was lower at both 0 m and 8 m."
+  },
+  {
+    "id": "S4-006",
+    "prompt": "Students used a spring scale to pull the same wooden block horizontally at constant speed. The scale reading gave the pulling force. Each result is the mean of 5 trials.\n\nExperiment 1: The block's total mass was 500 g while the surface beneath it was changed.\nSurface        | Mean pulling force (N)\nSmooth plastic | 0.8\nPaper          | 1.2\nFelt           | 1.7\nRubber         | 2.4\n\nExperiment 2: The rubber surface was used while mass was added to the 500 g block.\nAdded mass (g) | Mean pulling force (N)\n0              | 2.4\n250            | 3.1\n500            | 3.9\n750            | 4.7\n\nQuestion:\nIn Experiment 1, how much greater was the mean pulling force on rubber than on smooth plastic?",
+    "choices": {
+      "A": "0.8 N",
+      "B": "1.2 N",
+      "C": "1.6 N",
+      "D": "3.2 N"
+    },
+    "correct": "C",
+    "explanation": "The mean forces were 2.4 N on rubber and 0.8 N on smooth plastic, a difference of 1.6 N."
+  },
+  {
+    "id": "S4-007",
+    "prompt": "Students used a spring scale to pull the same wooden block horizontally at constant speed. The scale reading gave the pulling force. Each result is the mean of 5 trials.\n\nExperiment 1: The block's total mass was 500 g while the surface beneath it was changed.\nSurface        | Mean pulling force (N)\nSmooth plastic | 0.8\nPaper          | 1.2\nFelt           | 1.7\nRubber         | 2.4\n\nExperiment 2: The rubber surface was used while mass was added to the 500 g block.\nAdded mass (g) | Mean pulling force (N)\n0              | 2.4\n250            | 3.1\n500            | 3.9\n750            | 4.7\n\nQuestion:\nWhat mean pulling force was measured on rubber when 500 g was added to the block?",
+    "choices": {
+      "A": "2.4 N",
+      "B": "3.1 N",
+      "C": "3.9 N",
+      "D": "4.7 N"
+    },
+    "correct": "C",
+    "explanation": "Experiment 2 lists a mean pulling force of 3.9 N for 500 g of added mass."
+  },
+  {
+    "id": "S4-008",
+    "prompt": "Students used a spring scale to pull the same wooden block horizontally at constant speed. The scale reading gave the pulling force. Each result is the mean of 5 trials.\n\nExperiment 1: The block's total mass was 500 g while the surface beneath it was changed.\nSurface        | Mean pulling force (N)\nSmooth plastic | 0.8\nPaper          | 1.2\nFelt           | 1.7\nRubber         | 2.4\n\nExperiment 2: The rubber surface was used while mass was added to the 500 g block.\nAdded mass (g) | Mean pulling force (N)\n0              | 2.4\n250            | 3.1\n500            | 3.9\n750            | 4.7\n\nQuestion:\nWhich factor did the students deliberately change in Experiment 1?",
+    "choices": {
+      "A": "Surface beneath the block",
+      "B": "Block's total mass",
+      "C": "Pulling speed",
+      "D": "Mean pulling force"
+    },
+    "correct": "A",
+    "explanation": "Experiment 1 changed the surface while holding the block's total mass at 500 g."
+  },
+  {
+    "id": "S4-009",
+    "prompt": "Students used a spring scale to pull the same wooden block horizontally at constant speed. The scale reading gave the pulling force. Each result is the mean of 5 trials.\n\nExperiment 1: The block's total mass was 500 g while the surface beneath it was changed.\nSurface        | Mean pulling force (N)\nSmooth plastic | 0.8\nPaper          | 1.2\nFelt           | 1.7\nRubber         | 2.4\n\nExperiment 2: The rubber surface was used while mass was added to the 500 g block.\nAdded mass (g) | Mean pulling force (N)\n0              | 2.4\n250            | 3.1\n500            | 3.9\n750            | 4.7\n\nQuestion:\nWhy was the same wooden block used throughout both experiments?",
+    "choices": {
+      "A": "To prevent differences in block material and shape from affecting the force comparisons",
+      "B": "To make block identity the dependent variable",
+      "C": "To ensure the pulling force was identical in every condition",
+      "D": "To cause the surface type and added mass to change together"
+    },
+    "correct": "A",
+    "explanation": "Using the same block controlled its material and shape while surface or added mass was tested."
+  },
+  {
+    "id": "S4-010",
+    "prompt": "Students used a spring scale to pull the same wooden block horizontally at constant speed. The scale reading gave the pulling force. Each result is the mean of 5 trials.\n\nExperiment 1: The block's total mass was 500 g while the surface beneath it was changed.\nSurface        | Mean pulling force (N)\nSmooth plastic | 0.8\nPaper          | 1.2\nFelt           | 1.7\nRubber         | 2.4\n\nExperiment 2: The rubber surface was used while mass was added to the 500 g block.\nAdded mass (g) | Mean pulling force (N)\n0              | 2.4\n250            | 3.1\n500            | 3.9\n750            | 4.7\n\nQuestion:\nA student predicts that increasing the added mass on rubber will require a greater pulling force at constant speed. How do the Experiment 2 results evaluate this prediction?",
+    "choices": {
+      "A": "They support it because mean pulling force increased from 2.4 N to 4.7 N as added mass increased.",
+      "B": "They support it because pulling force stayed at 2.4 N for every mass.",
+      "C": "They contradict it because the greatest mass required the least force.",
+      "D": "They cannot evaluate it because added mass was not changed."
+    },
+    "correct": "A",
+    "explanation": "The force increased at every step as added mass rose from 0 g to 750 g."
+  },
+  {
+    "id": "S4-011",
+    "prompt": "After a rainstorm ended, scientists monitored one small watershed. At the same time each day, they measured stream discharge and the depth from the ground surface to groundwater in a nearby well. A smaller groundwater depth means the water table is higher.\n\nDays after storm | Stream discharge (m³/s) | Groundwater depth (m)\n0                | 8.2                     | 4.8\n1                | 11.5                    | 4.5\n2                | 9.6                     | 4.1\n3                | 7.4                     | 3.9\n4                | 6.1                     | 4.0\n5                | 5.5                     | 4.2\n\nQuestion:\nOn which day after the storm was stream discharge greatest?",
+    "choices": {
+      "A": "Day 0",
+      "B": "Day 1",
+      "C": "Day 3",
+      "D": "Day 5"
+    },
+    "correct": "B",
+    "explanation": "The greatest stream discharge was 11.5 m³/s on Day 1."
+  },
+  {
+    "id": "S4-012",
+    "prompt": "After a rainstorm ended, scientists monitored one small watershed. At the same time each day, they measured stream discharge and the depth from the ground surface to groundwater in a nearby well. A smaller groundwater depth means the water table is higher.\n\nDays after storm | Stream discharge (m³/s) | Groundwater depth (m)\n0                | 8.2                     | 4.8\n1                | 11.5                    | 4.5\n2                | 9.6                     | 4.1\n3                | 7.4                     | 3.9\n4                | 6.1                     | 4.0\n5                | 5.5                     | 4.2\n\nQuestion:\nHow much did the water table rise from Day 0 to Day 3?",
+    "choices": {
+      "A": "0.3 m",
+      "B": "0.9 m",
+      "C": "3.9 m",
+      "D": "8.7 m"
+    },
+    "correct": "B",
+    "explanation": "Groundwater depth decreased from 4.8 m to 3.9 m, meaning the water table rose by 0.9 m."
+  },
+  {
+    "id": "S4-013",
+    "prompt": "After a rainstorm ended, scientists monitored one small watershed. At the same time each day, they measured stream discharge and the depth from the ground surface to groundwater in a nearby well. A smaller groundwater depth means the water table is higher.\n\nDays after storm | Stream discharge (m³/s) | Groundwater depth (m)\n0                | 8.2                     | 4.8\n1                | 11.5                    | 4.5\n2                | 9.6                     | 4.1\n3                | 7.4                     | 3.9\n4                | 6.1                     | 4.0\n5                | 5.5                     | 4.2\n\nQuestion:\nIf stream discharge changed linearly between Day 3 and Day 4, what discharge would be estimated halfway between those measurements?",
+    "choices": {
+      "A": "5.75 m³/s",
+      "B": "6.75 m³/s",
+      "C": "7.40 m³/s",
+      "D": "13.50 m³/s"
+    },
+    "correct": "B",
+    "explanation": "The halfway value between 7.4 m³/s and 6.1 m³/s is 6.75 m³/s."
+  },
+  {
+    "id": "S4-014",
+    "prompt": "After a rainstorm ended, scientists monitored one small watershed. At the same time each day, they measured stream discharge and the depth from the ground surface to groundwater in a nearby well. A smaller groundwater depth means the water table is higher.\n\nDays after storm | Stream discharge (m³/s) | Groundwater depth (m)\n0                | 8.2                     | 4.8\n1                | 11.5                    | 4.5\n2                | 9.6                     | 4.1\n3                | 7.4                     | 3.9\n4                | 6.1                     | 4.0\n5                | 5.5                     | 4.2\n\nQuestion:\nWhich change would most directly improve confidence that the groundwater pattern represents the entire watershed?",
+    "choices": {
+      "A": "Measure groundwater in several wells distributed across the watershed.",
+      "B": "Stop measuring stream discharge after Day 1.",
+      "C": "Use a different time of day for every well measurement.",
+      "D": "Replace groundwater measurements with air-temperature measurements."
+    },
+    "correct": "A",
+    "explanation": "Several distributed wells would show whether the pattern occurs beyond the single monitored location."
+  },
+  {
+    "id": "S4-015",
+    "prompt": "After a rainstorm ended, scientists monitored one small watershed. At the same time each day, they measured stream discharge and the depth from the ground surface to groundwater in a nearby well. A smaller groundwater depth means the water table is higher.\n\nDays after storm | Stream discharge (m³/s) | Groundwater depth (m)\n0                | 8.2                     | 4.8\n1                | 11.5                    | 4.5\n2                | 9.6                     | 4.1\n3                | 7.4                     | 3.9\n4                | 6.1                     | 4.0\n5                | 5.5                     | 4.2\n\nQuestion:\nWhich comparison of the two responses to the storm is supported?",
+    "choices": {
+      "A": "Stream discharge peaked on Day 1, while the water table reached its highest level on Day 3.",
+      "B": "Both stream discharge and water-table height peaked on Day 5.",
+      "C": "The water table reached its highest level before stream discharge peaked.",
+      "D": "Neither measurement changed after the storm."
+    },
+    "correct": "A",
+    "explanation": "Discharge was greatest on Day 1, and groundwater depth was smallest—indicating the highest water table—on Day 3."
+  },
+  {
+    "id": "S4-016",
+    "prompt": "Students studied pill bugs using a choice chamber with 2 equal sides connected by an opening. They placed 20 pill bugs in the center and counted the animals on each side after 10 minutes. Each result is the mean of 5 trials. The left-right positions of the conditions were switched between trials.\n\nExperiment 1: Both sides were dark, but one side was dry and the other was moist.\nCondition  | Mean pill bugs\nDry, dark | 3\nMoist, dark | 17\n\nExperiment 2: Both sides were moist, but one side was illuminated and the other was dark.\nCondition    | Mean pill bugs\nMoist, light | 6\nMoist, dark  | 14\n\nQuestion:\nIn Experiment 2, what mean number of pill bugs was counted on the moist, dark side?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "14",
+      "D": "17"
+    },
+    "correct": "C",
+    "explanation": "Experiment 2 reports a mean of 14 pill bugs on the moist, dark side."
+  },
+  {
+    "id": "S4-017",
+    "prompt": "Students studied pill bugs using a choice chamber with 2 equal sides connected by an opening. They placed 20 pill bugs in the center and counted the animals on each side after 10 minutes. Each result is the mean of 5 trials. The left-right positions of the conditions were switched between trials.\n\nExperiment 1: Both sides were dark, but one side was dry and the other was moist.\nCondition  | Mean pill bugs\nDry, dark | 3\nMoist, dark | 17\n\nExperiment 2: Both sides were moist, but one side was illuminated and the other was dark.\nCondition    | Mean pill bugs\nMoist, light | 6\nMoist, dark  | 14\n\nQuestion:\nWhat was the measured response in both experiments?",
+    "choices": {
+      "A": "The number of pill bugs on each side after 10 minutes",
+      "B": "The moisture level selected before each trial",
+      "C": "The brightness of the illuminated side",
+      "D": "The total length of the choice chamber"
+    },
+    "correct": "A",
+    "explanation": "The students measured how the 20 pill bugs were distributed between the two conditions after 10 minutes."
+  },
+  {
+    "id": "S4-018",
+    "prompt": "Students studied pill bugs using a choice chamber with 2 equal sides connected by an opening. They placed 20 pill bugs in the center and counted the animals on each side after 10 minutes. Each result is the mean of 5 trials. The left-right positions of the conditions were switched between trials.\n\nExperiment 1: Both sides were dark, but one side was dry and the other was moist.\nCondition  | Mean pill bugs\nDry, dark | 3\nMoist, dark | 17\n\nExperiment 2: Both sides were moist, but one side was illuminated and the other was dark.\nCondition    | Mean pill bugs\nMoist, light | 6\nMoist, dark  | 14\n\nQuestion:\nWhy were the left-right positions of the conditions switched between trials?",
+    "choices": {
+      "A": "To reduce the chance that a preference for one physical side would be mistaken for a response to the tested condition",
+      "B": "To make the total number of pill bugs change between trials",
+      "C": "To keep both sides under different conditions in every experiment",
+      "D": "To eliminate the need for multiple trials"
+    },
+    "correct": "A",
+    "explanation": "Switching sides helps separate responses to moisture or light from a simple left-side or right-side preference."
+  },
+  {
+    "id": "S4-019",
+    "prompt": "Students studied pill bugs using a choice chamber with 2 equal sides connected by an opening. They placed 20 pill bugs in the center and counted the animals on each side after 10 minutes. Each result is the mean of 5 trials. The left-right positions of the conditions were switched between trials.\n\nExperiment 1: Both sides were dark, but one side was dry and the other was moist.\nCondition  | Mean pill bugs\nDry, dark | 3\nMoist, dark | 17\n\nExperiment 2: Both sides were moist, but one side was illuminated and the other was dark.\nCondition    | Mean pill bugs\nMoist, light | 6\nMoist, dark  | 14\n\nQuestion:\nWhich conclusion is supported by the two experiments?",
+    "choices": {
+      "A": "Under the tested conditions, pill bugs preferred moist over dry areas and dark over illuminated areas.",
+      "B": "Pill bugs preferred dry areas and bright light in both experiments.",
+      "C": "Moisture affected the total number of pill bugs placed in the chamber.",
+      "D": "Light and moisture produced identical distributions in every trial."
+    },
+    "correct": "A",
+    "explanation": "Seventeen of 20 chose moist over dry in Experiment 1, and 14 of 20 chose dark over light in Experiment 2."
+  },
+  {
+    "id": "S4-020",
+    "prompt": "Students studied pill bugs using a choice chamber with 2 equal sides connected by an opening. They placed 20 pill bugs in the center and counted the animals on each side after 10 minutes. Each result is the mean of 5 trials. The left-right positions of the conditions were switched between trials.\n\nExperiment 1: Both sides were dark, but one side was dry and the other was moist.\nCondition  | Mean pill bugs\nDry, dark | 3\nMoist, dark | 17\n\nExperiment 2: Both sides were moist, but one side was illuminated and the other was dark.\nCondition    | Mean pill bugs\nMoist, light | 6\nMoist, dark  | 14\n\nQuestion:\nIf one chamber side were moist and dark while the other were dry and illuminated, which prediction is most consistent with both experiments?",
+    "choices": {
+      "A": "More pill bugs would gather on the moist, dark side.",
+      "B": "More pill bugs would gather on the dry, illuminated side.",
+      "C": "Exactly 10 pill bugs would occupy each side in every trial.",
+      "D": "No pill bugs would enter either side."
+    },
+    "correct": "A",
+    "explanation": "The moist, dark side combines the moisture and light conditions that were preferred in the separate experiments."
+  },
+  {
+    "id": "S4-021",
+    "prompt": "After rare heavy rain, a shallow lake forms in a desert basin called a playa and usually disappears within 6 days. The basin has no visible surface outlet. During those days, afternoon temperatures often exceed 30°C, humidity is low, and winds are frequent. A salt crust remains after the water disappears. Fractures are present in the playa floor, and porous rock containing groundwater lies beneath the basin.\n\nViewpoint 1 — Evaporation model: Most lake water changes into water vapor because the air is hot, dry, and windy. Dissolved salts do not evaporate, so they remain as a crust. The floor fractures have little effect on the water loss.\n\nViewpoint 2 — Infiltration model: Most lake water flows downward through floor fractures into the porous rock. The salt crust forms because some water evaporates, but downward flow is the main reason the lake disappears.\n\nQuestion:\nWhich material remains in the playa after the lake water disappears?",
+    "choices": {
+      "A": "A salt crust",
+      "B": "A permanent ice layer",
+      "C": "Meteorite fragments",
+      "D": "A forest soil"
+    },
+    "correct": "A",
+    "explanation": "The observations state that a salt crust remains after the water disappears."
+  },
+  {
+    "id": "S4-022",
+    "prompt": "After rare heavy rain, a shallow lake forms in a desert basin called a playa and usually disappears within 6 days. The basin has no visible surface outlet. During those days, afternoon temperatures often exceed 30°C, humidity is low, and winds are frequent. A salt crust remains after the water disappears. Fractures are present in the playa floor, and porous rock containing groundwater lies beneath the basin.\n\nViewpoint 1 — Evaporation model: Most lake water changes into water vapor because the air is hot, dry, and windy. Dissolved salts do not evaporate, so they remain as a crust. The floor fractures have little effect on the water loss.\n\nViewpoint 2 — Infiltration model: Most lake water flows downward through floor fractures into the porous rock. The salt crust forms because some water evaporates, but downward flow is the main reason the lake disappears.\n\nQuestion:\nWhich new result would most directly support Viewpoint 1 over Viewpoint 2?",
+    "choices": {
+      "A": "An evaporation pan beside the lake loses water at nearly the same rate as the lake.",
+      "B": "A tracer placed in the lake appears in groundwater beneath the basin.",
+      "C": "Water flows rapidly into open fractures in the playa floor.",
+      "D": "Groundwater level rises soon after the lake forms."
+    },
+    "correct": "A",
+    "explanation": "A matching loss rate from an evaporation pan would show that evaporation alone can account for the lake's decline."
+  },
+  {
+    "id": "S4-023",
+    "prompt": "After rare heavy rain, a shallow lake forms in a desert basin called a playa and usually disappears within 6 days. The basin has no visible surface outlet. During those days, afternoon temperatures often exceed 30°C, humidity is low, and winds are frequent. A salt crust remains after the water disappears. Fractures are present in the playa floor, and porous rock containing groundwater lies beneath the basin.\n\nViewpoint 1 — Evaporation model: Most lake water changes into water vapor because the air is hot, dry, and windy. Dissolved salts do not evaporate, so they remain as a crust. The floor fractures have little effect on the water loss.\n\nViewpoint 2 — Infiltration model: Most lake water flows downward through floor fractures into the porous rock. The salt crust forms because some water evaporates, but downward flow is the main reason the lake disappears.\n\nQuestion:\nWhich finding would most directly support the mechanism in Viewpoint 2?",
+    "choices": {
+      "A": "A harmless tracer added to the lake is later detected in groundwater below the fractures.",
+      "B": "Salt remains when a sample of lake water evaporates in a dish.",
+      "C": "Wind speed increases during the afternoon.",
+      "D": "Water vapor is detected above the lake surface."
+    },
+    "correct": "A",
+    "explanation": "Tracer movement from the lake into groundwater would directly demonstrate downward infiltration through the basin floor."
+  },
+  {
+    "id": "S4-024",
+    "prompt": "After rare heavy rain, a shallow lake forms in a desert basin called a playa and usually disappears within 6 days. The basin has no visible surface outlet. During those days, afternoon temperatures often exceed 30°C, humidity is low, and winds are frequent. A salt crust remains after the water disappears. Fractures are present in the playa floor, and porous rock containing groundwater lies beneath the basin.\n\nViewpoint 1 — Evaporation model: Most lake water changes into water vapor because the air is hot, dry, and windy. Dissolved salts do not evaporate, so they remain as a crust. The floor fractures have little effect on the water loss.\n\nViewpoint 2 — Infiltration model: Most lake water flows downward through floor fractures into the porous rock. The salt crust forms because some water evaporates, but downward flow is the main reason the lake disappears.\n\nQuestion:\nThe two viewpoints disagree primarily about:",
+    "choices": {
+      "A": "whether most water leaves upward as vapor or downward through fractures.",
+      "B": "whether the lake forms after heavy rain.",
+      "C": "whether a salt crust remains after the water disappears.",
+      "D": "whether the basin is located in a desert."
+    },
+    "correct": "A",
+    "explanation": "Viewpoint 1 identifies evaporation as the main pathway, whereas Viewpoint 2 identifies infiltration."
+  },
+  {
+    "id": "S4-025",
+    "prompt": "After rare heavy rain, a shallow lake forms in a desert basin called a playa and usually disappears within 6 days. The basin has no visible surface outlet. During those days, afternoon temperatures often exceed 30°C, humidity is low, and winds are frequent. A salt crust remains after the water disappears. Fractures are present in the playa floor, and porous rock containing groundwater lies beneath the basin.\n\nViewpoint 1 — Evaporation model: Most lake water changes into water vapor because the air is hot, dry, and windy. Dissolved salts do not evaporate, so they remain as a crust. The floor fractures have little effect on the water loss.\n\nViewpoint 2 — Infiltration model: Most lake water flows downward through floor fractures into the porous rock. The salt crust forms because some water evaporates, but downward flow is the main reason the lake disappears.\n\nQuestion:\nSuppose water beneath a floating cover that blocks evaporation remains at nearly the same depth while nearby uncovered water rapidly becomes shallower. This result would most likely:",
+    "choices": {
+      "A": "support Viewpoint 1 because blocking evaporation greatly reduced water loss.",
+      "B": "support Viewpoint 2 because the cover opened more floor fractures.",
+      "C": "support both viewpoints equally because both require all water to infiltrate.",
+      "D": "contradict Viewpoint 1 because covered water did not evaporate quickly."
+    },
+    "correct": "A",
+    "explanation": "If stopping evaporation also stops most depth loss, evaporation is likely the dominant pathway."
+  },
+  {
+    "id": "S4-026",
+    "prompt": "Students released a wheeled cart from rest on a ramp and measured its speed at the bottom with a motion sensor. The ramp surface and travel distance were the same in every trial. Each result is the mean of 4 trials.\n\nExperiment 1: Cart mass was held at 200 g while the vertical release height was changed.\nRelease height (cm) | Mean speed (m/s)\n5                   | 0.62\n10                  | 0.88\n15                  | 1.08\n20                  | 1.24\n\nExperiment 2: Release height was held at 15 cm while cart mass was changed.\nCart mass (g) | Mean speed (m/s)\n100           | 1.09\n200           | 1.08\n300           | 1.07\n400           | 1.08\n\nQuestion:\nIn Experiment 1, what mean speed was measured at a release height of 20 cm?",
+    "choices": {
+      "A": "0.62 m/s",
+      "B": "0.88 m/s",
+      "C": "1.08 m/s",
+      "D": "1.24 m/s"
+    },
+    "correct": "D",
+    "explanation": "The 20 cm row in Experiment 1 lists a mean speed of 1.24 m/s."
+  },
+  {
+    "id": "S4-027",
+    "prompt": "Students released a wheeled cart from rest on a ramp and measured its speed at the bottom with a motion sensor. The ramp surface and travel distance were the same in every trial. Each result is the mean of 4 trials.\n\nExperiment 1: Cart mass was held at 200 g while the vertical release height was changed.\nRelease height (cm) | Mean speed (m/s)\n5                   | 0.62\n10                  | 0.88\n15                  | 1.08\n20                  | 1.24\n\nExperiment 2: Release height was held at 15 cm while cart mass was changed.\nCart mass (g) | Mean speed (m/s)\n100           | 1.09\n200           | 1.08\n300           | 1.07\n400           | 1.08\n\nQuestion:\nHow much did mean speed increase when release height increased from 5 cm to 20 cm?",
+    "choices": {
+      "A": "0.36 m/s",
+      "B": "0.62 m/s",
+      "C": "1.24 m/s",
+      "D": "1.86 m/s"
+    },
+    "correct": "B",
+    "explanation": "Mean speed increased from 0.62 m/s to 1.24 m/s, a difference of 0.62 m/s."
+  },
+  {
+    "id": "S4-028",
+    "prompt": "Students released a wheeled cart from rest on a ramp and measured its speed at the bottom with a motion sensor. The ramp surface and travel distance were the same in every trial. Each result is the mean of 4 trials.\n\nExperiment 1: Cart mass was held at 200 g while the vertical release height was changed.\nRelease height (cm) | Mean speed (m/s)\n5                   | 0.62\n10                  | 0.88\n15                  | 1.08\n20                  | 1.24\n\nExperiment 2: Release height was held at 15 cm while cart mass was changed.\nCart mass (g) | Mean speed (m/s)\n100           | 1.09\n200           | 1.08\n300           | 1.07\n400           | 1.08\n\nQuestion:\nIn Experiment 1, which quantity was intentionally varied?",
+    "choices": {
+      "A": "Release height",
+      "B": "Cart mass",
+      "C": "Ramp surface",
+      "D": "Mean speed"
+    },
+    "correct": "A",
+    "explanation": "Experiment 1 changed release height while holding cart mass at 200 g."
+  },
+  {
+    "id": "S4-029",
+    "prompt": "Students released a wheeled cart from rest on a ramp and measured its speed at the bottom with a motion sensor. The ramp surface and travel distance were the same in every trial. Each result is the mean of 4 trials.\n\nExperiment 1: Cart mass was held at 200 g while the vertical release height was changed.\nRelease height (cm) | Mean speed (m/s)\n5                   | 0.62\n10                  | 0.88\n15                  | 1.08\n20                  | 1.24\n\nExperiment 2: Release height was held at 15 cm while cart mass was changed.\nCart mass (g) | Mean speed (m/s)\n100           | 1.09\n200           | 1.08\n300           | 1.07\n400           | 1.08\n\nQuestion:\nWhy were the same cart wheels and ramp surface used in every trial?",
+    "choices": {
+      "A": "To keep rolling conditions from providing another explanation for speed differences",
+      "B": "To make wheel type the independent variable",
+      "C": "To guarantee identical speed at every release height",
+      "D": "To cause cart mass to increase during each run"
+    },
+    "correct": "A",
+    "explanation": "Constant wheels and ramp surface help isolate release height or cart mass as the tested factor."
+  },
+  {
+    "id": "S4-030",
+    "prompt": "Students released a wheeled cart from rest on a ramp and measured its speed at the bottom with a motion sensor. The ramp surface and travel distance were the same in every trial. Each result is the mean of 4 trials.\n\nExperiment 1: Cart mass was held at 200 g while the vertical release height was changed.\nRelease height (cm) | Mean speed (m/s)\n5                   | 0.62\n10                  | 0.88\n15                  | 1.08\n20                  | 1.24\n\nExperiment 2: Release height was held at 15 cm while cart mass was changed.\nCart mass (g) | Mean speed (m/s)\n100           | 1.09\n200           | 1.08\n300           | 1.07\n400           | 1.08\n\nQuestion:\nA student claims that doubling cart mass from 200 g to 400 g doubles the speed at a 15 cm release height. How do the data evaluate this claim?",
+    "choices": {
+      "A": "They support it because 1.08 m/s is twice 1.08 m/s.",
+      "B": "They support it because the 400 g cart was released from twice the height.",
+      "C": "They contradict it because both masses produced the same mean speed of 1.08 m/s.",
+      "D": "They cannot evaluate it because Experiment 2 did not vary mass."
+    },
+    "correct": "C",
+    "explanation": "At the same 15 cm height, the 200 g and 400 g carts both had a mean speed of 1.08 m/s."
+  }
+]

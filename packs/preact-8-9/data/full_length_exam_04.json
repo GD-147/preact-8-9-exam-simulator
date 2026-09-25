@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "EN4-001",
+    "prompt": "In a passage about students running a school repair workshop, Priya recalls opening day: “Before the first customer <u>arrived we sorted thread, buckles, and tools into labeled bins</u>.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "arrived, we sorted thread, buckles, and tools into labeled bins",
+      "C": "arrived; we sorted thread, buckles, and tools into labeled bins",
+      "D": "arrived we sorted, thread, buckles, and tools into labeled bins"
+    },
+    "correct": "B",
+    "explanation": "A comma should follow the introductory dependent clause “Before the first customer arrived.” A semicolon cannot separate that dependent clause from the main clause."
+  },
+  {
+    "id": "EN4-002",
+    "prompt": "The passage describes supplies at the repair table: “A basket of spare buckles and zippers <u>sit</u> beside the sewing kit.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have sat",
+      "C": "sits",
+      "D": "are sitting"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “basket” requires the singular verb “sits.” The plural nouns in the prepositional phrase do not control the verb."
+  },
+  {
+    "id": "EN4-003",
+    "prompt": "Priya explains why one repair required extra time: “<u>We set aside a torn backpack because its fabric needed a patch beneath the damaged area.</u>” Which choice is a complete sentence that clearly expresses the cause-and-effect relationship?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "Setting aside a torn backpack. Because its fabric needed a patch beneath the damaged area.",
+      "C": "Because its fabric needed a patch beneath the damaged area.",
+      "D": "A torn backpack, needing a patch beneath the damaged area."
+    },
+    "correct": "A",
+    "explanation": "The original is a complete sentence that clearly connects the decision to its reason. Each other choice contains at least one fragment."
+  },
+  {
+    "id": "EN4-004",
+    "prompt": "The passage states, “When Priya handed Marisol the curved needle, <u>she</u> stitched the loose strap back into place.” The writer wants to make clear that Marisol did the stitching. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "the student",
+      "C": "Priya",
+      "D": "Marisol"
+    },
+    "correct": "D",
+    "explanation": "Naming Marisol makes it clear who stitched the strap. The pronoun and the vague phrase “the student” could refer to either person."
+  },
+  {
+    "id": "EN4-005",
+    "prompt": "The passage describes an important tool: “The workshop's only sewing machine <u>which was borrowed from the costume department</u> stood near the window.” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "which was borrowed from the costume department,",
+      "C": ", which was borrowed from the costume department,",
+      "D": ", which was borrowed from the costume department"
+    },
+    "correct": "C",
+    "explanation": "Because “only sewing machine” fully identifies the tool, the added description is nonessential and must be enclosed by commas. One comma alone marks only one boundary."
+  },
+  {
+    "id": "EN4-006",
+    "prompt": "Priya narrates work completed during the workshop: “Marisol aligned the zipper while I <u>fasten</u> the fabric with clips.” Which choice best maintains the sentence's verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "fastened",
+      "C": "will fasten",
+      "D": "am fastening"
+    },
+    "correct": "B",
+    "explanation": "“Fastened” matches the past-tense verb “aligned.” The present and future forms create an unnecessary tense shift."
+  },
+  {
+    "id": "EN4-007",
+    "prompt": "The passage describes Priya repairing a chair: “<u>After tightening the screw, the loose chair leg no longer wobbled for Priya.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "After tightening the screw, Priya found that the chair leg no longer wobbled.",
+      "C": "After tightening the screw, the chair leg became less loose for Priya.",
+      "D": "The loose chair leg, after tightening the screw, no longer wobbled for Priya."
+    },
+    "correct": "B",
+    "explanation": "Priya is the person who tightened the screw, so her name must follow the introductory phrase. The original illogically suggests that the chair leg tightened the screw."
+  },
+  {
+    "id": "EN4-008",
+    "prompt": "Priya explains the workshop's policy: “Every repair was <u>free of cost, and the workshop did not charge any money</u>.” Which choice is most concise while preserving the meaning?",
+    "choices": {
+      "A": "free",
+      "B": "free of any cost whatsoever",
+      "C": "without a charge of money",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Free” fully conveys that no money was charged. The other choices repeat or lengthen the same idea."
+  },
+  {
+    "id": "EN4-009",
+    "prompt": "In a passage with a warm, reflective tone, Priya describes an early mistake: “We sewed a pocket slightly crooked and had to remove every stitch. <u>It was the most horrible failure imaginable.</u>” Which choice best matches the passage's tone?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "The setback taught us to pin each piece before sewing it.",
+      "C": "Our sewing skills were obviously a complete joke.",
+      "D": "Whatever—we just ripped it apart and moved on."
+    },
+    "correct": "B",
+    "explanation": "This choice acknowledges the problem and explains what the students learned. The other options are exaggerated, mocking, or dismissive."
+  },
+  {
+    "id": "EN4-010",
+    "prompt": "A passage about a school repair workshop begins, “On one table lay a backpack with a torn strap. On another sat a desk lamp that flickered whenever its cord moved.” Which choice would most effectively introduce the passage's focus on students learning to repair useful objects?",
+    "choices": {
+      "A": "Backpacks are available in many colors and sizes.",
+      "B": "The tables had been moved from a science classroom.",
+      "C": "Instead of throwing these objects away, our student team planned to diagnose each problem and attempt a careful repair.",
+      "D": "Desk lamps can provide light for reading or writing."
+    },
+    "correct": "C",
+    "explanation": "This sentence connects the damaged objects to the team's purpose and process. The other choices offer side facts rather than introducing the main focus."
+  },
+  {
+    "id": "EN4-011",
+    "prompt": "In a paragraph about repairing a backpack, Priya writes: “First, we removed the broken buckle from the strap. Next, we measured the strap's width and selected a matching replacement. _____, we threaded the strap through the new buckle and tested it.” Which choice provides the most logical transition?",
+    "choices": {
+      "A": "In contrast",
+      "B": "Finally",
+      "C": "For example",
+      "D": "Nevertheless"
+    },
+    "correct": "B",
+    "explanation": "“Finally” completes the chronological sequence begun by “First” and “Next.” The other transitions signal contrast or an example."
+  },
+  {
+    "id": "EN4-012",
+    "prompt": "A paragraph explains that the repair team photographed each damaged item, wrote a short repair plan, and tested the object before returning it. The writer is considering adding this sentence: “The gym floor was polished during summer break.” Should the writer add the sentence?",
+    "choices": {
+      "A": "Yes, because the gym is part of the same school.",
+      "B": "Yes, because polished floors are examples of well-maintained objects.",
+      "C": "No, because summer break should not be mentioned in a school passage.",
+      "D": "No, because the detail distracts from the paragraph's focus on the team's repair process."
+    },
+    "correct": "D",
+    "explanation": "The condition of the gym floor does not explain any step in the repair process. Sharing a school setting does not make the detail relevant."
+  },
+  {
+    "id": "EN4-013",
+    "prompt": "A paragraph about the repair workshop contains these sentences:\n[1] A desk lamp flickered whenever its cord bent near the plug. [2] The students discovered a loose wire inside the plug casing. [3] With a teacher supervising, they secured the wire and closed the casing. [4] The lamp then stayed on as the cord moved.\nThe writer wants to add this sentence: “The loose connection had interrupted the flow of electricity.” Where should the sentence be placed?",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 2",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains how the loose wire identified in sentence 2 caused the flickering. It should appear before sentence 3 describes the repair."
+  },
+  {
+    "id": "EN4-014",
+    "prompt": "At the end of a passage about a school repair workshop, Priya describes students carrying home objects that work again. Which concluding sentence best emphasizes the value of the experience?",
+    "choices": {
+      "A": "Our repairs were small, but each one showed us that patience and practical skills can keep a useful object in service.",
+      "B": "The workshop tables were folded and stored after the event.",
+      "C": "Many stores sell new backpacks, lamps, and chairs.",
+      "D": "The school building has several storage closets."
+    },
+    "correct": "A",
+    "explanation": "This conclusion connects the repaired objects to the students' broader lesson about skill and reuse. The other choices end with unrelated details."
+  },
+  {
+    "id": "EN4-015",
+    "prompt": "In a passage about students reconstructing a community dance, the writer describes their sources: “They studied several former <u>dancers notebooks</u> from the town archive.” Which choice correctly forms the plural possessive?",
+    "choices": {
+      "A": "dancers notebooks",
+      "B": "dancer's notebooks",
+      "C": "dancers' notebooks",
+      "D": "dancers notebook's"
+    },
+    "correct": "C",
+    "explanation": "The notebooks belonged to several dancers, so the apostrophe follows the plural noun “dancers.” “Dancer's” would indicate one dancer."
+  },
+  {
+    "id": "EN4-016",
+    "prompt": "The passage explains what one notebook contained: “A page showed four numbered <u>steps the students practiced them in the same order.</u>” Which choice best corrects the run-on sentence?",
+    "choices": {
+      "A": "steps, the students practiced them in the same order.",
+      "B": "steps; the students practiced them in the same order.",
+      "C": "steps the students practiced them, in the same order.",
+      "D": "steps being practiced by the students in the same order."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly joins the two related independent clauses. A comma alone would create a comma splice."
+  },
+  {
+    "id": "EN4-017",
+    "prompt": "The writer lists the students' research methods: “They reconstructed the dance by <u>watching old films, interviewing former dancers, and to practice the recorded steps</u>.” Which choice makes the list parallel?",
+    "choices": {
+      "A": "watching old films, interviewing former dancers, and practicing the recorded steps",
+      "B": "to watch old films, interviewing former dancers, and practicing the recorded steps",
+      "C": "watching old films, former dancers were interviewed, and practicing the recorded steps",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "The three gerunds “watching,” “interviewing,” and “practicing” create a parallel list. The other choices mix grammatical forms."
+  },
+  {
+    "id": "EN4-018",
+    "prompt": "The passage introduces the dance's three main sections: “The reconstructed dance follows a clear pattern <u>a walking circle, a partner turn, and a final clap sequence.</u>” Which choice correctly punctuates the underlined portion?",
+    "choices": {
+      "A": ", a walking circle, a partner turn, and a final clap sequence.",
+      "B": "; a walking circle, a partner turn, and a final clap sequence.",
+      "C": ": a walking circle, a partner turn, and a final clap sequence.",
+      "D": "a walking circle, a partner turn, and a final clap sequence."
+    },
+    "correct": "C",
+    "explanation": "A colon properly introduces the list after the complete clause. A comma or semicolon does not correctly introduce this list."
+  },
+  {
+    "id": "EN4-019",
+    "prompt": "The writer describes a rehearsal group: “The four dancers checked <u>his or her</u> position before the music began.” Which choice makes the pronoun agree with its plural antecedent?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "their",
+      "C": "its",
+      "D": "your"
+    },
+    "correct": "B",
+    "explanation": "The plural pronoun “their” agrees with the plural antecedent “dancers.” “His or her” is singular."
+  },
+  {
+    "id": "EN4-020",
+    "prompt": "The passage reports advice from a former dancer: “Ms. Vega suggested <u>to repeat</u> the partner turn slowly before adding music.” Which choice uses the standard verb form?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "repeat",
+      "C": "having repeated",
+      "D": "repeating"
+    },
+    "correct": "D",
+    "explanation": "The standard construction is “suggested repeating.” “Suggested to repeat” is not the accepted form in this sentence."
+  },
+  {
+    "id": "EN4-021",
+    "prompt": "The passage describes the dance: “A sequence of six quick steps <u>lead</u> into the partner turn.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "leads",
+      "C": "have led",
+      "D": "are leading"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “sequence” requires the singular verb “leads.” The plural noun “steps” is part of a prepositional phrase."
+  },
+  {
+    "id": "EN4-022",
+    "prompt": "The passage quotes Ms. Vega during rehearsal: “<u>Keep your shoulders relaxed she advised and listen for the drum.</u>” Which choice correctly punctuates the quotation and the interrupting dialogue tag?",
+    "choices": {
+      "A": "“Keep your shoulders relaxed,” she advised, “and listen for the drum.”",
+      "B": "“Keep your shoulders relaxed” she advised, “and listen for the drum.”",
+      "C": "“Keep your shoulders relaxed,” she advised “and listen for the drum.”",
+      "D": "“Keep your shoulders relaxed” she advised “and listen for the drum.”"
+    },
+    "correct": "A",
+    "explanation": "Commas set off the interrupting dialogue tag “she advised.” The other choices omit one or both required commas."
+  },
+  {
+    "id": "EN4-023",
+    "prompt": "The writer describes the final beat of the dance: “At the drum's last note, each pair <u>did a movement around</u> to face the center.” Which choice is most precise and concise?",
+    "choices": {
+      "A": "moved themselves around",
+      "B": "pivoted",
+      "C": "did a turning motion",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "“Pivoted” precisely describes a turn made in place. The other choices are vague or unnecessarily wordy."
+  },
+  {
+    "id": "EN4-024",
+    "prompt": "The dance passage states, “After the partner turn, the dancers <u>returned back</u> to the circle.” Which choice is the most concise without changing the meaning?",
+    "choices": {
+      "A": "returned",
+      "B": "went returning back",
+      "C": "returned back again",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "“Returned” already means went back, so “back” is redundant. The other choices repeat or complicate the same idea."
+  },
+  {
+    "id": "EN4-025",
+    "prompt": "A paragraph about reconstructing the dance contains these sentences:\n[1] One notebook labeled a movement only as “the window.” [2] The phrase did not explain what the dancers' arms or feet should do. [3] _____ [4] Her demonstration showed that partners raised their joined hands while turning beneath them.\nWhich choice provides the most logical sentence for the blank?",
+    "choices": {
+      "A": "The archive stores notebooks in acid-free boxes.",
+      "B": "Ms. Vega remembered the nickname and demonstrated the movement during an interview.",
+      "C": "Windows admit light and air into many buildings.",
+      "D": "The students wore comfortable shoes to every rehearsal."
+    },
+    "correct": "B",
+    "explanation": "This sentence explains how the students resolved the unclear phrase and leads directly to the demonstration in sentence 4. The other details do not clarify the movement."
+  },
+  {
+    "id": "EN4-026",
+    "prompt": "In a passage about reconstructing a community dance, the writer wants to support the claim that combining sources produced a more accurate result. Which choice provides the most relevant supporting detail?",
+    "choices": {
+      "A": "A notebook supplied the order of the steps, while an old film and Ms. Vega's demonstration clarified how the turns were performed.",
+      "B": "The rehearsal room had mirrors along one wall.",
+      "C": "Several students brought water bottles to practice.",
+      "D": "The archive opened at nine o'clock each morning."
+    },
+    "correct": "A",
+    "explanation": "This detail shows that different sources contributed complementary information. The other choices do not address the accuracy of the reconstruction."
+  },
+  {
+    "id": "EN4-027",
+    "prompt": "A passage about a community dance first describes incomplete clues in an archive, then follows students as they interview former dancers and rehearse, and finally depicts a public performance. Which choice best explains why this organization is effective?",
+    "choices": {
+      "A": "It compares the dance with several unrelated traditions.",
+      "B": "It presents the performance before explaining how the steps were found.",
+      "C": "It moves from a research problem through the reconstruction process to the completed dance.",
+      "D": "It ranks the dancers according to their skill."
+    },
+    "correct": "C",
+    "explanation": "The passage follows a clear problem-process-result structure. The other choices misdescribe its content or sequence."
+  },
+  {
+    "id": "EN4-028",
+    "prompt": "In a passage about students testing model rain gardens, the writer states, “Water flowed through the gravel tray <u>and Noor measured the amount collected below.</u>” Which choice correctly punctuates the two independent clauses?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", and Noor measured the amount collected below.",
+      "C": "and, Noor measured the amount collected below.",
+      "D": "; and Noor measured the amount collected below."
+    },
+    "correct": "B",
+    "explanation": "A comma before the coordinating conjunction “and” correctly joins the two independent clauses. A semicolon should not be combined with “and” in this construction."
+  },
+  {
+    "id": "EN4-029",
+    "prompt": "The passage describes one model: “The row of drainage holes along the tray's edge <u>allow</u> extra water to escape.” Which choice makes the verb agree with its subject?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "have allowed",
+      "C": "allows",
+      "D": "are allowing"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “row” requires the singular verb “allows.” The plural noun “holes” is inside a prepositional phrase."
+  },
+  {
+    "id": "EN4-030",
+    "prompt": "The writer states, “Noor placed the clay tray beside the gravel tray before <u>it</u> was weighed.” The writer wants to make clear that the clay tray was weighed. Which choice best accomplishes this goal?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "that object",
+      "C": "the clay tray",
+      "D": "the gravel tray"
+    },
+    "correct": "C",
+    "explanation": "Replacing “it” with “the clay tray” clearly identifies what was weighed. The original pronoun could refer to either tray."
+  },
+  {
+    "id": "EN4-031",
+    "prompt": "The passage describes a test conducted last Friday: “The students poured one cup of water into each model and <u>record</u> the drainage time.” Which choice best maintains consistent verb tense?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "will record",
+      "C": "are recording",
+      "D": "recorded"
+    },
+    "correct": "D",
+    "explanation": "“Recorded” matches the past-tense verb “poured” and the completed time marker “last Friday.” The other choices shift to present or future time."
+  },
+  {
+    "id": "EN4-032",
+    "prompt": "The writer describes Eli observing a test: “<u>Watching the timer, the water seemed to drain slowly to Eli.</u>” Which choice best corrects the misplaced modifier?",
+    "choices": {
+      "A": "Watching the timer, Eli noticed that the water drained slowly.",
+      "B": "Watching the timer, the slowly draining water was noticed by Eli.",
+      "C": "The water, watching the timer, seemed to drain slowly to Eli.",
+      "D": "Eli, the water seemed slow while watching the timer."
+    },
+    "correct": "A",
+    "explanation": "Eli is the person watching the timer, so his name must follow the introductory phrase. The original illogically suggests that the water was watching."
+  },
+  {
+    "id": "EN4-033",
+    "prompt": "The passage contrasts two model soils: “The packed clay drained <u>slowly however, the loose mixture released water at a steady rate.</u>” Which choice correctly joins the independent clauses?",
+    "choices": {
+      "A": "slowly, however, the loose mixture released water at a steady rate.",
+      "B": "slowly; however, the loose mixture released water at a steady rate.",
+      "C": "slowly however; the loose mixture released water at a steady rate.",
+      "D": "slowly however the loose mixture released water at a steady rate."
+    },
+    "correct": "B",
+    "explanation": "A semicolon separates the independent clauses, and a comma follows the conjunctive adverb “however.” A comma before “however” alone would create a comma splice."
+  },
+  {
+    "id": "EN4-034",
+    "prompt": "The passage describes a feature of one tray: “The <u>models outlet</u> directed water into a measuring cup.” Which choice correctly forms the singular possessive?",
+    "choices": {
+      "A": "models outlet",
+      "B": "models' outlet",
+      "C": "model's outlet",
+      "D": "model outlet's"
+    },
+    "correct": "C",
+    "explanation": "The outlet belongs to one model, so the singular possessive “model's” is correct. “Models'” would refer to multiple models."
+  },
+  {
+    "id": "EN4-035",
+    "prompt": "The writer compares drainage speeds: “Water moved through the gravel mixture <u>in a way that was more rapid</u> than through the packed clay.” Which choice is clearest and most concise?",
+    "choices": {
+      "A": "with more rapid speed",
+      "B": "more rapidly",
+      "C": "in a more rapidly moving way",
+      "D": "NO CHANGE"
+    },
+    "correct": "B",
+    "explanation": "“More rapidly” expresses the comparison directly and correctly modifies “moved.” The other choices are wordy or awkward."
+  },
+  {
+    "id": "EN4-036",
+    "prompt": "The passage uses a clear, explanatory style. It states, “Spaces between pieces of gravel allow water to pass through. <u>The gravel basically lets the water zoom on by.</u>” Which choice best matches the passage's style?",
+    "choices": {
+      "A": "As a result, water drains readily through the gravel layer.",
+      "B": "The gravel gives water a speedy little highway.",
+      "C": "So the water just shoots through, no problem.",
+      "D": "NO CHANGE"
+    },
+    "correct": "A",
+    "explanation": "This choice states the result precisely and maintains an informative tone. The other options are slangy or overly figurative."
+  },
+  {
+    "id": "EN4-037",
+    "prompt": "A passage about model rain gardens begins, “Noor poured a cup of water onto two trays at the same moment. Water pooled on the packed clay, but it quickly disappeared into a tray filled with soil and gravel.” Which choice would most effectively introduce the passage's focus on testing how rain-garden materials affect drainage?",
+    "choices": {
+      "A": "The cups used in the test were made from clear plastic.",
+      "B": "Clay is used to make bricks, tiles, and pottery.",
+      "C": "The class wanted to measure which mixtures slowed runoff while still allowing water to soak through.",
+      "D": "Rain may fall as a drizzle or a heavy storm."
+    },
+    "correct": "C",
+    "explanation": "This sentence turns the opening observation into the question the class investigates. The other choices provide side facts rather than the main focus."
+  },
+  {
+    "id": "EN4-038",
+    "prompt": "In a paragraph about testing model rain gardens, the writer explains that students ran each drainage test three times. The writer wants to emphasize why repeated trials were useful. Which sentence would best accomplish this purpose?",
+    "choices": {
+      "A": "The students rinsed the measuring cups after each test.",
+      "B": "Repeated trials helped the class identify unusual results and calculate a more dependable average drainage time.",
+      "C": "Each tray was labeled with a letter.",
+      "D": "The classroom had a large sink near the door."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly explains how repeated trials improved the reliability of the results. The other choices describe equipment or procedures without explaining the value of repetition."
+  },
+  {
+    "id": "EN4-039",
+    "prompt": "A passage about model rain gardens includes the following paragraph:\n[1] Water remained on the packed clay for several minutes. [2] The gravel-only tray drained almost immediately. [3] _____ [4] The class concluded that the mixed material balanced drainage with temporary water storage.\nWhich choice provides the most logical transition for sentence 3?",
+    "choices": {
+      "A": "For example, gravel is sold in bags at garden centers.",
+      "B": "Meanwhile, several students dried the table with towels.",
+      "C": "In contrast, the soil-and-gravel mixture held some water briefly before releasing it at a steady rate.",
+      "D": "Similarly, every tray was the same shade of blue."
+    },
+    "correct": "C",
+    "explanation": "“In contrast” introduces the mixed tray's middle result between the two extremes. That evidence directly supports the conclusion in sentence 4."
+  },
+  {
+    "id": "EN4-040",
+    "prompt": "At the end of a passage about model rain gardens, the writer explains that the class shared its findings with a group planning a garden beside the school parking lot. Which concluding sentence best reinforces the passage's main idea without exaggerating the results?",
+    "choices": {
+      "A": "The small models proved that one soil mixture will prevent every flood.",
+      "B": "Clearly, all parking lots should be replaced by gardens.",
+      "C": "Gardens may contain flowers in many colors.",
+      "D": "Although the models could not predict every storm, their measurements gave the planners useful evidence for choosing materials."
+    },
+    "correct": "D",
+    "explanation": "This conclusion recognizes the study's limits while explaining its practical value. The other choices exaggerate the findings or shift away from the main idea."
+  },
+  {
+    "id": "M4-001",
+    "prompt": "What is the value of −3 + |−8|?",
+    "choices": {
+      "A": "−11",
+      "B": "−5",
+      "C": "5",
+      "D": "8",
+      "E": "11"
+    },
+    "correct": "C",
+    "explanation": "|−8| = 8, so −3 + |−8| = −3 + 8 = 5."
+  },
+  {
+    "id": "M4-002",
+    "prompt": "What value of x satisfies 9 + 3x = −6?",
+    "choices": {
+      "A": "−5",
+      "B": "−3",
+      "C": "−1",
+      "D": "1",
+      "E": "5"
+    },
+    "correct": "A",
+    "explanation": "Subtract 9 from both sides to get 3x = −15, and then divide by 3 to get x = −5."
+  },
+  {
+    "id": "M4-003",
+    "prompt": "Two angles are complementary. If one angle measures 37°, what is the measure of the other angle?",
+    "choices": {
+      "A": "37°",
+      "B": "43°",
+      "C": "53°",
+      "D": "127°",
+      "E": "143°"
+    },
+    "correct": "C",
+    "explanation": "Complementary angles sum to 90°, so the other angle measures 90° − 37° = 53°."
+  },
+  {
+    "id": "M4-004",
+    "prompt": "A liquid is at 86°C when cooling begins. Its temperature decreases at a constant rate, as shown in the table.\n\nt (minutes) | 0 | 2 | 4 | 6\nT (°C)      | 86 | 80 | 74 | 68\n\nWhich equation gives the temperature T after t minutes?",
+    "choices": {
+      "A": "T = 86 − 3t",
+      "B": "T = 86 − 6t",
+      "C": "T = 86 + 3t",
+      "D": "T = 43 − 3t",
+      "E": "T = 3t"
+    },
+    "correct": "A",
+    "explanation": "The temperature starts at 86°C and decreases by 6°C every 2 minutes, a rate of −3°C per minute. Therefore, T = 86 − 3t."
+  },
+  {
+    "id": "M4-005",
+    "prompt": "What is the median of the data set 5, 7, 8, 11, 12, 15?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "9.5",
+      "D": "10",
+      "E": "11"
+    },
+    "correct": "C",
+    "explanation": "There are 6 ordered values, so the median is the mean of the third and fourth values: (8 + 11) ÷ 2 = 9.5."
+  },
+  {
+    "id": "M4-006",
+    "prompt": "Which of the following is 0.00072 written in scientific notation?",
+    "choices": {
+      "A": "7.2 × 10⁻⁵",
+      "B": "7.2 × 10⁻⁴",
+      "C": "7.2 × 10⁴",
+      "D": "72 × 10⁻⁴",
+      "E": "72 × 10⁻³"
+    },
+    "correct": "B",
+    "explanation": "Moving the decimal point 4 places to the right changes 0.00072 to 7.2, so 0.00072 = 7.2 × 10⁻⁴."
+  },
+  {
+    "id": "M4-007",
+    "prompt": "Four friends share a restaurant subtotal of $72 equally. An 8% sales tax is added before the bill is divided. How much does each friend pay?",
+    "choices": {
+      "A": "$18.00",
+      "B": "$18.72",
+      "C": "$19.08",
+      "D": "$19.44",
+      "E": "$23.76"
+    },
+    "correct": "D",
+    "explanation": "With 8% tax, the total is $72 × 1.08 = $77.76. Dividing equally among 4 friends gives $77.76 ÷ 4 = $19.44."
+  },
+  {
+    "id": "M4-008",
+    "prompt": "Five notebooks cost $13.75. At the same unit price, how much do 8 notebooks cost?",
+    "choices": {
+      "A": "$18.75",
+      "B": "$20.00",
+      "C": "$21.25",
+      "D": "$22.00",
+      "E": "$24.75"
+    },
+    "correct": "D",
+    "explanation": "Each notebook costs $13.75 ÷ 5 = $2.75. Eight notebooks cost 8 × $2.75 = $22.00."
+  },
+  {
+    "id": "M4-009",
+    "prompt": "A triangular banner has a base of 14 inches and a perpendicular height of 9 inches. What is the area of the banner?",
+    "choices": {
+      "A": "23 square inches",
+      "B": "46 square inches",
+      "C": "63 square inches",
+      "D": "126 square inches",
+      "E": "252 square inches"
+    },
+    "correct": "C",
+    "explanation": "The area of a triangle is (1/2) × base × height, so the area is (1/2) × 14 × 9 = 63 square inches."
+  },
+  {
+    "id": "M4-010",
+    "prompt": "A fair spinner is divided into 12 equal sections numbered 1 through 12. What is the probability of landing on a multiple of 3?",
+    "choices": {
+      "A": "1/4",
+      "B": "1/3",
+      "C": "5/12",
+      "D": "1/2",
+      "E": "2/3"
+    },
+    "correct": "B",
+    "explanation": "The multiples of 3 are 3, 6, 9, and 12, giving 4 favorable sections out of 12. The probability is 4/12 = 1/3."
+  },
+  {
+    "id": "M4-011",
+    "prompt": "What is the value of 2⁴ + √36?",
+    "choices": {
+      "A": "10",
+      "B": "16",
+      "C": "20",
+      "D": "22",
+      "E": "28"
+    },
+    "correct": "D",
+    "explanation": "2⁴ = 16 and √36 = 6, so 2⁴ + √36 = 16 + 6 = 22."
+  },
+  {
+    "id": "M4-012",
+    "prompt": "The first four terms of a sequence are 160, 80, 40, and 20. Each term after the first is 1/2 of the preceding term. What is the sixth term?",
+    "choices": {
+      "A": "2.5",
+      "B": "5",
+      "C": "10",
+      "D": "20",
+      "E": "40"
+    },
+    "correct": "B",
+    "explanation": "Continuing to multiply by 1/2 gives the fifth term 10 and the sixth term 5."
+  },
+  {
+    "id": "M4-013",
+    "prompt": "A phone plan costs $18 per month plus $0.12 for each text message sent. If a customer can spend at most $30 for the month, what is the greatest number of text messages the customer can send?",
+    "choices": {
+      "A": "90",
+      "B": "96",
+      "C": "100",
+      "D": "120",
+      "E": "250"
+    },
+    "correct": "C",
+    "explanation": "After the $18 monthly charge, $12 remains. At $0.12 per message, the customer can send $12 ÷ $0.12 = 100 messages."
+  },
+  {
+    "id": "M4-014",
+    "prompt": "Point Q has coordinates (−3, 4). It is rotated 180° about the origin. What are the coordinates of the image of Q?",
+    "choices": {
+      "A": "(−4, 3)",
+      "B": "(−3, −4)",
+      "C": "(3, −4)",
+      "D": "(3, 4)",
+      "E": "(4, −3)"
+    },
+    "correct": "C",
+    "explanation": "A 180° rotation about the origin maps (x, y) to (−x, −y), so (−3, 4) maps to (3, −4)."
+  },
+  {
+    "id": "M4-015",
+    "prompt": "The table shows whether 100 students participate in a school music program.\n\n          | Participates | Does not participate | Total\nGrade 8   | 32           | 18                   | 50\nGrade 9   | 24           | 26                   | 50\nTotal     | 56           | 44                   | 100\n\nOne student is selected at random from the students who do not participate. What is the probability that the selected student is in Grade 9?",
+    "choices": {
+      "A": "9/50",
+      "B": "13/50",
+      "C": "9/22",
+      "D": "13/22",
+      "E": "11/14"
+    },
+    "correct": "D",
+    "explanation": "Of the 44 students who do not participate, 26 are in Grade 9. The probability is 26/44 = 13/22."
+  },
+  {
+    "id": "M4-016",
+    "prompt": "A faucet fills 1.5 liters every 30 seconds at a constant rate. How many liters does the faucet fill in 8 minutes?",
+    "choices": {
+      "A": "12 liters",
+      "B": "16 liters",
+      "C": "20 liters",
+      "D": "24 liters",
+      "E": "40 liters"
+    },
+    "correct": "D",
+    "explanation": "Eight minutes is 480 seconds, which contains 480 ÷ 30 = 16 intervals. The faucet fills 16 × 1.5 = 24 liters."
+  },
+  {
+    "id": "M4-017",
+    "prompt": "A customer buys 20 items consisting only of pens and notebooks. Each pen costs $2, each notebook costs $5, and the total cost is $64. How many notebooks does the customer buy?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "14"
+    },
+    "correct": "B",
+    "explanation": "Let p be pens and n be notebooks. Then p + n = 20 and 2p + 5n = 64. Substituting p = 20 − n gives 40 + 3n = 64, so n = 8."
+  },
+  {
+    "id": "M4-018",
+    "prompt": "A wildlife population begins at 600 animals and decreases by 10% each year. If the same percentage decrease continues, what will the population be after 2 years?",
+    "choices": {
+      "A": "480",
+      "B": "486",
+      "C": "490",
+      "D": "500",
+      "E": "540"
+    },
+    "correct": "B",
+    "explanation": "A 10% annual decrease leaves 90% each year. After 2 years, the population is 600 × 0.9² = 600 × 0.81 = 486."
+  },
+  {
+    "id": "M4-019",
+    "prompt": "A sphere has a radius of 3 centimeters. What is its volume?",
+    "choices": {
+      "A": "9π cubic centimeters",
+      "B": "12π cubic centimeters",
+      "C": "18π cubic centimeters",
+      "D": "27π cubic centimeters",
+      "E": "36π cubic centimeters"
+    },
+    "correct": "E",
+    "explanation": "A sphere's volume is (4/3)πr³. With r = 3, the volume is (4/3) × π × 3³ = (4/3) × 27π = 36π cubic centimeters."
+  },
+  {
+    "id": "M4-020",
+    "prompt": "A linear model y = 2.5x + 18 estimates the number y of visitors, in thousands, to a park x months after a new exhibit opens. According to the model, how many visitors are predicted 12 months after the exhibit opens?",
+    "choices": {
+      "A": "30,000 visitors",
+      "B": "43,000 visitors",
+      "C": "48,000 visitors",
+      "D": "50,500 visitors",
+      "E": "66,000 visitors"
+    },
+    "correct": "C",
+    "explanation": "Substitute x = 12: y = 2.5(12) + 18 = 30 + 18 = 48. Since y is measured in thousands, the prediction is 48,000 visitors."
+  },
+  {
+    "id": "M4-021",
+    "prompt": "What is the value of (10⁻²)(10⁵)?",
+    "choices": {
+      "A": "0.001",
+      "B": "10",
+      "C": "100",
+      "D": "1,000",
+      "E": "100,000"
+    },
+    "correct": "D",
+    "explanation": "Multiply powers with the same base by adding exponents: (10⁻²)(10⁵) = 10³ = 1,000."
+  },
+  {
+    "id": "M4-022",
+    "prompt": "The equation x² − x − 20 = 0 has two solutions. What is the negative solution?",
+    "choices": {
+      "A": "−20",
+      "B": "−5",
+      "C": "−4",
+      "D": "4",
+      "E": "5"
+    },
+    "correct": "C",
+    "explanation": "Factoring gives x² − x − 20 = (x − 5)(x + 4), so the solutions are 5 and −4. The negative solution is −4."
+  },
+  {
+    "id": "M4-023",
+    "prompt": "A function is defined by f(x) = −3x + 7. For what value of x is f(x) = −8?",
+    "choices": {
+      "A": "−5",
+      "B": "−1/3",
+      "C": "1/3",
+      "D": "3",
+      "E": "5"
+    },
+    "correct": "E",
+    "explanation": "Set −3x + 7 = −8. Then −3x = −15, so x = 5."
+  },
+  {
+    "id": "M4-024",
+    "prompt": "A rectangular lot is represented on a scale drawing by a rectangle 8 centimeters long and 5 centimeters wide. The drawing uses a scale of 1:250. What is the actual perimeter of the lot in meters?",
+    "choices": {
+      "A": "32.5 meters",
+      "B": "52 meters",
+      "C": "65 meters",
+      "D": "130 meters",
+      "E": "650 meters"
+    },
+    "correct": "C",
+    "explanation": "The actual dimensions are 8 × 250 = 2,000 centimeters and 5 × 250 = 1,250 centimeters, or 20 meters and 12.5 meters. The perimeter is 2(20 + 12.5) = 65 meters."
+  },
+  {
+    "id": "M4-025",
+    "prompt": "Machine A produces items at a constant rate, as shown in the table. Machine B's total production after x minutes is given by B = 2.5x + 20.\n\nx (minutes) | 0 | 5 | 10\nMachine A items | 12 | 27 | 42\n\nAfter 20 minutes, how does Machine A's production compare with Machine B's production?",
+    "choices": {
+      "A": "Machine A produces 2 fewer items.",
+      "B": "Machine A produces 2 more items.",
+      "C": "Machine A produces 8 fewer items.",
+      "D": "Machine A produces 8 more items.",
+      "E": "The machines produce the same number of items."
+    },
+    "correct": "B",
+    "explanation": "Machine A increases by 15 items every 5 minutes, or 3 items per minute, and starts at 12. After 20 minutes it produces 12 + 3(20) = 72 items. Machine B produces 2.5(20) + 20 = 70 items, so Machine A produces 2 more."
+  },
+  {
+    "id": "M4-026",
+    "prompt": "A circular pond has a radius of 6 meters. A walkway 2 meters wide is built around the outside of the pond. What is the area of the walkway?",
+    "choices": {
+      "A": "4π square meters",
+      "B": "16π square meters",
+      "C": "20π square meters",
+      "D": "28π square meters",
+      "E": "64π square meters"
+    },
+    "correct": "D",
+    "explanation": "The outer radius is 6 + 2 = 8 meters. The walkway area is π(8²) − π(6²) = 64π − 36π = 28π square meters."
+  },
+  {
+    "id": "M4-027",
+    "prompt": "What value of x satisfies 5(2x + 1) − 3(x − 4) = 45?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "7",
+      "E": "8"
+    },
+    "correct": "B",
+    "explanation": "Expanding gives 10x + 5 − 3x + 12 = 45. Thus, 7x + 17 = 45, so 7x = 28 and x = 4."
+  },
+  {
+    "id": "M4-028",
+    "prompt": "Which of the following is an irrational number between 6 and 7?",
+    "choices": {
+      "A": "√35",
+      "B": "6.25",
+      "C": "√40",
+      "D": "√49",
+      "E": "∛216"
+    },
+    "correct": "C",
+    "explanation": "Since 36 < 40 < 49, 6 < √40 < 7. Because 40 is not a perfect square, √40 is irrational."
+  },
+  {
+    "id": "M4-029",
+    "prompt": "A rectangle in the coordinate plane has vertices (−2, 1), (5, 1), (5, 6), and (−2, 6). What is its perimeter?",
+    "choices": {
+      "A": "12 units",
+      "B": "19 units",
+      "C": "24 units",
+      "D": "35 units",
+      "E": "48 units"
+    },
+    "correct": "C",
+    "explanation": "The horizontal side length is 5 − (−2) = 7, and the vertical side length is 6 − 1 = 5. The perimeter is 2(7 + 5) = 24 units."
+  },
+  {
+    "id": "M4-030",
+    "prompt": "The table represents a linear function f.\n\nx    | −2 | 0 | 3 | 5\nf(x) | 9  | 5 | −1 | ?\n\nWhat is the missing value f(5)?",
+    "choices": {
+      "A": "−9",
+      "B": "−5",
+      "C": "−3",
+      "D": "3",
+      "E": "5"
+    },
+    "correct": "B",
+    "explanation": "From x = 0 to x = 3, f(x) changes from 5 to −1, giving a rate of −6/3 = −2. Therefore, f(5) = 5 − 2(5) = −5."
+  },
+  {
+    "id": "M4-031",
+    "prompt": "In a club of 40 students, 22 participate in art, 18 participate in music, and 7 participate in both art and music. One club member is selected at random. What is the probability that the selected student participates in neither art nor music?",
+    "choices": {
+      "A": "7/40",
+      "B": "9/40",
+      "C": "13/40",
+      "D": "29/40",
+      "E": "33/40"
+    },
+    "correct": "A",
+    "explanation": "The number participating in art or music is 22 + 18 − 7 = 33. Therefore, 40 − 33 = 7 students participate in neither, giving probability 7/40."
+  },
+  {
+    "id": "M4-032",
+    "prompt": "A rectangular water tank is 1.2 meters long, 0.5 meter wide, and 0.4 meter high. The tank is 75% full. How many liters of water are in the tank? Use 1 cubic meter = 1,000 liters.",
+    "choices": {
+      "A": "18 liters",
+      "B": "24 liters",
+      "C": "180 liters",
+      "D": "240 liters",
+      "E": "320 liters"
+    },
+    "correct": "C",
+    "explanation": "The tank's full volume is 1.2 × 0.5 × 0.4 = 0.24 cubic meter, or 240 liters. At 75% full, it contains 0.75 × 240 = 180 liters."
+  },
+  {
+    "id": "M4-033",
+    "prompt": "A market sells 30 baskets consisting only of small and large baskets. A small basket costs $8, a large basket costs $14, and the total revenue is $330. How many large baskets are sold?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "18",
+      "E": "20"
+    },
+    "correct": "C",
+    "explanation": "If all 30 baskets were small, the revenue would be $240. Each large basket adds $6, and $330 − $240 = $90. Therefore, $90 ÷ $6 = 15 large baskets were sold."
+  },
+  {
+    "id": "M4-034",
+    "prompt": "A rectangular prism measuring 9 centimeters by 6 centimeters by 4 centimeters is built from 1-centimeter cubes. How many of the cubes have at least one face exposed on the outside of the prism?",
+    "choices": {
+      "A": "56",
+      "B": "108",
+      "C": "144",
+      "D": "160",
+      "E": "216"
+    },
+    "correct": "D",
+    "explanation": "The prism contains 9 × 6 × 4 = 216 cubes. Cubes with no exposed face form an interior prism measuring 7 by 4 by 2, containing 56 cubes. Therefore, 216 − 56 = 160 cubes have at least one exposed face."
+  },
+  {
+    "id": "M4-035",
+    "prompt": "A bag contains 40 beads. Of the beads, 30% are red and 1/4 are blue. All remaining beads are green. If one bead is selected at random, what is the probability that it is green?",
+    "choices": {
+      "A": "1/4",
+      "B": "3/10",
+      "C": "2/5",
+      "D": "9/20",
+      "E": "11/20"
+    },
+    "correct": "D",
+    "explanation": "Of 40 beads, 30% are red, so there are 12 red beads, and 1/4 are blue, so there are 10 blue beads. The remaining 40 − 12 − 10 = 18 beads are green. The probability is 18/40 = 9/20."
+  },
+  {
+    "id": "R4-001",
+    "prompt": "Passage:\nA Cup That Could Be Held\n\nElena had promised twelve mugs for the school garden fundraiser, and she wanted them to look like a family. Each one rose in a smooth cylinder from the pottery wheel, with a narrow handle curved like a question mark. Lined together on the studio shelf, they seemed to be asking the same elegant question.\n\n“Who is going to answer them?” asked Mr. Bako, the art teacher.\n\nElena pointed to the paper sign taped above the shelf: MUGS—TWELVE DOLLARS. “Anyone with twelve dollars.”\n\nMr. Bako smiled. “Before the kiln, let someone try holding one.”\n\nAt lunch, Elena carried an unglazed mug to the library, where Ms. Chen supervised the help desk. Ms. Chen wore a soft brace on her right hand, but Elena had often seen her balance stacks of books against one hip. She slid two fingers toward the mug’s handle, stopped, and tried again with her other hand.\n\n“It’s lovely,” Ms. Chen said. “The opening is a little tight for me.”\n\nElena felt protective of the row waiting in the studio. A wider handle would interrupt the clean outline she had drawn in her sketchbook. “You could hold the cup around the middle.”\n\n“If it isn’t hot,” Ms. Chen replied. She said it gently, which somehow made Elena hear the problem more clearly.\n\nBack in the studio, Elena attached a thick loop to a practice cup. It looked oversized, like an ear on the wrong animal. She cut it off. On her second attempt, she flattened the outer curve and widened the space inside without adding much weight. The damp clay yielded beneath her thumb, leaving a shallow hollow where a person could rest a finger.\n\nMr. Bako filled the practice cup with warm water and invited several people to try it. One student held it with four fingers through the loop. Ms. Chen slipped in two fingers and steadied the flattened edge with her thumb. Another teacher, whose hands were large, said the original handle had pinched his knuckles. The new one did not.\n\nElena expected the wider handle to feel like a compromise she would have to hide. Instead, when she repeated it on the other mugs, the flattened curves created a strong rhythm across the shelf. They no longer looked identical—some thumb hollows were deeper than others—but they still looked related.\n\nOn the morning of the fundraiser, Ms. Chen chose a blue mug and lifted it without touching the hot middle. Elena watched the handle carry the weight exactly as she had hoped the narrow ones would.\n\n“It answers the question,” Mr. Bako said.\n\nElena looked at the remaining mugs. Their handles no longer seemed like question marks. They looked like open doors.\n\nQuestion:\nWhy does Elena initially resist making the mug handles wider?",
+    "choices": {
+      "A": "She believes wider handles will break the pottery wheel.",
+      "B": "She has already fired every mug in the kiln.",
+      "C": "Mr. Bako has forbidden her to change the original design.",
+      "D": "She worries that a wider handle will disrupt the clean appearance she planned."
+    },
+    "correct": "D",
+    "explanation": "Elena thinks a wider handle will interrupt the clean outline in her sketchbook and feels protective of the matching row of mugs."
+  },
+  {
+    "id": "R4-002",
+    "prompt": "Passage:\nA Cup That Could Be Held\n\nElena had promised twelve mugs for the school garden fundraiser, and she wanted them to look like a family. Each one rose in a smooth cylinder from the pottery wheel, with a narrow handle curved like a question mark. Lined together on the studio shelf, they seemed to be asking the same elegant question.\n\n“Who is going to answer them?” asked Mr. Bako, the art teacher.\n\nElena pointed to the paper sign taped above the shelf: MUGS—TWELVE DOLLARS. “Anyone with twelve dollars.”\n\nMr. Bako smiled. “Before the kiln, let someone try holding one.”\n\nAt lunch, Elena carried an unglazed mug to the library, where Ms. Chen supervised the help desk. Ms. Chen wore a soft brace on her right hand, but Elena had often seen her balance stacks of books against one hip. She slid two fingers toward the mug’s handle, stopped, and tried again with her other hand.\n\n“It’s lovely,” Ms. Chen said. “The opening is a little tight for me.”\n\nElena felt protective of the row waiting in the studio. A wider handle would interrupt the clean outline she had drawn in her sketchbook. “You could hold the cup around the middle.”\n\n“If it isn’t hot,” Ms. Chen replied. She said it gently, which somehow made Elena hear the problem more clearly.\n\nBack in the studio, Elena attached a thick loop to a practice cup. It looked oversized, like an ear on the wrong animal. She cut it off. On her second attempt, she flattened the outer curve and widened the space inside without adding much weight. The damp clay yielded beneath her thumb, leaving a shallow hollow where a person could rest a finger.\n\nMr. Bako filled the practice cup with warm water and invited several people to try it. One student held it with four fingers through the loop. Ms. Chen slipped in two fingers and steadied the flattened edge with her thumb. Another teacher, whose hands were large, said the original handle had pinched his knuckles. The new one did not.\n\nElena expected the wider handle to feel like a compromise she would have to hide. Instead, when she repeated it on the other mugs, the flattened curves created a strong rhythm across the shelf. They no longer looked identical—some thumb hollows were deeper than others—but they still looked related.\n\nOn the morning of the fundraiser, Ms. Chen chose a blue mug and lifted it without touching the hot middle. Elena watched the handle carry the weight exactly as she had hoped the narrow ones would.\n\n“It answers the question,” Mr. Bako said.\n\nElena looked at the remaining mugs. Their handles no longer seemed like question marks. They looked like open doors.\n\nQuestion:\nIt can reasonably be inferred that Ms. Chen’s gentle reply affects Elena because it:",
+    "choices": {
+      "A": "convinces Elena that the fundraiser should be canceled.",
+      "B": "makes the practical problem harder for Elena to dismiss as criticism.",
+      "C": "reveals that Ms. Chen has never used a mug before.",
+      "D": "proves that every customer will want the same color."
+    },
+    "correct": "B",
+    "explanation": "After Ms. Chen calmly points out that holding the hot middle is not practical, Elena hears the problem more clearly and returns to the studio to redesign the handle."
+  },
+  {
+    "id": "R4-003",
+    "prompt": "Passage:\nA Cup That Could Be Held\n\nElena had promised twelve mugs for the school garden fundraiser, and she wanted them to look like a family. Each one rose in a smooth cylinder from the pottery wheel, with a narrow handle curved like a question mark. Lined together on the studio shelf, they seemed to be asking the same elegant question.\n\n“Who is going to answer them?” asked Mr. Bako, the art teacher.\n\nElena pointed to the paper sign taped above the shelf: MUGS—TWELVE DOLLARS. “Anyone with twelve dollars.”\n\nMr. Bako smiled. “Before the kiln, let someone try holding one.”\n\nAt lunch, Elena carried an unglazed mug to the library, where Ms. Chen supervised the help desk. Ms. Chen wore a soft brace on her right hand, but Elena had often seen her balance stacks of books against one hip. She slid two fingers toward the mug’s handle, stopped, and tried again with her other hand.\n\n“It’s lovely,” Ms. Chen said. “The opening is a little tight for me.”\n\nElena felt protective of the row waiting in the studio. A wider handle would interrupt the clean outline she had drawn in her sketchbook. “You could hold the cup around the middle.”\n\n“If it isn’t hot,” Ms. Chen replied. She said it gently, which somehow made Elena hear the problem more clearly.\n\nBack in the studio, Elena attached a thick loop to a practice cup. It looked oversized, like an ear on the wrong animal. She cut it off. On her second attempt, she flattened the outer curve and widened the space inside without adding much weight. The damp clay yielded beneath her thumb, leaving a shallow hollow where a person could rest a finger.\n\nMr. Bako filled the practice cup with warm water and invited several people to try it. One student held it with four fingers through the loop. Ms. Chen slipped in two fingers and steadied the flattened edge with her thumb. Another teacher, whose hands were large, said the original handle had pinched his knuckles. The new one did not.\n\nElena expected the wider handle to feel like a compromise she would have to hide. Instead, when she repeated it on the other mugs, the flattened curves created a strong rhythm across the shelf. They no longer looked identical—some thumb hollows were deeper than others—but they still looked related.\n\nOn the morning of the fundraiser, Ms. Chen chose a blue mug and lifted it without touching the hot middle. Elena watched the handle carry the weight exactly as she had hoped the narrow ones would.\n\n“It answers the question,” Mr. Bako said.\n\nElena looked at the remaining mugs. Their handles no longer seemed like question marks. They looked like open doors.\n\nQuestion:\nIn the sentence “The damp clay yielded beneath her thumb,” the word “yielded” most nearly means:",
+    "choices": {
+      "A": "gave way under pressure.",
+      "B": "became completely dry.",
+      "C": "changed to a brighter color.",
+      "D": "broke away from the mug."
+    },
+    "correct": "A",
+    "explanation": "Elena presses a shallow thumb hollow into the damp clay, so the clay yields by giving way and changing shape under her thumb."
+  },
+  {
+    "id": "R4-004",
+    "prompt": "Passage:\nA Cup That Could Be Held\n\nElena had promised twelve mugs for the school garden fundraiser, and she wanted them to look like a family. Each one rose in a smooth cylinder from the pottery wheel, with a narrow handle curved like a question mark. Lined together on the studio shelf, they seemed to be asking the same elegant question.\n\n“Who is going to answer them?” asked Mr. Bako, the art teacher.\n\nElena pointed to the paper sign taped above the shelf: MUGS—TWELVE DOLLARS. “Anyone with twelve dollars.”\n\nMr. Bako smiled. “Before the kiln, let someone try holding one.”\n\nAt lunch, Elena carried an unglazed mug to the library, where Ms. Chen supervised the help desk. Ms. Chen wore a soft brace on her right hand, but Elena had often seen her balance stacks of books against one hip. She slid two fingers toward the mug’s handle, stopped, and tried again with her other hand.\n\n“It’s lovely,” Ms. Chen said. “The opening is a little tight for me.”\n\nElena felt protective of the row waiting in the studio. A wider handle would interrupt the clean outline she had drawn in her sketchbook. “You could hold the cup around the middle.”\n\n“If it isn’t hot,” Ms. Chen replied. She said it gently, which somehow made Elena hear the problem more clearly.\n\nBack in the studio, Elena attached a thick loop to a practice cup. It looked oversized, like an ear on the wrong animal. She cut it off. On her second attempt, she flattened the outer curve and widened the space inside without adding much weight. The damp clay yielded beneath her thumb, leaving a shallow hollow where a person could rest a finger.\n\nMr. Bako filled the practice cup with warm water and invited several people to try it. One student held it with four fingers through the loop. Ms. Chen slipped in two fingers and steadied the flattened edge with her thumb. Another teacher, whose hands were large, said the original handle had pinched his knuckles. The new one did not.\n\nElena expected the wider handle to feel like a compromise she would have to hide. Instead, when she repeated it on the other mugs, the flattened curves created a strong rhythm across the shelf. They no longer looked identical—some thumb hollows were deeper than others—but they still looked related.\n\nOn the morning of the fundraiser, Ms. Chen chose a blue mug and lifted it without touching the hot middle. Elena watched the handle carry the weight exactly as she had hoped the narrow ones would.\n\n“It answers the question,” Mr. Bako said.\n\nElena looked at the remaining mugs. Their handles no longer seemed like question marks. They looked like open doors.\n\nQuestion:\nWhat is the main function of the warm-water test in the passage?",
+    "choices": {
+      "A": "It determines which glaze color will sell for the highest price.",
+      "B": "It proves that all users hold mugs in exactly the same way.",
+      "C": "It provides practical feedback showing that the redesigned handle works for several kinds of hands.",
+      "D": "It causes Elena to return permanently to the narrow-handle design."
+    },
+    "correct": "C",
+    "explanation": "Different testers use the wider handle successfully, and a teacher confirms that it does not pinch his knuckles. The test evaluates the handle in realistic use."
+  },
+  {
+    "id": "R4-005",
+    "prompt": "Passage:\nA Cup That Could Be Held\n\nElena had promised twelve mugs for the school garden fundraiser, and she wanted them to look like a family. Each one rose in a smooth cylinder from the pottery wheel, with a narrow handle curved like a question mark. Lined together on the studio shelf, they seemed to be asking the same elegant question.\n\n“Who is going to answer them?” asked Mr. Bako, the art teacher.\n\nElena pointed to the paper sign taped above the shelf: MUGS—TWELVE DOLLARS. “Anyone with twelve dollars.”\n\nMr. Bako smiled. “Before the kiln, let someone try holding one.”\n\nAt lunch, Elena carried an unglazed mug to the library, where Ms. Chen supervised the help desk. Ms. Chen wore a soft brace on her right hand, but Elena had often seen her balance stacks of books against one hip. She slid two fingers toward the mug’s handle, stopped, and tried again with her other hand.\n\n“It’s lovely,” Ms. Chen said. “The opening is a little tight for me.”\n\nElena felt protective of the row waiting in the studio. A wider handle would interrupt the clean outline she had drawn in her sketchbook. “You could hold the cup around the middle.”\n\n“If it isn’t hot,” Ms. Chen replied. She said it gently, which somehow made Elena hear the problem more clearly.\n\nBack in the studio, Elena attached a thick loop to a practice cup. It looked oversized, like an ear on the wrong animal. She cut it off. On her second attempt, she flattened the outer curve and widened the space inside without adding much weight. The damp clay yielded beneath her thumb, leaving a shallow hollow where a person could rest a finger.\n\nMr. Bako filled the practice cup with warm water and invited several people to try it. One student held it with four fingers through the loop. Ms. Chen slipped in two fingers and steadied the flattened edge with her thumb. Another teacher, whose hands were large, said the original handle had pinched his knuckles. The new one did not.\n\nElena expected the wider handle to feel like a compromise she would have to hide. Instead, when she repeated it on the other mugs, the flattened curves created a strong rhythm across the shelf. They no longer looked identical—some thumb hollows were deeper than others—but they still looked related.\n\nOn the morning of the fundraiser, Ms. Chen chose a blue mug and lifted it without touching the hot middle. Elena watched the handle carry the weight exactly as she had hoped the narrow ones would.\n\n“It answers the question,” Mr. Bako said.\n\nElena looked at the remaining mugs. Their handles no longer seemed like question marks. They looked like open doors.\n\nQuestion:\nHow does Elena’s view of the wider handles change?",
+    "choices": {
+      "A": "She first sees them as inexpensive but later decides they cost too much.",
+      "B": "She first believes they are stronger but later discovers they cannot hold weight.",
+      "C": "She first plans to hide them but later replaces them with narrow metal handles.",
+      "D": "She first sees them as awkward compromises but later recognizes both their usefulness and visual rhythm."
+    },
+    "correct": "D",
+    "explanation": "Elena’s first wide loop looks oversized, and she expects the final version to feel like a compromise. Repeated across the mugs, however, the curves look related and function well."
+  },
+  {
+    "id": "R4-006",
+    "prompt": "Passage:\nA Cup That Could Be Held\n\nElena had promised twelve mugs for the school garden fundraiser, and she wanted them to look like a family. Each one rose in a smooth cylinder from the pottery wheel, with a narrow handle curved like a question mark. Lined together on the studio shelf, they seemed to be asking the same elegant question.\n\n“Who is going to answer them?” asked Mr. Bako, the art teacher.\n\nElena pointed to the paper sign taped above the shelf: MUGS—TWELVE DOLLARS. “Anyone with twelve dollars.”\n\nMr. Bako smiled. “Before the kiln, let someone try holding one.”\n\nAt lunch, Elena carried an unglazed mug to the library, where Ms. Chen supervised the help desk. Ms. Chen wore a soft brace on her right hand, but Elena had often seen her balance stacks of books against one hip. She slid two fingers toward the mug’s handle, stopped, and tried again with her other hand.\n\n“It’s lovely,” Ms. Chen said. “The opening is a little tight for me.”\n\nElena felt protective of the row waiting in the studio. A wider handle would interrupt the clean outline she had drawn in her sketchbook. “You could hold the cup around the middle.”\n\n“If it isn’t hot,” Ms. Chen replied. She said it gently, which somehow made Elena hear the problem more clearly.\n\nBack in the studio, Elena attached a thick loop to a practice cup. It looked oversized, like an ear on the wrong animal. She cut it off. On her second attempt, she flattened the outer curve and widened the space inside without adding much weight. The damp clay yielded beneath her thumb, leaving a shallow hollow where a person could rest a finger.\n\nMr. Bako filled the practice cup with warm water and invited several people to try it. One student held it with four fingers through the loop. Ms. Chen slipped in two fingers and steadied the flattened edge with her thumb. Another teacher, whose hands were large, said the original handle had pinched his knuckles. The new one did not.\n\nElena expected the wider handle to feel like a compromise she would have to hide. Instead, when she repeated it on the other mugs, the flattened curves created a strong rhythm across the shelf. They no longer looked identical—some thumb hollows were deeper than others—but they still looked related.\n\nOn the morning of the fundraiser, Ms. Chen chose a blue mug and lifted it without touching the hot middle. Elena watched the handle carry the weight exactly as she had hoped the narrow ones would.\n\n“It answers the question,” Mr. Bako said.\n\nElena looked at the remaining mugs. Their handles no longer seemed like question marks. They looked like open doors.\n\nQuestion:\nWhich choice best summarizes the passage?",
+    "choices": {
+      "A": "Elena refuses to sell her mugs after discovering that pottery can become hot.",
+      "B": "Feedback from several users leads Elena to redesign an elegant but restrictive handle into one that is both useful and visually satisfying.",
+      "C": "Mr. Bako makes twelve identical mugs after Elena’s first practice cup breaks.",
+      "D": "Ms. Chen buys every mug so that the school can replace its pottery wheel."
+    },
+    "correct": "B",
+    "explanation": "Elena tests and revises the narrow handle after Ms. Chen’s feedback, then discovers that the more usable design also creates a pleasing family of mugs."
+  },
+  {
+    "id": "R4-007",
+    "prompt": "Passage:\nPassage A: Notes in the Margin\n\nMy grandmother’s recipe for lentil soup fits on a card crowded with sloping handwriting. Beside the list of ingredients, she wrote “more lemon when it rains.” A brown circle marks the place where a wet spoon once rested. None of these details is necessary for cooking the soup, yet each tells me something about the person who cooked it before me.\n\nWhen families preserve recipes, they should save the original cards and notebooks whenever possible. Handwriting records pace, emphasis, and revision. A crossed-out quantity may show years of adjustment. A comment squeezed into a margin may recall a particular kitchen or season. Even stains can connect instructions to repeated use.\n\nThis does not mean fragile cards should be passed around a crowded cooking class. High-quality scans can protect originals while making them widely available. A typed version may sit beside the image to help readers understand difficult handwriting. But the typed text should not replace the card entirely. A recipe is a set of directions, and sometimes it is also a small record of a life.\n\nPassage B: Recipes People Can Use\n\nAt our neighborhood center, volunteers collected recipes from forty households. We received photographs, voice recordings, torn cards, and instructions such as “add flour until it feels right.” If we had simply displayed these materials, many recipes would have remained difficult for new cooks to follow.\n\nWe created a tested digital cookbook. Volunteers prepared each dish, measured amounts when the original directions were unclear, and asked contributors to approve the revised wording. Searchable text lets readers find dishes by ingredient. Adjustable serving sizes help a cook prepare food for four people or forty. Audio descriptions make the collection more accessible to readers who cannot use printed pages easily.\n\nStandardizing a recipe can flatten some of its personality, so the digital entries also include scans, recordings, and short notes from contributors. These materials are not obstacles to practical instructions; they provide context for them. Preservation succeeds when a recipe remains connected to its source and becomes usable by someone new. A cookbook should remember where a dish came from, but it should also help the dish reach another table.\n\nQuestion:\nWhich choice best states the central idea of Passage A?",
+    "choices": {
+      "A": "Original recipe cards can preserve personal and historical details that typed instructions alone may not capture.",
+      "B": "Stained recipe cards should be used directly in crowded cooking classes.",
+      "C": "Every handwritten comment is necessary for preparing a dish correctly.",
+      "D": "Digital copies make original family materials impossible to preserve."
+    },
+    "correct": "A",
+    "explanation": "Passage A describes handwriting, revisions, marginal notes, and stains as records of a person and repeated use that should remain available alongside typed text."
+  },
+  {
+    "id": "R4-008",
+    "prompt": "Passage:\nPassage A: Notes in the Margin\n\nMy grandmother’s recipe for lentil soup fits on a card crowded with sloping handwriting. Beside the list of ingredients, she wrote “more lemon when it rains.” A brown circle marks the place where a wet spoon once rested. None of these details is necessary for cooking the soup, yet each tells me something about the person who cooked it before me.\n\nWhen families preserve recipes, they should save the original cards and notebooks whenever possible. Handwriting records pace, emphasis, and revision. A crossed-out quantity may show years of adjustment. A comment squeezed into a margin may recall a particular kitchen or season. Even stains can connect instructions to repeated use.\n\nThis does not mean fragile cards should be passed around a crowded cooking class. High-quality scans can protect originals while making them widely available. A typed version may sit beside the image to help readers understand difficult handwriting. But the typed text should not replace the card entirely. A recipe is a set of directions, and sometimes it is also a small record of a life.\n\nPassage B: Recipes People Can Use\n\nAt our neighborhood center, volunteers collected recipes from forty households. We received photographs, voice recordings, torn cards, and instructions such as “add flour until it feels right.” If we had simply displayed these materials, many recipes would have remained difficult for new cooks to follow.\n\nWe created a tested digital cookbook. Volunteers prepared each dish, measured amounts when the original directions were unclear, and asked contributors to approve the revised wording. Searchable text lets readers find dishes by ingredient. Adjustable serving sizes help a cook prepare food for four people or forty. Audio descriptions make the collection more accessible to readers who cannot use printed pages easily.\n\nStandardizing a recipe can flatten some of its personality, so the digital entries also include scans, recordings, and short notes from contributors. These materials are not obstacles to practical instructions; they provide context for them. Preservation succeeds when a recipe remains connected to its source and becomes usable by someone new. A cookbook should remember where a dish came from, but it should also help the dish reach another table.\n\nQuestion:\nWhat is the main purpose of the opening example in Passage A?",
+    "choices": {
+      "A": "To provide complete instructions for making lentil soup.",
+      "B": "To argue that recipes should be changed whenever it rains.",
+      "C": "To illustrate how handwriting and physical marks can carry meaning beyond the basic directions.",
+      "D": "To show that old cards are always easier to read than typed text."
+    },
+    "correct": "C",
+    "explanation": "The rainy-day note and spoon stain are not required to cook the soup, but they reveal something about the grandmother and the recipe’s use."
+  },
+  {
+    "id": "R4-009",
+    "prompt": "Passage:\nPassage A: Notes in the Margin\n\nMy grandmother’s recipe for lentil soup fits on a card crowded with sloping handwriting. Beside the list of ingredients, she wrote “more lemon when it rains.” A brown circle marks the place where a wet spoon once rested. None of these details is necessary for cooking the soup, yet each tells me something about the person who cooked it before me.\n\nWhen families preserve recipes, they should save the original cards and notebooks whenever possible. Handwriting records pace, emphasis, and revision. A crossed-out quantity may show years of adjustment. A comment squeezed into a margin may recall a particular kitchen or season. Even stains can connect instructions to repeated use.\n\nThis does not mean fragile cards should be passed around a crowded cooking class. High-quality scans can protect originals while making them widely available. A typed version may sit beside the image to help readers understand difficult handwriting. But the typed text should not replace the card entirely. A recipe is a set of directions, and sometimes it is also a small record of a life.\n\nPassage B: Recipes People Can Use\n\nAt our neighborhood center, volunteers collected recipes from forty households. We received photographs, voice recordings, torn cards, and instructions such as “add flour until it feels right.” If we had simply displayed these materials, many recipes would have remained difficult for new cooks to follow.\n\nWe created a tested digital cookbook. Volunteers prepared each dish, measured amounts when the original directions were unclear, and asked contributors to approve the revised wording. Searchable text lets readers find dishes by ingredient. Adjustable serving sizes help a cook prepare food for four people or forty. Audio descriptions make the collection more accessible to readers who cannot use printed pages easily.\n\nStandardizing a recipe can flatten some of its personality, so the digital entries also include scans, recordings, and short notes from contributors. These materials are not obstacles to practical instructions; they provide context for them. Preservation succeeds when a recipe remains connected to its source and becomes usable by someone new. A cookbook should remember where a dish came from, but it should also help the dish reach another table.\n\nQuestion:\nAccording to Passage B, how did volunteers make unclear recipes easier for new cooks to use?",
+    "choices": {
+      "A": "They removed every comment and image from the collection.",
+      "B": "They displayed the original materials without adding explanations.",
+      "C": "They asked readers to guess all quantities from photographs.",
+      "D": "They tested dishes, measured unclear amounts, and obtained contributors’ approval for revised wording."
+    },
+    "correct": "D",
+    "explanation": "Passage B explicitly states that volunteers prepared the dishes, supplied measurements where needed, and asked contributors to approve the wording."
+  },
+  {
+    "id": "R4-010",
+    "prompt": "Passage:\nPassage A: Notes in the Margin\n\nMy grandmother’s recipe for lentil soup fits on a card crowded with sloping handwriting. Beside the list of ingredients, she wrote “more lemon when it rains.” A brown circle marks the place where a wet spoon once rested. None of these details is necessary for cooking the soup, yet each tells me something about the person who cooked it before me.\n\nWhen families preserve recipes, they should save the original cards and notebooks whenever possible. Handwriting records pace, emphasis, and revision. A crossed-out quantity may show years of adjustment. A comment squeezed into a margin may recall a particular kitchen or season. Even stains can connect instructions to repeated use.\n\nThis does not mean fragile cards should be passed around a crowded cooking class. High-quality scans can protect originals while making them widely available. A typed version may sit beside the image to help readers understand difficult handwriting. But the typed text should not replace the card entirely. A recipe is a set of directions, and sometimes it is also a small record of a life.\n\nPassage B: Recipes People Can Use\n\nAt our neighborhood center, volunteers collected recipes from forty households. We received photographs, voice recordings, torn cards, and instructions such as “add flour until it feels right.” If we had simply displayed these materials, many recipes would have remained difficult for new cooks to follow.\n\nWe created a tested digital cookbook. Volunteers prepared each dish, measured amounts when the original directions were unclear, and asked contributors to approve the revised wording. Searchable text lets readers find dishes by ingredient. Adjustable serving sizes help a cook prepare food for four people or forty. Audio descriptions make the collection more accessible to readers who cannot use printed pages easily.\n\nStandardizing a recipe can flatten some of its personality, so the digital entries also include scans, recordings, and short notes from contributors. These materials are not obstacles to practical instructions; they provide context for them. Preservation succeeds when a recipe remains connected to its source and becomes usable by someone new. A cookbook should remember where a dish came from, but it should also help the dish reach another table.\n\nQuestion:\nAs used in Passage B, “flatten” most nearly means:",
+    "choices": {
+      "A": "place on a level table.",
+      "B": "reduce the distinctive character of.",
+      "C": "make the instructions shorter than one sentence.",
+      "D": "convert the recipe into an audio recording."
+    },
+    "correct": "B",
+    "explanation": "Passage B acknowledges that standard wording may remove some of a recipe’s personality, so “flatten” means reduce its distinctive character."
+  },
+  {
+    "id": "R4-011",
+    "prompt": "Passage:\nPassage A: Notes in the Margin\n\nMy grandmother’s recipe for lentil soup fits on a card crowded with sloping handwriting. Beside the list of ingredients, she wrote “more lemon when it rains.” A brown circle marks the place where a wet spoon once rested. None of these details is necessary for cooking the soup, yet each tells me something about the person who cooked it before me.\n\nWhen families preserve recipes, they should save the original cards and notebooks whenever possible. Handwriting records pace, emphasis, and revision. A crossed-out quantity may show years of adjustment. A comment squeezed into a margin may recall a particular kitchen or season. Even stains can connect instructions to repeated use.\n\nThis does not mean fragile cards should be passed around a crowded cooking class. High-quality scans can protect originals while making them widely available. A typed version may sit beside the image to help readers understand difficult handwriting. But the typed text should not replace the card entirely. A recipe is a set of directions, and sometimes it is also a small record of a life.\n\nPassage B: Recipes People Can Use\n\nAt our neighborhood center, volunteers collected recipes from forty households. We received photographs, voice recordings, torn cards, and instructions such as “add flour until it feels right.” If we had simply displayed these materials, many recipes would have remained difficult for new cooks to follow.\n\nWe created a tested digital cookbook. Volunteers prepared each dish, measured amounts when the original directions were unclear, and asked contributors to approve the revised wording. Searchable text lets readers find dishes by ingredient. Adjustable serving sizes help a cook prepare food for four people or forty. Audio descriptions make the collection more accessible to readers who cannot use printed pages easily.\n\nStandardizing a recipe can flatten some of its personality, so the digital entries also include scans, recordings, and short notes from contributors. These materials are not obstacles to practical instructions; they provide context for them. Preservation succeeds when a recipe remains connected to its source and becomes usable by someone new. A cookbook should remember where a dish came from, but it should also help the dish reach another table.\n\nQuestion:\nThe passages differ mainly in that Passage A emphasizes:",
+    "choices": {
+      "A": "preserving the physical record surrounding a recipe, while Passage B emphasizes making recipes usable and accessible to new cooks.",
+      "B": "selling family recipes, while Passage B argues that all recipes should be free.",
+      "C": "the nutritional value of soup, while Passage B focuses on serving sizes.",
+      "D": "keeping recipes private, while Passage B opposes asking contributors for permission."
+    },
+    "correct": "A",
+    "explanation": "Passage A focuses on handwriting, marks, and original cards. Passage B focuses on testing, searching, resizing, and audio access while still retaining source materials."
+  },
+  {
+    "id": "R4-012",
+    "prompt": "Passage:\nPassage A: Notes in the Margin\n\nMy grandmother’s recipe for lentil soup fits on a card crowded with sloping handwriting. Beside the list of ingredients, she wrote “more lemon when it rains.” A brown circle marks the place where a wet spoon once rested. None of these details is necessary for cooking the soup, yet each tells me something about the person who cooked it before me.\n\nWhen families preserve recipes, they should save the original cards and notebooks whenever possible. Handwriting records pace, emphasis, and revision. A crossed-out quantity may show years of adjustment. A comment squeezed into a margin may recall a particular kitchen or season. Even stains can connect instructions to repeated use.\n\nThis does not mean fragile cards should be passed around a crowded cooking class. High-quality scans can protect originals while making them widely available. A typed version may sit beside the image to help readers understand difficult handwriting. But the typed text should not replace the card entirely. A recipe is a set of directions, and sometimes it is also a small record of a life.\n\nPassage B: Recipes People Can Use\n\nAt our neighborhood center, volunteers collected recipes from forty households. We received photographs, voice recordings, torn cards, and instructions such as “add flour until it feels right.” If we had simply displayed these materials, many recipes would have remained difficult for new cooks to follow.\n\nWe created a tested digital cookbook. Volunteers prepared each dish, measured amounts when the original directions were unclear, and asked contributors to approve the revised wording. Searchable text lets readers find dishes by ingredient. Adjustable serving sizes help a cook prepare food for four people or forty. Audio descriptions make the collection more accessible to readers who cannot use printed pages easily.\n\nStandardizing a recipe can flatten some of its personality, so the digital entries also include scans, recordings, and short notes from contributors. These materials are not obstacles to practical instructions; they provide context for them. Preservation succeeds when a recipe remains connected to its source and becomes usable by someone new. A cookbook should remember where a dish came from, but it should also help the dish reach another table.\n\nQuestion:\nWhich statement would both authors most likely support?",
+    "choices": {
+      "A": "Typed directions should always replace handwritten originals.",
+      "B": "Recipes should be preserved only when every quantity is exact.",
+      "C": "Practical versions and original source materials can be presented together so readers gain both usability and context.",
+      "D": "Scans and recordings prevent new cooks from understanding recipes."
+    },
+    "correct": "C",
+    "explanation": "Passage A recommends scans with typed text, and Passage B combines standardized entries with scans, recordings, and contributor notes."
+  },
+  {
+    "id": "R4-013",
+    "prompt": "Passage:\nMinutes, Not People\n\nStudents choosing a cafeteria line often count the people waiting and assume the shorter line will be faster. That method can fail when one station serves meals more slowly or when several people near the front have complicated requests. Behavioral researcher Nadi Cole wondered whether displaying estimated minutes instead of the number of people would change how students selected and remained in lines.\n\nCole’s team studied sixteen lunch periods at a secondary school with two serving stations offering the same menu. During half of the lunch periods, a screen above each station displayed the number of people currently in line. During the other half, the screens displayed an estimated wait in minutes. A staff member updated the estimates every two minutes using recent service times. The two display conditions alternated across the four-week study, and the same menus appeared under each condition.\n\nObservers recorded which line each student entered, whether the student switched lines, and how long the student actually waited. The researchers also measured the difference between the average wait at the two stations. After eating, a sample of students completed a brief anonymous survey about how predictable and fair the lines had felt.\n\nWhen screens showed head counts, 18 percent of students switched lines at least once. When screens showed estimated minutes, 9 percent switched. The minute displays also produced a smaller average gap between the two stations’ waiting times, suggesting that students divided themselves more evenly. Actual overall service time did not change because the same workers and equipment served the same number of meals.\n\nThe estimates were not always exact. A station could slow suddenly if a tray needed replacement. Even so, surveyed students reported that minute displays made the reason for choosing a line clearer. Several said a line with more people no longer looked automatically worse if its screen showed a shorter wait. A few students preferred head counts because they could verify the number with their own eyes.\n\nCole cautioned that the study took place in one cafeteria where students already knew the general routine. At an unfamiliar event, people might respond differently. Staff members also knew which display was being tested, although they followed the same serving procedures. Finally, estimates that are frequently inaccurate might lose people’s trust.\n\nThe study suggests that information can shape a queue even when it does not make service itself faster. A useful display may help people compare what they actually care about—the time required—rather than a visible clue that only partly predicts it.\n\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Cafeteria service becomes faster whenever screens display any kind of information.",
+      "B": "Students always choose a line by counting the people in it.",
+      "C": "Wait estimates are perfectly accurate when updated every two minutes.",
+      "D": "Displaying estimated minutes may help people choose and remain in lines more effectively even without speeding up service."
+    },
+    "correct": "D",
+    "explanation": "Minute displays were associated with fewer switches and a smaller wait-time gap, while the passage clearly states that overall service speed did not change."
+  },
+  {
+    "id": "R4-014",
+    "prompt": "Passage:\nMinutes, Not People\n\nStudents choosing a cafeteria line often count the people waiting and assume the shorter line will be faster. That method can fail when one station serves meals more slowly or when several people near the front have complicated requests. Behavioral researcher Nadi Cole wondered whether displaying estimated minutes instead of the number of people would change how students selected and remained in lines.\n\nCole’s team studied sixteen lunch periods at a secondary school with two serving stations offering the same menu. During half of the lunch periods, a screen above each station displayed the number of people currently in line. During the other half, the screens displayed an estimated wait in minutes. A staff member updated the estimates every two minutes using recent service times. The two display conditions alternated across the four-week study, and the same menus appeared under each condition.\n\nObservers recorded which line each student entered, whether the student switched lines, and how long the student actually waited. The researchers also measured the difference between the average wait at the two stations. After eating, a sample of students completed a brief anonymous survey about how predictable and fair the lines had felt.\n\nWhen screens showed head counts, 18 percent of students switched lines at least once. When screens showed estimated minutes, 9 percent switched. The minute displays also produced a smaller average gap between the two stations’ waiting times, suggesting that students divided themselves more evenly. Actual overall service time did not change because the same workers and equipment served the same number of meals.\n\nThe estimates were not always exact. A station could slow suddenly if a tray needed replacement. Even so, surveyed students reported that minute displays made the reason for choosing a line clearer. Several said a line with more people no longer looked automatically worse if its screen showed a shorter wait. A few students preferred head counts because they could verify the number with their own eyes.\n\nCole cautioned that the study took place in one cafeteria where students already knew the general routine. At an unfamiliar event, people might respond differently. Staff members also knew which display was being tested, although they followed the same serving procedures. Finally, estimates that are frequently inaccurate might lose people’s trust.\n\nThe study suggests that information can shape a queue even when it does not make service itself faster. A useful display may help people compare what they actually care about—the time required—rather than a visible clue that only partly predicts it.\n\nQuestion:\nWhich result did the researchers observe?",
+    "choices": {
+      "A": "The minute displays doubled the percentage of students who switched lines.",
+      "B": "Students switched lines less often when screens showed estimated minutes.",
+      "C": "The two stations served different menus throughout the study.",
+      "D": "Head-count displays eliminated differences between the stations’ waits."
+    },
+    "correct": "B",
+    "explanation": "Eighteen percent of students switched under the head-count condition, compared with 9 percent under the estimated-minute condition."
+  },
+  {
+    "id": "R4-015",
+    "prompt": "Passage:\nMinutes, Not People\n\nStudents choosing a cafeteria line often count the people waiting and assume the shorter line will be faster. That method can fail when one station serves meals more slowly or when several people near the front have complicated requests. Behavioral researcher Nadi Cole wondered whether displaying estimated minutes instead of the number of people would change how students selected and remained in lines.\n\nCole’s team studied sixteen lunch periods at a secondary school with two serving stations offering the same menu. During half of the lunch periods, a screen above each station displayed the number of people currently in line. During the other half, the screens displayed an estimated wait in minutes. A staff member updated the estimates every two minutes using recent service times. The two display conditions alternated across the four-week study, and the same menus appeared under each condition.\n\nObservers recorded which line each student entered, whether the student switched lines, and how long the student actually waited. The researchers also measured the difference between the average wait at the two stations. After eating, a sample of students completed a brief anonymous survey about how predictable and fair the lines had felt.\n\nWhen screens showed head counts, 18 percent of students switched lines at least once. When screens showed estimated minutes, 9 percent switched. The minute displays also produced a smaller average gap between the two stations’ waiting times, suggesting that students divided themselves more evenly. Actual overall service time did not change because the same workers and equipment served the same number of meals.\n\nThe estimates were not always exact. A station could slow suddenly if a tray needed replacement. Even so, surveyed students reported that minute displays made the reason for choosing a line clearer. Several said a line with more people no longer looked automatically worse if its screen showed a shorter wait. A few students preferred head counts because they could verify the number with their own eyes.\n\nCole cautioned that the study took place in one cafeteria where students already knew the general routine. At an unfamiliar event, people might respond differently. Staff members also knew which display was being tested, although they followed the same serving procedures. Finally, estimates that are frequently inaccurate might lose people’s trust.\n\nThe study suggests that information can shape a queue even when it does not make service itself faster. A useful display may help people compare what they actually care about—the time required—rather than a visible clue that only partly predicts it.\n\nQuestion:\nWhy does the passage mention that a tray replacement could slow a station suddenly?",
+    "choices": {
+      "A": "To illustrate why a wait estimate might not always match the actual wait.",
+      "B": "To show that students caused equipment to break by switching lines.",
+      "C": "To explain why the cafeteria stopped serving the same menu.",
+      "D": "To prove that head counts always predict time correctly."
+    },
+    "correct": "A",
+    "explanation": "A sudden slowdown is an example of an event that the displayed estimate may not immediately reflect, explaining why estimates were sometimes inexact."
+  },
+  {
+    "id": "R4-016",
+    "prompt": "Passage:\nMinutes, Not People\n\nStudents choosing a cafeteria line often count the people waiting and assume the shorter line will be faster. That method can fail when one station serves meals more slowly or when several people near the front have complicated requests. Behavioral researcher Nadi Cole wondered whether displaying estimated minutes instead of the number of people would change how students selected and remained in lines.\n\nCole’s team studied sixteen lunch periods at a secondary school with two serving stations offering the same menu. During half of the lunch periods, a screen above each station displayed the number of people currently in line. During the other half, the screens displayed an estimated wait in minutes. A staff member updated the estimates every two minutes using recent service times. The two display conditions alternated across the four-week study, and the same menus appeared under each condition.\n\nObservers recorded which line each student entered, whether the student switched lines, and how long the student actually waited. The researchers also measured the difference between the average wait at the two stations. After eating, a sample of students completed a brief anonymous survey about how predictable and fair the lines had felt.\n\nWhen screens showed head counts, 18 percent of students switched lines at least once. When screens showed estimated minutes, 9 percent switched. The minute displays also produced a smaller average gap between the two stations’ waiting times, suggesting that students divided themselves more evenly. Actual overall service time did not change because the same workers and equipment served the same number of meals.\n\nThe estimates were not always exact. A station could slow suddenly if a tray needed replacement. Even so, surveyed students reported that minute displays made the reason for choosing a line clearer. Several said a line with more people no longer looked automatically worse if its screen showed a shorter wait. A few students preferred head counts because they could verify the number with their own eyes.\n\nCole cautioned that the study took place in one cafeteria where students already knew the general routine. At an unfamiliar event, people might respond differently. Staff members also knew which display was being tested, although they followed the same serving procedures. Finally, estimates that are frequently inaccurate might lose people’s trust.\n\nThe study suggests that information can shape a queue even when it does not make service itself faster. A useful display may help people compare what they actually care about—the time required—rather than a visible clue that only partly predicts it.\n\nQuestion:\nWhy did the researchers use the same menus under both display conditions?",
+    "choices": {
+      "A": "To ensure that all meals required exactly the same preparation time.",
+      "B": "To prevent students from seeing the screens above the stations.",
+      "C": "To reduce the chance that menu preference, rather than display type, explained line choices.",
+      "D": "To make staff members unaware of which condition was being tested."
+    },
+    "correct": "C",
+    "explanation": "Repeating the same menus under both conditions helps keep menu appeal from becoming a systematic difference between head-count and minute-display days."
+  },
+  {
+    "id": "R4-017",
+    "prompt": "Passage:\nMinutes, Not People\n\nStudents choosing a cafeteria line often count the people waiting and assume the shorter line will be faster. That method can fail when one station serves meals more slowly or when several people near the front have complicated requests. Behavioral researcher Nadi Cole wondered whether displaying estimated minutes instead of the number of people would change how students selected and remained in lines.\n\nCole’s team studied sixteen lunch periods at a secondary school with two serving stations offering the same menu. During half of the lunch periods, a screen above each station displayed the number of people currently in line. During the other half, the screens displayed an estimated wait in minutes. A staff member updated the estimates every two minutes using recent service times. The two display conditions alternated across the four-week study, and the same menus appeared under each condition.\n\nObservers recorded which line each student entered, whether the student switched lines, and how long the student actually waited. The researchers also measured the difference between the average wait at the two stations. After eating, a sample of students completed a brief anonymous survey about how predictable and fair the lines had felt.\n\nWhen screens showed head counts, 18 percent of students switched lines at least once. When screens showed estimated minutes, 9 percent switched. The minute displays also produced a smaller average gap between the two stations’ waiting times, suggesting that students divided themselves more evenly. Actual overall service time did not change because the same workers and equipment served the same number of meals.\n\nThe estimates were not always exact. A station could slow suddenly if a tray needed replacement. Even so, surveyed students reported that minute displays made the reason for choosing a line clearer. Several said a line with more people no longer looked automatically worse if its screen showed a shorter wait. A few students preferred head counts because they could verify the number with their own eyes.\n\nCole cautioned that the study took place in one cafeteria where students already knew the general routine. At an unfamiliar event, people might respond differently. Staff members also knew which display was being tested, although they followed the same serving procedures. Finally, estimates that are frequently inaccurate might lose people’s trust.\n\nThe study suggests that information can shape a queue even when it does not make service itself faster. A useful display may help people compare what they actually care about—the time required—rather than a visible clue that only partly predicts it.\n\nQuestion:\nWhich combination of findings most strongly supports the claim that minute displays helped students distribute themselves more effectively?",
+    "choices": {
+      "A": "The school had two stations, and the study lasted four weeks.",
+      "B": "Some students preferred visible head counts, and staff updated estimates every two minutes.",
+      "C": "Overall service time stayed the same, and workers used the same equipment.",
+      "D": "Line switching decreased, and the gap between the stations’ average waiting times became smaller."
+    },
+    "correct": "D",
+    "explanation": "Less switching indicates more stable choices, while the smaller difference in waits directly suggests that students were more evenly divided between stations."
+  },
+  {
+    "id": "R4-018",
+    "prompt": "Passage:\nMinutes, Not People\n\nStudents choosing a cafeteria line often count the people waiting and assume the shorter line will be faster. That method can fail when one station serves meals more slowly or when several people near the front have complicated requests. Behavioral researcher Nadi Cole wondered whether displaying estimated minutes instead of the number of people would change how students selected and remained in lines.\n\nCole’s team studied sixteen lunch periods at a secondary school with two serving stations offering the same menu. During half of the lunch periods, a screen above each station displayed the number of people currently in line. During the other half, the screens displayed an estimated wait in minutes. A staff member updated the estimates every two minutes using recent service times. The two display conditions alternated across the four-week study, and the same menus appeared under each condition.\n\nObservers recorded which line each student entered, whether the student switched lines, and how long the student actually waited. The researchers also measured the difference between the average wait at the two stations. After eating, a sample of students completed a brief anonymous survey about how predictable and fair the lines had felt.\n\nWhen screens showed head counts, 18 percent of students switched lines at least once. When screens showed estimated minutes, 9 percent switched. The minute displays also produced a smaller average gap between the two stations’ waiting times, suggesting that students divided themselves more evenly. Actual overall service time did not change because the same workers and equipment served the same number of meals.\n\nThe estimates were not always exact. A station could slow suddenly if a tray needed replacement. Even so, surveyed students reported that minute displays made the reason for choosing a line clearer. Several said a line with more people no longer looked automatically worse if its screen showed a shorter wait. A few students preferred head counts because they could verify the number with their own eyes.\n\nCole cautioned that the study took place in one cafeteria where students already knew the general routine. At an unfamiliar event, people might respond differently. Staff members also knew which display was being tested, although they followed the same serving procedures. Finally, estimates that are frequently inaccurate might lose people’s trust.\n\nThe study suggests that information can shape a queue even when it does not make service itself faster. A useful display may help people compare what they actually care about—the time required—rather than a visible clue that only partly predicts it.\n\nQuestion:\nWhich choice best describes the passage’s overall structure?",
+    "choices": {
+      "A": "It argues that cafeteria lines should be removed and then describes a new menu.",
+      "B": "It introduces a problem with a common clue, describes a comparison study, reports results and reactions, and then discusses limits and implications.",
+      "C": "It tells the history of cafeteria screens before ranking several schools.",
+      "D": "It presents survey opinions as proof that measured wait times are unnecessary."
+    },
+    "correct": "B",
+    "explanation": "The passage begins with the weakness of head counts, explains the two display conditions, reports behavioral and survey findings, and closes with cautions and a broader conclusion."
+  },
+  {
+    "id": "R4-019",
+    "prompt": "Passage:\nRidges That Guide a Drop\n\nAlong a foggy coast, some grasses have narrow leaves marked by tiny lengthwise ridges. Water droplets from fog collect on the leaves even when rain does not fall. Botanist Asha Neri wondered whether the ridges merely increased the leaf surface or also helped guide water toward the plant’s base.\n\nTo test the idea, Neri’s team made seventy-two artificial leaves from the same water-resistant material. One-third were smooth. One-third had shallow grooves running from tip to base, like the ridges on the grass leaves. The remaining leaves had grooves running across their width. All leaves had the same length, width, and total surface area.\n\nThe researchers tilted each artificial leaf at thirty degrees in a fog chamber. A small cup beneath the lower end collected water delivered to the base. For forty minutes, cameras recorded where droplets formed, how they joined, and whether they reached the cup. The team then weighed the water left on each leaf and the water collected below it.\n\nAll three designs captured similar total amounts of fog. Their ability to deliver that water differed, however. On smooth leaves, droplets often wandered sideways or remained scattered. In the cross-grooved design, many droplets settled into separate grooves and stopped. On lengthwise-grooved leaves, small droplets coalesced into larger drops that followed the grooves downward. Those leaves delivered nearly twice as much water to the cups as the smooth leaves did.\n\nThe team repeated the test with leaves tilted at ten degrees. At this gentler angle, water moved more slowly in every design. Lengthwise grooves still delivered the most water, but their advantage was smaller. This result showed that the ridges worked together with gravity rather than moving water entirely on their own.\n\nFinally, the researchers placed short sections of real grass leaves in the chamber. The natural leaves also directed many drops along their ridges, but some drops caught on dust or tiny hairs. The artificial models had helped isolate groove direction, while the real leaves revealed additional features that could alter the path.\n\nNeri’s experiment did not measure how much guided fog water living plants absorbed through their roots. Wind could also shake droplets from outdoor leaves before they reached the soil. Field studies are therefore needed to connect water delivery with plant survival. Still, the chamber results support the idea that leaf shape can organize captured water, not merely collect it.\n\nQuestion:\nWhich choice best states the central idea of the passage?",
+    "choices": {
+      "A": "Lengthwise leaf ridges can guide captured fog water downward, although gravity and natural leaf features also affect the result.",
+      "B": "Crosswise grooves cause artificial leaves to capture twice as much fog as real leaves.",
+      "C": "Smooth leaves cannot capture water unless they are completely vertical.",
+      "D": "Coastal grasses obtain all the water they need from fog delivered directly to their roots."
+    },
+    "correct": "A",
+    "explanation": "The designs captured similar amounts, but lengthwise grooves delivered more water; the angle test and real leaves showed that gravity, dust, and hairs also mattered."
+  },
+  {
+    "id": "R4-020",
+    "prompt": "Passage:\nRidges That Guide a Drop\n\nAlong a foggy coast, some grasses have narrow leaves marked by tiny lengthwise ridges. Water droplets from fog collect on the leaves even when rain does not fall. Botanist Asha Neri wondered whether the ridges merely increased the leaf surface or also helped guide water toward the plant’s base.\n\nTo test the idea, Neri’s team made seventy-two artificial leaves from the same water-resistant material. One-third were smooth. One-third had shallow grooves running from tip to base, like the ridges on the grass leaves. The remaining leaves had grooves running across their width. All leaves had the same length, width, and total surface area.\n\nThe researchers tilted each artificial leaf at thirty degrees in a fog chamber. A small cup beneath the lower end collected water delivered to the base. For forty minutes, cameras recorded where droplets formed, how they joined, and whether they reached the cup. The team then weighed the water left on each leaf and the water collected below it.\n\nAll three designs captured similar total amounts of fog. Their ability to deliver that water differed, however. On smooth leaves, droplets often wandered sideways or remained scattered. In the cross-grooved design, many droplets settled into separate grooves and stopped. On lengthwise-grooved leaves, small droplets coalesced into larger drops that followed the grooves downward. Those leaves delivered nearly twice as much water to the cups as the smooth leaves did.\n\nThe team repeated the test with leaves tilted at ten degrees. At this gentler angle, water moved more slowly in every design. Lengthwise grooves still delivered the most water, but their advantage was smaller. This result showed that the ridges worked together with gravity rather than moving water entirely on their own.\n\nFinally, the researchers placed short sections of real grass leaves in the chamber. The natural leaves also directed many drops along their ridges, but some drops caught on dust or tiny hairs. The artificial models had helped isolate groove direction, while the real leaves revealed additional features that could alter the path.\n\nNeri’s experiment did not measure how much guided fog water living plants absorbed through their roots. Wind could also shake droplets from outdoor leaves before they reached the soil. Field studies are therefore needed to connect water delivery with plant survival. Still, the chamber results support the idea that leaf shape can organize captured water, not merely collect it.\n\nQuestion:\nWhy were all artificial leaves made with the same length, width, and total surface area?",
+    "choices": {
+      "A": "To make the smooth leaves heavier than the grooved leaves.",
+      "B": "To ensure that every droplet formed at exactly the same location.",
+      "C": "To make groove direction the main planned difference among the three designs.",
+      "D": "To reproduce every feature of a living grass leaf."
+    },
+    "correct": "C",
+    "explanation": "Keeping size, area, and material constant reduces alternative explanations, allowing the researchers to compare smooth, lengthwise-grooved, and cross-grooved surfaces."
+  },
+  {
+    "id": "R4-021",
+    "prompt": "Passage:\nRidges That Guide a Drop\n\nAlong a foggy coast, some grasses have narrow leaves marked by tiny lengthwise ridges. Water droplets from fog collect on the leaves even when rain does not fall. Botanist Asha Neri wondered whether the ridges merely increased the leaf surface or also helped guide water toward the plant’s base.\n\nTo test the idea, Neri’s team made seventy-two artificial leaves from the same water-resistant material. One-third were smooth. One-third had shallow grooves running from tip to base, like the ridges on the grass leaves. The remaining leaves had grooves running across their width. All leaves had the same length, width, and total surface area.\n\nThe researchers tilted each artificial leaf at thirty degrees in a fog chamber. A small cup beneath the lower end collected water delivered to the base. For forty minutes, cameras recorded where droplets formed, how they joined, and whether they reached the cup. The team then weighed the water left on each leaf and the water collected below it.\n\nAll three designs captured similar total amounts of fog. Their ability to deliver that water differed, however. On smooth leaves, droplets often wandered sideways or remained scattered. In the cross-grooved design, many droplets settled into separate grooves and stopped. On lengthwise-grooved leaves, small droplets coalesced into larger drops that followed the grooves downward. Those leaves delivered nearly twice as much water to the cups as the smooth leaves did.\n\nThe team repeated the test with leaves tilted at ten degrees. At this gentler angle, water moved more slowly in every design. Lengthwise grooves still delivered the most water, but their advantage was smaller. This result showed that the ridges worked together with gravity rather than moving water entirely on their own.\n\nFinally, the researchers placed short sections of real grass leaves in the chamber. The natural leaves also directed many drops along their ridges, but some drops caught on dust or tiny hairs. The artificial models had helped isolate groove direction, while the real leaves revealed additional features that could alter the path.\n\nNeri’s experiment did not measure how much guided fog water living plants absorbed through their roots. Wind could also shake droplets from outdoor leaves before they reached the soil. Field studies are therefore needed to connect water delivery with plant survival. Still, the chamber results support the idea that leaf shape can organize captured water, not merely collect it.\n\nQuestion:\nAs used in the passage, “coalesced” most nearly means:",
+    "choices": {
+      "A": "evaporated before reaching the cup.",
+      "B": "changed from water into ice.",
+      "C": "moved upward against gravity.",
+      "D": "joined together into larger drops."
+    },
+    "correct": "D",
+    "explanation": "The passage says small droplets coalesced into larger drops before following the grooves downward, so the word means joined together."
+  },
+  {
+    "id": "R4-022",
+    "prompt": "Passage:\nRidges That Guide a Drop\n\nAlong a foggy coast, some grasses have narrow leaves marked by tiny lengthwise ridges. Water droplets from fog collect on the leaves even when rain does not fall. Botanist Asha Neri wondered whether the ridges merely increased the leaf surface or also helped guide water toward the plant’s base.\n\nTo test the idea, Neri’s team made seventy-two artificial leaves from the same water-resistant material. One-third were smooth. One-third had shallow grooves running from tip to base, like the ridges on the grass leaves. The remaining leaves had grooves running across their width. All leaves had the same length, width, and total surface area.\n\nThe researchers tilted each artificial leaf at thirty degrees in a fog chamber. A small cup beneath the lower end collected water delivered to the base. For forty minutes, cameras recorded where droplets formed, how they joined, and whether they reached the cup. The team then weighed the water left on each leaf and the water collected below it.\n\nAll three designs captured similar total amounts of fog. Their ability to deliver that water differed, however. On smooth leaves, droplets often wandered sideways or remained scattered. In the cross-grooved design, many droplets settled into separate grooves and stopped. On lengthwise-grooved leaves, small droplets coalesced into larger drops that followed the grooves downward. Those leaves delivered nearly twice as much water to the cups as the smooth leaves did.\n\nThe team repeated the test with leaves tilted at ten degrees. At this gentler angle, water moved more slowly in every design. Lengthwise grooves still delivered the most water, but their advantage was smaller. This result showed that the ridges worked together with gravity rather than moving water entirely on their own.\n\nFinally, the researchers placed short sections of real grass leaves in the chamber. The natural leaves also directed many drops along their ridges, but some drops caught on dust or tiny hairs. The artificial models had helped isolate groove direction, while the real leaves revealed additional features that could alter the path.\n\nNeri’s experiment did not measure how much guided fog water living plants absorbed through their roots. Wind could also shake droplets from outdoor leaves before they reached the soil. Field studies are therefore needed to connect water delivery with plant survival. Still, the chamber results support the idea that leaf shape can organize captured water, not merely collect it.\n\nQuestion:\nWhich step occurred before the researchers repeated the test at a ten-degree angle?",
+    "choices": {
+      "A": "They measured how much fog water living plants absorbed through their roots.",
+      "B": "They tested the three artificial designs at thirty degrees and measured water on and below them.",
+      "C": "They exposed the artificial leaves to outdoor wind for an entire season.",
+      "D": "They removed every groove from the real grass leaves."
+    },
+    "correct": "B",
+    "explanation": "The first chamber test tilted the artificial leaves at thirty degrees and measured retained and delivered water; the ten-degree test came afterward."
+  },
+  {
+    "id": "R4-023",
+    "prompt": "Passage:\nRidges That Guide a Drop\n\nAlong a foggy coast, some grasses have narrow leaves marked by tiny lengthwise ridges. Water droplets from fog collect on the leaves even when rain does not fall. Botanist Asha Neri wondered whether the ridges merely increased the leaf surface or also helped guide water toward the plant’s base.\n\nTo test the idea, Neri’s team made seventy-two artificial leaves from the same water-resistant material. One-third were smooth. One-third had shallow grooves running from tip to base, like the ridges on the grass leaves. The remaining leaves had grooves running across their width. All leaves had the same length, width, and total surface area.\n\nThe researchers tilted each artificial leaf at thirty degrees in a fog chamber. A small cup beneath the lower end collected water delivered to the base. For forty minutes, cameras recorded where droplets formed, how they joined, and whether they reached the cup. The team then weighed the water left on each leaf and the water collected below it.\n\nAll three designs captured similar total amounts of fog. Their ability to deliver that water differed, however. On smooth leaves, droplets often wandered sideways or remained scattered. In the cross-grooved design, many droplets settled into separate grooves and stopped. On lengthwise-grooved leaves, small droplets coalesced into larger drops that followed the grooves downward. Those leaves delivered nearly twice as much water to the cups as the smooth leaves did.\n\nThe team repeated the test with leaves tilted at ten degrees. At this gentler angle, water moved more slowly in every design. Lengthwise grooves still delivered the most water, but their advantage was smaller. This result showed that the ridges worked together with gravity rather than moving water entirely on their own.\n\nFinally, the researchers placed short sections of real grass leaves in the chamber. The natural leaves also directed many drops along their ridges, but some drops caught on dust or tiny hairs. The artificial models had helped isolate groove direction, while the real leaves revealed additional features that could alter the path.\n\nNeri’s experiment did not measure how much guided fog water living plants absorbed through their roots. Wind could also shake droplets from outdoor leaves before they reached the soil. Field studies are therefore needed to connect water delivery with plant survival. Still, the chamber results support the idea that leaf shape can organize captured water, not merely collect it.\n\nQuestion:\nWhat can reasonably be inferred from the similar total fog capture among the three artificial designs?",
+    "choices": {
+      "A": "The main advantage of lengthwise grooves in this experiment involved directing water rather than capturing more of it.",
+      "B": "Groove direction had no effect on any part of water movement.",
+      "C": "Crosswise grooves delivered more water because they captured less.",
+      "D": "Only smooth leaves allowed droplets to form in the chamber."
+    },
+    "correct": "A",
+    "explanation": "All designs captured similar totals, but lengthwise grooves delivered nearly twice as much as smooth leaves, so their advantage was organization and transport rather than added capture."
+  },
+  {
+    "id": "R4-024",
+    "prompt": "Passage:\nRidges That Guide a Drop\n\nAlong a foggy coast, some grasses have narrow leaves marked by tiny lengthwise ridges. Water droplets from fog collect on the leaves even when rain does not fall. Botanist Asha Neri wondered whether the ridges merely increased the leaf surface or also helped guide water toward the plant’s base.\n\nTo test the idea, Neri’s team made seventy-two artificial leaves from the same water-resistant material. One-third were smooth. One-third had shallow grooves running from tip to base, like the ridges on the grass leaves. The remaining leaves had grooves running across their width. All leaves had the same length, width, and total surface area.\n\nThe researchers tilted each artificial leaf at thirty degrees in a fog chamber. A small cup beneath the lower end collected water delivered to the base. For forty minutes, cameras recorded where droplets formed, how they joined, and whether they reached the cup. The team then weighed the water left on each leaf and the water collected below it.\n\nAll three designs captured similar total amounts of fog. Their ability to deliver that water differed, however. On smooth leaves, droplets often wandered sideways or remained scattered. In the cross-grooved design, many droplets settled into separate grooves and stopped. On lengthwise-grooved leaves, small droplets coalesced into larger drops that followed the grooves downward. Those leaves delivered nearly twice as much water to the cups as the smooth leaves did.\n\nThe team repeated the test with leaves tilted at ten degrees. At this gentler angle, water moved more slowly in every design. Lengthwise grooves still delivered the most water, but their advantage was smaller. This result showed that the ridges worked together with gravity rather than moving water entirely on their own.\n\nFinally, the researchers placed short sections of real grass leaves in the chamber. The natural leaves also directed many drops along their ridges, but some drops caught on dust or tiny hairs. The artificial models had helped isolate groove direction, while the real leaves revealed additional features that could alter the path.\n\nNeri’s experiment did not measure how much guided fog water living plants absorbed through their roots. Wind could also shake droplets from outdoor leaves before they reached the soil. Field studies are therefore needed to connect water delivery with plant survival. Still, the chamber results support the idea that leaf shape can organize captured water, not merely collect it.\n\nQuestion:\nWhat is the main function of the paragraph about real grass leaves?",
+    "choices": {
+      "A": "To prove that artificial models are always more accurate than living plants.",
+      "B": "To show that dust and hairs prevent every natural droplet from moving.",
+      "C": "To compare the simplified model with natural leaves and identify additional features that influence water paths.",
+      "D": "To introduce a grass species that has no ridges."
+    },
+    "correct": "C",
+    "explanation": "The natural leaves also guide water along ridges, but dust and hairs alter some paths. This shows both the model’s value and what it leaves out."
+  },
+  {
+    "id": "R4-025",
+    "prompt": "Passage:\nRidges That Guide a Drop\n\nAlong a foggy coast, some grasses have narrow leaves marked by tiny lengthwise ridges. Water droplets from fog collect on the leaves even when rain does not fall. Botanist Asha Neri wondered whether the ridges merely increased the leaf surface or also helped guide water toward the plant’s base.\n\nTo test the idea, Neri’s team made seventy-two artificial leaves from the same water-resistant material. One-third were smooth. One-third had shallow grooves running from tip to base, like the ridges on the grass leaves. The remaining leaves had grooves running across their width. All leaves had the same length, width, and total surface area.\n\nThe researchers tilted each artificial leaf at thirty degrees in a fog chamber. A small cup beneath the lower end collected water delivered to the base. For forty minutes, cameras recorded where droplets formed, how they joined, and whether they reached the cup. The team then weighed the water left on each leaf and the water collected below it.\n\nAll three designs captured similar total amounts of fog. Their ability to deliver that water differed, however. On smooth leaves, droplets often wandered sideways or remained scattered. In the cross-grooved design, many droplets settled into separate grooves and stopped. On lengthwise-grooved leaves, small droplets coalesced into larger drops that followed the grooves downward. Those leaves delivered nearly twice as much water to the cups as the smooth leaves did.\n\nThe team repeated the test with leaves tilted at ten degrees. At this gentler angle, water moved more slowly in every design. Lengthwise grooves still delivered the most water, but their advantage was smaller. This result showed that the ridges worked together with gravity rather than moving water entirely on their own.\n\nFinally, the researchers placed short sections of real grass leaves in the chamber. The natural leaves also directed many drops along their ridges, but some drops caught on dust or tiny hairs. The artificial models had helped isolate groove direction, while the real leaves revealed additional features that could alter the path.\n\nNeri’s experiment did not measure how much guided fog water living plants absorbed through their roots. Wind could also shake droplets from outdoor leaves before they reached the soil. Field studies are therefore needed to connect water delivery with plant survival. Still, the chamber results support the idea that leaf shape can organize captured water, not merely collect it.\n\nQuestion:\nWhich choice best summarizes the experiment’s findings?",
+    "choices": {
+      "A": "Lengthwise grooves directed more captured water toward the base than smooth or cross-grooved surfaces, but angle and natural leaf features affected movement.",
+      "B": "Artificial leaves with crosswise grooves captured no fog and remained completely dry.",
+      "C": "The chamber experiment proved that guided fog water always increases plant survival outdoors.",
+      "D": "Smooth leaves delivered the most water because droplets could wander sideways."
+    },
+    "correct": "A",
+    "explanation": "Lengthwise grooves produced the greatest delivery, their advantage decreased at a gentler angle, and real-leaf dust and hairs sometimes interrupted the route."
+  },
+  {
+    "id": "S4-001",
+    "prompt": "Biologists sampled a clear lake at 5 depths on the same afternoon. At each depth, they measured the percentage of surface light remaining and counted algae cells in equal-volume water samples. Algae use light for photosynthesis.\n\nDepth (m) | Surface light remaining (%) | Mean algae cells (thousands/mL)\n0         | 100                         | 120\n2         | 72                          | 190\n4         | 41                          | 230\n6         | 18                          | 140\n8         | 5                           | 40\n\nQuestion:\nAt what depth was the mean algae concentration greatest?",
+    "choices": {
+      "A": "0 m",
+      "B": "2 m",
+      "C": "4 m",
+      "D": "8 m"
+    },
+    "correct": "C",
+    "explanation": "The greatest mean concentration was 230 thousand cells/mL at a depth of 4 m."
+  },
+  {
+    "id": "S4-002",
+    "prompt": "Biologists sampled a clear lake at 5 depths on the same afternoon. At each depth, they measured the percentage of surface light remaining and counted algae cells in equal-volume water samples. Algae use light for photosynthesis.\n\nDepth (m) | Surface light remaining (%) | Mean algae cells (thousands/mL)\n0         | 100                         | 120\n2         | 72                          | 190\n4         | 41                          | 230\n6         | 18                          | 140\n8         | 5                           | 40\n\nQuestion:\nHow many more thousand algae cells per milliliter were measured at 4 m than at 8 m?",
+    "choices": {
+      "A": "41",
+      "B": "90",
+      "C": "190",
+      "D": "270"
+    },
+    "correct": "C",
+    "explanation": "The difference was 230 − 40 = 190 thousand cells/mL."
+  },
+  {
+    "id": "S4-003",
+    "prompt": "Biologists sampled a clear lake at 5 depths on the same afternoon. At each depth, they measured the percentage of surface light remaining and counted algae cells in equal-volume water samples. Algae use light for photosynthesis.\n\nDepth (m) | Surface light remaining (%) | Mean algae cells (thousands/mL)\n0         | 100                         | 120\n2         | 72                          | 190\n4         | 41                          | 230\n6         | 18                          | 140\n8         | 5                           | 40\n\nQuestion:\nIf the percentage of surface light changed linearly between 4 m and 6 m, what percentage would be estimated at 5 m?",
+    "choices": {
+      "A": "23.0%",
+      "B": "29.5%",
+      "C": "41.0%",
+      "D": "59.0%"
+    },
+    "correct": "B",
+    "explanation": "A depth of 5 m is halfway between 4 m and 6 m, so the estimate is halfway between 41% and 18%, or 29.5%."
+  },
+  {
+    "id": "S4-004",
+    "prompt": "Biologists sampled a clear lake at 5 depths on the same afternoon. At each depth, they measured the percentage of surface light remaining and counted algae cells in equal-volume water samples. Algae use light for photosynthesis.\n\nDepth (m) | Surface light remaining (%) | Mean algae cells (thousands/mL)\n0         | 100                         | 120\n2         | 72                          | 190\n4         | 41                          | 230\n6         | 18                          | 140\n8         | 5                           | 40\n\nQuestion:\nWhich investigation would best test the effect of light level on algae growth independently of lake depth?",
+    "choices": {
+      "A": "Grow equal starting amounts of algae in identical containers under different light levels while keeping other conditions constant.",
+      "B": "Collect different algae species from different depths and give each a different nutrient level.",
+      "C": "Measure only lake depth at several locations without counting algae.",
+      "D": "Place unequal amounts of algae in containers with different temperatures and light levels."
+    },
+    "correct": "A",
+    "explanation": "Changing only light level would isolate it as the tested factor affecting algae growth."
+  },
+  {
+    "id": "S4-005",
+    "prompt": "Biologists sampled a clear lake at 5 depths on the same afternoon. At each depth, they measured the percentage of surface light remaining and counted algae cells in equal-volume water samples. Algae use light for photosynthesis.\n\nDepth (m) | Surface light remaining (%) | Mean algae cells (thousands/mL)\n0         | 100                         | 120\n2         | 72                          | 190\n4         | 41                          | 230\n6         | 18                          | 140\n8         | 5                           | 40\n\nQuestion:\nWhich conclusion is best supported by the measurements?",
+    "choices": {
+      "A": "Algae concentration was greatest at an intermediate depth rather than where light was highest or lowest.",
+      "B": "Algae concentration increased continuously as depth increased.",
+      "C": "No algae were present below 6 m.",
+      "D": "The percentage of surface light increased with depth."
+    },
+    "correct": "A",
+    "explanation": "Algae concentration peaked at 230 thousand cells/mL at 4 m, while it was lower at both 0 m and 8 m."
+  },
+  {
+    "id": "S4-006",
+    "prompt": "Students used a spring scale to pull the same wooden block horizontally at constant speed. The scale reading gave the pulling force. Each result is the mean of 5 trials.\n\nExperiment 1: The block's total mass was 500 g while the surface beneath it was changed.\nSurface        | Mean pulling force (N)\nSmooth plastic | 0.8\nPaper          | 1.2\nFelt           | 1.7\nRubber         | 2.4\n\nExperiment 2: The rubber surface was used while mass was added to the 500 g block.\nAdded mass (g) | Mean pulling force (N)\n0              | 2.4\n250            | 3.1\n500            | 3.9\n750            | 4.7\n\nQuestion:\nIn Experiment 1, how much greater was the mean pulling force on rubber than on smooth plastic?",
+    "choices": {
+      "A": "0.8 N",
+      "B": "1.2 N",
+      "C": "1.6 N",
+      "D": "3.2 N"
+    },
+    "correct": "C",
+    "explanation": "The mean forces were 2.4 N on rubber and 0.8 N on smooth plastic, a difference of 1.6 N."
+  },
+  {
+    "id": "S4-007",
+    "prompt": "Students used a spring scale to pull the same wooden block horizontally at constant speed. The scale reading gave the pulling force. Each result is the mean of 5 trials.\n\nExperiment 1: The block's total mass was 500 g while the surface beneath it was changed.\nSurface        | Mean pulling force (N)\nSmooth plastic | 0.8\nPaper          | 1.2\nFelt           | 1.7\nRubber         | 2.4\n\nExperiment 2: The rubber surface was used while mass was added to the 500 g block.\nAdded mass (g) | Mean pulling force (N)\n0              | 2.4\n250            | 3.1\n500            | 3.9\n750            | 4.7\n\nQuestion:\nWhat mean pulling force was measured on rubber when 500 g was added to the block?",
+    "choices": {
+      "A": "2.4 N",
+      "B": "3.1 N",
+      "C": "3.9 N",
+      "D": "4.7 N"
+    },
+    "correct": "C",
+    "explanation": "Experiment 2 lists a mean pulling force of 3.9 N for 500 g of added mass."
+  },
+  {
+    "id": "S4-008",
+    "prompt": "Students used a spring scale to pull the same wooden block horizontally at constant speed. The scale reading gave the pulling force. Each result is the mean of 5 trials.\n\nExperiment 1: The block's total mass was 500 g while the surface beneath it was changed.\nSurface        | Mean pulling force (N)\nSmooth plastic | 0.8\nPaper          | 1.2\nFelt           | 1.7\nRubber         | 2.4\n\nExperiment 2: The rubber surface was used while mass was added to the 500 g block.\nAdded mass (g) | Mean pulling force (N)\n0              | 2.4\n250            | 3.1\n500            | 3.9\n750            | 4.7\n\nQuestion:\nWhich factor did the students deliberately change in Experiment 1?",
+    "choices": {
+      "A": "Surface beneath the block",
+      "B": "Block's total mass",
+      "C": "Pulling speed",
+      "D": "Mean pulling force"
+    },
+    "correct": "A",
+    "explanation": "Experiment 1 changed the surface while holding the block's total mass at 500 g."
+  },
+  {
+    "id": "S4-009",
+    "prompt": "Students used a spring scale to pull the same wooden block horizontally at constant speed. The scale reading gave the pulling force. Each result is the mean of 5 trials.\n\nExperiment 1: The block's total mass was 500 g while the surface beneath it was changed.\nSurface        | Mean pulling force (N)\nSmooth plastic | 0.8\nPaper          | 1.2\nFelt           | 1.7\nRubber         | 2.4\n\nExperiment 2: The rubber surface was used while mass was added to the 500 g block.\nAdded mass (g) | Mean pulling force (N)\n0              | 2.4\n250            | 3.1\n500            | 3.9\n750            | 4.7\n\nQuestion:\nWhy was the same wooden block used throughout both experiments?",
+    "choices": {
+      "A": "To prevent differences in block material and shape from affecting the force comparisons",
+      "B": "To make block identity the dependent variable",
+      "C": "To ensure the pulling force was identical in every condition",
+      "D": "To cause the surface type and added mass to change together"
+    },
+    "correct": "A",
+    "explanation": "Using the same block controlled its material and shape while surface or added mass was tested."
+  },
+  {
+    "id": "S4-010",
+    "prompt": "Students used a spring scale to pull the same wooden block horizontally at constant speed. The scale reading gave the pulling force. Each result is the mean of 5 trials.\n\nExperiment 1: The block's total mass was 500 g while the surface beneath it was changed.\nSurface        | Mean pulling force (N)\nSmooth plastic | 0.8\nPaper          | 1.2\nFelt           | 1.7\nRubber         | 2.4\n\nExperiment 2: The rubber surface was used while mass was added to the 500 g block.\nAdded mass (g) | Mean pulling force (N)\n0              | 2.4\n250            | 3.1\n500            | 3.9\n750            | 4.7\n\nQuestion:\nA student predicts that increasing the added mass on rubber will require a greater pulling force at constant speed. How do the Experiment 2 results evaluate this prediction?",
+    "choices": {
+      "A": "They support it because mean pulling force increased from 2.4 N to 4.7 N as added mass increased.",
+      "B": "They support it because pulling force stayed at 2.4 N for every mass.",
+      "C": "They contradict it because the greatest mass required the least force.",
+      "D": "They cannot evaluate it because added mass was not changed."
+    },
+    "correct": "A",
+    "explanation": "The force increased at every step as added mass rose from 0 g to 750 g."
+  },
+  {
+    "id": "S4-011",
+    "prompt": "After a rainstorm ended, scientists monitored one small watershed. At the same time each day, they measured stream discharge and the depth from the ground surface to groundwater in a nearby well. A smaller groundwater depth means the water table is higher.\n\nDays after storm | Stream discharge (m³/s) | Groundwater depth (m)\n0                | 8.2                     | 4.8\n1                | 11.5                    | 4.5\n2                | 9.6                     | 4.1\n3                | 7.4                     | 3.9\n4                | 6.1                     | 4.0\n5                | 5.5                     | 4.2\n\nQuestion:\nOn which day after the storm was stream discharge greatest?",
+    "choices": {
+      "A": "Day 0",
+      "B": "Day 1",
+      "C": "Day 3",
+      "D": "Day 5"
+    },
+    "correct": "B",
+    "explanation": "The greatest stream discharge was 11.5 m³/s on Day 1."
+  },
+  {
+    "id": "S4-012",
+    "prompt": "After a rainstorm ended, scientists monitored one small watershed. At the same time each day, they measured stream discharge and the depth from the ground surface to groundwater in a nearby well. A smaller groundwater depth means the water table is higher.\n\nDays after storm | Stream discharge (m³/s) | Groundwater depth (m)\n0                | 8.2                     | 4.8\n1                | 11.5                    | 4.5\n2                | 9.6                     | 4.1\n3                | 7.4                     | 3.9\n4                | 6.1                     | 4.0\n5                | 5.5                     | 4.2\n\nQuestion:\nHow much did the water table rise from Day 0 to Day 3?",
+    "choices": {
+      "A": "0.3 m",
+      "B": "0.9 m",
+      "C": "3.9 m",
+      "D": "8.7 m"
+    },
+    "correct": "B",
+    "explanation": "Groundwater depth decreased from 4.8 m to 3.9 m, meaning the water table rose by 0.9 m."
+  },
+  {
+    "id": "S4-013",
+    "prompt": "After a rainstorm ended, scientists monitored one small watershed. At the same time each day, they measured stream discharge and the depth from the ground surface to groundwater in a nearby well. A smaller groundwater depth means the water table is higher.\n\nDays after storm | Stream discharge (m³/s) | Groundwater depth (m)\n0                | 8.2                     | 4.8\n1                | 11.5                    | 4.5\n2                | 9.6                     | 4.1\n3                | 7.4                     | 3.9\n4                | 6.1                     | 4.0\n5                | 5.5                     | 4.2\n\nQuestion:\nIf stream discharge changed linearly between Day 3 and Day 4, what discharge would be estimated halfway between those measurements?",
+    "choices": {
+      "A": "5.75 m³/s",
+      "B": "6.75 m³/s",
+      "C": "7.40 m³/s",
+      "D": "13.50 m³/s"
+    },
+    "correct": "B",
+    "explanation": "The halfway value between 7.4 m³/s and 6.1 m³/s is 6.75 m³/s."
+  },
+  {
+    "id": "S4-014",
+    "prompt": "After a rainstorm ended, scientists monitored one small watershed. At the same time each day, they measured stream discharge and the depth from the ground surface to groundwater in a nearby well. A smaller groundwater depth means the water table is higher.\n\nDays after storm | Stream discharge (m³/s) | Groundwater depth (m)\n0                | 8.2                     | 4.8\n1                | 11.5                    | 4.5\n2                | 9.6                     | 4.1\n3                | 7.4                     | 3.9\n4                | 6.1                     | 4.0\n5                | 5.5                     | 4.2\n\nQuestion:\nWhich change would most directly improve confidence that the groundwater pattern represents the entire watershed?",
+    "choices": {
+      "A": "Measure groundwater in several wells distributed across the watershed.",
+      "B": "Stop measuring stream discharge after Day 1.",
+      "C": "Use a different time of day for every well measurement.",
+      "D": "Replace groundwater measurements with air-temperature measurements."
+    },
+    "correct": "A",
+    "explanation": "Several distributed wells would show whether the pattern occurs beyond the single monitored location."
+  },
+  {
+    "id": "S4-015",
+    "prompt": "After a rainstorm ended, scientists monitored one small watershed. At the same time each day, they measured stream discharge and the depth from the ground surface to groundwater in a nearby well. A smaller groundwater depth means the water table is higher.\n\nDays after storm | Stream discharge (m³/s) | Groundwater depth (m)\n0                | 8.2                     | 4.8\n1                | 11.5                    | 4.5\n2                | 9.6                     | 4.1\n3                | 7.4                     | 3.9\n4                | 6.1                     | 4.0\n5                | 5.5                     | 4.2\n\nQuestion:\nWhich comparison of the two responses to the storm is supported?",
+    "choices": {
+      "A": "Stream discharge peaked on Day 1, while the water table reached its highest level on Day 3.",
+      "B": "Both stream discharge and water-table height peaked on Day 5.",
+      "C": "The water table reached its highest level before stream discharge peaked.",
+      "D": "Neither measurement changed after the storm."
+    },
+    "correct": "A",
+    "explanation": "Discharge was greatest on Day 1, and groundwater depth was smallest—indicating the highest water table—on Day 3."
+  },
+  {
+    "id": "S4-016",
+    "prompt": "Students studied pill bugs using a choice chamber with 2 equal sides connected by an opening. They placed 20 pill bugs in the center and counted the animals on each side after 10 minutes. Each result is the mean of 5 trials. The left-right positions of the conditions were switched between trials.\n\nExperiment 1: Both sides were dark, but one side was dry and the other was moist.\nCondition  | Mean pill bugs\nDry, dark | 3\nMoist, dark | 17\n\nExperiment 2: Both sides were moist, but one side was illuminated and the other was dark.\nCondition    | Mean pill bugs\nMoist, light | 6\nMoist, dark  | 14\n\nQuestion:\nIn Experiment 2, what mean number of pill bugs was counted on the moist, dark side?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "14",
+      "D": "17"
+    },
+    "correct": "C",
+    "explanation": "Experiment 2 reports a mean of 14 pill bugs on the moist, dark side."
+  },
+  {
+    "id": "S4-017",
+    "prompt": "Students studied pill bugs using a choice chamber with 2 equal sides connected by an opening. They placed 20 pill bugs in the center and counted the animals on each side after 10 minutes. Each result is the mean of 5 trials. The left-right positions of the conditions were switched between trials.\n\nExperiment 1: Both sides were dark, but one side was dry and the other was moist.\nCondition  | Mean pill bugs\nDry, dark | 3\nMoist, dark | 17\n\nExperiment 2: Both sides were moist, but one side was illuminated and the other was dark.\nCondition    | Mean pill bugs\nMoist, light | 6\nMoist, dark  | 14\n\nQuestion:\nWhat was the measured response in both experiments?",
+    "choices": {
+      "A": "The number of pill bugs on each side after 10 minutes",
+      "B": "The moisture level selected before each trial",
+      "C": "The brightness of the illuminated side",
+      "D": "The total length of the choice chamber"
+    },
+    "correct": "A",
+    "explanation": "The students measured how the 20 pill bugs were distributed between the two conditions after 10 minutes."
+  },
+  {
+    "id": "S4-018",
+    "prompt": "Students studied pill bugs using a choice chamber with 2 equal sides connected by an opening. They placed 20 pill bugs in the center and counted the animals on each side after 10 minutes. Each result is the mean of 5 trials. The left-right positions of the conditions were switched between trials.\n\nExperiment 1: Both sides were dark, but one side was dry and the other was moist.\nCondition  | Mean pill bugs\nDry, dark | 3\nMoist, dark | 17\n\nExperiment 2: Both sides were moist, but one side was illuminated and the other was dark.\nCondition    | Mean pill bugs\nMoist, light | 6\nMoist, dark  | 14\n\nQuestion:\nWhy were the left-right positions of the conditions switched between trials?",
+    "choices": {
+      "A": "To reduce the chance that a preference for one physical side would be mistaken for a response to the tested condition",
+      "B": "To make the total number of pill bugs change between trials",
+      "C": "To keep both sides under different conditions in every experiment",
+      "D": "To eliminate the need for multiple trials"
+    },
+    "correct": "A",
+    "explanation": "Switching sides helps separate responses to moisture or light from a simple left-side or right-side preference."
+  },
+  {
+    "id": "S4-019",
+    "prompt": "Students studied pill bugs using a choice chamber with 2 equal sides connected by an opening. They placed 20 pill bugs in the center and counted the animals on each side after 10 minutes. Each result is the mean of 5 trials. The left-right positions of the conditions were switched between trials.\n\nExperiment 1: Both sides were dark, but one side was dry and the other was moist.\nCondition  | Mean pill bugs\nDry, dark | 3\nMoist, dark | 17\n\nExperiment 2: Both sides were moist, but one side was illuminated and the other was dark.\nCondition    | Mean pill bugs\nMoist, light | 6\nMoist, dark  | 14\n\nQuestion:\nWhich conclusion is supported by the two experiments?",
+    "choices": {
+      "A": "Under the tested conditions, pill bugs preferred moist over dry areas and dark over illuminated areas.",
+      "B": "Pill bugs preferred dry areas and bright light in both experiments.",
+      "C": "Moisture affected the total number of pill bugs placed in the chamber.",
+      "D": "Light and moisture produced identical distributions in every trial."
+    },
+    "correct": "A",
+    "explanation": "Seventeen of 20 chose moist over dry in Experiment 1, and 14 of 20 chose dark over light in Experiment 2."
+  },
+  {
+    "id": "S4-020",
+    "prompt": "Students studied pill bugs using a choice chamber with 2 equal sides connected by an opening. They placed 20 pill bugs in the center and counted the animals on each side after 10 minutes. Each result is the mean of 5 trials. The left-right positions of the conditions were switched between trials.\n\nExperiment 1: Both sides were dark, but one side was dry and the other was moist.\nCondition  | Mean pill bugs\nDry, dark | 3\nMoist, dark | 17\n\nExperiment 2: Both sides were moist, but one side was illuminated and the other was dark.\nCondition    | Mean pill bugs\nMoist, light | 6\nMoist, dark  | 14\n\nQuestion:\nIf one chamber side were moist and dark while the other were dry and illuminated, which prediction is most consistent with both experiments?",
+    "choices": {
+      "A": "More pill bugs would gather on the moist, dark side.",
+      "B": "More pill bugs would gather on the dry, illuminated side.",
+      "C": "Exactly 10 pill bugs would occupy each side in every trial.",
+      "D": "No pill bugs would enter either side."
+    },
+    "correct": "A",
+    "explanation": "The moist, dark side combines the moisture and light conditions that were preferred in the separate experiments."
+  },
+  {
+    "id": "S4-021",
+    "prompt": "After rare heavy rain, a shallow lake forms in a desert basin called a playa and usually disappears within 6 days. The basin has no visible surface outlet. During those days, afternoon temperatures often exceed 30°C, humidity is low, and winds are frequent. A salt crust remains after the water disappears. Fractures are present in the playa floor, and porous rock containing groundwater lies beneath the basin.\n\nViewpoint 1 — Evaporation model: Most lake water changes into water vapor because the air is hot, dry, and windy. Dissolved salts do not evaporate, so they remain as a crust. The floor fractures have little effect on the water loss.\n\nViewpoint 2 — Infiltration model: Most lake water flows downward through floor fractures into the porous rock. The salt crust forms because some water evaporates, but downward flow is the main reason the lake disappears.\n\nQuestion:\nWhich material remains in the playa after the lake water disappears?",
+    "choices": {
+      "A": "A salt crust",
+      "B": "A permanent ice layer",
+      "C": "Meteorite fragments",
+      "D": "A forest soil"
+    },
+    "correct": "A",
+    "explanation": "The observations state that a salt crust remains after the water disappears."
+  },
+  {
+    "id": "S4-022",
+    "prompt": "After rare heavy rain, a shallow lake forms in a desert basin called a playa and usually disappears within 6 days. The basin has no visible surface outlet. During those days, afternoon temperatures often exceed 30°C, humidity is low, and winds are frequent. A salt crust remains after the water disappears. Fractures are present in the playa floor, and porous rock containing groundwater lies beneath the basin.\n\nViewpoint 1 — Evaporation model: Most lake water changes into water vapor because the air is hot, dry, and windy. Dissolved salts do not evaporate, so they remain as a crust. The floor fractures have little effect on the water loss.\n\nViewpoint 2 — Infiltration model: Most lake water flows downward through floor fractures into the porous rock. The salt crust forms because some water evaporates, but downward flow is the main reason the lake disappears.\n\nQuestion:\nWhich new result would most directly support Viewpoint 1 over Viewpoint 2?",
+    "choices": {
+      "A": "An evaporation pan beside the lake loses water at nearly the same rate as the lake.",
+      "B": "A tracer placed in the lake appears in groundwater beneath the basin.",
+      "C": "Water flows rapidly into open fractures in the playa floor.",
+      "D": "Groundwater level rises soon after the lake forms."
+    },
+    "correct": "A",
+    "explanation": "A matching loss rate from an evaporation pan would show that evaporation alone can account for the lake's decline."
+  },
+  {
+    "id": "S4-023",
+    "prompt": "After rare heavy rain, a shallow lake forms in a desert basin called a playa and usually disappears within 6 days. The basin has no visible surface outlet. During those days, afternoon temperatures often exceed 30°C, humidity is low, and winds are frequent. A salt crust remains after the water disappears. Fractures are present in the playa floor, and porous rock containing groundwater lies beneath the basin.\n\nViewpoint 1 — Evaporation model: Most lake water changes into water vapor because the air is hot, dry, and windy. Dissolved salts do not evaporate, so they remain as a crust. The floor fractures have little effect on the water loss.\n\nViewpoint 2 — Infiltration model: Most lake water flows downward through floor fractures into the porous rock. The salt crust forms because some water evaporates, but downward flow is the main reason the lake disappears.\n\nQuestion:\nWhich finding would most directly support the mechanism in Viewpoint 2?",
+    "choices": {
+      "A": "A harmless tracer added to the lake is later detected in groundwater below the fractures.",
+      "B": "Salt remains when a sample of lake water evaporates in a dish.",
+      "C": "Wind speed increases during the afternoon.",
+      "D": "Water vapor is detected above the lake surface."
+    },
+    "correct": "A",
+    "explanation": "Tracer movement from the lake into groundwater would directly demonstrate downward infiltration through the basin floor."
+  },
+  {
+    "id": "S4-024",
+    "prompt": "After rare heavy rain, a shallow lake forms in a desert basin called a playa and usually disappears within 6 days. The basin has no visible surface outlet. During those days, afternoon temperatures often exceed 30°C, humidity is low, and winds are frequent. A salt crust remains after the water disappears. Fractures are present in the playa floor, and porous rock containing groundwater lies beneath the basin.\n\nViewpoint 1 — Evaporation model: Most lake water changes into water vapor because the air is hot, dry, and windy. Dissolved salts do not evaporate, so they remain as a crust. The floor fractures have little effect on the water loss.\n\nViewpoint 2 — Infiltration model: Most lake water flows downward through floor fractures into the porous rock. The salt crust forms because some water evaporates, but downward flow is the main reason the lake disappears.\n\nQuestion:\nThe two viewpoints disagree primarily about:",
+    "choices": {
+      "A": "whether most water leaves upward as vapor or downward through fractures.",
+      "B": "whether the lake forms after heavy rain.",
+      "C": "whether a salt crust remains after the water disappears.",
+      "D": "whether the basin is located in a desert."
+    },
+    "correct": "A",
+    "explanation": "Viewpoint 1 identifies evaporation as the main pathway, whereas Viewpoint 2 identifies infiltration."
+  },
+  {
+    "id": "S4-025",
+    "prompt": "After rare heavy rain, a shallow lake forms in a desert basin called a playa and usually disappears within 6 days. The basin has no visible surface outlet. During those days, afternoon temperatures often exceed 30°C, humidity is low, and winds are frequent. A salt crust remains after the water disappears. Fractures are present in the playa floor, and porous rock containing groundwater lies beneath the basin.\n\nViewpoint 1 — Evaporation model: Most lake water changes into water vapor because the air is hot, dry, and windy. Dissolved salts do not evaporate, so they remain as a crust. The floor fractures have little effect on the water loss.\n\nViewpoint 2 — Infiltration model: Most lake water flows downward through floor fractures into the porous rock. The salt crust forms because some water evaporates, but downward flow is the main reason the lake disappears.\n\nQuestion:\nSuppose water beneath a floating cover that blocks evaporation remains at nearly the same depth while nearby uncovered water rapidly becomes shallower. This result would most likely:",
+    "choices": {
+      "A": "support Viewpoint 1 because blocking evaporation greatly reduced water loss.",
+      "B": "support Viewpoint 2 because the cover opened more floor fractures.",
+      "C": "support both viewpoints equally because both require all water to infiltrate.",
+      "D": "contradict Viewpoint 1 because covered water did not evaporate quickly."
+    },
+    "correct": "A",
+    "explanation": "If stopping evaporation also stops most depth loss, evaporation is likely the dominant pathway."
+  },
+  {
+    "id": "S4-026",
+    "prompt": "Students released a wheeled cart from rest on a ramp and measured its speed at the bottom with a motion sensor. The ramp surface and travel distance were the same in every trial. Each result is the mean of 4 trials.\n\nExperiment 1: Cart mass was held at 200 g while the vertical release height was changed.\nRelease height (cm) | Mean speed (m/s)\n5                   | 0.62\n10                  | 0.88\n15                  | 1.08\n20                  | 1.24\n\nExperiment 2: Release height was held at 15 cm while cart mass was changed.\nCart mass (g) | Mean speed (m/s)\n100           | 1.09\n200           | 1.08\n300           | 1.07\n400           | 1.08\n\nQuestion:\nIn Experiment 1, what mean speed was measured at a release height of 20 cm?",
+    "choices": {
+      "A": "0.62 m/s",
+      "B": "0.88 m/s",
+      "C": "1.08 m/s",
+      "D": "1.24 m/s"
+    },
+    "correct": "D",
+    "explanation": "The 20 cm row in Experiment 1 lists a mean speed of 1.24 m/s."
+  },
+  {
+    "id": "S4-027",
+    "prompt": "Students released a wheeled cart from rest on a ramp and measured its speed at the bottom with a motion sensor. The ramp surface and travel distance were the same in every trial. Each result is the mean of 4 trials.\n\nExperiment 1: Cart mass was held at 200 g while the vertical release height was changed.\nRelease height (cm) | Mean speed (m/s)\n5                   | 0.62\n10                  | 0.88\n15                  | 1.08\n20                  | 1.24\n\nExperiment 2: Release height was held at 15 cm while cart mass was changed.\nCart mass (g) | Mean speed (m/s)\n100           | 1.09\n200           | 1.08\n300           | 1.07\n400           | 1.08\n\nQuestion:\nHow much did mean speed increase when release height increased from 5 cm to 20 cm?",
+    "choices": {
+      "A": "0.36 m/s",
+      "B": "0.62 m/s",
+      "C": "1.24 m/s",
+      "D": "1.86 m/s"
+    },
+    "correct": "B",
+    "explanation": "Mean speed increased from 0.62 m/s to 1.24 m/s, a difference of 0.62 m/s."
+  },
+  {
+    "id": "S4-028",
+    "prompt": "Students released a wheeled cart from rest on a ramp and measured its speed at the bottom with a motion sensor. The ramp surface and travel distance were the same in every trial. Each result is the mean of 4 trials.\n\nExperiment 1: Cart mass was held at 200 g while the vertical release height was changed.\nRelease height (cm) | Mean speed (m/s)\n5                   | 0.62\n10                  | 0.88\n15                  | 1.08\n20                  | 1.24\n\nExperiment 2: Release height was held at 15 cm while cart mass was changed.\nCart mass (g) | Mean speed (m/s)\n100           | 1.09\n200           | 1.08\n300           | 1.07\n400           | 1.08\n\nQuestion:\nIn Experiment 1, which quantity was intentionally varied?",
+    "choices": {
+      "A": "Release height",
+      "B": "Cart mass",
+      "C": "Ramp surface",
+      "D": "Mean speed"
+    },
+    "correct": "A",
+    "explanation": "Experiment 1 changed release height while holding cart mass at 200 g."
+  },
+  {
+    "id": "S4-029",
+    "prompt": "Students released a wheeled cart from rest on a ramp and measured its speed at the bottom with a motion sensor. The ramp surface and travel distance were the same in every trial. Each result is the mean of 4 trials.\n\nExperiment 1: Cart mass was held at 200 g while the vertical release height was changed.\nRelease height (cm) | Mean speed (m/s)\n5                   | 0.62\n10                  | 0.88\n15                  | 1.08\n20                  | 1.24\n\nExperiment 2: Release height was held at 15 cm while cart mass was changed.\nCart mass (g) | Mean speed (m/s)\n100           | 1.09\n200           | 1.08\n300           | 1.07\n400           | 1.08\n\nQuestion:\nWhy were the same cart wheels and ramp surface used in every trial?",
+    "choices": {
+      "A": "To keep rolling conditions from providing another explanation for speed differences",
+      "B": "To make wheel type the independent variable",
+      "C": "To guarantee identical speed at every release height",
+      "D": "To cause cart mass to increase during each run"
+    },
+    "correct": "A",
+    "explanation": "Constant wheels and ramp surface help isolate release height or cart mass as the tested factor."
+  },
+  {
+    "id": "S4-030",
+    "prompt": "Students released a wheeled cart from rest on a ramp and measured its speed at the bottom with a motion sensor. The ramp surface and travel distance were the same in every trial. Each result is the mean of 4 trials.\n\nExperiment 1: Cart mass was held at 200 g while the vertical release height was changed.\nRelease height (cm) | Mean speed (m/s)\n5                   | 0.62\n10                  | 0.88\n15                  | 1.08\n20                  | 1.24\n\nExperiment 2: Release height was held at 15 cm while cart mass was changed.\nCart mass (g) | Mean speed (m/s)\n100           | 1.09\n200           | 1.08\n300           | 1.07\n400           | 1.08\n\nQuestion:\nA student claims that doubling cart mass from 200 g to 400 g doubles the speed at a 15 cm release height. How do the data evaluate this claim?",
+    "choices": {
+      "A": "They support it because 1.08 m/s is twice 1.08 m/s.",
+      "B": "They support it because the 400 g cart was released from twice the height.",
+      "C": "They contradict it because both masses produced the same mean speed of 1.08 m/s.",
+      "D": "They cannot evaluate it because Experiment 2 did not vary mass."
+    },
+    "correct": "C",
+    "explanation": "At the same 15 cm height, the 200 g and 400 g carts both had a mean speed of 1.08 m/s."
+  }
+]

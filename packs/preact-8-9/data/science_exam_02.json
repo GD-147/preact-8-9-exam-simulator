@@ -1,0 +1,362 @@
+[
+  {
+    "id": "S2-001",
+    "prompt": "Researchers investigated how soil pH affected radish seeds. They placed 50 seeds in each of 4 identical trays at each pH. All trays had the same soil type, water, light, and temperature. After 7 days, the researchers calculated the percentage of seeds that germinated and measured the mean root length of the seedlings.\n\nSoil pH | Seeds germinated (%) | Mean root length (cm)\n4.0     | 38                   | 2.1\n5.5     | 72                   | 4.3\n7.0     | 92                   | 6.0\n8.5     | 76                   | 4.7\n10.0    | 41                   | 2.4\n\nQuestion:\nAt which tested soil pH was the percentage of seeds that germinated greatest?",
+    "choices": {
+      "A": "pH 4.0",
+      "B": "pH 5.5",
+      "C": "pH 7.0",
+      "D": "pH 10.0"
+    },
+    "correct": "C",
+    "explanation": "At pH 7.0, 92% of the seeds germinated, the greatest percentage in the table."
+  },
+  {
+    "id": "S2-002",
+    "prompt": "Researchers investigated how soil pH affected radish seeds. They placed 50 seeds in each of 4 identical trays at each pH. All trays had the same soil type, water, light, and temperature. After 7 days, the researchers calculated the percentage of seeds that germinated and measured the mean root length of the seedlings.\n\nSoil pH | Seeds germinated (%) | Mean root length (cm)\n4.0     | 38                   | 2.1\n5.5     | 72                   | 4.3\n7.0     | 92                   | 6.0\n8.5     | 76                   | 4.7\n10.0    | 41                   | 2.4\n\nQuestion:\nHow many percentage points greater was germination at pH 7.0 than at pH 4.0?",
+    "choices": {
+      "A": "16 percentage points",
+      "B": "38 percentage points",
+      "C": "54 percentage points",
+      "D": "130 percentage points"
+    },
+    "correct": "C",
+    "explanation": "Germination was 92% at pH 7.0 and 38% at pH 4.0, so the difference was 92 − 38 = 54 percentage points."
+  },
+  {
+    "id": "S2-003",
+    "prompt": "Researchers investigated how soil pH affected radish seeds. They placed 50 seeds in each of 4 identical trays at each pH. All trays had the same soil type, water, light, and temperature. After 7 days, the researchers calculated the percentage of seeds that germinated and measured the mean root length of the seedlings.\n\nSoil pH | Seeds germinated (%) | Mean root length (cm)\n4.0     | 38                   | 2.1\n5.5     | 72                   | 4.3\n7.0     | 92                   | 6.0\n8.5     | 76                   | 4.7\n10.0    | 41                   | 2.4\n\nQuestion:\nIf mean root length changed linearly between pH 5.5 and pH 7.0, what root length would be estimated at pH 6.25?",
+    "choices": {
+      "A": "3.00 cm",
+      "B": "4.30 cm",
+      "C": "5.15 cm",
+      "D": "6.85 cm"
+    },
+    "correct": "C",
+    "explanation": "A pH of 6.25 is halfway between 5.5 and 7.0, so the estimate is halfway between 4.3 cm and 6.0 cm, or 5.15 cm."
+  },
+  {
+    "id": "S2-004",
+    "prompt": "Researchers investigated how soil pH affected radish seeds. They placed 50 seeds in each of 4 identical trays at each pH. All trays had the same soil type, water, light, and temperature. After 7 days, the researchers calculated the percentage of seeds that germinated and measured the mean root length of the seedlings.\n\nSoil pH | Seeds germinated (%) | Mean root length (cm)\n4.0     | 38                   | 2.1\n5.5     | 72                   | 4.3\n7.0     | 92                   | 6.0\n8.5     | 76                   | 4.7\n10.0    | 41                   | 2.4\n\nQuestion:\nWhich pair identifies the dependent variables in this investigation?",
+    "choices": {
+      "A": "Soil pH and soil type",
+      "B": "Percentage germinated and mean root length",
+      "C": "Amount of water and light level",
+      "D": "Number of trays and number of starting seeds"
+    },
+    "correct": "B",
+    "explanation": "The researchers changed soil pH and measured germination percentage and mean root length as the outcomes."
+  },
+  {
+    "id": "S2-005",
+    "prompt": "Researchers investigated how soil pH affected radish seeds. They placed 50 seeds in each of 4 identical trays at each pH. All trays had the same soil type, water, light, and temperature. After 7 days, the researchers calculated the percentage of seeds that germinated and measured the mean root length of the seedlings.\n\nSoil pH | Seeds germinated (%) | Mean root length (cm)\n4.0     | 38                   | 2.1\n5.5     | 72                   | 4.3\n7.0     | 92                   | 6.0\n8.5     | 76                   | 4.7\n10.0    | 41                   | 2.4\n\nQuestion:\nWhich conclusion is best supported over the tested pH range?",
+    "choices": {
+      "A": "Both germination and root length were greatest near pH 7.0 and lower at the most acidic and most basic tested pH values.",
+      "B": "Germination increased steadily whenever soil pH increased.",
+      "C": "Root length was unrelated to soil pH.",
+      "D": "Radish seeds germinated only at pH 7.0."
+    },
+    "correct": "A",
+    "explanation": "The highest values occurred at pH 7.0, while both measurements were much lower at pH 4.0 and pH 10.0."
+  },
+  {
+    "id": "S2-006",
+    "prompt": "Students made paper rotors that spin while falling. All rotors had the same body size and were made from the same paper. They were released indoors from a height of 2.5 m. Each result is the mean of 6 trials.\n\nExperiment 1: One paper clip was attached to each rotor, and wing length was changed.\nWing length (cm) | Mean fall time (s)\n2                | 0.82\n4                | 1.05\n6                | 1.31\n8                | 1.46\n\nExperiment 2: Wing length was held at 6 cm, and the number of paper clips was changed.\nPaper clips | Mean fall time (s)\n1           | 1.31\n2           | 1.14\n3           | 1.00\n4           | 0.89\n\nQuestion:\nIn Experiment 1, by how much did mean fall time increase when wing length increased from 2 cm to 8 cm?",
+    "choices": {
+      "A": "0.41 s",
+      "B": "0.64 s",
+      "C": "0.82 s",
+      "D": "2.28 s"
+    },
+    "correct": "B",
+    "explanation": "Mean fall time increased from 0.82 s to 1.46 s, a difference of 1.46 − 0.82 = 0.64 s."
+  },
+  {
+    "id": "S2-007",
+    "prompt": "Students made paper rotors that spin while falling. All rotors had the same body size and were made from the same paper. They were released indoors from a height of 2.5 m. Each result is the mean of 6 trials.\n\nExperiment 1: One paper clip was attached to each rotor, and wing length was changed.\nWing length (cm) | Mean fall time (s)\n2                | 0.82\n4                | 1.05\n6                | 1.31\n8                | 1.46\n\nExperiment 2: Wing length was held at 6 cm, and the number of paper clips was changed.\nPaper clips | Mean fall time (s)\n1           | 1.31\n2           | 1.14\n3           | 1.00\n4           | 0.89\n\nQuestion:\nWhat mean fall time was recorded for a 6 cm wing length and 3 paper clips?",
+    "choices": {
+      "A": "0.89 s",
+      "B": "1.00 s",
+      "C": "1.14 s",
+      "D": "1.31 s"
+    },
+    "correct": "B",
+    "explanation": "Experiment 2 used 6 cm wings and lists a mean fall time of 1.00 s for 3 paper clips."
+  },
+  {
+    "id": "S2-008",
+    "prompt": "Students made paper rotors that spin while falling. All rotors had the same body size and were made from the same paper. They were released indoors from a height of 2.5 m. Each result is the mean of 6 trials.\n\nExperiment 1: One paper clip was attached to each rotor, and wing length was changed.\nWing length (cm) | Mean fall time (s)\n2                | 0.82\n4                | 1.05\n6                | 1.31\n8                | 1.46\n\nExperiment 2: Wing length was held at 6 cm, and the number of paper clips was changed.\nPaper clips | Mean fall time (s)\n1           | 1.31\n2           | 1.14\n3           | 1.00\n4           | 0.89\n\nQuestion:\nWhich variables were changed by the students in Experiments 1 and 2, respectively?",
+    "choices": {
+      "A": "Drop height, then paper type",
+      "B": "Fall time, then wing length",
+      "C": "Wing length, then number of paper clips",
+      "D": "Number of trials, then drop height"
+    },
+    "correct": "C",
+    "explanation": "Experiment 1 changed wing length, while Experiment 2 held wing length at 6 cm and changed the number of paper clips."
+  },
+  {
+    "id": "S2-009",
+    "prompt": "Students made paper rotors that spin while falling. All rotors had the same body size and were made from the same paper. They were released indoors from a height of 2.5 m. Each result is the mean of 6 trials.\n\nExperiment 1: One paper clip was attached to each rotor, and wing length was changed.\nWing length (cm) | Mean fall time (s)\n2                | 0.82\n4                | 1.05\n6                | 1.31\n8                | 1.46\n\nExperiment 2: Wing length was held at 6 cm, and the number of paper clips was changed.\nPaper clips | Mean fall time (s)\n1           | 1.31\n2           | 1.14\n3           | 1.00\n4           | 0.89\n\nQuestion:\nWhy was the 2.5 m release height kept the same for all trials?",
+    "choices": {
+      "A": "To prevent release height from affecting comparisons of fall time",
+      "B": "To make fall time the independent variable",
+      "C": "To ensure every rotor had a different mass",
+      "D": "To eliminate the need for repeated trials"
+    },
+    "correct": "A",
+    "explanation": "A constant release height makes it more likely that changes in fall time resulted from wing length or paper-clip number rather than falling distance."
+  },
+  {
+    "id": "S2-010",
+    "prompt": "Students made paper rotors that spin while falling. All rotors had the same body size and were made from the same paper. They were released indoors from a height of 2.5 m. Each result is the mean of 6 trials.\n\nExperiment 1: One paper clip was attached to each rotor, and wing length was changed.\nWing length (cm) | Mean fall time (s)\n2                | 0.82\n4                | 1.05\n6                | 1.31\n8                | 1.46\n\nExperiment 2: Wing length was held at 6 cm, and the number of paper clips was changed.\nPaper clips | Mean fall time (s)\n1           | 1.31\n2           | 1.14\n3           | 1.00\n4           | 0.89\n\nQuestion:\nA student predicted that longer wings would cause a rotor with 1 paper clip to fall more slowly. How do the Experiment 1 results evaluate this prediction?",
+    "choices": {
+      "A": "They support it because mean fall time increased as wing length increased.",
+      "B": "They support it because all rotors fell in less than 2 seconds.",
+      "C": "They contradict it because the 2 cm wings produced the longest fall time.",
+      "D": "They cannot evaluate it because wing length was held constant."
+    },
+    "correct": "A",
+    "explanation": "With 1 paper clip, mean fall time rose from 0.82 s at 2 cm to 1.46 s at 8 cm, indicating a slower fall with longer wings."
+  },
+  {
+    "id": "S2-011",
+    "prompt": "Scientists recorded seismic waves from the same controlled underground blast at 4 monitoring stations. P waves travel faster than S waves. The table gives each station's distance from the blast and the arrival time of each wave after the blast.\n\nDistance from blast (km) | P-wave arrival (s) | S-wave arrival (s) | S–P time difference (s)\n100                      | 18                 | 32                 | 14\n200                      | 36                 | 64                 | 28\n300                      | 54                 | 96                 | 42\n400                      | 72                 | 128                | 56\n\nQuestion:\nWhat was the S–P time difference at the station 300 km from the blast?",
+    "choices": {
+      "A": "32 s",
+      "B": "42 s",
+      "C": "54 s",
+      "D": "96 s"
+    },
+    "correct": "B",
+    "explanation": "The 300 km row lists an S–P time difference of 42 s."
+  },
+  {
+    "id": "S2-012",
+    "prompt": "Scientists recorded seismic waves from the same controlled underground blast at 4 monitoring stations. P waves travel faster than S waves. The table gives each station's distance from the blast and the arrival time of each wave after the blast.\n\nDistance from blast (km) | P-wave arrival (s) | S-wave arrival (s) | S–P time difference (s)\n100                      | 18                 | 32                 | 14\n200                      | 36                 | 64                 | 28\n300                      | 54                 | 96                 | 42\n400                      | 72                 | 128                | 56\n\nQuestion:\nHow much later did the S wave arrive at 400 km than at 200 km?",
+    "choices": {
+      "A": "36 s",
+      "B": "56 s",
+      "C": "64 s",
+      "D": "92 s"
+    },
+    "correct": "C",
+    "explanation": "The S-wave arrival times were 128 s at 400 km and 64 s at 200 km, a difference of 64 s."
+  },
+  {
+    "id": "S2-013",
+    "prompt": "Scientists recorded seismic waves from the same controlled underground blast at 4 monitoring stations. P waves travel faster than S waves. The table gives each station's distance from the blast and the arrival time of each wave after the blast.\n\nDistance from blast (km) | P-wave arrival (s) | S-wave arrival (s) | S–P time difference (s)\n100                      | 18                 | 32                 | 14\n200                      | 36                 | 64                 | 28\n300                      | 54                 | 96                 | 42\n400                      | 72                 | 128                | 56\n\nQuestion:\nAssuming the relationship in the table continues linearly, what distance would correspond to an S–P time difference of 49 s?",
+    "choices": {
+      "A": "325 km",
+      "B": "350 km",
+      "C": "375 km",
+      "D": "450 km"
+    },
+    "correct": "B",
+    "explanation": "A 49 s difference is halfway between 42 s at 300 km and 56 s at 400 km, so the estimated distance is 350 km."
+  },
+  {
+    "id": "S2-014",
+    "prompt": "Scientists recorded seismic waves from the same controlled underground blast at 4 monitoring stations. P waves travel faster than S waves. The table gives each station's distance from the blast and the arrival time of each wave after the blast.\n\nDistance from blast (km) | P-wave arrival (s) | S-wave arrival (s) | S–P time difference (s)\n100                      | 18                 | 32                 | 14\n200                      | 36                 | 64                 | 28\n300                      | 54                 | 96                 | 42\n400                      | 72                 | 128                | 56\n\nQuestion:\nWhich additional investigation would best test whether rock type affects seismic-wave travel time?",
+    "choices": {
+      "A": "Send waves through equal distances of different rock types and compare their travel times.",
+      "B": "Send waves through different distances of the same rock type without measuring time.",
+      "C": "Measure air temperature at one station after the waves arrive.",
+      "D": "Use only one rock type and change both distance and wave source for every trial."
+    },
+    "correct": "A",
+    "explanation": "Keeping travel distance equal while changing rock type would isolate rock type as the factor being tested."
+  },
+  {
+    "id": "S2-015",
+    "prompt": "Scientists recorded seismic waves from the same controlled underground blast at 4 monitoring stations. P waves travel faster than S waves. The table gives each station's distance from the blast and the arrival time of each wave after the blast.\n\nDistance from blast (km) | P-wave arrival (s) | S-wave arrival (s) | S–P time difference (s)\n100                      | 18                 | 32                 | 14\n200                      | 36                 | 64                 | 28\n300                      | 54                 | 96                 | 42\n400                      | 72                 | 128                | 56\n\nQuestion:\nWhich statement is supported by the measurements?",
+    "choices": {
+      "A": "For each additional 100 km, P-wave arrival time increased by 18 s and S-wave arrival time increased by 32 s.",
+      "B": "P waves and S waves arrived at the same time at every station.",
+      "C": "The S–P time difference decreased as distance increased.",
+      "D": "P-wave arrival time increased by 32 s for every additional 100 km."
+    },
+    "correct": "A",
+    "explanation": "Across consecutive rows, P-wave time rises by 18 s and S-wave time rises by 32 s for every 100 km increase."
+  },
+  {
+    "id": "S2-016",
+    "prompt": "Students placed identical celery stalks with equal leaf area into equal volumes of colored water. The starting water temperature was the same for every condition. After 60 minutes, they measured how far the dye had moved upward through each stalk. Greater dye movement indicates greater water uptake. Each result is the mean of 5 trials.\n\nCondition                                      | Mean dye distance (cm)\nStill air, light                               | 5.0\nFan blowing, light                             | 8.3\nStill air, dark                                | 2.9\nStill air, light, enclosed in a transparent bag| 1.8\n\nThe transparent bag did not block the light and kept the air around the leaves humid.\n\nQuestion:\nHow much farther did the dye move under the fan-and-light condition than under the still-air-and-light condition?",
+    "choices": {
+      "A": "1.7 cm",
+      "B": "3.3 cm",
+      "C": "5.0 cm",
+      "D": "13.3 cm"
+    },
+    "correct": "B",
+    "explanation": "The dye moved 8.3 cm with the fan and 5.0 cm in still air, a difference of 3.3 cm."
+  },
+  {
+    "id": "S2-017",
+    "prompt": "Students placed identical celery stalks with equal leaf area into equal volumes of colored water. The starting water temperature was the same for every condition. After 60 minutes, they measured how far the dye had moved upward through each stalk. Greater dye movement indicates greater water uptake. Each result is the mean of 5 trials.\n\nCondition                                      | Mean dye distance (cm)\nStill air, light                               | 5.0\nFan blowing, light                             | 8.3\nStill air, dark                                | 2.9\nStill air, light, enclosed in a transparent bag| 1.8\n\nThe transparent bag did not block the light and kept the air around the leaves humid.\n\nQuestion:\nWhat was the dependent variable in the investigation?",
+    "choices": {
+      "A": "The distance the dye moved after 60 minutes",
+      "B": "The volume of colored water at the start",
+      "C": "The leaf area of each celery stalk",
+      "D": "The duration of each trial"
+    },
+    "correct": "A",
+    "explanation": "Dye distance was the measured response to the different air, light, and humidity conditions."
+  },
+  {
+    "id": "S2-018",
+    "prompt": "Students placed identical celery stalks with equal leaf area into equal volumes of colored water. The starting water temperature was the same for every condition. After 60 minutes, they measured how far the dye had moved upward through each stalk. Greater dye movement indicates greater water uptake. Each result is the mean of 5 trials.\n\nCondition                                      | Mean dye distance (cm)\nStill air, light                               | 5.0\nFan blowing, light                             | 8.3\nStill air, dark                                | 2.9\nStill air, light, enclosed in a transparent bag| 1.8\n\nThe transparent bag did not block the light and kept the air around the leaves humid.\n\nQuestion:\nWhy did the students use celery stalks with equal leaf area?",
+    "choices": {
+      "A": "To keep leaf area from becoming an alternative explanation for differences in water uptake",
+      "B": "To make dye distance the independent variable",
+      "C": "To ensure that each condition had a different starting water volume",
+      "D": "To prevent any dye from entering the stems"
+    },
+    "correct": "A",
+    "explanation": "Holding leaf area constant helps attribute differences in dye movement to the tested environmental conditions."
+  },
+  {
+    "id": "S2-019",
+    "prompt": "Students placed identical celery stalks with equal leaf area into equal volumes of colored water. The starting water temperature was the same for every condition. After 60 minutes, they measured how far the dye had moved upward through each stalk. Greater dye movement indicates greater water uptake. Each result is the mean of 5 trials.\n\nCondition                                      | Mean dye distance (cm)\nStill air, light                               | 5.0\nFan blowing, light                             | 8.3\nStill air, dark                                | 2.9\nStill air, light, enclosed in a transparent bag| 1.8\n\nThe transparent bag did not block the light and kept the air around the leaves humid.\n\nQuestion:\nWhich conclusion about moving air is best supported by the two light conditions without bags?",
+    "choices": {
+      "A": "Moving air was associated with greater water uptake than still air.",
+      "B": "Moving air completely stopped water uptake.",
+      "C": "Moving air caused the dye to move exactly twice as far.",
+      "D": "Moving air had no measurable relationship to dye movement."
+    },
+    "correct": "A",
+    "explanation": "In light without bags, the mean dye distance was 8.3 cm with a fan and 5.0 cm in still air."
+  },
+  {
+    "id": "S2-020",
+    "prompt": "Students placed identical celery stalks with equal leaf area into equal volumes of colored water. The starting water temperature was the same for every condition. After 60 minutes, they measured how far the dye had moved upward through each stalk. Greater dye movement indicates greater water uptake. Each result is the mean of 5 trials.\n\nCondition                                      | Mean dye distance (cm)\nStill air, light                               | 5.0\nFan blowing, light                             | 8.3\nStill air, dark                                | 2.9\nStill air, light, enclosed in a transparent bag| 1.8\n\nThe transparent bag did not block the light and kept the air around the leaves humid.\n\nQuestion:\nA student claims that light level is the only environmental factor that can affect water uptake. Which result most directly challenges this claim?",
+    "choices": {
+      "A": "The two light conditions in still air produced different dye distances when humidity differed.",
+      "B": "Every condition lasted 60 minutes.",
+      "C": "All stalks began in equal volumes of colored water.",
+      "D": "The dark condition produced 2.9 cm of dye movement."
+    },
+    "correct": "A",
+    "explanation": "In still air and light, dye moved 5.0 cm without the humid bag but only 1.8 cm inside it, showing that a factor other than light was associated with uptake."
+  },
+  {
+    "id": "S2-021",
+    "prompt": "Astronomers observed a narrow dust ring form around a small asteroid within 2 days of the asteroid's closest passage by a planet. The ring contains grains with the same composition as the asteroid's surface. Images show no new impact crater, although the images do not cover the entire surface. Instruments also detected electrically charged dust near the asteroid.\n\nViewpoint 1 — Tidal-fracture model: During the close passage, the planet's gravity flexed the asteroid and opened fractures. Surface fragments loosened by the flexing escaped the asteroid's weak gravity and formed the ring. The fragments have the asteroid's surface composition because they came directly from its crust.\n\nViewpoint 2 — Electrostatic-lift model: Sunlight and the solar wind gave fine surface grains an electric charge. During the close passage, the planet's magnetic environment strengthened electric forces enough to lift charged grains from the surface and place them into orbit. No new fracture was required.\n\nQuestion:\nWhich observation indicates that at least some dust near the asteroid carried electric charge?",
+    "choices": {
+      "A": "Instruments detected electrically charged dust near the asteroid.",
+      "B": "The ring formed within 2 days of closest approach.",
+      "C": "The images did not cover the entire asteroid.",
+      "D": "The ring grains matched the surface composition."
+    },
+    "correct": "A",
+    "explanation": "The instrument detection directly identifies electric charge on dust near the asteroid."
+  },
+  {
+    "id": "S2-022",
+    "prompt": "Astronomers observed a narrow dust ring form around a small asteroid within 2 days of the asteroid's closest passage by a planet. The ring contains grains with the same composition as the asteroid's surface. Images show no new impact crater, although the images do not cover the entire surface. Instruments also detected electrically charged dust near the asteroid.\n\nViewpoint 1 — Tidal-fracture model: During the close passage, the planet's gravity flexed the asteroid and opened fractures. Surface fragments loosened by the flexing escaped the asteroid's weak gravity and formed the ring. The fragments have the asteroid's surface composition because they came directly from its crust.\n\nViewpoint 2 — Electrostatic-lift model: Sunlight and the solar wind gave fine surface grains an electric charge. During the close passage, the planet's magnetic environment strengthened electric forces enough to lift charged grains from the surface and place them into orbit. No new fracture was required.\n\nQuestion:\nWhich new observation would most directly support Viewpoint 1 over Viewpoint 2?",
+    "choices": {
+      "A": "Fresh fractures are observed opening as fragments leave them during a close passage.",
+      "B": "Some dust grains in the ring are electrically charged.",
+      "C": "The ring grains have the same composition as the asteroid's surface.",
+      "D": "The ring appears soon after closest approach."
+    },
+    "correct": "A",
+    "explanation": "Directly observing fragments escape from newly opened fractures matches the tidal-fracture mechanism and is not required by the electrostatic model."
+  },
+  {
+    "id": "S2-023",
+    "prompt": "Astronomers observed a narrow dust ring form around a small asteroid within 2 days of the asteroid's closest passage by a planet. The ring contains grains with the same composition as the asteroid's surface. Images show no new impact crater, although the images do not cover the entire surface. Instruments also detected electrically charged dust near the asteroid.\n\nViewpoint 1 — Tidal-fracture model: During the close passage, the planet's gravity flexed the asteroid and opened fractures. Surface fragments loosened by the flexing escaped the asteroid's weak gravity and formed the ring. The fragments have the asteroid's surface composition because they came directly from its crust.\n\nViewpoint 2 — Electrostatic-lift model: Sunlight and the solar wind gave fine surface grains an electric charge. During the close passage, the planet's magnetic environment strengthened electric forces enough to lift charged grains from the surface and place them into orbit. No new fracture was required.\n\nQuestion:\nWhich laboratory result would most directly support the mechanism in Viewpoint 2?",
+    "choices": {
+      "A": "An electric field lifts charged surface grains without cracking the test rock.",
+      "B": "A rock bends and cracks when squeezed mechanically.",
+      "C": "A dust sample has the same composition as its source rock.",
+      "D": "A crater forms when a fast object strikes a rock."
+    },
+    "correct": "A",
+    "explanation": "This result demonstrates the electric, fracture-free lifting process proposed by the electrostatic-lift model."
+  },
+  {
+    "id": "S2-024",
+    "prompt": "Astronomers observed a narrow dust ring form around a small asteroid within 2 days of the asteroid's closest passage by a planet. The ring contains grains with the same composition as the asteroid's surface. Images show no new impact crater, although the images do not cover the entire surface. Instruments also detected electrically charged dust near the asteroid.\n\nViewpoint 1 — Tidal-fracture model: During the close passage, the planet's gravity flexed the asteroid and opened fractures. Surface fragments loosened by the flexing escaped the asteroid's weak gravity and formed the ring. The fragments have the asteroid's surface composition because they came directly from its crust.\n\nViewpoint 2 — Electrostatic-lift model: Sunlight and the solar wind gave fine surface grains an electric charge. During the close passage, the planet's magnetic environment strengthened electric forces enough to lift charged grains from the surface and place them into orbit. No new fracture was required.\n\nQuestion:\nThe viewpoints disagree most directly about which aspect of ring formation?",
+    "choices": {
+      "A": "Whether the ring contains material from the asteroid's surface",
+      "B": "Whether the ring formed near the time of closest approach",
+      "C": "Whether gravity-driven fracturing or electric forces released the grains",
+      "D": "Whether astronomers observed a ring around the asteroid"
+    },
+    "correct": "C",
+    "explanation": "Viewpoint 1 requires gravitational flexing and fractures, while Viewpoint 2 uses electric forces and requires no new fracture."
+  },
+  {
+    "id": "S2-025",
+    "prompt": "Astronomers observed a narrow dust ring form around a small asteroid within 2 days of the asteroid's closest passage by a planet. The ring contains grains with the same composition as the asteroid's surface. Images show no new impact crater, although the images do not cover the entire surface. Instruments also detected electrically charged dust near the asteroid.\n\nViewpoint 1 — Tidal-fracture model: During the close passage, the planet's gravity flexed the asteroid and opened fractures. Surface fragments loosened by the flexing escaped the asteroid's weak gravity and formed the ring. The fragments have the asteroid's surface composition because they came directly from its crust.\n\nViewpoint 2 — Electrostatic-lift model: Sunlight and the solar wind gave fine surface grains an electric charge. During the close passage, the planet's magnetic environment strengthened electric forces enough to lift charged grains from the surface and place them into orbit. No new fracture was required.\n\nQuestion:\nSuppose later measurements show that most ring material consists of large, uncharged blocks traced to newly opened fractures. This evidence would most likely:",
+    "choices": {
+      "A": "support Viewpoint 1 because it connects ring material to fresh fractures.",
+      "B": "support Viewpoint 2 because it shows that electric charge lifted fine grains.",
+      "C": "support both viewpoints equally because both require large uncharged blocks.",
+      "D": "contradict both viewpoints because neither uses asteroid material."
+    },
+    "correct": "A",
+    "explanation": "Large uncharged blocks coming from new fractures match the tidal-fracture model and do not match the charged fine grains proposed by Viewpoint 2."
+  },
+  {
+    "id": "S2-026",
+    "prompt": "Students measured how long 12 g of solid sugar took to dissolve in 200 mL of water. The water was stirred at 2 revolutions per second until no solid was visible. Each result is the mean of 4 trials.\n\nExperiment 1: A single sugar cube was used while water temperature was changed.\nWater temperature (°C) | Mean dissolving time (s)\n10                     | 315\n25                     | 190\n40                     | 108\n60                     | 64\n\nExperiment 2: Water temperature was held at 25°C while the form of the sugar was changed.\nSugar form      | Mean dissolving time (s)\nSingle cube     | 190\nCoarse crystals | 94\nFine powder     | 41\n\nQuestion:\nIn Experiment 1, what mean dissolving time was measured at 40°C?",
+    "choices": {
+      "A": "41 s",
+      "B": "64 s",
+      "C": "108 s",
+      "D": "190 s"
+    },
+    "correct": "C",
+    "explanation": "The Experiment 1 row for 40°C lists a mean dissolving time of 108 s."
+  },
+  {
+    "id": "S2-027",
+    "prompt": "Students measured how long 12 g of solid sugar took to dissolve in 200 mL of water. The water was stirred at 2 revolutions per second until no solid was visible. Each result is the mean of 4 trials.\n\nExperiment 1: A single sugar cube was used while water temperature was changed.\nWater temperature (°C) | Mean dissolving time (s)\n10                     | 315\n25                     | 190\n40                     | 108\n60                     | 64\n\nExperiment 2: Water temperature was held at 25°C while the form of the sugar was changed.\nSugar form      | Mean dissolving time (s)\nSingle cube     | 190\nCoarse crystals | 94\nFine powder     | 41\n\nQuestion:\nBy how much did mean dissolving time decrease when water temperature increased from 10°C to 60°C?",
+    "choices": {
+      "A": "44 s",
+      "B": "125 s",
+      "C": "251 s",
+      "D": "379 s"
+    },
+    "correct": "C",
+    "explanation": "The mean time decreased from 315 s at 10°C to 64 s at 60°C, so the decrease was 315 − 64 = 251 s."
+  },
+  {
+    "id": "S2-028",
+    "prompt": "Students measured how long 12 g of solid sugar took to dissolve in 200 mL of water. The water was stirred at 2 revolutions per second until no solid was visible. Each result is the mean of 4 trials.\n\nExperiment 1: A single sugar cube was used while water temperature was changed.\nWater temperature (°C) | Mean dissolving time (s)\n10                     | 315\n25                     | 190\n40                     | 108\n60                     | 64\n\nExperiment 2: Water temperature was held at 25°C while the form of the sugar was changed.\nSugar form      | Mean dissolving time (s)\nSingle cube     | 190\nCoarse crystals | 94\nFine powder     | 41\n\nQuestion:\nWhat was the independent variable in Experiment 1?",
+    "choices": {
+      "A": "Water temperature",
+      "B": "Mass of sugar",
+      "C": "Volume of water",
+      "D": "Mean dissolving time"
+    },
+    "correct": "A",
+    "explanation": "Experiment 1 changed water temperature while using a single sugar cube in every condition."
+  },
+  {
+    "id": "S2-029",
+    "prompt": "Students measured how long 12 g of solid sugar took to dissolve in 200 mL of water. The water was stirred at 2 revolutions per second until no solid was visible. Each result is the mean of 4 trials.\n\nExperiment 1: A single sugar cube was used while water temperature was changed.\nWater temperature (°C) | Mean dissolving time (s)\n10                     | 315\n25                     | 190\n40                     | 108\n60                     | 64\n\nExperiment 2: Water temperature was held at 25°C while the form of the sugar was changed.\nSugar form      | Mean dissolving time (s)\nSingle cube     | 190\nCoarse crystals | 94\nFine powder     | 41\n\nQuestion:\nWhy were water volume and stirring rate kept the same in all trials?",
+    "choices": {
+      "A": "To prevent them from affecting comparisons of dissolving time",
+      "B": "To make them both dependent variables",
+      "C": "To ensure each trial used a different mass of sugar",
+      "D": "To prove that neither can ever affect dissolving"
+    },
+    "correct": "A",
+    "explanation": "Holding water volume and stirring rate constant helps isolate temperature or sugar form as the tested factor."
+  },
+  {
+    "id": "S2-030",
+    "prompt": "Students measured how long 12 g of solid sugar took to dissolve in 200 mL of water. The water was stirred at 2 revolutions per second until no solid was visible. Each result is the mean of 4 trials.\n\nExperiment 1: A single sugar cube was used while water temperature was changed.\nWater temperature (°C) | Mean dissolving time (s)\n10                     | 315\n25                     | 190\n40                     | 108\n60                     | 64\n\nExperiment 2: Water temperature was held at 25°C while the form of the sugar was changed.\nSugar form      | Mean dissolving time (s)\nSingle cube     | 190\nCoarse crystals | 94\nFine powder     | 41\n\nQuestion:\nA student claims that only water temperature can change how long the sugar takes to dissolve. How do the Experiment 2 results evaluate this claim?",
+    "choices": {
+      "A": "They support it because every trial used water at 25°C.",
+      "B": "They support it because the cube took 190 s to dissolve.",
+      "C": "They contradict it because dissolving time changed with sugar form while temperature remained 25°C.",
+      "D": "They cannot evaluate it because stirring rate was not controlled."
+    },
+    "correct": "C",
+    "explanation": "At the same 25°C temperature, mean dissolving time ranged from 190 s for a cube to 41 s for fine powder, showing that sugar form also mattered."
+  }
+]
